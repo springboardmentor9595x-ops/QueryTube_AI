@@ -5,7 +5,7 @@ import os
 
 load_dotenv()
 
-API_KEY    = os.getenv("YOUTUBE_API_KEY")
+API_KEY = os.getenv("YOUTUBE_API_KEY")
 CHANNEL_ID = os.getenv("YOUTUBE_CHANNEL_ID")
 
 # YouTube API endpoint
@@ -34,15 +34,15 @@ def fetch_page(page_token=None):
 
     return response.json()
 
-#Pagination — loop through ALL pages
+# Pagination — loop through ALL pages
 
 def fetch_all_videos():
-    all_items  = []
+    all_items = []
     page_token = None
-    page_num   = 1
+    page_num = 1
 
     while True:
-        print(f"  Fetching page {page_num}...")
+        print(f"Fetching page {page_num}...")
         data = fetch_page(page_token)
 
         if data is None:
@@ -50,22 +50,22 @@ def fetch_all_videos():
 
         items = data.get('items', [])
         all_items.extend(items)
-        print(f"    -> {len(items)} videos | Running total: {len(all_items)}")
+        print(f"-> {len(items)} videos | Running total: {len(all_items)}")
 
         # Get next page token — if missing, we're done
         page_token = data.get('nextPageToken')
         if not page_token:
-            print("  All pages collected.\n")
+            print("All pages collected.\n")
             break
 
         page_num += 1
 
     return all_items
 
-#Extract only the 3 required fields 
+# Extract only the 3 required fields 
 
 def extract_fields(items):
-    videos   = []
+    videos = []
     seen_ids = set()  # Prevents duplicate entries across pages
 
     for item in items:
@@ -82,14 +82,14 @@ def extract_fields(items):
         snippet = item.get('snippet', {})
 
         videos.append({
-            'video_id':     video_id,
-            'title':        snippet.get('title', '').strip(),
+            'video_id': video_id,
+            'title': snippet.get('title', '').strip(),
             'publish_date': snippet.get('publishedAt', '')[:10]  # YYYY-MM-DD only
         })
 
     return videos
 
-#Build Pandas Dataframe
+# Build Pandas Dataframe
 
 def build_dataframe(videos):
     df = pd.DataFrame(videos, columns=['video_id', 'title', 'publish_date'])
@@ -98,7 +98,7 @@ def build_dataframe(videos):
     df.reset_index(drop=True, inplace=True)
     return df
 
-#Data Validation
+# Data Validation
 
 def validate(df):
     print("=" * 40)
@@ -114,24 +114,25 @@ def validate(df):
     assert df.isnull().sum().sum() == 0,            "Null values detected!"
     print("  All checks passed.\n")
 
-#Save to CSV
+# Save to CSV
 
 def save(df, filename="raw_metadata.csv"):
     df.to_csv(filename, index=False)
-    print(f"  Saved -> {filename}")
+    print(f"Saved -> {filename}")
 
 # RUN
 
-print("Starting video collection...\n")
+if __name__ == "__main__":
+    print("Starting video collection...\n")
 
-raw_items = fetch_all_videos()
-videos    = extract_fields(raw_items)
-df        = build_dataframe(videos)
+    raw_items = fetch_all_videos()
+    videos = extract_fields(raw_items)
+    df = build_dataframe(videos)
 
-validate(df)
+    validate(df)
 
-print("  Preview (first 5 rows):")
-print(df.head().to_string(index=False))
-print()
+    print("Preview (first 5 rows):")
+    print(df.head().to_string(index=False))
+    print()
 
-save(df)
+    save(df)
