@@ -1,0 +1,100 @@
+what are programming fundamentals
+how to start learning programming
+beginner coding concepts explained
+basics of software development
+introduction to programming logic
+how computers execute code
+difference between compiled and interpreted languages
+how variables and loops work
+programming basics for beginners
+core concepts every programmer should know
+what are data structures in programming
+explain arrays and linked lists
+introduction to stacks and queues
+how hash tables work
+time complexity explained
+big o notation tutorial
+algorithm optimization techniques
+common data structures used in software engineering
+sorting algorithms explained
+searching algorithms in programming
+introduction to machine learning
+how machine learning works
+supervised vs unsupervised learning
+neural networks explained simply
+what is deep learning
+how AI models are trained
+machine learning project ideas
+building ML models step by step
+practical applications of machine learning
+AI tools developers should know
+how to build a web application
+front end vs back end development
+introduction to HTML CSS JavaScript
+how APIs work in web development
+building REST APIs explained
+full stack development roadmap
+how to deploy a web application
+modern JavaScript frameworks overview
+backend development fundamentals
+how web servers process requests
+what is DevOps
+introduction to Kubernetes
+containerization explained with Docker
+how CI/CD pipelines work
+cloud computing basics for developers
+infrastructure automation explained
+monitoring and logging systems
+microservices architecture explained
+scaling applications in production
+distributed systems basics
+how to contribute to open source
+benefits of contributing to open source projects
+finding beginner friendly open source projects
+open source collaboration workflow
+GitHub contribution guide
+how maintainers review pull requests
+importance of open source in software development
+open source project structure explained
+best practices for contributing code
+learning programming through open source
+git basics for beginners
+how git version control works
+branching and merging in git
+resolving merge conflicts in git
+git workflow explained
+how to use git for team collaboration
+git commands every developer should know
+using github for projects
+version control best practices
+managing code history with git
+debugging techniques for developers
+how to fix bugs in code
+common programming mistakes
+troubleshooting software errors
+debugging large codebases
+strategies for solving coding problems
+understanding error messages in programming
+debugging tools for developers
+how developers investigate software bugs
+improving problem solving skills in coding
+how to become a software developer
+developer career roadmap
+how to prepare for coding interviews
+skills needed for software engineering jobs
+how developers keep learning new technologies
+managing burnout in software development
+productivity tips for programmers
+building a strong developer portfolio
+learning new programming languages effectively
+advice for junior developers
+future of software development
+how AI is changing programming
+importance of continuous learning in tech
+building real world software projects
+how developers stay updated with technology
+mindset needed to succeed in programming
+learning through building projects
+challenges developers face in industry
+transitioning into a tech career
+advice from experienced software engineers

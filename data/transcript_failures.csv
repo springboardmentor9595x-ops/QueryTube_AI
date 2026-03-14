@@ -1,0 +1,6 @@
+video_id,reason
+0XMdbWy2j1w,TranscriptsDisabled
+UJjKVceWmdM,"OtherError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=UJjKVceWmdM (Caused by NameResolutionError(""HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 11001] getaddrinfo failed)""))"
+TFhGTw4RXI4,"OtherError: HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=TFhGTw4RXI4 (Caused by NameResolutionError(""HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 11001] getaddrinfo failed)""))"
+_coTZxZ-H5Q,NoTranscriptFound
+tpIyum0ERIo,TranscriptsDisabled
