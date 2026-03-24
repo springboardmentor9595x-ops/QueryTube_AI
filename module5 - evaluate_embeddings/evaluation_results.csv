@@ -1,0 +1,16 @@
+Model,Metric,Top-1 Recall,Top-3 Recall,Top-5 Recall,Avg Rank
+MiniLM,cosine,0.017,0.1,0.117,162.23
+MiniLM,dot,0.017,0.1,0.117,162.23
+MiniLM,euclidean,0.017,0.1,0.117,162.23
+MiniLM,cityblock,0.017,0.083,0.1,162.53
+MiniLM,chebyshev,0.067,0.1,0.1,149.42
+MPNet,cosine,0.0,0.033,0.083,125.33
+MPNet,dot,0.0,0.033,0.083,125.33
+MPNet,euclidean,0.0,0.033,0.083,125.33
+MPNet,cityblock,0.0,0.033,0.05,124.42
+MPNet,chebyshev,0.017,0.05,0.083,141.08
+MultiQA,cosine,0.0,0.05,0.067,150.93
+MultiQA,dot,0.0,0.05,0.067,150.93
+MultiQA,euclidean,0.0,0.05,0.067,150.93
+MultiQA,cityblock,0.0,0.05,0.067,153.3
+MultiQA,chebyshev,0.0,0.0,0.05,146.58

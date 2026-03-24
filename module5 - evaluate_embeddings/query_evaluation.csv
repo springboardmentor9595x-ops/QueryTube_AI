@@ -1,0 +1,901 @@
+Model,Metric,Query,Expected Video,Retrieved Rank
+MiniLM,cosine,Learn English with The Devil Wears Prada scene,UqobITwaxjk,227
+MiniLM,cosine,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MiniLM,cosine,Learn English with The Simpsons episode conversation,NDhPifXoBYI,140
+MiniLM,cosine,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MiniLM,cosine,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MiniLM,cosine,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,75
+MiniLM,cosine,Learn English with The Lion King movie scene,2sgxlayFzko,64
+MiniLM,cosine,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,199
+MiniLM,cosine,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,193
+MiniLM,cosine,Learn English with Frozen movie scene,uuIZZc_CeFM,271
+MiniLM,cosine,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,42
+MiniLM,cosine,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,151
+MiniLM,cosine,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,155
+MiniLM,cosine,Learn English with Maleficent movie scene,9GpGky10yOE,251
+MiniLM,cosine,Learn English with Ice Age movie conversation,wppNtDrquVc,207
+MiniLM,cosine,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,286
+MiniLM,cosine,Learn English with Shrek movie expressions,Ejb9b0veUPA,168
+MiniLM,cosine,Learn English with Disney movie conversations,aU58RGC4IKw,51
+MiniLM,cosine,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,210
+MiniLM,cosine,Learn English with Friends TV series conversation,2sgxlayFzko,165
+MiniLM,cosine,Learn English with rap songs pronunciation,8BfL3wzzyoc,52
+MiniLM,cosine,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,2
+MiniLM,cosine,Learn English with Queen song vocabulary,cpp22-kDtp0,7
+MiniLM,cosine,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,3
+MiniLM,cosine,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,15
+MiniLM,cosine,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,4
+MiniLM,cosine,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,102
+MiniLM,cosine,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,239
+MiniLM,cosine,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,149
+MiniLM,cosine,Learn English with Bob Marley song expressions,1fn8R_PNAY0,48
+MiniLM,cosine,Understand fast English without subtitles,wppNtDrquVc,226
+MiniLM,cosine,How to understand movies without subtitles,wppNtDrquVc,222
+MiniLM,cosine,How to learn English with Netflix shows,UqobITwaxjk,220
+MiniLM,cosine,How to improve English listening with TV series,wppNtDrquVc,234
+MiniLM,cosine,How to learn English with movie scenes,jtGO8B6ONz4,148
+MiniLM,cosine,How to understand fast native English speech,wppNtDrquVc,226
+MiniLM,cosine,How to learn English with TV show dialogue,1fn8R_PNAY0,265
+MiniLM,cosine,How to practice English listening with movies,wppNtDrquVc,223
+MiniLM,cosine,How to learn real English expressions from movies,wppNtDrquVc,189
+MiniLM,cosine,How to understand jokes in English TV shows,UUj4dwbCnGE,299
+MiniLM,cosine,Real English expressions used by native speakers,CKTPXv9XCeA,127
+MiniLM,cosine,Common phrases used in American TV series,znO5Jjf4D78,317
+MiniLM,cosine,English slang used in movie dialogues,iuQsu4HOlrA,181
+MiniLM,cosine,Daily English expressions used by natives,wppNtDrquVc,148
+MiniLM,cosine,Natural English pronunciation in movies,1fn8R_PNAY0,248
+MiniLM,cosine,Connected speech examples in movie dialogue,2sgxlayFzko,251
+MiniLM,cosine,Reduced speech in native English conversation,CKTPXv9XCeA,122
+MiniLM,cosine,Shadowing technique with TV series dialogue,JteHl9PQEIU,2
+MiniLM,cosine,English listening practice with TV show scenes,Md41MGtwjfo,296
+MiniLM,cosine,English pronunciation practice with movie dialogue,1fn8R_PNAY0,257
+MiniLM,cosine,Best TV series to learn English fast,wppNtDrquVc,249
+MiniLM,cosine,Best movies to learn English listening,wppNtDrquVc,287
+MiniLM,cosine,How to train your ear with English movies,wppNtDrquVc,232
+MiniLM,cosine,How to improve speaking using TV shows,UUj4dwbCnGE,137
+MiniLM,cosine,How to learn vocabulary from movie scenes,jtGO8B6ONz4,176
+MiniLM,cosine,How to sound like a native English speaker,CKTPXv9XCeA,120
+MiniLM,cosine,English conversation practice with movie clips,1fn8R_PNAY0,225
+MiniLM,cosine,Advanced English listening with TV series,wppNtDrquVc,234
+MiniLM,cosine,Real life English conversation from movies,wppNtDrquVc,196
+MiniLM,cosine,English fluency practice with TV series scenes,jtGO8B6ONz4,195
+MiniLM,dot,Learn English with The Devil Wears Prada scene,UqobITwaxjk,227
+MiniLM,dot,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MiniLM,dot,Learn English with The Simpsons episode conversation,NDhPifXoBYI,140
+MiniLM,dot,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MiniLM,dot,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MiniLM,dot,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,75
+MiniLM,dot,Learn English with The Lion King movie scene,2sgxlayFzko,64
+MiniLM,dot,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,199
+MiniLM,dot,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,193
+MiniLM,dot,Learn English with Frozen movie scene,uuIZZc_CeFM,271
+MiniLM,dot,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,42
+MiniLM,dot,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,151
+MiniLM,dot,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,155
+MiniLM,dot,Learn English with Maleficent movie scene,9GpGky10yOE,251
+MiniLM,dot,Learn English with Ice Age movie conversation,wppNtDrquVc,207
+MiniLM,dot,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,286
+MiniLM,dot,Learn English with Shrek movie expressions,Ejb9b0veUPA,168
+MiniLM,dot,Learn English with Disney movie conversations,aU58RGC4IKw,51
+MiniLM,dot,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,210
+MiniLM,dot,Learn English with Friends TV series conversation,2sgxlayFzko,165
+MiniLM,dot,Learn English with rap songs pronunciation,8BfL3wzzyoc,52
+MiniLM,dot,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,2
+MiniLM,dot,Learn English with Queen song vocabulary,cpp22-kDtp0,7
+MiniLM,dot,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,3
+MiniLM,dot,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,15
+MiniLM,dot,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,4
+MiniLM,dot,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,102
+MiniLM,dot,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,239
+MiniLM,dot,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,149
+MiniLM,dot,Learn English with Bob Marley song expressions,1fn8R_PNAY0,48
+MiniLM,dot,Understand fast English without subtitles,wppNtDrquVc,226
+MiniLM,dot,How to understand movies without subtitles,wppNtDrquVc,222
+MiniLM,dot,How to learn English with Netflix shows,UqobITwaxjk,220
+MiniLM,dot,How to improve English listening with TV series,wppNtDrquVc,234
+MiniLM,dot,How to learn English with movie scenes,jtGO8B6ONz4,148
+MiniLM,dot,How to understand fast native English speech,wppNtDrquVc,226
+MiniLM,dot,How to learn English with TV show dialogue,1fn8R_PNAY0,265
+MiniLM,dot,How to practice English listening with movies,wppNtDrquVc,223
+MiniLM,dot,How to learn real English expressions from movies,wppNtDrquVc,189
+MiniLM,dot,How to understand jokes in English TV shows,UUj4dwbCnGE,299
+MiniLM,dot,Real English expressions used by native speakers,CKTPXv9XCeA,127
+MiniLM,dot,Common phrases used in American TV series,znO5Jjf4D78,317
+MiniLM,dot,English slang used in movie dialogues,iuQsu4HOlrA,181
+MiniLM,dot,Daily English expressions used by natives,wppNtDrquVc,148
+MiniLM,dot,Natural English pronunciation in movies,1fn8R_PNAY0,248
+MiniLM,dot,Connected speech examples in movie dialogue,2sgxlayFzko,251
+MiniLM,dot,Reduced speech in native English conversation,CKTPXv9XCeA,122
+MiniLM,dot,Shadowing technique with TV series dialogue,JteHl9PQEIU,2
+MiniLM,dot,English listening practice with TV show scenes,Md41MGtwjfo,296
+MiniLM,dot,English pronunciation practice with movie dialogue,1fn8R_PNAY0,257
+MiniLM,dot,Best TV series to learn English fast,wppNtDrquVc,249
+MiniLM,dot,Best movies to learn English listening,wppNtDrquVc,287
+MiniLM,dot,How to train your ear with English movies,wppNtDrquVc,232
+MiniLM,dot,How to improve speaking using TV shows,UUj4dwbCnGE,137
+MiniLM,dot,How to learn vocabulary from movie scenes,jtGO8B6ONz4,176
+MiniLM,dot,How to sound like a native English speaker,CKTPXv9XCeA,120
+MiniLM,dot,English conversation practice with movie clips,1fn8R_PNAY0,225
+MiniLM,dot,Advanced English listening with TV series,wppNtDrquVc,234
+MiniLM,dot,Real life English conversation from movies,wppNtDrquVc,196
+MiniLM,dot,English fluency practice with TV series scenes,jtGO8B6ONz4,195
+MiniLM,euclidean,Learn English with The Devil Wears Prada scene,UqobITwaxjk,227
+MiniLM,euclidean,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MiniLM,euclidean,Learn English with The Simpsons episode conversation,NDhPifXoBYI,140
+MiniLM,euclidean,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MiniLM,euclidean,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MiniLM,euclidean,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,75
+MiniLM,euclidean,Learn English with The Lion King movie scene,2sgxlayFzko,64
+MiniLM,euclidean,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,199
+MiniLM,euclidean,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,193
+MiniLM,euclidean,Learn English with Frozen movie scene,uuIZZc_CeFM,271
+MiniLM,euclidean,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,42
+MiniLM,euclidean,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,151
+MiniLM,euclidean,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,155
+MiniLM,euclidean,Learn English with Maleficent movie scene,9GpGky10yOE,251
+MiniLM,euclidean,Learn English with Ice Age movie conversation,wppNtDrquVc,207
+MiniLM,euclidean,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,286
+MiniLM,euclidean,Learn English with Shrek movie expressions,Ejb9b0veUPA,168
+MiniLM,euclidean,Learn English with Disney movie conversations,aU58RGC4IKw,51
+MiniLM,euclidean,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,210
+MiniLM,euclidean,Learn English with Friends TV series conversation,2sgxlayFzko,165
+MiniLM,euclidean,Learn English with rap songs pronunciation,8BfL3wzzyoc,52
+MiniLM,euclidean,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,2
+MiniLM,euclidean,Learn English with Queen song vocabulary,cpp22-kDtp0,7
+MiniLM,euclidean,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,3
+MiniLM,euclidean,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,15
+MiniLM,euclidean,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,4
+MiniLM,euclidean,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,102
+MiniLM,euclidean,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,239
+MiniLM,euclidean,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,149
+MiniLM,euclidean,Learn English with Bob Marley song expressions,1fn8R_PNAY0,48
+MiniLM,euclidean,Understand fast English without subtitles,wppNtDrquVc,226
+MiniLM,euclidean,How to understand movies without subtitles,wppNtDrquVc,222
+MiniLM,euclidean,How to learn English with Netflix shows,UqobITwaxjk,220
+MiniLM,euclidean,How to improve English listening with TV series,wppNtDrquVc,234
+MiniLM,euclidean,How to learn English with movie scenes,jtGO8B6ONz4,148
+MiniLM,euclidean,How to understand fast native English speech,wppNtDrquVc,226
+MiniLM,euclidean,How to learn English with TV show dialogue,1fn8R_PNAY0,265
+MiniLM,euclidean,How to practice English listening with movies,wppNtDrquVc,223
+MiniLM,euclidean,How to learn real English expressions from movies,wppNtDrquVc,189
+MiniLM,euclidean,How to understand jokes in English TV shows,UUj4dwbCnGE,299
+MiniLM,euclidean,Real English expressions used by native speakers,CKTPXv9XCeA,127
+MiniLM,euclidean,Common phrases used in American TV series,znO5Jjf4D78,317
+MiniLM,euclidean,English slang used in movie dialogues,iuQsu4HOlrA,181
+MiniLM,euclidean,Daily English expressions used by natives,wppNtDrquVc,148
+MiniLM,euclidean,Natural English pronunciation in movies,1fn8R_PNAY0,248
+MiniLM,euclidean,Connected speech examples in movie dialogue,2sgxlayFzko,251
+MiniLM,euclidean,Reduced speech in native English conversation,CKTPXv9XCeA,122
+MiniLM,euclidean,Shadowing technique with TV series dialogue,JteHl9PQEIU,2
+MiniLM,euclidean,English listening practice with TV show scenes,Md41MGtwjfo,296
+MiniLM,euclidean,English pronunciation practice with movie dialogue,1fn8R_PNAY0,257
+MiniLM,euclidean,Best TV series to learn English fast,wppNtDrquVc,249
+MiniLM,euclidean,Best movies to learn English listening,wppNtDrquVc,287
+MiniLM,euclidean,How to train your ear with English movies,wppNtDrquVc,232
+MiniLM,euclidean,How to improve speaking using TV shows,UUj4dwbCnGE,137
+MiniLM,euclidean,How to learn vocabulary from movie scenes,jtGO8B6ONz4,176
+MiniLM,euclidean,How to sound like a native English speaker,CKTPXv9XCeA,120
+MiniLM,euclidean,English conversation practice with movie clips,1fn8R_PNAY0,225
+MiniLM,euclidean,Advanced English listening with TV series,wppNtDrquVc,234
+MiniLM,euclidean,Real life English conversation from movies,wppNtDrquVc,196
+MiniLM,euclidean,English fluency practice with TV series scenes,jtGO8B6ONz4,195
+MiniLM,cityblock,Learn English with The Devil Wears Prada scene,UqobITwaxjk,229
+MiniLM,cityblock,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MiniLM,cityblock,Learn English with The Simpsons episode conversation,NDhPifXoBYI,127
+MiniLM,cityblock,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MiniLM,cityblock,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MiniLM,cityblock,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,61
+MiniLM,cityblock,Learn English with The Lion King movie scene,2sgxlayFzko,87
+MiniLM,cityblock,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,218
+MiniLM,cityblock,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,201
+MiniLM,cityblock,Learn English with Frozen movie scene,uuIZZc_CeFM,274
+MiniLM,cityblock,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,38
+MiniLM,cityblock,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,166
+MiniLM,cityblock,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,169
+MiniLM,cityblock,Learn English with Maleficent movie scene,9GpGky10yOE,242
+MiniLM,cityblock,Learn English with Ice Age movie conversation,wppNtDrquVc,184
+MiniLM,cityblock,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,302
+MiniLM,cityblock,Learn English with Shrek movie expressions,Ejb9b0veUPA,165
+MiniLM,cityblock,Learn English with Disney movie conversations,aU58RGC4IKw,59
+MiniLM,cityblock,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,238
+MiniLM,cityblock,Learn English with Friends TV series conversation,2sgxlayFzko,168
+MiniLM,cityblock,Learn English with rap songs pronunciation,8BfL3wzzyoc,37
+MiniLM,cityblock,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,2
+MiniLM,cityblock,Learn English with Queen song vocabulary,cpp22-kDtp0,14
+MiniLM,cityblock,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,3
+MiniLM,cityblock,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,15
+MiniLM,cityblock,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,4
+MiniLM,cityblock,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,110
+MiniLM,cityblock,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,215
+MiniLM,cityblock,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,181
+MiniLM,cityblock,Learn English with Bob Marley song expressions,1fn8R_PNAY0,45
+MiniLM,cityblock,Understand fast English without subtitles,wppNtDrquVc,220
+MiniLM,cityblock,How to understand movies without subtitles,wppNtDrquVc,220
+MiniLM,cityblock,How to learn English with Netflix shows,UqobITwaxjk,222
+MiniLM,cityblock,How to improve English listening with TV series,wppNtDrquVc,217
+MiniLM,cityblock,How to learn English with movie scenes,jtGO8B6ONz4,151
+MiniLM,cityblock,How to understand fast native English speech,wppNtDrquVc,225
+MiniLM,cityblock,How to learn English with TV show dialogue,1fn8R_PNAY0,258
+MiniLM,cityblock,How to practice English listening with movies,wppNtDrquVc,230
+MiniLM,cityblock,How to learn real English expressions from movies,wppNtDrquVc,227
+MiniLM,cityblock,How to understand jokes in English TV shows,UUj4dwbCnGE,278
+MiniLM,cityblock,Real English expressions used by native speakers,CKTPXv9XCeA,89
+MiniLM,cityblock,Common phrases used in American TV series,znO5Jjf4D78,336
+MiniLM,cityblock,English slang used in movie dialogues,iuQsu4HOlrA,190
+MiniLM,cityblock,Daily English expressions used by natives,wppNtDrquVc,159
+MiniLM,cityblock,Natural English pronunciation in movies,1fn8R_PNAY0,270
+MiniLM,cityblock,Connected speech examples in movie dialogue,2sgxlayFzko,230
+MiniLM,cityblock,Reduced speech in native English conversation,CKTPXv9XCeA,104
+MiniLM,cityblock,Shadowing technique with TV series dialogue,JteHl9PQEIU,7
+MiniLM,cityblock,English listening practice with TV show scenes,Md41MGtwjfo,299
+MiniLM,cityblock,English pronunciation practice with movie dialogue,1fn8R_PNAY0,255
+MiniLM,cityblock,Best TV series to learn English fast,wppNtDrquVc,211
+MiniLM,cityblock,Best movies to learn English listening,wppNtDrquVc,274
+MiniLM,cityblock,How to train your ear with English movies,wppNtDrquVc,259
+MiniLM,cityblock,How to improve speaking using TV shows,UUj4dwbCnGE,138
+MiniLM,cityblock,How to learn vocabulary from movie scenes,jtGO8B6ONz4,169
+MiniLM,cityblock,How to sound like a native English speaker,CKTPXv9XCeA,124
+MiniLM,cityblock,English conversation practice with movie clips,1fn8R_PNAY0,235
+MiniLM,cityblock,Advanced English listening with TV series,wppNtDrquVc,231
+MiniLM,cityblock,Real life English conversation from movies,wppNtDrquVc,183
+MiniLM,cityblock,English fluency practice with TV series scenes,jtGO8B6ONz4,181
+MiniLM,chebyshev,Learn English with The Devil Wears Prada scene,UqobITwaxjk,231
+MiniLM,chebyshev,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MiniLM,chebyshev,Learn English with The Simpsons episode conversation,NDhPifXoBYI,202
+MiniLM,chebyshev,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MiniLM,chebyshev,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,14
+MiniLM,chebyshev,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,115
+MiniLM,chebyshev,Learn English with The Lion King movie scene,2sgxlayFzko,45
+MiniLM,chebyshev,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,255
+MiniLM,chebyshev,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,88
+MiniLM,chebyshev,Learn English with Frozen movie scene,uuIZZc_CeFM,210
+MiniLM,chebyshev,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,103
+MiniLM,chebyshev,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,270
+MiniLM,chebyshev,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,57
+MiniLM,chebyshev,Learn English with Maleficent movie scene,9GpGky10yOE,236
+MiniLM,chebyshev,Learn English with Ice Age movie conversation,wppNtDrquVc,76
+MiniLM,chebyshev,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,162
+MiniLM,chebyshev,Learn English with Shrek movie expressions,Ejb9b0veUPA,117
+MiniLM,chebyshev,Learn English with Disney movie conversations,aU58RGC4IKw,26
+MiniLM,chebyshev,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,154
+MiniLM,chebyshev,Learn English with Friends TV series conversation,2sgxlayFzko,167
+MiniLM,chebyshev,Learn English with rap songs pronunciation,8BfL3wzzyoc,153
+MiniLM,chebyshev,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,1
+MiniLM,chebyshev,Learn English with Queen song vocabulary,cpp22-kDtp0,1
+MiniLM,chebyshev,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,3
+MiniLM,chebyshev,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,23
+MiniLM,chebyshev,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,72
+MiniLM,chebyshev,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,214
+MiniLM,chebyshev,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,347
+MiniLM,chebyshev,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,86
+MiniLM,chebyshev,Learn English with Bob Marley song expressions,1fn8R_PNAY0,56
+MiniLM,chebyshev,Understand fast English without subtitles,wppNtDrquVc,282
+MiniLM,chebyshev,How to understand movies without subtitles,wppNtDrquVc,278
+MiniLM,chebyshev,How to learn English with Netflix shows,UqobITwaxjk,121
+MiniLM,chebyshev,How to improve English listening with TV series,wppNtDrquVc,200
+MiniLM,chebyshev,How to learn English with movie scenes,jtGO8B6ONz4,166
+MiniLM,chebyshev,How to understand fast native English speech,wppNtDrquVc,256
+MiniLM,chebyshev,How to learn English with TV show dialogue,1fn8R_PNAY0,164
+MiniLM,chebyshev,How to practice English listening with movies,wppNtDrquVc,50
+MiniLM,chebyshev,How to learn real English expressions from movies,wppNtDrquVc,168
+MiniLM,chebyshev,How to understand jokes in English TV shows,UUj4dwbCnGE,249
+MiniLM,chebyshev,Real English expressions used by native speakers,CKTPXv9XCeA,61
+MiniLM,chebyshev,Common phrases used in American TV series,znO5Jjf4D78,299
+MiniLM,chebyshev,English slang used in movie dialogues,iuQsu4HOlrA,186
+MiniLM,chebyshev,Daily English expressions used by natives,wppNtDrquVc,26
+MiniLM,chebyshev,Natural English pronunciation in movies,1fn8R_PNAY0,289
+MiniLM,chebyshev,Connected speech examples in movie dialogue,2sgxlayFzko,312
+MiniLM,chebyshev,Reduced speech in native English conversation,CKTPXv9XCeA,81
+MiniLM,chebyshev,Shadowing technique with TV series dialogue,JteHl9PQEIU,1
+MiniLM,chebyshev,English listening practice with TV show scenes,Md41MGtwjfo,230
+MiniLM,chebyshev,English pronunciation practice with movie dialogue,1fn8R_PNAY0,251
+MiniLM,chebyshev,Best TV series to learn English fast,wppNtDrquVc,256
+MiniLM,chebyshev,Best movies to learn English listening,wppNtDrquVc,248
+MiniLM,chebyshev,How to train your ear with English movies,wppNtDrquVc,107
+MiniLM,chebyshev,How to improve speaking using TV shows,UUj4dwbCnGE,241
+MiniLM,chebyshev,How to learn vocabulary from movie scenes,jtGO8B6ONz4,130
+MiniLM,chebyshev,How to sound like a native English speaker,CKTPXv9XCeA,190
+MiniLM,chebyshev,English conversation practice with movie clips,1fn8R_PNAY0,50
+MiniLM,chebyshev,Advanced English listening with TV series,wppNtDrquVc,285
+MiniLM,chebyshev,Real life English conversation from movies,wppNtDrquVc,125
+MiniLM,chebyshev,English fluency practice with TV series scenes,jtGO8B6ONz4,176
+MPNet,cosine,Learn English with The Devil Wears Prada scene,UqobITwaxjk,147
+MPNet,cosine,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MPNet,cosine,Learn English with The Simpsons episode conversation,NDhPifXoBYI,20
+MPNet,cosine,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,5
+MPNet,cosine,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MPNet,cosine,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,85
+MPNet,cosine,Learn English with The Lion King movie scene,2sgxlayFzko,144
+MPNet,cosine,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,7
+MPNet,cosine,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,234
+MPNet,cosine,Learn English with Frozen movie scene,uuIZZc_CeFM,136
+MPNet,cosine,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,324
+MPNet,cosine,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,7
+MPNet,cosine,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,136
+MPNet,cosine,Learn English with Maleficent movie scene,9GpGky10yOE,5
+MPNet,cosine,Learn English with Ice Age movie conversation,wppNtDrquVc,35
+MPNet,cosine,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,158
+MPNet,cosine,Learn English with Shrek movie expressions,Ejb9b0veUPA,39
+MPNet,cosine,Learn English with Disney movie conversations,aU58RGC4IKw,38
+MPNet,cosine,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,220
+MPNet,cosine,Learn English with Friends TV series conversation,2sgxlayFzko,170
+MPNet,cosine,Learn English with rap songs pronunciation,8BfL3wzzyoc,7
+MPNet,cosine,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,5
+MPNet,cosine,Learn English with Queen song vocabulary,cpp22-kDtp0,11
+MPNet,cosine,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,37
+MPNet,cosine,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,227
+MPNet,cosine,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,35
+MPNet,cosine,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,296
+MPNet,cosine,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,245
+MPNet,cosine,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,20
+MPNet,cosine,Learn English with Bob Marley song expressions,1fn8R_PNAY0,184
+MPNet,cosine,Understand fast English without subtitles,wppNtDrquVc,112
+MPNet,cosine,How to understand movies without subtitles,wppNtDrquVc,82
+MPNet,cosine,How to learn English with Netflix shows,UqobITwaxjk,153
+MPNet,cosine,How to improve English listening with TV series,wppNtDrquVc,120
+MPNet,cosine,How to learn English with movie scenes,jtGO8B6ONz4,258
+MPNet,cosine,How to understand fast native English speech,wppNtDrquVc,95
+MPNet,cosine,How to learn English with TV show dialogue,1fn8R_PNAY0,301
+MPNet,cosine,How to practice English listening with movies,wppNtDrquVc,91
+MPNet,cosine,How to learn real English expressions from movies,wppNtDrquVc,29
+MPNet,cosine,How to understand jokes in English TV shows,UUj4dwbCnGE,89
+MPNet,cosine,Real English expressions used by native speakers,CKTPXv9XCeA,83
+MPNet,cosine,Common phrases used in American TV series,znO5Jjf4D78,168
+MPNet,cosine,English slang used in movie dialogues,iuQsu4HOlrA,145
+MPNet,cosine,Daily English expressions used by natives,wppNtDrquVc,34
+MPNet,cosine,Natural English pronunciation in movies,1fn8R_PNAY0,296
+MPNet,cosine,Connected speech examples in movie dialogue,2sgxlayFzko,186
+MPNet,cosine,Reduced speech in native English conversation,CKTPXv9XCeA,139
+MPNet,cosine,Shadowing technique with TV series dialogue,JteHl9PQEIU,82
+MPNet,cosine,English listening practice with TV show scenes,Md41MGtwjfo,206
+MPNet,cosine,English pronunciation practice with movie dialogue,1fn8R_PNAY0,289
+MPNet,cosine,Best TV series to learn English fast,wppNtDrquVc,153
+MPNet,cosine,Best movies to learn English listening,wppNtDrquVc,83
+MPNet,cosine,How to train your ear with English movies,wppNtDrquVc,97
+MPNet,cosine,How to improve speaking using TV shows,UUj4dwbCnGE,72
+MPNet,cosine,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MPNet,cosine,How to sound like a native English speaker,CKTPXv9XCeA,205
+MPNet,cosine,English conversation practice with movie clips,1fn8R_PNAY0,317
+MPNet,cosine,Advanced English listening with TV series,wppNtDrquVc,115
+MPNet,cosine,Real life English conversation from movies,wppNtDrquVc,17
+MPNet,cosine,English fluency practice with TV series scenes,jtGO8B6ONz4,285
+MPNet,dot,Learn English with The Devil Wears Prada scene,UqobITwaxjk,147
+MPNet,dot,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MPNet,dot,Learn English with The Simpsons episode conversation,NDhPifXoBYI,20
+MPNet,dot,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,5
+MPNet,dot,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MPNet,dot,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,85
+MPNet,dot,Learn English with The Lion King movie scene,2sgxlayFzko,144
+MPNet,dot,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,7
+MPNet,dot,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,234
+MPNet,dot,Learn English with Frozen movie scene,uuIZZc_CeFM,136
+MPNet,dot,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,324
+MPNet,dot,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,7
+MPNet,dot,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,136
+MPNet,dot,Learn English with Maleficent movie scene,9GpGky10yOE,5
+MPNet,dot,Learn English with Ice Age movie conversation,wppNtDrquVc,35
+MPNet,dot,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,158
+MPNet,dot,Learn English with Shrek movie expressions,Ejb9b0veUPA,39
+MPNet,dot,Learn English with Disney movie conversations,aU58RGC4IKw,38
+MPNet,dot,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,220
+MPNet,dot,Learn English with Friends TV series conversation,2sgxlayFzko,170
+MPNet,dot,Learn English with rap songs pronunciation,8BfL3wzzyoc,7
+MPNet,dot,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,5
+MPNet,dot,Learn English with Queen song vocabulary,cpp22-kDtp0,11
+MPNet,dot,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,37
+MPNet,dot,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,227
+MPNet,dot,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,35
+MPNet,dot,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,296
+MPNet,dot,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,245
+MPNet,dot,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,20
+MPNet,dot,Learn English with Bob Marley song expressions,1fn8R_PNAY0,184
+MPNet,dot,Understand fast English without subtitles,wppNtDrquVc,112
+MPNet,dot,How to understand movies without subtitles,wppNtDrquVc,82
+MPNet,dot,How to learn English with Netflix shows,UqobITwaxjk,153
+MPNet,dot,How to improve English listening with TV series,wppNtDrquVc,120
+MPNet,dot,How to learn English with movie scenes,jtGO8B6ONz4,258
+MPNet,dot,How to understand fast native English speech,wppNtDrquVc,95
+MPNet,dot,How to learn English with TV show dialogue,1fn8R_PNAY0,301
+MPNet,dot,How to practice English listening with movies,wppNtDrquVc,91
+MPNet,dot,How to learn real English expressions from movies,wppNtDrquVc,29
+MPNet,dot,How to understand jokes in English TV shows,UUj4dwbCnGE,89
+MPNet,dot,Real English expressions used by native speakers,CKTPXv9XCeA,83
+MPNet,dot,Common phrases used in American TV series,znO5Jjf4D78,168
+MPNet,dot,English slang used in movie dialogues,iuQsu4HOlrA,145
+MPNet,dot,Daily English expressions used by natives,wppNtDrquVc,34
+MPNet,dot,Natural English pronunciation in movies,1fn8R_PNAY0,296
+MPNet,dot,Connected speech examples in movie dialogue,2sgxlayFzko,186
+MPNet,dot,Reduced speech in native English conversation,CKTPXv9XCeA,139
+MPNet,dot,Shadowing technique with TV series dialogue,JteHl9PQEIU,82
+MPNet,dot,English listening practice with TV show scenes,Md41MGtwjfo,206
+MPNet,dot,English pronunciation practice with movie dialogue,1fn8R_PNAY0,289
+MPNet,dot,Best TV series to learn English fast,wppNtDrquVc,153
+MPNet,dot,Best movies to learn English listening,wppNtDrquVc,83
+MPNet,dot,How to train your ear with English movies,wppNtDrquVc,97
+MPNet,dot,How to improve speaking using TV shows,UUj4dwbCnGE,72
+MPNet,dot,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MPNet,dot,How to sound like a native English speaker,CKTPXv9XCeA,205
+MPNet,dot,English conversation practice with movie clips,1fn8R_PNAY0,317
+MPNet,dot,Advanced English listening with TV series,wppNtDrquVc,115
+MPNet,dot,Real life English conversation from movies,wppNtDrquVc,17
+MPNet,dot,English fluency practice with TV series scenes,jtGO8B6ONz4,285
+MPNet,euclidean,Learn English with The Devil Wears Prada scene,UqobITwaxjk,147
+MPNet,euclidean,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MPNet,euclidean,Learn English with The Simpsons episode conversation,NDhPifXoBYI,20
+MPNet,euclidean,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,5
+MPNet,euclidean,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MPNet,euclidean,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,85
+MPNet,euclidean,Learn English with The Lion King movie scene,2sgxlayFzko,144
+MPNet,euclidean,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,7
+MPNet,euclidean,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,234
+MPNet,euclidean,Learn English with Frozen movie scene,uuIZZc_CeFM,136
+MPNet,euclidean,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,324
+MPNet,euclidean,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,7
+MPNet,euclidean,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,136
+MPNet,euclidean,Learn English with Maleficent movie scene,9GpGky10yOE,5
+MPNet,euclidean,Learn English with Ice Age movie conversation,wppNtDrquVc,35
+MPNet,euclidean,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,158
+MPNet,euclidean,Learn English with Shrek movie expressions,Ejb9b0veUPA,39
+MPNet,euclidean,Learn English with Disney movie conversations,aU58RGC4IKw,38
+MPNet,euclidean,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,220
+MPNet,euclidean,Learn English with Friends TV series conversation,2sgxlayFzko,170
+MPNet,euclidean,Learn English with rap songs pronunciation,8BfL3wzzyoc,7
+MPNet,euclidean,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,5
+MPNet,euclidean,Learn English with Queen song vocabulary,cpp22-kDtp0,11
+MPNet,euclidean,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,37
+MPNet,euclidean,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,227
+MPNet,euclidean,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,35
+MPNet,euclidean,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,296
+MPNet,euclidean,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,245
+MPNet,euclidean,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,20
+MPNet,euclidean,Learn English with Bob Marley song expressions,1fn8R_PNAY0,184
+MPNet,euclidean,Understand fast English without subtitles,wppNtDrquVc,112
+MPNet,euclidean,How to understand movies without subtitles,wppNtDrquVc,82
+MPNet,euclidean,How to learn English with Netflix shows,UqobITwaxjk,153
+MPNet,euclidean,How to improve English listening with TV series,wppNtDrquVc,120
+MPNet,euclidean,How to learn English with movie scenes,jtGO8B6ONz4,258
+MPNet,euclidean,How to understand fast native English speech,wppNtDrquVc,95
+MPNet,euclidean,How to learn English with TV show dialogue,1fn8R_PNAY0,301
+MPNet,euclidean,How to practice English listening with movies,wppNtDrquVc,91
+MPNet,euclidean,How to learn real English expressions from movies,wppNtDrquVc,29
+MPNet,euclidean,How to understand jokes in English TV shows,UUj4dwbCnGE,89
+MPNet,euclidean,Real English expressions used by native speakers,CKTPXv9XCeA,83
+MPNet,euclidean,Common phrases used in American TV series,znO5Jjf4D78,168
+MPNet,euclidean,English slang used in movie dialogues,iuQsu4HOlrA,145
+MPNet,euclidean,Daily English expressions used by natives,wppNtDrquVc,34
+MPNet,euclidean,Natural English pronunciation in movies,1fn8R_PNAY0,296
+MPNet,euclidean,Connected speech examples in movie dialogue,2sgxlayFzko,186
+MPNet,euclidean,Reduced speech in native English conversation,CKTPXv9XCeA,139
+MPNet,euclidean,Shadowing technique with TV series dialogue,JteHl9PQEIU,82
+MPNet,euclidean,English listening practice with TV show scenes,Md41MGtwjfo,206
+MPNet,euclidean,English pronunciation practice with movie dialogue,1fn8R_PNAY0,289
+MPNet,euclidean,Best TV series to learn English fast,wppNtDrquVc,153
+MPNet,euclidean,Best movies to learn English listening,wppNtDrquVc,83
+MPNet,euclidean,How to train your ear with English movies,wppNtDrquVc,97
+MPNet,euclidean,How to improve speaking using TV shows,UUj4dwbCnGE,72
+MPNet,euclidean,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MPNet,euclidean,How to sound like a native English speaker,CKTPXv9XCeA,205
+MPNet,euclidean,English conversation practice with movie clips,1fn8R_PNAY0,317
+MPNet,euclidean,Advanced English listening with TV series,wppNtDrquVc,115
+MPNet,euclidean,Real life English conversation from movies,wppNtDrquVc,17
+MPNet,euclidean,English fluency practice with TV series scenes,jtGO8B6ONz4,285
+MPNet,cityblock,Learn English with The Devil Wears Prada scene,UqobITwaxjk,162
+MPNet,cityblock,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MPNet,cityblock,Learn English with The Simpsons episode conversation,NDhPifXoBYI,22
+MPNet,cityblock,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,9
+MPNet,cityblock,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MPNet,cityblock,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,75
+MPNet,cityblock,Learn English with The Lion King movie scene,2sgxlayFzko,124
+MPNet,cityblock,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,7
+MPNet,cityblock,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,216
+MPNet,cityblock,Learn English with Frozen movie scene,uuIZZc_CeFM,135
+MPNet,cityblock,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,322
+MPNet,cityblock,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,8
+MPNet,cityblock,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,157
+MPNet,cityblock,Learn English with Maleficent movie scene,9GpGky10yOE,6
+MPNet,cityblock,Learn English with Ice Age movie conversation,wppNtDrquVc,29
+MPNet,cityblock,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,134
+MPNet,cityblock,Learn English with Shrek movie expressions,Ejb9b0veUPA,40
+MPNet,cityblock,Learn English with Disney movie conversations,aU58RGC4IKw,37
+MPNet,cityblock,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,234
+MPNet,cityblock,Learn English with Friends TV series conversation,2sgxlayFzko,154
+MPNet,cityblock,Learn English with rap songs pronunciation,8BfL3wzzyoc,7
+MPNet,cityblock,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,5
+MPNet,cityblock,Learn English with Queen song vocabulary,cpp22-kDtp0,16
+MPNet,cityblock,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,38
+MPNet,cityblock,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,221
+MPNet,cityblock,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,35
+MPNet,cityblock,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,296
+MPNet,cityblock,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,238
+MPNet,cityblock,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,20
+MPNet,cityblock,Learn English with Bob Marley song expressions,1fn8R_PNAY0,125
+MPNet,cityblock,Understand fast English without subtitles,wppNtDrquVc,112
+MPNet,cityblock,How to understand movies without subtitles,wppNtDrquVc,69
+MPNet,cityblock,How to learn English with Netflix shows,UqobITwaxjk,182
+MPNet,cityblock,How to improve English listening with TV series,wppNtDrquVc,117
+MPNet,cityblock,How to learn English with movie scenes,jtGO8B6ONz4,266
+MPNet,cityblock,How to understand fast native English speech,wppNtDrquVc,106
+MPNet,cityblock,How to learn English with TV show dialogue,1fn8R_PNAY0,304
+MPNet,cityblock,How to practice English listening with movies,wppNtDrquVc,78
+MPNet,cityblock,How to learn real English expressions from movies,wppNtDrquVc,34
+MPNet,cityblock,How to understand jokes in English TV shows,UUj4dwbCnGE,93
+MPNet,cityblock,Real English expressions used by native speakers,CKTPXv9XCeA,92
+MPNet,cityblock,Common phrases used in American TV series,znO5Jjf4D78,149
+MPNet,cityblock,English slang used in movie dialogues,iuQsu4HOlrA,135
+MPNet,cityblock,Daily English expressions used by natives,wppNtDrquVc,38
+MPNet,cityblock,Natural English pronunciation in movies,1fn8R_PNAY0,296
+MPNet,cityblock,Connected speech examples in movie dialogue,2sgxlayFzko,200
+MPNet,cityblock,Reduced speech in native English conversation,CKTPXv9XCeA,135
+MPNet,cityblock,Shadowing technique with TV series dialogue,JteHl9PQEIU,97
+MPNet,cityblock,English listening practice with TV show scenes,Md41MGtwjfo,206
+MPNet,cityblock,English pronunciation practice with movie dialogue,1fn8R_PNAY0,289
+MPNet,cityblock,Best TV series to learn English fast,wppNtDrquVc,142
+MPNet,cityblock,Best movies to learn English listening,wppNtDrquVc,75
+MPNet,cityblock,How to train your ear with English movies,wppNtDrquVc,85
+MPNet,cityblock,How to improve speaking using TV shows,UUj4dwbCnGE,66
+MPNet,cityblock,How to learn vocabulary from movie scenes,jtGO8B6ONz4,244
+MPNet,cityblock,How to sound like a native English speaker,CKTPXv9XCeA,227
+MPNet,cityblock,English conversation practice with movie clips,1fn8R_PNAY0,326
+MPNet,cityblock,Advanced English listening with TV series,wppNtDrquVc,112
+MPNet,cityblock,Real life English conversation from movies,wppNtDrquVc,20
+MPNet,cityblock,English fluency practice with TV series scenes,jtGO8B6ONz4,293
+MPNet,chebyshev,Learn English with The Devil Wears Prada scene,UqobITwaxjk,120
+MPNet,chebyshev,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,3
+MPNet,chebyshev,Learn English with The Simpsons episode conversation,NDhPifXoBYI,15
+MPNet,chebyshev,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,1
+MPNet,chebyshev,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,3
+MPNet,chebyshev,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,120
+MPNet,chebyshev,Learn English with The Lion King movie scene,2sgxlayFzko,140
+MPNet,chebyshev,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,31
+MPNet,chebyshev,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,173
+MPNet,chebyshev,Learn English with Frozen movie scene,uuIZZc_CeFM,296
+MPNet,chebyshev,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,189
+MPNet,chebyshev,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,15
+MPNet,chebyshev,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,103
+MPNet,chebyshev,Learn English with Maleficent movie scene,9GpGky10yOE,26
+MPNet,chebyshev,Learn English with Ice Age movie conversation,wppNtDrquVc,140
+MPNet,chebyshev,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,225
+MPNet,chebyshev,Learn English with Shrek movie expressions,Ejb9b0veUPA,70
+MPNet,chebyshev,Learn English with Disney movie conversations,aU58RGC4IKw,43
+MPNet,chebyshev,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,188
+MPNet,chebyshev,Learn English with Friends TV series conversation,2sgxlayFzko,198
+MPNet,chebyshev,Learn English with rap songs pronunciation,8BfL3wzzyoc,14
+MPNet,chebyshev,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,5
+MPNet,chebyshev,Learn English with Queen song vocabulary,cpp22-kDtp0,4
+MPNet,chebyshev,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,21
+MPNet,chebyshev,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,300
+MPNet,chebyshev,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,36
+MPNet,chebyshev,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,325
+MPNet,chebyshev,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,283
+MPNet,chebyshev,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,25
+MPNet,chebyshev,Learn English with Bob Marley song expressions,1fn8R_PNAY0,159
+MPNet,chebyshev,Understand fast English without subtitles,wppNtDrquVc,74
+MPNet,chebyshev,How to understand movies without subtitles,wppNtDrquVc,249
+MPNet,chebyshev,How to learn English with Netflix shows,UqobITwaxjk,44
+MPNet,chebyshev,How to improve English listening with TV series,wppNtDrquVc,222
+MPNet,chebyshev,How to learn English with movie scenes,jtGO8B6ONz4,260
+MPNet,chebyshev,How to understand fast native English speech,wppNtDrquVc,245
+MPNet,chebyshev,How to learn English with TV show dialogue,1fn8R_PNAY0,182
+MPNet,chebyshev,How to practice English listening with movies,wppNtDrquVc,142
+MPNet,chebyshev,How to learn real English expressions from movies,wppNtDrquVc,17
+MPNet,chebyshev,How to understand jokes in English TV shows,UUj4dwbCnGE,44
+MPNet,chebyshev,Real English expressions used by native speakers,CKTPXv9XCeA,74
+MPNet,chebyshev,Common phrases used in American TV series,znO5Jjf4D78,255
+MPNet,chebyshev,English slang used in movie dialogues,iuQsu4HOlrA,179
+MPNet,chebyshev,Daily English expressions used by natives,wppNtDrquVc,49
+MPNet,chebyshev,Natural English pronunciation in movies,1fn8R_PNAY0,327
+MPNet,chebyshev,Connected speech examples in movie dialogue,2sgxlayFzko,150
+MPNet,chebyshev,Reduced speech in native English conversation,CKTPXv9XCeA,232
+MPNet,chebyshev,Shadowing technique with TV series dialogue,JteHl9PQEIU,177
+MPNet,chebyshev,English listening practice with TV show scenes,Md41MGtwjfo,294
+MPNet,chebyshev,English pronunciation practice with movie dialogue,1fn8R_PNAY0,276
+MPNet,chebyshev,Best TV series to learn English fast,wppNtDrquVc,105
+MPNet,chebyshev,Best movies to learn English listening,wppNtDrquVc,145
+MPNet,chebyshev,How to train your ear with English movies,wppNtDrquVc,135
+MPNet,chebyshev,How to improve speaking using TV shows,UUj4dwbCnGE,34
+MPNet,chebyshev,How to learn vocabulary from movie scenes,jtGO8B6ONz4,195
+MPNet,chebyshev,How to sound like a native English speaker,CKTPXv9XCeA,146
+MPNet,chebyshev,English conversation practice with movie clips,1fn8R_PNAY0,348
+MPNet,chebyshev,Advanced English listening with TV series,wppNtDrquVc,47
+MPNet,chebyshev,Real life English conversation from movies,wppNtDrquVc,224
+MPNet,chebyshev,English fluency practice with TV series scenes,jtGO8B6ONz4,323
+MultiQA,cosine,Learn English with The Devil Wears Prada scene,UqobITwaxjk,155
+MultiQA,cosine,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MultiQA,cosine,Learn English with The Simpsons episode conversation,NDhPifXoBYI,57
+MultiQA,cosine,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,2
+MultiQA,cosine,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,12
+MultiQA,cosine,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,54
+MultiQA,cosine,Learn English with The Lion King movie scene,2sgxlayFzko,58
+MultiQA,cosine,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,128
+MultiQA,cosine,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,204
+MultiQA,cosine,Learn English with Frozen movie scene,uuIZZc_CeFM,176
+MultiQA,cosine,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,257
+MultiQA,cosine,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,99
+MultiQA,cosine,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,198
+MultiQA,cosine,Learn English with Maleficent movie scene,9GpGky10yOE,71
+MultiQA,cosine,Learn English with Ice Age movie conversation,wppNtDrquVc,132
+MultiQA,cosine,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,215
+MultiQA,cosine,Learn English with Shrek movie expressions,Ejb9b0veUPA,112
+MultiQA,cosine,Learn English with Disney movie conversations,aU58RGC4IKw,80
+MultiQA,cosine,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,206
+MultiQA,cosine,Learn English with Friends TV series conversation,2sgxlayFzko,227
+MultiQA,cosine,Learn English with rap songs pronunciation,8BfL3wzzyoc,88
+MultiQA,cosine,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,3
+MultiQA,cosine,Learn English with Queen song vocabulary,cpp22-kDtp0,35
+MultiQA,cosine,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,6
+MultiQA,cosine,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,204
+MultiQA,cosine,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,10
+MultiQA,cosine,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,254
+MultiQA,cosine,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,277
+MultiQA,cosine,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,75
+MultiQA,cosine,Learn English with Bob Marley song expressions,1fn8R_PNAY0,93
+MultiQA,cosine,Understand fast English without subtitles,wppNtDrquVc,171
+MultiQA,cosine,How to understand movies without subtitles,wppNtDrquVc,19
+MultiQA,cosine,How to learn English with Netflix shows,UqobITwaxjk,121
+MultiQA,cosine,How to improve English listening with TV series,wppNtDrquVc,211
+MultiQA,cosine,How to learn English with movie scenes,jtGO8B6ONz4,268
+MultiQA,cosine,How to understand fast native English speech,wppNtDrquVc,204
+MultiQA,cosine,How to learn English with TV show dialogue,1fn8R_PNAY0,340
+MultiQA,cosine,How to practice English listening with movies,wppNtDrquVc,152
+MultiQA,cosine,How to learn real English expressions from movies,wppNtDrquVc,114
+MultiQA,cosine,How to understand jokes in English TV shows,UUj4dwbCnGE,176
+MultiQA,cosine,Real English expressions used by native speakers,CKTPXv9XCeA,22
+MultiQA,cosine,Common phrases used in American TV series,znO5Jjf4D78,134
+MultiQA,cosine,English slang used in movie dialogues,iuQsu4HOlrA,133
+MultiQA,cosine,Daily English expressions used by natives,wppNtDrquVc,187
+MultiQA,cosine,Natural English pronunciation in movies,1fn8R_PNAY0,268
+MultiQA,cosine,Connected speech examples in movie dialogue,2sgxlayFzko,302
+MultiQA,cosine,Reduced speech in native English conversation,CKTPXv9XCeA,158
+MultiQA,cosine,Shadowing technique with TV series dialogue,JteHl9PQEIU,5
+MultiQA,cosine,English listening practice with TV show scenes,Md41MGtwjfo,342
+MultiQA,cosine,English pronunciation practice with movie dialogue,1fn8R_PNAY0,315
+MultiQA,cosine,Best TV series to learn English fast,wppNtDrquVc,216
+MultiQA,cosine,Best movies to learn English listening,wppNtDrquVc,137
+MultiQA,cosine,How to train your ear with English movies,wppNtDrquVc,166
+MultiQA,cosine,How to improve speaking using TV shows,UUj4dwbCnGE,30
+MultiQA,cosine,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MultiQA,cosine,How to sound like a native English speaker,CKTPXv9XCeA,168
+MultiQA,cosine,English conversation practice with movie clips,1fn8R_PNAY0,338
+MultiQA,cosine,Advanced English listening with TV series,wppNtDrquVc,197
+MultiQA,cosine,Real life English conversation from movies,wppNtDrquVc,128
+MultiQA,cosine,English fluency practice with TV series scenes,jtGO8B6ONz4,308
+MultiQA,dot,Learn English with The Devil Wears Prada scene,UqobITwaxjk,155
+MultiQA,dot,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MultiQA,dot,Learn English with The Simpsons episode conversation,NDhPifXoBYI,57
+MultiQA,dot,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,2
+MultiQA,dot,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,12
+MultiQA,dot,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,54
+MultiQA,dot,Learn English with The Lion King movie scene,2sgxlayFzko,58
+MultiQA,dot,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,128
+MultiQA,dot,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,204
+MultiQA,dot,Learn English with Frozen movie scene,uuIZZc_CeFM,176
+MultiQA,dot,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,257
+MultiQA,dot,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,99
+MultiQA,dot,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,198
+MultiQA,dot,Learn English with Maleficent movie scene,9GpGky10yOE,71
+MultiQA,dot,Learn English with Ice Age movie conversation,wppNtDrquVc,132
+MultiQA,dot,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,215
+MultiQA,dot,Learn English with Shrek movie expressions,Ejb9b0veUPA,112
+MultiQA,dot,Learn English with Disney movie conversations,aU58RGC4IKw,80
+MultiQA,dot,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,206
+MultiQA,dot,Learn English with Friends TV series conversation,2sgxlayFzko,227
+MultiQA,dot,Learn English with rap songs pronunciation,8BfL3wzzyoc,88
+MultiQA,dot,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,3
+MultiQA,dot,Learn English with Queen song vocabulary,cpp22-kDtp0,35
+MultiQA,dot,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,6
+MultiQA,dot,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,204
+MultiQA,dot,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,10
+MultiQA,dot,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,254
+MultiQA,dot,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,277
+MultiQA,dot,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,75
+MultiQA,dot,Learn English with Bob Marley song expressions,1fn8R_PNAY0,93
+MultiQA,dot,Understand fast English without subtitles,wppNtDrquVc,171
+MultiQA,dot,How to understand movies without subtitles,wppNtDrquVc,19
+MultiQA,dot,How to learn English with Netflix shows,UqobITwaxjk,121
+MultiQA,dot,How to improve English listening with TV series,wppNtDrquVc,211
+MultiQA,dot,How to learn English with movie scenes,jtGO8B6ONz4,268
+MultiQA,dot,How to understand fast native English speech,wppNtDrquVc,204
+MultiQA,dot,How to learn English with TV show dialogue,1fn8R_PNAY0,340
+MultiQA,dot,How to practice English listening with movies,wppNtDrquVc,152
+MultiQA,dot,How to learn real English expressions from movies,wppNtDrquVc,114
+MultiQA,dot,How to understand jokes in English TV shows,UUj4dwbCnGE,176
+MultiQA,dot,Real English expressions used by native speakers,CKTPXv9XCeA,22
+MultiQA,dot,Common phrases used in American TV series,znO5Jjf4D78,134
+MultiQA,dot,English slang used in movie dialogues,iuQsu4HOlrA,133
+MultiQA,dot,Daily English expressions used by natives,wppNtDrquVc,187
+MultiQA,dot,Natural English pronunciation in movies,1fn8R_PNAY0,268
+MultiQA,dot,Connected speech examples in movie dialogue,2sgxlayFzko,302
+MultiQA,dot,Reduced speech in native English conversation,CKTPXv9XCeA,158
+MultiQA,dot,Shadowing technique with TV series dialogue,JteHl9PQEIU,5
+MultiQA,dot,English listening practice with TV show scenes,Md41MGtwjfo,342
+MultiQA,dot,English pronunciation practice with movie dialogue,1fn8R_PNAY0,315
+MultiQA,dot,Best TV series to learn English fast,wppNtDrquVc,216
+MultiQA,dot,Best movies to learn English listening,wppNtDrquVc,137
+MultiQA,dot,How to train your ear with English movies,wppNtDrquVc,166
+MultiQA,dot,How to improve speaking using TV shows,UUj4dwbCnGE,30
+MultiQA,dot,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MultiQA,dot,How to sound like a native English speaker,CKTPXv9XCeA,168
+MultiQA,dot,English conversation practice with movie clips,1fn8R_PNAY0,338
+MultiQA,dot,Advanced English listening with TV series,wppNtDrquVc,197
+MultiQA,dot,Real life English conversation from movies,wppNtDrquVc,128
+MultiQA,dot,English fluency practice with TV series scenes,jtGO8B6ONz4,308
+MultiQA,euclidean,Learn English with The Devil Wears Prada scene,UqobITwaxjk,155
+MultiQA,euclidean,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MultiQA,euclidean,Learn English with The Simpsons episode conversation,NDhPifXoBYI,57
+MultiQA,euclidean,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,2
+MultiQA,euclidean,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,12
+MultiQA,euclidean,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,54
+MultiQA,euclidean,Learn English with The Lion King movie scene,2sgxlayFzko,58
+MultiQA,euclidean,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,128
+MultiQA,euclidean,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,204
+MultiQA,euclidean,Learn English with Frozen movie scene,uuIZZc_CeFM,176
+MultiQA,euclidean,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,257
+MultiQA,euclidean,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,99
+MultiQA,euclidean,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,198
+MultiQA,euclidean,Learn English with Maleficent movie scene,9GpGky10yOE,71
+MultiQA,euclidean,Learn English with Ice Age movie conversation,wppNtDrquVc,132
+MultiQA,euclidean,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,215
+MultiQA,euclidean,Learn English with Shrek movie expressions,Ejb9b0veUPA,112
+MultiQA,euclidean,Learn English with Disney movie conversations,aU58RGC4IKw,80
+MultiQA,euclidean,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,206
+MultiQA,euclidean,Learn English with Friends TV series conversation,2sgxlayFzko,227
+MultiQA,euclidean,Learn English with rap songs pronunciation,8BfL3wzzyoc,88
+MultiQA,euclidean,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,3
+MultiQA,euclidean,Learn English with Queen song vocabulary,cpp22-kDtp0,35
+MultiQA,euclidean,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,6
+MultiQA,euclidean,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,204
+MultiQA,euclidean,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,10
+MultiQA,euclidean,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,254
+MultiQA,euclidean,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,277
+MultiQA,euclidean,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,75
+MultiQA,euclidean,Learn English with Bob Marley song expressions,1fn8R_PNAY0,93
+MultiQA,euclidean,Understand fast English without subtitles,wppNtDrquVc,171
+MultiQA,euclidean,How to understand movies without subtitles,wppNtDrquVc,19
+MultiQA,euclidean,How to learn English with Netflix shows,UqobITwaxjk,121
+MultiQA,euclidean,How to improve English listening with TV series,wppNtDrquVc,211
+MultiQA,euclidean,How to learn English with movie scenes,jtGO8B6ONz4,268
+MultiQA,euclidean,How to understand fast native English speech,wppNtDrquVc,204
+MultiQA,euclidean,How to learn English with TV show dialogue,1fn8R_PNAY0,340
+MultiQA,euclidean,How to practice English listening with movies,wppNtDrquVc,152
+MultiQA,euclidean,How to learn real English expressions from movies,wppNtDrquVc,114
+MultiQA,euclidean,How to understand jokes in English TV shows,UUj4dwbCnGE,176
+MultiQA,euclidean,Real English expressions used by native speakers,CKTPXv9XCeA,22
+MultiQA,euclidean,Common phrases used in American TV series,znO5Jjf4D78,134
+MultiQA,euclidean,English slang used in movie dialogues,iuQsu4HOlrA,133
+MultiQA,euclidean,Daily English expressions used by natives,wppNtDrquVc,187
+MultiQA,euclidean,Natural English pronunciation in movies,1fn8R_PNAY0,268
+MultiQA,euclidean,Connected speech examples in movie dialogue,2sgxlayFzko,302
+MultiQA,euclidean,Reduced speech in native English conversation,CKTPXv9XCeA,158
+MultiQA,euclidean,Shadowing technique with TV series dialogue,JteHl9PQEIU,5
+MultiQA,euclidean,English listening practice with TV show scenes,Md41MGtwjfo,342
+MultiQA,euclidean,English pronunciation practice with movie dialogue,1fn8R_PNAY0,315
+MultiQA,euclidean,Best TV series to learn English fast,wppNtDrquVc,216
+MultiQA,euclidean,Best movies to learn English listening,wppNtDrquVc,137
+MultiQA,euclidean,How to train your ear with English movies,wppNtDrquVc,166
+MultiQA,euclidean,How to improve speaking using TV shows,UUj4dwbCnGE,30
+MultiQA,euclidean,How to learn vocabulary from movie scenes,jtGO8B6ONz4,236
+MultiQA,euclidean,How to sound like a native English speaker,CKTPXv9XCeA,168
+MultiQA,euclidean,English conversation practice with movie clips,1fn8R_PNAY0,338
+MultiQA,euclidean,Advanced English listening with TV series,wppNtDrquVc,197
+MultiQA,euclidean,Real life English conversation from movies,wppNtDrquVc,128
+MultiQA,euclidean,English fluency practice with TV series scenes,jtGO8B6ONz4,308
+MultiQA,cityblock,Learn English with The Devil Wears Prada scene,UqobITwaxjk,197
+MultiQA,cityblock,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,2
+MultiQA,cityblock,Learn English with The Simpsons episode conversation,NDhPifXoBYI,82
+MultiQA,cityblock,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,2
+MultiQA,cityblock,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,14
+MultiQA,cityblock,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,52
+MultiQA,cityblock,Learn English with The Lion King movie scene,2sgxlayFzko,47
+MultiQA,cityblock,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,133
+MultiQA,cityblock,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,236
+MultiQA,cityblock,Learn English with Frozen movie scene,uuIZZc_CeFM,164
+MultiQA,cityblock,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,230
+MultiQA,cityblock,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,85
+MultiQA,cityblock,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,175
+MultiQA,cityblock,Learn English with Maleficent movie scene,9GpGky10yOE,74
+MultiQA,cityblock,Learn English with Ice Age movie conversation,wppNtDrquVc,150
+MultiQA,cityblock,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,224
+MultiQA,cityblock,Learn English with Shrek movie expressions,Ejb9b0veUPA,83
+MultiQA,cityblock,Learn English with Disney movie conversations,aU58RGC4IKw,88
+MultiQA,cityblock,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,207
+MultiQA,cityblock,Learn English with Friends TV series conversation,2sgxlayFzko,231
+MultiQA,cityblock,Learn English with rap songs pronunciation,8BfL3wzzyoc,71
+MultiQA,cityblock,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,3
+MultiQA,cityblock,Learn English with Queen song vocabulary,cpp22-kDtp0,28
+MultiQA,cityblock,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,7
+MultiQA,cityblock,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,251
+MultiQA,cityblock,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,8
+MultiQA,cityblock,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,280
+MultiQA,cityblock,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,276
+MultiQA,cityblock,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,80
+MultiQA,cityblock,Learn English with Bob Marley song expressions,1fn8R_PNAY0,103
+MultiQA,cityblock,Understand fast English without subtitles,wppNtDrquVc,162
+MultiQA,cityblock,How to understand movies without subtitles,wppNtDrquVc,20
+MultiQA,cityblock,How to learn English with Netflix shows,UqobITwaxjk,115
+MultiQA,cityblock,How to improve English listening with TV series,wppNtDrquVc,214
+MultiQA,cityblock,How to learn English with movie scenes,jtGO8B6ONz4,256
+MultiQA,cityblock,How to understand fast native English speech,wppNtDrquVc,234
+MultiQA,cityblock,How to learn English with TV show dialogue,1fn8R_PNAY0,340
+MultiQA,cityblock,How to practice English listening with movies,wppNtDrquVc,135
+MultiQA,cityblock,How to learn real English expressions from movies,wppNtDrquVc,92
+MultiQA,cityblock,How to understand jokes in English TV shows,UUj4dwbCnGE,184
+MultiQA,cityblock,Real English expressions used by native speakers,CKTPXv9XCeA,26
+MultiQA,cityblock,Common phrases used in American TV series,znO5Jjf4D78,91
+MultiQA,cityblock,English slang used in movie dialogues,iuQsu4HOlrA,107
+MultiQA,cityblock,Daily English expressions used by natives,wppNtDrquVc,205
+MultiQA,cityblock,Natural English pronunciation in movies,1fn8R_PNAY0,299
+MultiQA,cityblock,Connected speech examples in movie dialogue,2sgxlayFzko,313
+MultiQA,cityblock,Reduced speech in native English conversation,CKTPXv9XCeA,171
+MultiQA,cityblock,Shadowing technique with TV series dialogue,JteHl9PQEIU,4
+MultiQA,cityblock,English listening practice with TV show scenes,Md41MGtwjfo,335
+MultiQA,cityblock,English pronunciation practice with movie dialogue,1fn8R_PNAY0,316
+MultiQA,cityblock,Best TV series to learn English fast,wppNtDrquVc,217
+MultiQA,cityblock,Best movies to learn English listening,wppNtDrquVc,142
+MultiQA,cityblock,How to train your ear with English movies,wppNtDrquVc,198
+MultiQA,cityblock,How to improve speaking using TV shows,UUj4dwbCnGE,35
+MultiQA,cityblock,How to learn vocabulary from movie scenes,jtGO8B6ONz4,238
+MultiQA,cityblock,How to sound like a native English speaker,CKTPXv9XCeA,189
+MultiQA,cityblock,English conversation practice with movie clips,1fn8R_PNAY0,331
+MultiQA,cityblock,Advanced English listening with TV series,wppNtDrquVc,189
+MultiQA,cityblock,Real life English conversation from movies,wppNtDrquVc,167
+MultiQA,cityblock,English fluency practice with TV series scenes,jtGO8B6ONz4,290
+MultiQA,chebyshev,Learn English with The Devil Wears Prada scene,UqobITwaxjk,288
+MultiQA,chebyshev,Learn English with SpongeBob SquarePants dialogue,NDhPifXoBYI,5
+MultiQA,chebyshev,Learn English with The Simpsons episode conversation,NDhPifXoBYI,13
+MultiQA,chebyshev,Learn English with Peaky Blinders speaking style,uW-I9SFuU1A,16
+MultiQA,chebyshev,Learn English with Jennifer Aniston interview,5fBrINGT0Dg,39
+MultiQA,chebyshev,Learn English with Zootopia movie dialogue,pOWZp3X_1aU,14
+MultiQA,chebyshev,Learn English with The Lion King movie scene,2sgxlayFzko,244
+MultiQA,chebyshev,Learn English with Pirates of the Caribbean dialogue,QMxTi2D66pY,156
+MultiQA,chebyshev,Learn English with Beauty and the Beast conversation,pXCLgLs-ZdQ,135
+MultiQA,chebyshev,Learn English with Frozen movie scene,uuIZZc_CeFM,266
+MultiQA,chebyshev,Learn English with Toy Story movie dialogue,DB3-s5oJFo8,280
+MultiQA,chebyshev,Learn English with Finding Nemo conversation,4JP1nPLVy2Q,107
+MultiQA,chebyshev,Learn English with Aladdin movie dialogue,fvVY1XDKhZk,335
+MultiQA,chebyshev,Learn English with Maleficent movie scene,9GpGky10yOE,22
+MultiQA,chebyshev,Learn English with Ice Age movie conversation,wppNtDrquVc,90
+MultiQA,chebyshev,Learn English with Monsters Inc movie dialogue,xIS2JcvekeQ,168
+MultiQA,chebyshev,Learn English with Shrek movie expressions,Ejb9b0veUPA,116
+MultiQA,chebyshev,Learn English with Disney movie conversations,aU58RGC4IKw,47
+MultiQA,chebyshev,Learn English with How I Met Your Mother dialogue,jtGO8B6ONz4,337
+MultiQA,chebyshev,Learn English with Friends TV series conversation,2sgxlayFzko,216
+MultiQA,chebyshev,Learn English with rap songs pronunciation,8BfL3wzzyoc,207
+MultiQA,chebyshev,Learn English with Eminem lyrics pronunciation,HBVX1D1SerE,81
+MultiQA,chebyshev,Learn English with Queen song vocabulary,cpp22-kDtp0,71
+MultiQA,chebyshev,Learn English with Ariana Grande song dialogue,PsPB_mnGK8s,25
+MultiQA,chebyshev,Learn English with Taylor Swift song expressions,WQeLu4i3p7Q,135
+MultiQA,chebyshev,Learn English with Billie Eilish song pronunciation,fwrD70WeSzs,4
+MultiQA,chebyshev,Learn English with Michael Jackson song lyrics,CKTPXv9XCeA,125
+MultiQA,chebyshev,Learn English with Jonas Brothers song dialogue,o_HnKujOOOY,110
+MultiQA,chebyshev,Learn English with Lady Gaga song vocabulary,fwrD70WeSzs,223
+MultiQA,chebyshev,Learn English with Bob Marley song expressions,1fn8R_PNAY0,65
+MultiQA,chebyshev,Understand fast English without subtitles,wppNtDrquVc,142
+MultiQA,chebyshev,How to understand movies without subtitles,wppNtDrquVc,25
+MultiQA,chebyshev,How to learn English with Netflix shows,UqobITwaxjk,164
+MultiQA,chebyshev,How to improve English listening with TV series,wppNtDrquVc,266
+MultiQA,chebyshev,How to learn English with movie scenes,jtGO8B6ONz4,338
+MultiQA,chebyshev,How to understand fast native English speech,wppNtDrquVc,174
+MultiQA,chebyshev,How to learn English with TV show dialogue,1fn8R_PNAY0,216
+MultiQA,chebyshev,How to practice English listening with movies,wppNtDrquVc,248
+MultiQA,chebyshev,How to learn real English expressions from movies,wppNtDrquVc,256
+MultiQA,chebyshev,How to understand jokes in English TV shows,UUj4dwbCnGE,126
+MultiQA,chebyshev,Real English expressions used by native speakers,CKTPXv9XCeA,31
+MultiQA,chebyshev,Common phrases used in American TV series,znO5Jjf4D78,275
+MultiQA,chebyshev,English slang used in movie dialogues,iuQsu4HOlrA,275
+MultiQA,chebyshev,Daily English expressions used by natives,wppNtDrquVc,97
+MultiQA,chebyshev,Natural English pronunciation in movies,1fn8R_PNAY0,104
+MultiQA,chebyshev,Connected speech examples in movie dialogue,2sgxlayFzko,228
+MultiQA,chebyshev,Reduced speech in native English conversation,CKTPXv9XCeA,77
+MultiQA,chebyshev,Shadowing technique with TV series dialogue,JteHl9PQEIU,15
+MultiQA,chebyshev,English listening practice with TV show scenes,Md41MGtwjfo,273
+MultiQA,chebyshev,English pronunciation practice with movie dialogue,1fn8R_PNAY0,137
+MultiQA,chebyshev,Best TV series to learn English fast,wppNtDrquVc,119
+MultiQA,chebyshev,Best movies to learn English listening,wppNtDrquVc,64
+MultiQA,chebyshev,How to train your ear with English movies,wppNtDrquVc,274
+MultiQA,chebyshev,How to improve speaking using TV shows,UUj4dwbCnGE,5
+MultiQA,chebyshev,How to learn vocabulary from movie scenes,jtGO8B6ONz4,244
+MultiQA,chebyshev,How to sound like a native English speaker,CKTPXv9XCeA,48
+MultiQA,chebyshev,English conversation practice with movie clips,1fn8R_PNAY0,192
+MultiQA,chebyshev,Advanced English listening with TV series,wppNtDrquVc,57
+MultiQA,chebyshev,Real life English conversation from movies,wppNtDrquVc,92
+MultiQA,chebyshev,English fluency practice with TV series scenes,jtGO8B6ONz4,293
