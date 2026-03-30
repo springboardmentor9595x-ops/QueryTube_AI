@@ -1,0 +1,386 @@
+query,rank,video_id,score
+How do you build a video sharing app using Next.js?,1,IBTx5aGj-6U,-0.6957868196437129
+How do you build a video sharing app using Next.js?,2,KCQsP91Wor0,-0.9371088923025311
+How do you build a video sharing app using Next.js?,3,qYk_BqGHXEg,-0.9690638102753006
+How do you build a video sharing app using Next.js?,4,6ChzCaljcaI,-0.9718317463703011
+How do you build a video sharing app using Next.js?,5,jBf7of9JTV8,-0.9764035009996278
+What are closures in JavaScript?,1,U6-RekkuORI,-0.49892702096167396
+What are closures in JavaScript?,2,9kKNFP9srjc,-0.7463778066780795
+What are closures in JavaScript?,3,UtV8MfnuIEg,-0.7986867819461785
+What are closures in JavaScript?,4,kFEBs8wuhiU,-0.9430006483720184
+What are closures in JavaScript?,5,yhTipwdwe9w,-0.9907774608278157
+How do regular expressions work in programming?,1,uJAUeXLXHrY,-0.8925382456856927
+How do regular expressions work in programming?,2,fQ51cM44o7I,-1.0297958969373726
+How do regular expressions work in programming?,3,ikXDYsdg15c,-1.1007143763927685
+How do regular expressions work in programming?,4,taSwtU-sldo,-1.1185870204854156
+How do regular expressions work in programming?,5,UtV8MfnuIEg,-1.1229681582119477
+What is integration testing in software development?,1,s950xhRvqYQ,-0.965052886952743
+What is integration testing in software development?,2,Yygu7TBWdPs,-0.9988870472076634
+What is integration testing in software development?,3,YCS3HsFTbTQ,-1.05501670509481
+What is integration testing in software development?,4,do62-z3z6FM,-1.0815278550228522
+What is integration testing in software development?,5,GIZzRGYpCbM,-1.0939402868809962
+How do you contribute to open source projects?,1,FHBBaSUQk1Y,-0.6500897406615386
+How do you contribute to open source projects?,2,cw02dMpWStI,-0.7300502891641399
+How do you contribute to open source projects?,3,c1Op7YSTwhg,-0.7364297518719719
+How do you contribute to open source projects?,4,7lEWtEG3vd0,-0.756856304106204
+How do you contribute to open source projects?,5,HihwnUepmdg,-0.7882084617190241
+What is Git and why is it important?,1,ZldNCx4AvEM,-0.7853438269162937
+What is Git and why is it important?,2,mAFoROnOfHs,-0.8190355249253777
+What is Git and why is it important?,3,CcQwCGUdRmw,-1.0857194892025337
+What is Git and why is it important?,4,voPcxCFMbbM,-1.1203979999181972
+What is Git and why is it important?,5,7lEWtEG3vd0,-1.136496332303448
+How do developers collaborate using GitHub?,1,mAFoROnOfHs,-0.7811188618088502
+How do developers collaborate using GitHub?,2,ZldNCx4AvEM,-0.8809313416843552
+How do developers collaborate using GitHub?,3,CcQwCGUdRmw,-0.9101732147241997
+How do developers collaborate using GitHub?,4,cw02dMpWStI,-0.9686884013389738
+How do developers collaborate using GitHub?,5,7lEWtEG3vd0,-1.005950857934816
+What is Kubernetes used for?,1,hK8wf18SasY,-0.8499763590349719
+What is Kubernetes used for?,2,Fr9GqFwl6NM,-0.861124239856024
+What is Kubernetes used for?,3,odP153inZUo,-0.8758125283855714
+What is Kubernetes used for?,4,_4uQI4ihGVU,-0.8948420384771607
+What is Kubernetes used for?,5,l57xKN6OBhY,-0.8950453922219191
+How does Kubernetes manage containers?,1,Fr9GqFwl6NM,-0.8387491921329321
+How does Kubernetes manage containers?,2,hK8wf18SasY,-0.8723529994164944
+How does Kubernetes manage containers?,3,l57xKN6OBhY,-0.8816319124832426
+How does Kubernetes manage containers?,4,odP153inZUo,-0.8961398662763991
+How does Kubernetes manage containers?,5,_4uQI4ihGVU,-0.9676237984251853
+What is Docker and how does it work?,1,lEcULR30-GM,-0.9634639827860848
+What is Docker and how does it work?,2,0ffwhxW-uyw,-1.0782719921516595
+What is Docker and how does it work?,3,wP8SiwiExBk,-1.1051099536478426
+What is Docker and how does it work?,4,gwNPV882tkc,-1.1483124005487508
+What is Docker and how does it work?,5,F9gB5b4jgOI,-1.1500421136089796
+What is containerization in software development?,1,lEcULR30-GM,-1.0113127302048477
+What is containerization in software development?,2,YCS3HsFTbTQ,-1.0648617122337825
+What is containerization in software development?,3,0ffwhxW-uyw,-1.073067389289452
+What is containerization in software development?,4,rgt5GPFgryI,-1.1068964085098898
+What is containerization in software development?,5,yx1ri8X37S4,-1.109820275102984
+How do you deploy applications using Docker?,1,lEcULR30-GM,-0.8666833210100492
+How do you deploy applications using Docker?,2,0ffwhxW-uyw,-1.0448287850040099
+How do you deploy applications using Docker?,3,F9gB5b4jgOI,-1.088923679227584
+How do you deploy applications using Docker?,4,hK8wf18SasY,-1.1362266383415687
+How do you deploy applications using Docker?,5,YCS3HsFTbTQ,-1.1549008441162034
+What is continuous integration in DevOps?,1,lEcULR30-GM,-1.0302032824748677
+What is continuous integration in DevOps?,2,s950xhRvqYQ,-1.0546399275973688
+What is continuous integration in DevOps?,3,Fr9GqFwl6NM,-1.0793849961268553
+What is continuous integration in DevOps?,4,GIZzRGYpCbM,-1.081663461839096
+What is continuous integration in DevOps?,5,F9gB5b4jgOI,-1.0823300194484127
+What is continuous deployment in DevOps?,1,lEcULR30-GM,-0.9998919004869506
+What is continuous deployment in DevOps?,2,F9gB5b4jgOI,-1.050721048885906
+What is continuous deployment in DevOps?,3,Fr9GqFwl6NM,-1.0694874832115546
+What is continuous deployment in DevOps?,4,l57xKN6OBhY,-1.0911873590956733
+What is continuous deployment in DevOps?,5,hK8wf18SasY,-1.111160040714886
+How does CI/CD improve software development?,1,YCS3HsFTbTQ,-1.0179305583698197
+How does CI/CD improve software development?,2,MdEexYakkHw,-1.0328516375762193
+How does CI/CD improve software development?,3,wck2LmaMaB4,-1.042543000522493
+How does CI/CD improve software development?,4,rgt5GPFgryI,-1.0453919708606267
+How does CI/CD improve software development?,5,s950xhRvqYQ,-1.047204852066332
+What is the difference between frontend and backend development?,1,KOutPbKc9UM,-0.9668731167777738
+What is the difference between frontend and backend development?,2,yDhCweudqyY,-1.0616713399712694
+What is the difference between frontend and backend development?,3,YCS3HsFTbTQ,-1.0856632341603087
+What is the difference between frontend and backend development?,4,F9gB5b4jgOI,-1.1010261695988717
+What is the difference between frontend and backend development?,5,yguDjZcUpH8,-1.1021859736265374
+What is REST API and how does it work?,1,38GNKtclDdE,-0.9030614259041644
+What is REST API and how does it work?,2,t76UMpwFNs0,-1.011306159540132
+What is REST API and how does it work?,3,R-4_DbV1Su4,-1.01788077299791
+What is REST API and how does it work?,4,WSsOXo07LeE,-1.0667395486797553
+What is REST API and how does it work?,5,KOutPbKc9UM,-1.0842790022496378
+How do you build APIs using Node.js?,1,KOutPbKc9UM,-0.8859223747334579
+How do you build APIs using Node.js?,2,b-JFDTZ5e1U,-0.9436249381588908
+How do you build APIs using Node.js?,3,21_I-12f5JE,-0.9647602264576229
+How do you build APIs using Node.js?,4,KCQsP91Wor0,-0.9707800491832
+How do you build APIs using Node.js?,5,t76UMpwFNs0,-0.9810937873078405
+What is Express.js used for?,1,HEGrkgpe7-Y,-0.9706163496791343
+What is Express.js used for?,2,UtV8MfnuIEg,-0.9750157004993929
+What is Express.js used for?,3,KOutPbKc9UM,-0.9841451859284699
+What is Express.js used for?,4,y5aKEyPfLKs,-1.0159067079966557
+What is Express.js used for?,5,c6IyCwAV6BY,-1.0326015999627138
+What is the role of middleware in Express.js?,1,KOutPbKc9UM,-1.0168551725686508
+What is the role of middleware in Express.js?,2,UtV8MfnuIEg,-1.0244483856192543
+What is the role of middleware in Express.js?,3,HEGrkgpe7-Y,-1.0297142812926383
+What is the role of middleware in Express.js?,4,t76UMpwFNs0,-1.0441331961488387
+What is the role of middleware in Express.js?,5,y5aKEyPfLKs,-1.058874221564249
+How do you create a full stack web application?,1,F9gB5b4jgOI,-0.8851551014855226
+How do you create a full stack web application?,2,b-JFDTZ5e1U,-0.8904167489589164
+How do you create a full stack web application?,3,QtiM87MV27w,-0.9335544391222395
+How do you create a full stack web application?,4,KOutPbKc9UM,-0.9751619215740834
+How do you create a full stack web application?,5,R4v_7hh4Yys,-0.9766171430057111
+What is the role of databases in web development?,1,26ls5lNiijk,-0.9089478804500256
+What is the role of databases in web development?,2,u1T8yyEEKWY,-0.9677900720039625
+What is the role of databases in web development?,3,WXk7yDqsKxs,-1.0019646914772944
+What is the role of databases in web development?,4,KOutPbKc9UM,-1.006629454233916
+What is the role of databases in web development?,5,NdeeSEknp58,-1.0311198828483763
+What is SQL and why is it used?,1,u1T8yyEEKWY,-0.8074641664349363
+What is SQL and why is it used?,2,WXk7yDqsKxs,-0.9648215972312859
+What is SQL and why is it used?,3,26ls5lNiijk,-0.9851295042437134
+What is SQL and why is it used?,4,NdeeSEknp58,-1.0209153061454792
+What is SQL and why is it used?,5,hM2T45qbIPI,-1.1192146715223692
+What is MongoDB and how does it work?,1,VK-2j5CNsvM,-0.9613042560185486
+What is MongoDB and how does it work?,2,26ls5lNiijk,-1.0330233192310438
+What is MongoDB and how does it work?,3,Q7P20fHJlm4,-1.0389275624125125
+What is MongoDB and how does it work?,4,UuknxVdqzb4,-1.046943319105003
+What is MongoDB and how does it work?,5,9tANiA0LKn4,-1.0540206577644298
+What is the difference between SQL and NoSQL databases?,1,u1T8yyEEKWY,-1.0166308050361375
+What is the difference between SQL and NoSQL databases?,2,26ls5lNiijk,-1.0407848083444597
+What is the difference between SQL and NoSQL databases?,3,WXk7yDqsKxs,-1.1123332383422317
+What is the difference between SQL and NoSQL databases?,4,NdeeSEknp58,-1.1200172748810142
+What is the difference between SQL and NoSQL databases?,5,Q7P20fHJlm4,-1.1437783710713878
+What is JavaScript closure and why is it useful?,1,U6-RekkuORI,-0.565493804350742
+What is JavaScript closure and why is it useful?,2,9kKNFP9srjc,-0.8183436443823693
+What is JavaScript closure and why is it useful?,3,UtV8MfnuIEg,-0.8263815449825436
+What is JavaScript closure and why is it useful?,4,yhTipwdwe9w,-0.9347573623207136
+What is JavaScript closure and why is it useful?,5,kFEBs8wuhiU,-0.9662265870504737
+How do asynchronous functions work in JavaScript?,1,UtV8MfnuIEg,-0.8678873646955032
+How do asynchronous functions work in JavaScript?,2,kFEBs8wuhiU,-0.9522375498256764
+How do asynchronous functions work in JavaScript?,3,U6-RekkuORI,-0.9693280893312477
+How do asynchronous functions work in JavaScript?,4,yhTipwdwe9w,-0.9870901260197985
+How do asynchronous functions work in JavaScript?,5,c6IyCwAV6BY,-1.0349443275782837
+What are promises in JavaScript?,1,UtV8MfnuIEg,-0.9317401466495897
+What are promises in JavaScript?,2,QgZoz4xFfLE,-0.9840134140935612
+What are promises in JavaScript?,3,gl0cpq4RJhU,-0.9964233279504031
+What are promises in JavaScript?,4,kFEBs8wuhiU,-1.0206971943584802
+What are promises in JavaScript?,5,yhTipwdwe9w,-1.0211721501423392
+What is async and await in JavaScript?,1,UtV8MfnuIEg,-1.0058574591741072
+What is async and await in JavaScript?,2,kFEBs8wuhiU,-1.0626514310167703
+What is async and await in JavaScript?,3,yhTipwdwe9w,-1.0680123239279904
+What is async and await in JavaScript?,4,qG2g1iv6ZbY,-1.0917332747963966
+What is async and await in JavaScript?,5,c6IyCwAV6BY,-1.0964215350328816
+How does the event loop work in JavaScript?,1,UtV8MfnuIEg,-0.786815502223803
+How does the event loop work in JavaScript?,2,URJBQ3b9n6Y,-0.9126644013777959
+How does the event loop work in JavaScript?,3,kFEBs8wuhiU,-0.9525634549763016
+How does the event loop work in JavaScript?,4,c6IyCwAV6BY,-0.9666325106077056
+How does the event loop work in JavaScript?,5,qG2g1iv6ZbY,-0.9735898438311982
+What is Python used for in AI development?,1,UsfpzxZNsPo,-0.7763200983718225
+What is Python used for in AI development?,2,YtHdaXuOAks,-0.8719577408036934
+What is Python used for in AI development?,3,MdEexYakkHw,-0.8781777599457211
+What is Python used for in AI development?,4,KUbbb0T1YZ8,-0.882325565804588
+What is Python used for in AI development?,5,suuDVhYXe5Y,-0.9077437059168115
+How do Python libraries help in data science?,1,CMEWVn1uZpQ,-0.7857760875377043
+How do Python libraries help in data science?,2,KUbbb0T1YZ8,-0.9659078133321319
+How do Python libraries help in data science?,3,T23Bs75F7ZQ,-0.9684557234238974
+How do Python libraries help in data science?,4,iLRZi0Gu8Go,-0.9836418721336257
+How do Python libraries help in data science?,5,VDFRpjQVaME,-0.9848304509076207
+What is NumPy used for in Python?,1,KUbbb0T1YZ8,-0.9572882769996834
+What is NumPy used for in Python?,2,CMEWVn1uZpQ,-1.025093964558876
+What is NumPy used for in Python?,3,VDFRpjQVaME,-1.103738502250033
+What is NumPy used for in Python?,4,TFhGTw4RXI4,-1.1172690615711032
+What is NumPy used for in Python?,5,UsfpzxZNsPo,-1.1238619689094986
+What is pandas used for in data analysis?,1,CMEWVn1uZpQ,-1.0042927368083223
+What is pandas used for in data analysis?,2,T23Bs75F7ZQ,-1.1444039224340399
+What is pandas used for in data analysis?,3,KUbbb0T1YZ8,-1.167950746568844
+What is pandas used for in data analysis?,4,ku6HZ_k9qgY,-1.1692369148830055
+What is pandas used for in data analysis?,5,Z_c4byLrNBU,-1.1756051277235509
+What is data visualization in Python?,1,CMEWVn1uZpQ,-0.8740955517840294
+What is data visualization in Python?,2,XSJD5ay1D_8,-0.9197021503289533
+What is data visualization in Python?,3,T23Bs75F7ZQ,-0.9936655209197096
+What is data visualization in Python?,4,KUbbb0T1YZ8,-1.0487310723902086
+What is data visualization in Python?,5,iLRZi0Gu8Go,-1.0753988137825783
+How does matplotlib help visualize data?,1,CMEWVn1uZpQ,-1.0016844957774713
+How does matplotlib help visualize data?,2,XSJD5ay1D_8,-1.011704036801815
+How does matplotlib help visualize data?,3,KUbbb0T1YZ8,-1.1392782452045704
+How does matplotlib help visualize data?,4,Z_c4byLrNBU,-1.1408720868735591
+How does matplotlib help visualize data?,5,T23Bs75F7ZQ,-1.1418902226278589
+What is machine learning in simple terms?,1,PcbuKRNtCUc,-0.8383577761122777
+What is machine learning in simple terms?,2,tmB5JIX3Lxk,-0.9086098203627597
+What is machine learning in simple terms?,3,QCPJ0VdpM00,-0.966209495782042
+What is machine learning in simple terms?,4,aokdrllzkFQ,-1.0398732292975987
+What is machine learning in simple terms?,5,zkJt9y7ixiY,-1.0686734531539004
+How does gradient descent optimize machine learning models?,1,PcbuKRNtCUc,-1.0382187402576173
+How does gradient descent optimize machine learning models?,2,K34gBCjzni8,-1.0576397793983843
+How does gradient descent optimize machine learning models?,3,QCPJ0VdpM00,-1.0706952308153994
+How does gradient descent optimize machine learning models?,4,tmB5JIX3Lxk,-1.0847704585809037
+How does gradient descent optimize machine learning models?,5,ku6HZ_k9qgY,-1.0946449254148984
+What is supervised learning in machine learning?,1,PcbuKRNtCUc,-0.9308935040909598
+What is supervised learning in machine learning?,2,tmB5JIX3Lxk,-0.9683010307558737
+What is supervised learning in machine learning?,3,QCPJ0VdpM00,-1.0234810330935036
+What is supervised learning in machine learning?,4,zkJt9y7ixiY,-1.0821943312114741
+What is supervised learning in machine learning?,5,aokdrllzkFQ,-1.0989113764100087
+What is unsupervised learning in machine learning?,1,PcbuKRNtCUc,-0.9571454066772914
+What is unsupervised learning in machine learning?,2,tmB5JIX3Lxk,-1.0039817699561757
+What is unsupervised learning in machine learning?,3,QCPJ0VdpM00,-1.0595836998885688
+What is unsupervised learning in machine learning?,4,ku6HZ_k9qgY,-1.1191331274863285
+What is unsupervised learning in machine learning?,5,K34gBCjzni8,-1.1214253514153585
+What are neural networks inspired by?,1,tfpGS_doPvY,-0.9634502584780973
+What are neural networks inspired by?,2,PcbuKRNtCUc,-0.96440223189706
+What are neural networks inspired by?,3,tmB5JIX3Lxk,-1.0358572205968257
+What are neural networks inspired by?,4,kRv2ElPNAdY,-1.0371806838567934
+What are neural networks inspired by?,5,wu8npoU37cI,-1.0507275128008198
+How does backpropagation work in neural networks?,1,UtV8MfnuIEg,-1.0884544554673656
+How does backpropagation work in neural networks?,2,PcbuKRNtCUc,-1.1037255348118433
+How does backpropagation work in neural networks?,3,K34gBCjzni8,-1.1047387049825386
+How does backpropagation work in neural networks?,4,kRv2ElPNAdY,-1.1088638812874254
+How does backpropagation work in neural networks?,5,tmB5JIX3Lxk,-1.120708992530058
+What is natural language processing in AI?,1,aokdrllzkFQ,-0.8954026690643787
+What is natural language processing in AI?,2,PcbuKRNtCUc,-0.9449045737069668
+What is natural language processing in AI?,3,jGg_1h0qzaM,-0.9565490552905467
+What is natural language processing in AI?,4,WKIjkxxNH0c,-0.9647606968866462
+What is natural language processing in AI?,5,zkJt9y7ixiY,-0.9822599891264301
+How do AI agents work in modern applications?,1,tr5Fapv80Cw,-0.7932165207211958
+How do AI agents work in modern applications?,2,YtHdaXuOAks,-0.8286507784518216
+How do AI agents work in modern applications?,3,suuDVhYXe5Y,-0.8288139600597284
+How do AI agents work in modern applications?,4,aokdrllzkFQ,-0.8326180746344017
+How do AI agents work in modern applications?,5,WKIjkxxNH0c,-0.8779291359725555
+What is reinforcement learning in AI?,1,PcbuKRNtCUc,-0.8916120152159335
+What is reinforcement learning in AI?,2,aokdrllzkFQ,-0.9202565233004208
+What is reinforcement learning in AI?,3,suuDVhYXe5Y,-0.9869835415360267
+What is reinforcement learning in AI?,4,MZVyASCY8sQ,-0.9874447632028714
+What is reinforcement learning in AI?,5,tmB5JIX3Lxk,-0.9983307558109031
+How does transfer learning improve models?,1,H-oCV5brtU4,-1.0348202062289513
+How does transfer learning improve models?,2,E7o_WdfKszU,-1.0542929018686744
+How does transfer learning improve models?,3,9Ge0sMm65jo,-1.0614426104245727
+How does transfer learning improve models?,4,oRZouQxC5Gw,-1.0661829112955425
+How does transfer learning improve models?,5,p3sij8QzONQ,-1.0707458015093625
+What is feature engineering in data science?,1,T23Bs75F7ZQ,-1.03899057804984
+What is feature engineering in data science?,2,MdEexYakkHw,-1.0639756521669668
+What is feature engineering in data science?,3,u1T8yyEEKWY,-1.0674559485629094
+What is feature engineering in data science?,4,PcbuKRNtCUc,-1.0706038342651936
+What is feature engineering in data science?,5,tmB5JIX3Lxk,-1.074898912958393
+What is model overfitting in machine learning?,1,PcbuKRNtCUc,-1.1040628608204377
+What is model overfitting in machine learning?,2,H-oCV5brtU4,-1.1118526571601257
+What is model overfitting in machine learning?,3,tmB5JIX3Lxk,-1.1193770820036475
+What is model overfitting in machine learning?,4,QCPJ0VdpM00,-1.1194382899778421
+What is model overfitting in machine learning?,5,ku6HZ_k9qgY,-1.1510110886100555
+How can developers prevent overfitting in ML models?,1,rgt5GPFgryI,-1.0893308536349984
+How can developers prevent overfitting in ML models?,2,H-oCV5brtU4,-1.0914727783421168
+How can developers prevent overfitting in ML models?,3,4T3YlTSWa5s,-1.1068744507170893
+How can developers prevent overfitting in ML models?,4,MdEexYakkHw,-1.1074765265336879
+How can developers prevent overfitting in ML models?,5,0aKV-JGtDMA,-1.115213897936289
+What are AI infrastructure tools used for?,1,MdEexYakkHw,-0.7470157552169798
+What are AI infrastructure tools used for?,2,zkJt9y7ixiY,-0.8593434361128024
+What are AI infrastructure tools used for?,3,aokdrllzkFQ,-0.8881572216331317
+What are AI infrastructure tools used for?,4,2yF62QE59G8,-0.9042942558577551
+What are AI infrastructure tools used for?,5,suuDVhYXe5Y,-0.9073025486779355
+What skills are required to become an AI engineer?,1,nYXVvK-Wmn0,-0.7652979301759364
+What skills are required to become an AI engineer?,2,MZVyASCY8sQ,-0.8428248786438783
+What skills are required to become an AI engineer?,3,MdEexYakkHw,-0.8821907433597712
+What skills are required to become an AI engineer?,4,wu8npoU37cI,-0.893314710505291
+What skills are required to become an AI engineer?,5,wuVVclLcjuA,-0.9031943060127561
+How do you start learning programming from scratch?,1,LzMnsfqjzkA,-0.828169714463546
+How do you start learning programming from scratch?,2,voPcxCFMbbM,-0.8682519039754012
+How do you start learning programming from scratch?,3,lw1vTtFyfgg,-0.8758197596391876
+How do you start learning programming from scratch?,4,xJjxQjZTryI,-0.8976067502123842
+How do you start learning programming from scratch?,5,H6gHXV6OgFU,-0.905964820408298
+How do beginners stay motivated while learning programming?,1,q4Ovbh3tpU0,-0.8643660986884641
+How do beginners stay motivated while learning programming?,2,o54etZM-DrY,-0.9331692179116564
+How do beginners stay motivated while learning programming?,3,RI8ELvtbUmU,-0.9350113989961473
+How do beginners stay motivated while learning programming?,4,oRZouQxC5Gw,-0.9726550892222708
+How do beginners stay motivated while learning programming?,5,E7o_WdfKszU,-0.9890640622081683
+What are the best practices for writing clean code?,1,626BcUO84og,-0.919368064204539
+What are the best practices for writing clean code?,2,Vs4hQsDpxww,-1.0788258777725792
+What are the best practices for writing clean code?,3,cjam-BWAaL8,-1.1126778602194012
+What are the best practices for writing clean code?,4,7ysrM5BMe6Q,-1.115595536894557
+What are the best practices for writing clean code?,5,I7_WXKhyGms,-1.1203104178059262
+Why is version control important for developers?,1,7lEWtEG3vd0,-1.0612905380824806
+Why is version control important for developers?,2,wck2LmaMaB4,-1.0714337401903797
+Why is version control important for developers?,3,rgt5GPFgryI,-1.0799405408679605
+Why is version control important for developers?,4,EQH9MBHGyag,-1.09752978286466
+Why is version control important for developers?,5,lIghF_OewYg,-1.1014039098189734
+What is the purpose of testing in software development?,1,Yygu7TBWdPs,-0.9968830605040926
+What is the purpose of testing in software development?,2,s950xhRvqYQ,-1.0192286708055396
+What is the purpose of testing in software development?,3,xTg_pBgr_vA,-1.0772025719141123
+What is the purpose of testing in software development?,4,YCS3HsFTbTQ,-1.0858207619325837
+What is the purpose of testing in software development?,5,MdEexYakkHw,-1.105810811591079
+What is the difference between unit testing and integration testing?,1,Yygu7TBWdPs,-1.0701679556056136
+What is the difference between unit testing and integration testing?,2,s950xhRvqYQ,-1.137799218417293
+What is the difference between unit testing and integration testing?,3,xTg_pBgr_vA,-1.1987703729621755
+What is the difference between unit testing and integration testing?,4,912L9KmzSLE,-1.213750907080603
+What is the difference between unit testing and integration testing?,5,ilotANpzN7I,-1.2181631088403124
+How do end to end tests work in applications?,1,Yygu7TBWdPs,-1.02002101836466
+How do end to end tests work in applications?,2,9kKNFP9srjc,-1.13164119060721
+How do end to end tests work in applications?,3,xTg_pBgr_vA,-1.1541243588193106
+How do end to end tests work in applications?,4,TcZFJrjxOYQ,-1.1636264288021028
+How do end to end tests work in applications?,5,s950xhRvqYQ,-1.164590079497025
+What tools are used for automated testing?,1,Yygu7TBWdPs,-0.9890872668819054
+What tools are used for automated testing?,2,MdEexYakkHw,-1.0325830021819706
+What tools are used for automated testing?,3,zkJt9y7ixiY,-1.053997292768903
+What tools are used for automated testing?,4,DIRnYM2dOs0,-1.066040179663594
+What tools are used for automated testing?,5,s950xhRvqYQ,-1.0702094800535407
+How do developers debug programs effectively?,1,ll1mpTJ4qBU,-0.9399751699974337
+How do developers debug programs effectively?,2,DIRnYM2dOs0,-0.9544754583220966
+How do developers debug programs effectively?,3,s950xhRvqYQ,-1.0470847693131569
+How do developers debug programs effectively?,4,iMLGy2wEE_g,-1.0538250522401846
+How do developers debug programs effectively?,5,oeWLnnjFmf8,-1.0653319990812973
+Why is open source important in software development?,1,4RGkpzTJjfg,-0.8213916111686831
+Why is open source important in software development?,2,FHBBaSUQk1Y,-0.825412458209434
+Why is open source important in software development?,3,7lEWtEG3vd0,-0.8487067653499826
+Why is open source important in software development?,4,HihwnUepmdg,-0.9003981877179711
+Why is open source important in software development?,5,c1Op7YSTwhg,-0.9140350082507751
+How do developers monetize open source projects?,1,c1Op7YSTwhg,-0.6103759608374861
+How do developers monetize open source projects?,2,FHBBaSUQk1Y,-0.8322477241808149
+How do developers monetize open source projects?,3,7lEWtEG3vd0,-0.8469588267291958
+How do developers monetize open source projects?,4,4RGkpzTJjfg,-0.9026314861074193
+How do developers monetize open source projects?,5,cw02dMpWStI,-0.9266780821909639
+How do you choose your first open source contribution?,1,c1Op7YSTwhg,-0.8018996522023764
+How do you choose your first open source contribution?,2,FHBBaSUQk1Y,-0.8877245615504256
+How do you choose your first open source contribution?,3,7lEWtEG3vd0,-0.8943720218273455
+How do you choose your first open source contribution?,4,4RGkpzTJjfg,-0.9056645244371669
+How do you choose your first open source contribution?,5,cw02dMpWStI,-0.932426894020196
+What is the difference between compiled and interpreted languages?,1,ikXDYsdg15c,-1.1139301771744516
+What is the difference between compiled and interpreted languages?,2,yDhCweudqyY,-1.1702371226486907
+What is the difference between compiled and interpreted languages?,3,iMLGy2wEE_g,-1.1743950912628953
+What is the difference between compiled and interpreted languages?,4,yx1ri8X37S4,-1.1884217335187583
+What is the difference between compiled and interpreted languages?,5,Fi8vnYgMiHA,-1.1905796826773176
+Why do computers understand binary numbers?,1,Ai00MsNabaE,-0.8984947907014813
+Why do computers understand binary numbers?,2,Fi8vnYgMiHA,-1.061320391410265
+Why do computers understand binary numbers?,3,LsY7U2Muau8,-1.0906874708673888
+Why do computers understand binary numbers?,4,ku6HZ_k9qgY,-1.1027938298460933
+Why do computers understand binary numbers?,5,davl7UFG-Ls,-1.1041414013376067
+How do compilers translate programming languages?,1,Jaj_SQsF-BI,-1.0714797659517925
+How do compilers translate programming languages?,2,H-oCV5brtU4,-1.0905959472466662
+How do compilers translate programming languages?,3,kRv2ElPNAdY,-1.091661041825271
+How do compilers translate programming languages?,4,yx1ri8X37S4,-1.10107825582122
+How do compilers translate programming languages?,5,LsY7U2Muau8,-1.1082043674356914
+What is the role of operating systems in computers?,1,3GqiUg3Ree4,-1.0551147879910572
+What is the role of operating systems in computers?,2,9q24hqwm4QM,-1.0614152561405568
+What is the role of operating systems in computers?,3,Ai00MsNabaE,-1.1019340595687546
+What is the role of operating systems in computers?,4,LsY7U2Muau8,-1.108981668433324
+What is the role of operating systems in computers?,5,Fi8vnYgMiHA,-1.121244535104687
+What is Linux and why do developers use it?,1,wP8SiwiExBk,-1.0455754048295505
+What is Linux and why do developers use it?,2,7lEWtEG3vd0,-1.0522119377245587
+What is Linux and why do developers use it?,3,YCS3HsFTbTQ,-1.0761664461552212
+What is Linux and why do developers use it?,4,yguDjZcUpH8,-1.0791578433568432
+What is Linux and why do developers use it?,5,QpGTmAoEINA,-1.0793618064955006
+How do networks allow computers to communicate?,1,fQbBPa0ADvs,-1.0761943336277286
+How do networks allow computers to communicate?,2,9tyZL5KIiGU,-1.0812563098749064
+How do networks allow computers to communicate?,3,Ai00MsNabaE,-1.1381272357288197
+How do networks allow computers to communicate?,4,l2Z9f42HGpY,-1.1525766490080966
+How do networks allow computers to communicate?,5,GIZzRGYpCbM,-1.1552057165619247
+What is HTTP protocol used for?,1,DosHnyq78xY,-1.1267623404215479
+What is HTTP protocol used for?,2,UtV8MfnuIEg,-1.1380393106074174
+What is HTTP protocol used for?,3,WSsOXo07LeE,-1.1409430790311135
+What is HTTP protocol used for?,4,KCQsP91Wor0,-1.1415557166552261
+What is HTTP protocol used for?,5,QpGTmAoEINA,-1.1579213710967322
+How does a web browser communicate with servers?,1,QpGTmAoEINA,-1.0068960666782412
+How does a web browser communicate with servers?,2,8Si7eCfEpB0,-1.0452584504858689
+How does a web browser communicate with servers?,3,c6IyCwAV6BY,-1.0500367272935067
+How does a web browser communicate with servers?,4,KCQsP91Wor0,-1.0792795680272715
+How does a web browser communicate with servers?,5,UtV8MfnuIEg,-1.0854980917293866
+What are microservices in system architecture?,1,t76UMpwFNs0,-0.869236973990482
+What are microservices in system architecture?,2,xHUwGx-ZlTM,-0.9772552074008851
+What are microservices in system architecture?,3,DosHnyq78xY,-1.1060905772817777
+What are microservices in system architecture?,4,tr5Fapv80Cw,-1.1073160619192108
+What are microservices in system architecture?,5,9q24hqwm4QM,-1.1082857704275806
+What is system design in software engineering?,1,YCS3HsFTbTQ,-1.0411825215970192
+What is system design in software engineering?,2,9q24hqwm4QM,-1.0672657859541748
+What is system design in software engineering?,3,VvKcxBBqQJ8,-1.0779451427829663
+What is system design in software engineering?,4,s950xhRvqYQ,-1.092071920740175
+What is system design in software engineering?,5,vc5T3VmCar0,-1.0955568806765834
+How do scalable applications handle large traffic?,1,VplSjvnwG_Y,-1.125099990961727
+How do scalable applications handle large traffic?,2,9tyZL5KIiGU,-1.1332655936601133
+How do scalable applications handle large traffic?,3,HEGrkgpe7-Y,-1.1523196319609113
+How do scalable applications handle large traffic?,4,I2LoiJWCKxc,-1.1704827961274904
+How do scalable applications handle large traffic?,5,s950xhRvqYQ,-1.1720680398604706
+What is the role of cloud computing in modern applications?,1,GAdgTK2Esn4,-1.0039254666851998
+What is the role of cloud computing in modern applications?,2,DrAZf4ZHqaM,-1.0266850787471566
+What is the role of cloud computing in modern applications?,3,OlAmyf8_4O4,-1.0496062564946274
+What is the role of cloud computing in modern applications?,4,xHUwGx-ZlTM,-1.0564370310636284
+What is the role of cloud computing in modern applications?,5,u43gJJrVa1I,-1.0678894039474351
+How does AWS support cloud applications?,1,5JTBS09e7ew,-1.0022104988486804
+How does AWS support cloud applications?,2,ajExOgOCJXY,-1.0194494730784749
+How does AWS support cloud applications?,3,lEcULR30-GM,-1.0483821971844451
+How does AWS support cloud applications?,4,OlAmyf8_4O4,-1.0596646494404347
+How does AWS support cloud applications?,5,F9gB5b4jgOI,-1.069907229467124
+What are containers used for in cloud infrastructure?,1,hK8wf18SasY,-1.0128599327329846
+What are containers used for in cloud infrastructure?,2,lEcULR30-GM,-1.0192250429442227
+What are containers used for in cloud infrastructure?,3,Fr9GqFwl6NM,-1.0385104413019213
+What are containers used for in cloud infrastructure?,4,xHUwGx-ZlTM,-1.0556600963914977
+What are containers used for in cloud infrastructure?,5,odP153inZUo,-1.056693290456457
