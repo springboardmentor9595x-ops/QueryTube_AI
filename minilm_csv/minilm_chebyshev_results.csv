@@ -1,0 +1,501 @@
+Query,Rank,Video,Distance
+what are programming fundamentals,1,66hDgWottdA,0.1385
+what are programming fundamentals,2,jaDi29eRYps,0.1537
+what are programming fundamentals,3,hM2T45qbIPI,0.1602
+what are programming fundamentals,4,Fi8vnYgMiHA,0.1615
+what are programming fundamentals,5,UsfpzxZNsPo,0.1634
+how to start learning programming,1,UsfpzxZNsPo,0.135
+how to start learning programming,2,ebarbEsoHzg,0.139
+how to start learning programming,3,jaDi29eRYps,0.1416
+how to start learning programming,4,g_3IKHG-rfA,0.1468
+how to start learning programming,5,66hDgWottdA,0.1471
+beginner coding concepts explained,1,cjam-BWAaL8,0.1374
+beginner coding concepts explained,2,cfOI7PBhkWk,0.1418
+beginner coding concepts explained,3,DosHnyq78xY,0.1432
+beginner coding concepts explained,4,LzMnsfqjzkA,0.1446
+beginner coding concepts explained,5,626BcUO84og,0.1446
+basics of software development,1,ZldNCx4AvEM,0.1386
+basics of software development,2,cjam-BWAaL8,0.1465
+basics of software development,3,vc5T3VmCar0,0.1493
+basics of software development,4,LsY7U2Muau8,0.1614
+basics of software development,5,2Kw3e-1vbBQ,0.1616
+introduction to programming logic,1,n1sfrc-RjyM,0.1588
+introduction to programming logic,2,EO8QoyRSVaw,0.1595
+introduction to programming logic,3,suuDVhYXe5Y,0.162
+introduction to programming logic,4,cjam-BWAaL8,0.1635
+introduction to programming logic,5,WKIjkxxNH0c,0.1645
+how computers execute code,1,IBTx5aGj-6U,0.1598
+how computers execute code,2,davl7UFG-Ls,0.1618
+how computers execute code,3,Fi8vnYgMiHA,0.1703
+how computers execute code,4,MdEexYakkHw,0.1713
+how computers execute code,5,UtV8MfnuIEg,0.1735
+difference between compiled and interpreted languages,1,U6-RekkuORI,0.1675
+difference between compiled and interpreted languages,2,912L9KmzSLE,0.177
+difference between compiled and interpreted languages,3,Fi8vnYgMiHA,0.1808
+difference between compiled and interpreted languages,4,uJAUeXLXHrY,0.1877
+difference between compiled and interpreted languages,5,P6fLZFJsH7Y,0.192
+how variables and loops work,1,davl7UFG-Ls,0.1514
+how variables and loops work,2,KOutPbKc9UM,0.1683
+how variables and loops work,3,kFEBs8wuhiU,0.1699
+how variables and loops work,4,QCSKhLuGR5c,0.1759
+how variables and loops work,5,LsY7U2Muau8,0.1785
+programming basics for beginners,1,cjam-BWAaL8,0.1292
+programming basics for beginners,2,jaDi29eRYps,0.1423
+programming basics for beginners,3,UsfpzxZNsPo,0.1437
+programming basics for beginners,4,EO8QoyRSVaw,0.144
+programming basics for beginners,5,GAZkxw6DJJE,0.1444
+core concepts every programmer should know,1,I7_WXKhyGms,0.1347
+core concepts every programmer should know,2,xwI5OBEnsZU,0.149
+core concepts every programmer should know,3,mvleESOUTRw,0.1537
+core concepts every programmer should know,4,tPeyD3ELDHw,0.1554
+core concepts every programmer should know,5,9HOpanT0GRs,0.1576
+what are data structures in programming,1,g_3IKHG-rfA,0.1504
+what are data structures in programming,2,GAZkxw6DJJE,0.1543
+what are data structures in programming,3,mrRfPVm9nAY,0.1557
+what are data structures in programming,4,WXk7yDqsKxs,0.1657
+what are data structures in programming,5,Fi8vnYgMiHA,0.1683
+explain arrays and linked lists,1,mrRfPVm9nAY,0.1499
+explain arrays and linked lists,2,nbsz6muQRT4,0.1659
+explain arrays and linked lists,3,kFEBs8wuhiU,0.1688
+explain arrays and linked lists,4,ja4OAzPLuM8,0.1737
+explain arrays and linked lists,5,uJAUeXLXHrY,0.1739
+introduction to stacks and queues,1,UuknxVdqzb4,0.1616
+introduction to stacks and queues,2,MtQhSMoHXMY,0.1677
+introduction to stacks and queues,3,cfOI7PBhkWk,0.1718
+introduction to stacks and queues,4,H-oCV5brtU4,0.1722
+introduction to stacks and queues,5,bB5eA7vU9W8,0.175
+how hash tables work,1,mrRfPVm9nAY,0.1682
+how hash tables work,2,davl7UFG-Ls,0.1688
+how hash tables work,3,G9JxuWk7BDA,0.1693
+how hash tables work,4,u1T8yyEEKWY,0.1764
+how hash tables work,5,hM2T45qbIPI,0.1787
+time complexity explained,1,UtV8MfnuIEg,0.17
+time complexity explained,2,davl7UFG-Ls,0.1736
+time complexity explained,3,J7sQe2n0z6Q,0.1755
+time complexity explained,4,mrRfPVm9nAY,0.1768
+time complexity explained,5,fQ51cM44o7I,0.1801
+big o notation tutorial,1,URJBQ3b9n6Y,0.1601
+big o notation tutorial,2,iMLGy2wEE_g,0.1687
+big o notation tutorial,3,5JTBS09e7ew,0.1707
+big o notation tutorial,4,n1sfrc-RjyM,0.1744
+big o notation tutorial,5,xwI5OBEnsZU,0.1756
+algorithm optimization techniques,1,l57xKN6OBhY,0.1786
+algorithm optimization techniques,2,aokdrllzkFQ,0.1805
+algorithm optimization techniques,3,Fr9GqFwl6NM,0.1806
+algorithm optimization techniques,4,0aKV-JGtDMA,0.1813
+algorithm optimization techniques,5,l2Z9f42HGpY,0.1826
+common data structures used in software engineering,1,mrRfPVm9nAY,0.1627
+common data structures used in software engineering,2,tVskbekONlw,0.1644
+common data structures used in software engineering,3,G9JxuWk7BDA,0.1681
+common data structures used in software engineering,4,08jTzcEMv_E,0.1764
+common data structures used in software engineering,5,lYhi86Zaetg,0.1784
+sorting algorithms explained,1,wu8npoU37cI,0.1803
+sorting algorithms explained,2,BrBMM2gIQN8,0.1813
+sorting algorithms explained,3,D5F8kp_azzw,0.1814
+sorting algorithms explained,4,9kKNFP9srjc,0.1845
+sorting algorithms explained,5,slfaeQLn1cY,0.1854
+searching algorithms in programming,1,UsfpzxZNsPo,0.1511
+searching algorithms in programming,2,UIf-SlmMays,0.1582
+searching algorithms in programming,3,xJjxQjZTryI,0.1643
+searching algorithms in programming,4,MZVyASCY8sQ,0.1704
+searching algorithms in programming,5,ebarbEsoHzg,0.1709
+introduction to machine learning,1,PBx-e7yyk5M,0.1678
+introduction to machine learning,2,tVskbekONlw,0.175
+introduction to machine learning,3,UIf-SlmMays,0.1754
+introduction to machine learning,4,FAKgFhWX8pQ,0.1779
+introduction to machine learning,5,dSIVVX0vAsY,0.1809
+how machine learning works,1,mvleESOUTRw,0.1665
+how machine learning works,2,wP8SiwiExBk,0.1704
+how machine learning works,3,MdEexYakkHw,0.1716
+how machine learning works,4,s950xhRvqYQ,0.1736
+how machine learning works,5,Tbqmz0ZP8q8,0.176
+supervised vs unsupervised learning,1,FAKgFhWX8pQ,0.1718
+supervised vs unsupervised learning,2,xJjxQjZTryI,0.1728
+supervised vs unsupervised learning,3,MiPkcTaRbfQ,0.1791
+supervised vs unsupervised learning,4,fLnkVdDPgso,0.1835
+supervised vs unsupervised learning,5,bB5eA7vU9W8,0.1856
+neural networks explained simply,1,kRv2ElPNAdY,0.1646
+neural networks explained simply,2,p3sij8QzONQ,0.1664
+neural networks explained simply,3,BrBMM2gIQN8,0.1679
+neural networks explained simply,4,tfpGS_doPvY,0.1682
+neural networks explained simply,5,wu8npoU37cI,0.1722
+what is deep learning,1,ll1mpTJ4qBU,0.1714
+what is deep learning,2,MdEexYakkHw,0.1755
+what is deep learning,3,p3sij8QzONQ,0.1756
+what is deep learning,4,MZVyASCY8sQ,0.1761
+what is deep learning,5,kRv2ElPNAdY,0.1768
+how AI models are trained,1,YtHdaXuOAks,0.1503
+how AI models are trained,2,58Tn2xB8kIE,0.158
+how AI models are trained,3,tfpGS_doPvY,0.1644
+how AI models are trained,4,dSIVVX0vAsY,0.1646
+how AI models are trained,5,WKIjkxxNH0c,0.1706
+machine learning project ideas,1,tVskbekONlw,0.1453
+machine learning project ideas,2,mvleESOUTRw,0.1514
+machine learning project ideas,3,I7_WXKhyGms,0.156
+machine learning project ideas,4,cjam-BWAaL8,0.16
+machine learning project ideas,5,YtHdaXuOAks,0.161
+building ML models step by step,1,tVskbekONlw,0.1492
+building ML models step by step,2,D5F8kp_azzw,0.1557
+building ML models step by step,3,UsfpzxZNsPo,0.1625
+building ML models step by step,4,tr5Fapv80Cw,0.1629
+building ML models step by step,5,jaDi29eRYps,0.1657
+practical applications of machine learning,1,MZVyASCY8sQ,0.1632
+practical applications of machine learning,2,E7o_WdfKszU,0.1659
+practical applications of machine learning,3,zkJt9y7ixiY,0.1697
+practical applications of machine learning,4,G9JxuWk7BDA,0.1698
+practical applications of machine learning,5,WKIjkxxNH0c,0.1699
+AI tools developers should know,1,MZVyASCY8sQ,0.1455
+AI tools developers should know,2,aokdrllzkFQ,0.1477
+AI tools developers should know,3,YtHdaXuOAks,0.1489
+AI tools developers should know,4,zkJt9y7ixiY,0.1535
+AI tools developers should know,5,UsfpzxZNsPo,0.1538
+how to build a web application,1,UuknxVdqzb4,0.1437
+how to build a web application,2,21_I-12f5JE,0.1589
+how to build a web application,3,yhtdkuw9mbM,0.161
+how to build a web application,4,HihwnUepmdg,0.1665
+how to build a web application,5,Kt2E8nblvXU,0.1708
+front end vs back end development,1,KOutPbKc9UM,0.1552
+front end vs back end development,2,4RGkpzTJjfg,0.1587
+front end vs back end development,3,c1Op7YSTwhg,0.1689
+front end vs back end development,4,9vkkJ4tC4SQ,0.1722
+front end vs back end development,5,_4uQI4ihGVU,0.173
+introduction to HTML CSS JavaScript,1,c6IyCwAV6BY,0.1481
+introduction to HTML CSS JavaScript,2,tPkJLnDqAKk,0.157
+introduction to HTML CSS JavaScript,3,Kt2E8nblvXU,0.157
+introduction to HTML CSS JavaScript,4,cfOI7PBhkWk,0.1632
+introduction to HTML CSS JavaScript,5,KOutPbKc9UM,0.1661
+how APIs work in web development,1,W4M-g9wsEC4,0.1621
+how APIs work in web development,2,YtHdaXuOAks,0.1636
+how APIs work in web development,3,MdEexYakkHw,0.1651
+how APIs work in web development,4,QSFWSjBHIkw,0.1712
+how APIs work in web development,5,WKIjkxxNH0c,0.1729
+building REST APIs explained,1,WSsOXo07LeE,0.1543
+building REST APIs explained,2,UuknxVdqzb4,0.1565
+building REST APIs explained,3,ll1mpTJ4qBU,0.1656
+building REST APIs explained,4,9vkkJ4tC4SQ,0.1667
+building REST APIs explained,5,Q7P20fHJlm4,0.1684
+full stack development roadmap,1,I7_WXKhyGms,0.1546
+full stack development roadmap,2,dSIVVX0vAsY,0.156
+full stack development roadmap,3,voPcxCFMbbM,0.1593
+full stack development roadmap,4,D5F8kp_azzw,0.1595
+full stack development roadmap,5,xH9ZKsTY73Y,0.1621
+how to deploy a web application,1,lEcULR30-GM,0.1483
+how to deploy a web application,2,KOutPbKc9UM,0.1508
+how to deploy a web application,3,UuknxVdqzb4,0.1554
+how to deploy a web application,4,HEGrkgpe7-Y,0.1579
+how to deploy a web application,5,9vkkJ4tC4SQ,0.16
+modern JavaScript frameworks overview,1,y5aKEyPfLKs,0.1287
+modern JavaScript frameworks overview,2,c6IyCwAV6BY,0.1406
+modern JavaScript frameworks overview,3,yhTipwdwe9w,0.1519
+modern JavaScript frameworks overview,4,Q7P20fHJlm4,0.1524
+modern JavaScript frameworks overview,5,Kt2E8nblvXU,0.1584
+backend development fundamentals,1,KOutPbKc9UM,0.1353
+backend development fundamentals,2,626BcUO84og,0.1522
+backend development fundamentals,3,ZldNCx4AvEM,0.1532
+backend development fundamentals,4,oeWLnnjFmf8,0.1575
+backend development fundamentals,5,9vkkJ4tC4SQ,0.1614
+how web servers process requests,1,UuknxVdqzb4,0.1633
+how web servers process requests,2,KOutPbKc9UM,0.1721
+how web servers process requests,3,B0TJC4lmzEM,0.1759
+how web servers process requests,4,9HOpanT0GRs,0.1762
+how web servers process requests,5,kFEBs8wuhiU,0.177
+what is DevOps,1,lEcULR30-GM,0.1641
+what is DevOps,2,GIZzRGYpCbM,0.1686
+what is DevOps,3,wP8SiwiExBk,0.1705
+what is DevOps,4,iMLGy2wEE_g,0.1715
+what is DevOps,5,MtQhSMoHXMY,0.1727
+introduction to Kubernetes,1,l57xKN6OBhY,0.1045
+introduction to Kubernetes,2,Fr9GqFwl6NM,0.1071
+introduction to Kubernetes,3,_4uQI4ihGVU,0.1222
+introduction to Kubernetes,4,VgBQ0yBSjfM,0.1656
+introduction to Kubernetes,5,4T3YlTSWa5s,0.1698
+containerization explained with Docker,1,lEcULR30-GM,0.1633
+containerization explained with Docker,2,odP153inZUo,0.1698
+containerization explained with Docker,3,gpm1hRv6WL8,0.1757
+containerization explained with Docker,4,wP8SiwiExBk,0.1774
+containerization explained with Docker,5,Bufi2i2fLT0,0.1777
+how CI/CD pipelines work,1,Fr9GqFwl6NM,0.1681
+how CI/CD pipelines work,2,tVskbekONlw,0.1739
+how CI/CD pipelines work,3,9vkkJ4tC4SQ,0.1745
+how CI/CD pipelines work,4,l57xKN6OBhY,0.176
+how CI/CD pipelines work,5,rgt5GPFgryI,0.1787
+cloud computing basics for developers,1,5JTBS09e7ew,0.1351
+cloud computing basics for developers,2,u43gJJrVa1I,0.1461
+cloud computing basics for developers,3,ZK6XWSCCgPQ,0.1481
+cloud computing basics for developers,4,mAFoROnOfHs,0.1514
+cloud computing basics for developers,5,_4uQI4ihGVU,0.1518
+infrastructure automation explained,1,l57xKN6OBhY,0.1627
+infrastructure automation explained,2,GIZzRGYpCbM,0.1658
+infrastructure automation explained,3,aokdrllzkFQ,0.1669
+infrastructure automation explained,4,Fr9GqFwl6NM,0.1674
+infrastructure automation explained,5,WXk7yDqsKxs,0.1681
+monitoring and logging systems,1,taSwtU-sldo,0.166
+monitoring and logging systems,2,iMLGy2wEE_g,0.1686
+monitoring and logging systems,3,UsfpzxZNsPo,0.1708
+monitoring and logging systems,4,-VC3hIEL7eQ,0.1768
+monitoring and logging systems,5,WSsOXo07LeE,0.1792
+microservices architecture explained,1,xHUwGx-ZlTM,0.1506
+microservices architecture explained,2,qG2g1iv6ZbY,0.1712
+microservices architecture explained,3,WSsOXo07LeE,0.1752
+microservices architecture explained,4,ll1mpTJ4qBU,0.1788
+microservices architecture explained,5,DIRnYM2dOs0,0.1815
+scaling applications in production,1,y5aKEyPfLKs,0.1559
+scaling applications in production,2,4RGkpzTJjfg,0.1637
+scaling applications in production,3,zkJt9y7ixiY,0.1649
+scaling applications in production,4,HEGrkgpe7-Y,0.1677
+scaling applications in production,5,MtQhSMoHXMY,0.1717
+distributed systems basics,1,UIf-SlmMays,0.1609
+distributed systems basics,2,r36xQmTJe1c,0.1622
+distributed systems basics,3,xHUwGx-ZlTM,0.1625
+distributed systems basics,4,jaDi29eRYps,0.1631
+distributed systems basics,5,Fi8vnYgMiHA,0.1668
+how to contribute to open source,1,FHBBaSUQk1Y,0.1203
+how to contribute to open source,2,4RGkpzTJjfg,0.1307
+how to contribute to open source,3,cw02dMpWStI,0.1559
+how to contribute to open source,4,LzMnsfqjzkA,0.1594
+how to contribute to open source,5,xH9ZKsTY73Y,0.1597
+benefits of contributing to open source projects,1,4RGkpzTJjfg,0.1157
+benefits of contributing to open source projects,2,c1Op7YSTwhg,0.1218
+benefits of contributing to open source projects,3,FHBBaSUQk1Y,0.1321
+benefits of contributing to open source projects,4,HihwnUepmdg,0.1557
+benefits of contributing to open source projects,5,lw1vTtFyfgg,0.1654
+finding beginner friendly open source projects,1,MiPkcTaRbfQ,0.1442
+finding beginner friendly open source projects,2,yguDjZcUpH8,0.146
+finding beginner friendly open source projects,3,c1Op7YSTwhg,0.1479
+finding beginner friendly open source projects,4,cw02dMpWStI,0.1526
+finding beginner friendly open source projects,5,voPcxCFMbbM,0.1529
+open source collaboration workflow,1,FHBBaSUQk1Y,0.1438
+open source collaboration workflow,2,I2LoiJWCKxc,0.1538
+open source collaboration workflow,3,mAFoROnOfHs,0.1568
+open source collaboration workflow,4,zfUP1tIC64o,0.1582
+open source collaboration workflow,5,c1Op7YSTwhg,0.1586
+GitHub contribution guide,1,cw02dMpWStI,0.1649
+GitHub contribution guide,2,ZldNCx4AvEM,0.1751
+GitHub contribution guide,3,58Tn2xB8kIE,0.1752
+GitHub contribution guide,4,iMLGy2wEE_g,0.1761
+GitHub contribution guide,5,FHBBaSUQk1Y,0.1765
+how maintainers review pull requests,1,ZldNCx4AvEM,0.1693
+how maintainers review pull requests,2,7lEWtEG3vd0,0.1709
+how maintainers review pull requests,3,Zo8AxO6sTQA,0.1802
+how maintainers review pull requests,4,Bufi2i2fLT0,0.1825
+how maintainers review pull requests,5,Q7P20fHJlm4,0.1837
+importance of open source in software development,1,4RGkpzTJjfg,0.1329
+importance of open source in software development,2,c1Op7YSTwhg,0.1394
+importance of open source in software development,3,y5aKEyPfLKs,0.1616
+importance of open source in software development,4,W4M-g9wsEC4,0.1622
+importance of open source in software development,5,mAFoROnOfHs,0.1639
+open source project structure explained,1,c1Op7YSTwhg,0.1448
+open source project structure explained,2,4RGkpzTJjfg,0.1453
+open source project structure explained,3,wP8SiwiExBk,0.1562
+open source project structure explained,4,zkJt9y7ixiY,0.1606
+open source project structure explained,5,mvleESOUTRw,0.1638
+best practices for contributing code,1,OGRyln02De4,0.1627
+best practices for contributing code,2,9vkkJ4tC4SQ,0.1694
+best practices for contributing code,3,ZldNCx4AvEM,0.1718
+best practices for contributing code,4,J7sQe2n0z6Q,0.1748
+best practices for contributing code,5,cw02dMpWStI,0.1749
+learning programming through open source,1,hM2T45qbIPI,0.1373
+learning programming through open source,2,GAZkxw6DJJE,0.14
+learning programming through open source,3,yguDjZcUpH8,0.1454
+learning programming through open source,4,I7_WXKhyGms,0.1516
+learning programming through open source,5,mvleESOUTRw,0.1547
+git basics for beginners,1,ZldNCx4AvEM,0.1107
+git basics for beginners,2,mAFoROnOfHs,0.119
+git basics for beginners,3,cw02dMpWStI,0.1607
+git basics for beginners,4,hM2T45qbIPI,0.1631
+git basics for beginners,5,voPcxCFMbbM,0.1683
+how git version control works,1,ZldNCx4AvEM,0.1282
+how git version control works,2,mAFoROnOfHs,0.1297
+how git version control works,3,hP931079TMw,0.1762
+how git version control works,4,MiGXhDvuvEg,0.1795
+how git version control works,5,lIghF_OewYg,0.1811
+branching and merging in git,1,ZldNCx4AvEM,0.1579
+branching and merging in git,2,lIghF_OewYg,0.1664
+branching and merging in git,3,cw02dMpWStI,0.1703
+branching and merging in git,4,jaDi29eRYps,0.1829
+branching and merging in git,5,cjam-BWAaL8,0.1832
+resolving merge conflicts in git,1,mAFoROnOfHs,0.1636
+resolving merge conflicts in git,2,ZldNCx4AvEM,0.17
+resolving merge conflicts in git,3,DIRnYM2dOs0,0.1751
+resolving merge conflicts in git,4,cw02dMpWStI,0.1836
+resolving merge conflicts in git,5,9tyZL5KIiGU,0.1849
+git workflow explained,1,ZldNCx4AvEM,0.1336
+git workflow explained,2,mAFoROnOfHs,0.1445
+git workflow explained,3,5JTBS09e7ew,0.1685
+git workflow explained,4,I7_WXKhyGms,0.1709
+git workflow explained,5,l57xKN6OBhY,0.1749
+how to use git for team collaboration,1,mAFoROnOfHs,0.1191
+how to use git for team collaboration,2,ZldNCx4AvEM,0.1336
+how to use git for team collaboration,3,I2LoiJWCKxc,0.1612
+how to use git for team collaboration,4,DIRnYM2dOs0,0.1781
+how to use git for team collaboration,5,cw02dMpWStI,0.1791
+git commands every developer should know,1,mAFoROnOfHs,0.1327
+git commands every developer should know,2,ZldNCx4AvEM,0.1598
+git commands every developer should know,3,n1sfrc-RjyM,0.1605
+git commands every developer should know,4,2Kw3e-1vbBQ,0.1664
+git commands every developer should know,5,Vs4hQsDpxww,0.1689
+using github for projects,1,mAFoROnOfHs,0.1482
+using github for projects,2,ZldNCx4AvEM,0.1603
+using github for projects,3,9vkkJ4tC4SQ,0.167
+using github for projects,4,boH7_Ate4LM,0.1708
+using github for projects,5,Vs4hQsDpxww,0.1717
+version control best practices,1,Ai00MsNabaE,0.1668
+version control best practices,2,DIRnYM2dOs0,0.1675
+version control best practices,3,y5aKEyPfLKs,0.1701
+version control best practices,4,MtQhSMoHXMY,0.1747
+version control best practices,5,keTcXT145CI,0.1773
+managing code history with git,1,ZldNCx4AvEM,0.1443
+managing code history with git,2,L6kMdLH1S8w,0.1722
+managing code history with git,3,Vs4hQsDpxww,0.1773
+managing code history with git,4,n1sfrc-RjyM,0.1787
+managing code history with git,5,6_qwLx8jwBY,0.1796
+debugging techniques for developers,1,OGRyln02De4,0.1429
+debugging techniques for developers,2,Yygu7TBWdPs,0.1627
+debugging techniques for developers,3,hM2T45qbIPI,0.1667
+debugging techniques for developers,4,iMLGy2wEE_g,0.167
+debugging techniques for developers,5,FqJuiLbgqNA,0.1675
+how to fix bugs in code,1,OGRyln02De4,0.1742
+how to fix bugs in code,2,DIRnYM2dOs0,0.1769
+how to fix bugs in code,3,9UxVhurASxU,0.1775
+how to fix bugs in code,4,MkeawaniGts,0.1779
+how to fix bugs in code,5,oeWLnnjFmf8,0.179
+common programming mistakes,1,DIRnYM2dOs0,0.1611
+common programming mistakes,2,zkJt9y7ixiY,0.1666
+common programming mistakes,3,Zo8AxO6sTQA,0.1702
+common programming mistakes,4,WbZDt-ubm48,0.1742
+common programming mistakes,5,FqJuiLbgqNA,0.1751
+troubleshooting software errors,1,f0Yq_wF_cIQ,0.1734
+troubleshooting software errors,2,9HOpanT0GRs,0.1737
+troubleshooting software errors,3,WbZDt-ubm48,0.1782
+troubleshooting software errors,4,Ufy1FyqvfKM,0.1814
+troubleshooting software errors,5,WXk7yDqsKxs,0.1859
+debugging large codebases,1,BMt-qvrEcFY,0.1653
+debugging large codebases,2,FqJuiLbgqNA,0.1711
+debugging large codebases,3,9vkkJ4tC4SQ,0.1735
+debugging large codebases,4,YtHdaXuOAks,0.1752
+debugging large codebases,5,I7_WXKhyGms,0.1759
+strategies for solving coding problems,1,66hDgWottdA,0.1501
+strategies for solving coding problems,2,gmuTjeQUbTM,0.1527
+strategies for solving coding problems,3,pdleuy5lljY,0.1563
+strategies for solving coding problems,4,xJjxQjZTryI,0.157
+strategies for solving coding problems,5,g_3IKHG-rfA,0.1638
+understanding error messages in programming,1,DIRnYM2dOs0,0.1619
+understanding error messages in programming,2,Zo8AxO6sTQA,0.1657
+understanding error messages in programming,3,TcZFJrjxOYQ,0.1692
+understanding error messages in programming,4,uJAUeXLXHrY,0.1704
+understanding error messages in programming,5,L6kMdLH1S8w,0.1719
+debugging tools for developers,1,LzMnsfqjzkA,0.1547
+debugging tools for developers,2,OGRyln02De4,0.1571
+debugging tools for developers,3,ZldNCx4AvEM,0.1585
+debugging tools for developers,4,iMLGy2wEE_g,0.1663
+debugging tools for developers,5,ll1mpTJ4qBU,0.1666
+how developers investigate software bugs,1,oeWLnnjFmf8,0.1571
+how developers investigate software bugs,2,FqJuiLbgqNA,0.1582
+how developers investigate software bugs,3,yhTipwdwe9w,0.1776
+how developers investigate software bugs,4,ll1mpTJ4qBU,0.1777
+how developers investigate software bugs,5,ekXUXu7Eejs,0.179
+improving problem solving skills in coding,1,xJjxQjZTryI,0.1458
+improving problem solving skills in coding,2,pdleuy5lljY,0.1477
+improving problem solving skills in coding,3,GAZkxw6DJJE,0.1493
+improving problem solving skills in coding,4,voPcxCFMbbM,0.1507
+improving problem solving skills in coding,5,gmuTjeQUbTM,0.1522
+how to become a software developer,1,lIghF_OewYg,0.1496
+how to become a software developer,2,kQqrMNviM9U,0.1526
+how to become a software developer,3,ldkfMvE36FI,0.1573
+how to become a software developer,4,cjam-BWAaL8,0.1577
+how to become a software developer,5,ZK6XWSCCgPQ,0.1584
+developer career roadmap,1,626BcUO84og,0.1448
+developer career roadmap,2,cw02dMpWStI,0.147
+developer career roadmap,3,LzMnsfqjzkA,0.1509
+developer career roadmap,4,cfOI7PBhkWk,0.1554
+developer career roadmap,5,vc5T3VmCar0,0.1554
+how to prepare for coding interviews,1,cjam-BWAaL8,0.1372
+how to prepare for coding interviews,2,626BcUO84og,0.1444
+how to prepare for coding interviews,3,ekXUXu7Eejs,0.1486
+how to prepare for coding interviews,4,66hDgWottdA,0.1489
+how to prepare for coding interviews,5,yguDjZcUpH8,0.152
+skills needed for software engineering jobs,1,UsfpzxZNsPo,0.1405
+skills needed for software engineering jobs,2,vc5T3VmCar0,0.1527
+skills needed for software engineering jobs,3,ekXUXu7Eejs,0.1559
+skills needed for software engineering jobs,4,I7_WXKhyGms,0.1588
+skills needed for software engineering jobs,5,xwI5OBEnsZU,0.1591
+how developers keep learning new technologies,1,q4Ovbh3tpU0,0.1547
+how developers keep learning new technologies,2,H-oCV5brtU4,0.1602
+how developers keep learning new technologies,3,6_qwLx8jwBY,0.1621
+how developers keep learning new technologies,4,zfUP1tIC64o,0.1621
+how developers keep learning new technologies,5,o54etZM-DrY,0.1642
+managing burnout in software development,1,q4Ovbh3tpU0,0.1645
+managing burnout in software development,2,yhTipwdwe9w,0.1719
+managing burnout in software development,3,gpm1hRv6WL8,0.1726
+managing burnout in software development,4,9tyZL5KIiGU,0.1736
+managing burnout in software development,5,0Hd5vYqin7w,0.1748
+productivity tips for programmers,1,EQH9MBHGyag,0.1547
+productivity tips for programmers,2,jaDi29eRYps,0.1552
+productivity tips for programmers,3,gpm1hRv6WL8,0.1569
+productivity tips for programmers,4,QMgIovzpYVw,0.1606
+productivity tips for programmers,5,58Tn2xB8kIE,0.163
+building a strong developer portfolio,1,yguDjZcUpH8,0.1527
+building a strong developer portfolio,2,c6IyCwAV6BY,0.1596
+building a strong developer portfolio,3,cjam-BWAaL8,0.1636
+building a strong developer portfolio,4,oRZouQxC5Gw,0.1642
+building a strong developer portfolio,5,jaDi29eRYps,0.1662
+learning new programming languages effectively,1,Fi8vnYgMiHA,0.1461
+learning new programming languages effectively,2,Vs4hQsDpxww,0.1477
+learning new programming languages effectively,3,626BcUO84og,0.1641
+learning new programming languages effectively,4,g_3IKHG-rfA,0.1709
+learning new programming languages effectively,5,BMt-qvrEcFY,0.1711
+advice for junior developers,1,OGRyln02De4,0.1399
+advice for junior developers,2,ebarbEsoHzg,0.1538
+advice for junior developers,3,W4M-g9wsEC4,0.1573
+advice for junior developers,4,cjam-BWAaL8,0.1588
+advice for junior developers,5,Y6JJgOqroAI,0.1622
+future of software development,1,kb_scuDUHls,0.1545
+future of software development,2,MdEexYakkHw,0.1547
+future of software development,3,voPcxCFMbbM,0.1595
+future of software development,4,Fi8vnYgMiHA,0.1601
+future of software development,5,WXk7yDqsKxs,0.1605
+how AI is changing programming,1,MZVyASCY8sQ,0.1369
+how AI is changing programming,2,MdEexYakkHw,0.1406
+how AI is changing programming,3,LsY7U2Muau8,0.1433
+how AI is changing programming,4,aokdrllzkFQ,0.1472
+how AI is changing programming,5,gmuTjeQUbTM,0.155
+importance of continuous learning in tech,1,q4Ovbh3tpU0,0.1571
+importance of continuous learning in tech,2,Y6JJgOqroAI,0.1589
+importance of continuous learning in tech,3,E7o_WdfKszU,0.1605
+importance of continuous learning in tech,4,tPeyD3ELDHw,0.1613
+importance of continuous learning in tech,5,58Tn2xB8kIE,0.1633
+building real world software projects,1,EO8QoyRSVaw,0.1571
+building real world software projects,2,9vkkJ4tC4SQ,0.1604
+building real world software projects,3,HihwnUepmdg,0.1606
+building real world software projects,4,mvleESOUTRw,0.1617
+building real world software projects,5,GAZkxw6DJJE,0.1627
+how developers stay updated with technology,1,mAFoROnOfHs,0.1553
+how developers stay updated with technology,2,MdEexYakkHw,0.1594
+how developers stay updated with technology,3,DIRnYM2dOs0,0.1649
+how developers stay updated with technology,4,UIf-SlmMays,0.1683
+how developers stay updated with technology,5,Zo8AxO6sTQA,0.1731
+mindset needed to succeed in programming,1,UsfpzxZNsPo,0.1368
+mindset needed to succeed in programming,2,ebarbEsoHzg,0.145
+mindset needed to succeed in programming,3,6_qwLx8jwBY,0.145
+mindset needed to succeed in programming,4,MdEexYakkHw,0.1477
+mindset needed to succeed in programming,5,gmuTjeQUbTM,0.1519
+learning through building projects,1,mvleESOUTRw,0.1379
+learning through building projects,2,H-oCV5brtU4,0.148
+learning through building projects,3,LzMnsfqjzkA,0.1551
+learning through building projects,4,3PD-vQbpwA8,0.1571
+learning through building projects,5,FHBBaSUQk1Y,0.1588
+challenges developers face in industry,1,ldkfMvE36FI,0.1409
+challenges developers face in industry,2,7ysrM5BMe6Q,0.1567
+challenges developers face in industry,3,9q24hqwm4QM,0.1624
+challenges developers face in industry,4,h3nn7MsCmsQ,0.1633
+challenges developers face in industry,5,zfUP1tIC64o,0.164
+transitioning into a tech career,1,9q24hqwm4QM,0.1349
+transitioning into a tech career,2,gpm1hRv6WL8,0.1391
+transitioning into a tech career,3,ekXUXu7Eejs,0.1524
+transitioning into a tech career,4,H-oCV5brtU4,0.1524
+transitioning into a tech career,5,Y6JJgOqroAI,0.1558
+advice from experienced software engineers,1,626BcUO84og,0.143
+advice from experienced software engineers,2,cjam-BWAaL8,0.1436
+advice from experienced software engineers,3,W4M-g9wsEC4,0.154
+advice from experienced software engineers,4,hP931079TMw,0.1615
+advice from experienced software engineers,5,_4uQI4ihGVU,0.1616
