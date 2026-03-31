@@ -1,0 +1,401 @@
+video_id,title,publish_date,year,month,title_length
+E-CH3-VyVck,🚀 Why is Git INSANELY Fast? (And How Commits Actually Work),2026-02-24 11:00:29+00:00,2026,2,59
+-l0ZsmMdZYE,One click deploys vs manual K8s hell #devops,2026-02-23 03:44:26+00:00,2026,2,44
+URI5GsOBznk,YouTube Recommendation Engine: Complete Meltdown Analysis,2026-02-21 04:26:16+00:00,2026,2,57
+8d2eG7bdepQ,Implementing OAuth and MFA: Full Authentication Breakdown,2026-02-18 11:00:16+00:00,2026,2,57
+GQ6piqfwr5c,"How Stripe Built AI Agents That Write 1,000+ Pull Requests a Week",2026-02-14 13:02:10+00:00,2026,2,65
+p5hA8rpCRXw,The Selenium Problem: Why QA Teams Waste 40% of Their Time | Kane AI,2026-02-11 11:01:25+00:00,2026,2,68
+4KiiKQ9RVvA,How to Build a Scalable RAG System for AI Apps (Full Architecture),2026-02-08 11:00:06+00:00,2026,2,66
+UDF53X8Tkmc,How to Let AI Securely Access Your Database (RBAC + MCP),2026-02-04 14:16:38+00:00,2026,2,56
+vVMlEBMIdKo,MCP vs A2A | Google&#39;s Answer to Anthropic&#39;s Protocol,2026-02-01 05:01:12+00:00,2026,2,60
+R0VZUKST1Ek,How an AI Agent Debugged a Production Incident in 80 Seconds (For 60 Cents),2026-01-29 14:29:23+00:00,2026,1,75
+2bQc4VCXzcs,Most Developers Don&#39;t Trust AI Code. Here&#39;s Why They Should Now,2026-01-27 11:00:05+00:00,2026,1,71
+BBvaKyg87Lc,They&#39;re Tracking Everything You Do (How to Stop It),2026-01-22 12:47:26+00:00,2026,1,55
+aNyP-DnaPR0,X.509 Certificates vs Vaults - The Security Industry Got It Wrong,2026-01-20 13:39:15+00:00,2026,1,65
+8nufqAsoX1k,Credit Card Transactions Decoded: From Tap to Bank in 2 Seconds,2026-01-15 14:00:20+00:00,2026,1,63
+RSoy6zNamdM,Don&#39;t Build AI Apps in 2026 Without This,2026-01-06 14:00:48+00:00,2026,1,44
+1YXwfjuDPNE,System Design Course: Student Exclusive Limited Time,2026-01-05 04:00:01+00:00,2026,1,52
+Q9xD4J3tezw,How Databases Actually Store Your Data (B-Trees vs LSM Trees Explained),2025-12-26 15:30:17+00:00,2025,12,71
+i_-q6dT7l1U,Netflix&#39;s GRAPHQL Secret to Handling BILLIONS of Requests,2025-12-14 14:30:28+00:00,2025,12,61
+voSYs_XDsog,I Built a Game Without Writing Code (AI Agent Did Everything),2025-12-10 12:02:04+00:00,2025,12,61
+AwV1ojZHNUI,Application Deployment in Minutes using Sevalla,2025-12-07 05:13:36+00:00,2025,12,47
+vhQ_K9Hua-Q,Building a Real-Time AI Recommendation Engine with ONE Database | MongoDB,2025-12-03 15:30:45+00:00,2025,12,73
+KS6ScOjB0Cg,"Amazon&#39;s Secret to 85,000 Orders/Minute | Black Friday Architecture",2025-11-29 16:00:27+00:00,2025,11,71
+v8eUhkhC8lw,How ONE Config File Took Down 20% of the Internet ($60B Loss),2025-11-23 05:32:18+00:00,2025,11,61
+3XeKm1ChS70,Why AI Coding Agents Keep Breaking on Your Laptop,2025-11-20 10:00:10+00:00,2025,11,49
+kf-TJPUWqX0,What If Websites Understood You Better?,2025-11-19 02:27:15+00:00,2025,11,39
+DzHUtYQyHFs,How Your Phone Can Get Hacked Without You Knowing!,2025-11-09 11:00:22+00:00,2025,11,50
+gen6KebHaNA,This AI Does Research Like a Whole Team!,2025-11-07 03:27:11+00:00,2025,11,40
+ys7Vcdv4GKw,AI Browsers Are Stealing Your Data (Prompt Injection Explained),2025-11-06 10:01:47+00:00,2025,11,63
+ey0HsdZSpoc,How a Tiny Bug Crashed AWS | DynamoDB us-east-1 Outage Explained,2025-11-04 10:01:15+00:00,2025,11,64
+cue5udxPANA,I Built a Search Engine That Talks Back,2025-10-30 09:01:05+00:00,2025,10,39
+-ROI4bCGpNY,Why Sevalla Is Better Than Heroku or Vercel For Teams!,2025-10-29 04:00:01+00:00,2025,10,54
+hiENF-I6MWs,Apache Kafka Without Disks - A Tutorial,2025-10-28 08:30:30+00:00,2025,10,39
+LM3rwbVPyNc,Quantum Computing Explained Simply | How Qubits Power the Future,2025-10-24 16:45:02+00:00,2025,10,64
+uryB8jGHCJ8,Headless Browsers Just Got Safer: Browserbase x 1Password,2025-10-22 02:00:54+00:00,2025,10,57
+oyYnRVQvxv4,The Hidden Languages Powering Your Favorite Apps | Top API Protocols,2025-10-13 08:00:55+00:00,2025,10,68
+6or-wXNMXMI,Introducing: System Design Mastery (Beta) – The Only Course You’ll Ever Need,2025-10-11 08:00:11+00:00,2025,10,76
+tgDAFumt65o,Why Stripe’s API Never Breaks | Date-Based Versioning Explained,2025-10-04 10:01:33+00:00,2025,10,63
+mOF42NjRaN4,Postman MCP Agent Generator,2025-10-03 03:06:51+00:00,2025,10,27
+tAYq5tAJxB0,Why Context Beats Prompts in AI!,2025-10-02 10:01:40+00:00,2025,10,32
+x4XjSRUSRrg,"The Security Problem with MCP | Identity, RBAC &amp; Audit",2025-09-30 10:01:45+00:00,2025,9,58
+zZPad0WPSMQ,Multi-Agent AI Builds Apps in Minutes! (MetaGPT X),2025-09-28 03:01:13+00:00,2025,9,50
+qnXTTmPPiz0,The Future of APIs | Postman MCP Agent Generator,2025-09-25 10:01:37+00:00,2025,9,48
+TuNvdQUVkto,How Databases Store Passwords Securely,2025-09-18 10:00:53+00:00,2025,9,38
+-QHsVHziSZQ,The JVM Secret That Makes Code Faster!,2025-09-13 11:00:00+00:00,2025,9,38
+QjGG7r84FPI,Next.js Full-Stack App in Minutes | Deploying to Sevalla,2025-09-10 03:00:26+00:00,2025,9,56
+tqjkePX0KGA,Amazon Q CLI Demo in Your Terminal,2025-09-09 03:01:00+00:00,2025,9,34
+OYn5Be1skCs,How Global Payments Actually Work (and How to Save on FX Fees with Airwallex),2025-09-06 14:15:02+00:00,2025,9,77
+XVfQD3lkn3g,Amazon Q Developer CLI Demo | AI That Codes in Your Terminal,2025-09-02 10:00:51+00:00,2025,9,60
+6Dq4Z8Nk1z8,"Passkeys Explained | Why Apple, Google &amp; Microsoft Want to KILL Passwords",2025-08-28 10:00:09+00:00,2025,8,77
+da-qb91mD6g,"What EXACTLY is Bastion? | SSH Jump, Port Forwarding &amp; Netflix",2025-08-25 10:01:03+00:00,2025,8,66
+5KChrGWFcpk,"Single Sign-On (SSO) Explained in 10 Minutes | SAML, OIDC &amp; SCIM",2025-08-21 10:00:08+00:00,2025,8,68
+bokPMx-N2uA,AWS S3 | Availability vs Durability,2025-08-18 04:00:38+00:00,2025,8,35
+USLwIwyWVIM,"Master 3 Essential Design Patterns in 10 Minutes | Decorator, Command, Adapter",2025-08-15 10:00:59+00:00,2025,8,78
+XZzFUjyxXYQ,Git Branching - Gitlab Flow - Git Mastery Crash Course,2025-08-14 04:00:41+00:00,2025,8,54
+QPVH19td8ME,Git Feature Branching - Git Mastery Crash Course,2025-08-13 04:00:36+00:00,2025,8,49
+s-vhqtyUF4I,"How SSH Works | Keys, Encryption &amp; Real-World Examples",2025-08-12 10:01:36+00:00,2025,8,58
+RlEDNgdNNs8,Git Branching - Github Flow - Git Mastery Crash Course,2025-08-12 04:00:37+00:00,2025,8,54
+ApR_6y6PxYA,Git Branching: Trunk-Based Development,2025-08-11 04:00:17+00:00,2025,8,38
+PS9kw4W52Gs,"MCP: The “USB-C” for AI Systems | Connect GPT, Claude &amp; Real-World Tools",2025-08-10 10:00:41+00:00,2025,8,76
+MmTiyF6Md5g,Git Branching - Git Flow - Git Mastery Crash Course,2025-08-09 12:21:11+00:00,2025,8,51
+97Z9zXZoSlw,Building a Scalable AuthN/AuthZ Software System using Supertokens,2025-08-06 15:47:45+00:00,2025,8,65
+esw0GzYWUyw,What Happens When You Login? | IAM Secrets Used by Big Tech,2025-08-05 09:00:55+00:00,2025,8,59
+uqI4u9wtkU0,"Quick Sort Explained Visually | Pivot, Partition, and Recursion",2025-08-03 03:02:54+00:00,2025,8,63
+5FrA0UzV1Aw,OAuth is Broken Without This | Meet PKCE,2025-07-30 10:00:18+00:00,2025,7,40
+-b6rGrIEG0w,What’s Best for Building AI Assistants? | REST vs WebSockets vs MCP,2025-07-26 10:00:00+00:00,2025,7,67
+3hrwFVLm7kc,User Authentication using SuperTokens,2025-07-24 03:51:49+00:00,2025,7,37
+fBSodN6BL3I,User Authentication Explained with SuperTokens and ReactJS,2025-07-22 10:01:07+00:00,2025,7,58
+Y1BopTNVoZE,I Got Fooled By a Scam Even as a Security Expert!,2025-07-20 04:00:45+00:00,2025,7,49
+xYv3tBvJavM,Spring Boot Deep Dive | How It Simplifies Java Apps &amp; Microservices,2025-07-16 10:01:37+00:00,2025,7,71
+cjSjlHUmaBU,Git Merge vs Rebase Explained Visually | Which One Should You Use?,2025-07-14 10:00:59+00:00,2025,7,66
+DaHmxRg2GWc,How Amazon S3 Achieves 99.999999999% Durability | Engineering Behind the 11 Nines,2025-07-11 10:00:33+00:00,2025,7,81
+NP7RmrHn1Q0,"Design Patterns in Java Every Developer Should Know | Factory, Observer, Strategy",2025-07-09 09:00:39+00:00,2025,7,81
+7qUVUFE4_Sc,"Design Patterns Explained | Java, Singleton, Thread Safety &amp; Anti-Pattern",2025-07-06 10:00:13+00:00,2025,7,77
+hsWK1cz00Ms,Tree Depth vs Height Balanced vs Skewed,2025-07-06 03:30:27+00:00,2025,7,39
+OuC_aTJDglY,Trees and Recursion,2025-07-05 03:30:17+00:00,2025,7,19
+1cZovwWsWVU,How I Scraped Amazon Without Getting Blocked | Python Proxy,2025-07-03 10:00:03+00:00,2025,7,59
+la0wPRCAiy0,Tree and Binary Tree Data Structure,2025-07-03 03:00:55+00:00,2025,7,35
+1y50YhnkEcQ,What is a Binary Search Tree (BST),2025-07-02 03:00:02+00:00,2025,7,34
+rwScL5Vncl0,DevOps Orchestration using Kestra,2025-06-30 03:45:07+00:00,2025,6,33
+JmVOEkskft4,FPGA in HFT Systems Explained | Why Reconfigurable Hardware Beats CPUs,2025-06-29 10:00:23+00:00,2025,6,70
+NlnIJKdetvE,Git: Why Do Programmers Use Feature Branches?,2025-06-28 03:07:48+00:00,2025,6,45
+SZ4PRZ8UbFU,I Built My Personal Finance App with One Prompt | MetaGPT X (MGX),2025-06-26 05:00:35+00:00,2025,6,65
+4bQeGUzHpOE,"HTTP Secure Headers for Web App Security | CORS, CSP, HSTS and more",2025-06-23 10:00:07+00:00,2025,6,67
+k7ZGcJdi_kI,Git Workflow Explained With Simple Steps Anyone Can Follow!,2025-06-22 12:13:37+00:00,2025,6,59
+8RWfE9eDWXI,How LLMs Work &amp; Why Prompt Engineering Matters,2025-06-21 10:00:13+00:00,2025,6,50
+Jj1-zb38Yfw,Agentic AI Explained So Anyone Can Get It!,2025-06-18 10:00:35+00:00,2025,6,42
+KqMOBptbKL8,DevOps Automation and Orchestration using Kestra,2025-06-17 04:45:53+00:00,2025,6,48
+cSqbQnQ5imU,You Use Tree Structures Every Day — Here&#39;s How They Work,2025-06-13 10:00:57+00:00,2025,6,60
+QLNQvduHSsY,This Is Why DevOps Teams Fail At Orchestration (ft. Kestra),2025-06-10 17:30:08+00:00,2025,6,59
+iwRaNYa8yTw,Inside a Real High-Frequency Trading System | HFT Architecture,2025-06-05 10:01:23+00:00,2025,6,62
+4wvIU0O1xro,What REALLY Happens When You Buy a Stock?,2025-06-02 10:00:09+00:00,2025,6,41
+0NtIcbSsjBc,Java Threads vs Virtual Threads | Why This Changes Everything,2025-05-31 10:00:01+00:00,2025,5,61
+VyxA3mlvo84,From GitHub to Production in Minutes with Render | React + Node + PostgreSQL,2025-05-29 14:30:21+00:00,2025,5,76
+HMoZ5cYzU4I,Git Mastery Crash Course | From First Commit to Big Tech Workflows,2025-05-26 10:00:23+00:00,2025,5,66
+j1PkkSddZcE,🚀 DragonflyDB is BLAZING Fast | Millions of Ops/sec Without Clustering (vs Redis),2025-05-22 10:01:14+00:00,2025,5,81
+8afhcpiMh24,Kernel in Operating System: The Secret Power Inside Every Computer System Design!,2025-05-17 10:00:14+00:00,2025,5,81
+I6dpN0geIb4,How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥,2025-05-12 10:00:34+00:00,2025,5,60
+WUBWIVCJLHI,Classic SQL Injection in JavaScript 🚨💻,2025-05-11 12:30:32+00:00,2025,5,38
+NvZEZ-mZsuI,How Sockets Actually Work – From Your Browser to the Backend ⚙️,2025-05-10 10:00:36+00:00,2025,5,63
+t3HvCLYnrRY,FusionAuth System Design | Build Auth That You Actually Own,2025-05-08 11:01:32+00:00,2025,5,59
+wZgNO_ZIf40,SQL Joins Explained in 60 Seconds 🔗,2025-05-05 12:31:09+00:00,2025,5,35
+JQ_wXA9JA1g,The Hidden Security Magic Behind Mobile Payments,2025-05-04 14:00:21+00:00,2025,5,48
+ftMW4TtzDEk,Blind SQL Injection Explained with Real Examples 🔍,2025-05-02 04:16:15+00:00,2025,5,50
+8PnVhLQTDoQ,MCP Client vs MCP Server Explained in AI Agents 🤖,2025-05-01 12:30:14+00:00,2025,5,49
+9UNPwGRNo_k,I Tested DeepAgent: How AI Agents Use MCP to Think 🤖,2025-04-30 10:00:27+00:00,2025,4,52
+gRuI6HzyuPY,Why Venn Diagrams Mislead You About SQL Joins ❌,2025-04-28 18:30:48+00:00,2025,4,47
+q7K20k6rV9E,From REST to gRPC to Messaging: SCALING Microservices the Right Way!,2025-04-28 17:01:04+00:00,2025,4,68
+tb-hlGa71sk,Stop SQL Injections with Prepared Statements 🔒,2025-04-27 12:31:04+00:00,2025,4,46
+MWv33xofJ40,AI Assistant vs AI Agent 🤖 | What&#39;s the Difference?,2025-04-25 12:30:21+00:00,2025,4,55
+AMNWLz_f6qM,REST vs gRPC in Microservices | Which One Should You Use? (Explained Clearly),2025-04-23 16:45:01+00:00,2025,4,77
+NvWMwRLwYZQ,Why Joins Matter in Databases 💡,2025-04-22 18:30:24+00:00,2025,4,31
+mTJpFiPQZho,Classic vs Blind SQL Injection Explained 🔐,2025-04-21 12:30:54+00:00,2025,4,42
+8SPVfacnFvM,Domain-Driven Design: Bounded Contexts Explained! 🚀,2025-04-20 10:00:12+00:00,2025,4,51
+if6OL6trunU,What is MCP in AI Assistants?,2025-04-18 12:34:21+00:00,2025,4,29
+h125O5yvdg0,Why I/O Operations Are Slowing Down Your Code ⏱️ (And How to Fix It!),2025-04-16 11:01:14+00:00,2025,4,69
+7_JNpi-phTg,SQL Joins Explained in 30 Seconds,2025-04-15 12:30:09+00:00,2025,4,33
+Vej327jN8WI,Worker Threads in Node.js: The Secret to High-Performance Backends 🔥,2025-04-12 10:00:45+00:00,2025,4,68
+YypKPJ6pYMY,🤖 Why MCP is a Game-Changer for AI,2025-04-08 02:54:11+00:00,2025,4,34
+GrYEX3NqPts,Top Spring MVC annotations in 50 seconds,2025-04-05 03:43:54+00:00,2025,4,40
+HRaDQTcZRW8,SCIM: The Identity Protocol You Use Every Day (Without Knowing It) 🤫,2025-04-04 13:30:50+00:00,2025,4,68
+os7KcmJvtN4,The Genius Behind Node.js Single Thread Model 🚀,2025-04-02 10:01:04+00:00,2025,4,47
+8_j09EbEOnA,I Built a SaaS App with GPT… And Got Hacked 🤯,2025-04-01 01:00:07+00:00,2025,4,45
+rDBSxOKbJvQ,One AI Tool to Rule Them All? ChatLLM Teams Review 💡,2025-03-28 10:01:10+00:00,2025,3,52
+7NyEmb13Ej0,How the DOM Powers Modern Web Development?,2025-03-27 08:00:09+00:00,2025,3,42
+HWRcoT4Lr5E,Binary Search is NOT Just an Algorithm. It’s a Superpower.,2025-03-26 09:00:29+00:00,2025,3,58
+erD57pJxOw8,Spring MVC: Dependency Injection and Inversion of Control,2025-03-24 04:40:33+00:00,2025,3,57
+NQoF0knFy7U,Why Redis is 100x Faster Than Regular Databases?,2025-03-23 02:36:12+00:00,2025,3,48
+MI796yMnOF0,🤖 MCP Will Change How You Think About AI Integration,2025-03-22 12:00:25+00:00,2025,3,52
+UIXFYPzaFbY,🔗 Blockchain 2025: The Future of Decentralization &amp; AI,2025-03-20 10:00:41+00:00,2025,3,58
+zGSX5AqfKvU,Spring MVC: The Java Framework That Changed Everything! 🚀,2025-03-17 13:01:32+00:00,2025,3,57
+f69hh3KgFEk,Counting BILLIONS with Just Kilobytes? Meet HyperLogLog! 💡,2025-03-14 09:01:01+00:00,2025,3,58
+6HjrkSoeN2I,Data Centers in 2025: The Powerhouses Fueling AI &amp; The Cloud!,2025-03-12 10:00:07+00:00,2025,3,65
+KRwpzG7l4a0,🚀 Why is Redis INSANELY Fast?,2025-03-10 11:00:25+00:00,2025,3,29
+OmASCUJEVy8,"🔥 The Ultimate Guide to Disaster Recovery: RTO, RPO, &amp; Failover!",2025-03-07 12:00:39+00:00,2025,3,68
+MPFeE4_veXE,DOM Manpiulation: How JavaScript Brings Websites to Life! 💡,2025-03-05 12:00:28+00:00,2025,3,60
+cG4FPks53AU,⚠️ SQL Injection: The HACK That Can Ruin Your Database in Seconds!,2025-03-03 11:00:46+00:00,2025,3,66
+cY4pVLpjL3g,⚡ SQL Joins Visualized: The Ultimate Guide for Developers!,2025-02-28 11:01:01+00:00,2025,2,58
+2cUQWhSrOK0,💀 CSRF Attacks: How Hackers Can Hijack Your Users’ Accounts!,2025-02-26 11:00:05+00:00,2025,2,60
+LGOnP9Udffo,How Facebook &amp; YouTube Handle BILLIONS of Likes &amp; Views!,2025-02-24 11:00:24+00:00,2025,2,64
+m-0p2BFAZvI,❌ XSS Attacks Explained – How HACKERS steal data with one line of code,2025-02-22 11:01:05+00:00,2025,2,70
+PwNJXUdMkVY,🧑🏽‍💻 What REALLY Happens When You Type Localhost?,2025-02-20 11:00:36+00:00,2025,2,49
+_qNHROq0pGk,🔥 How Rate Limiting and Throttling Saves Your API Server From CRASHING!,2025-02-18 16:30:14+00:00,2025,2,71
+E6jgEtj-UjI,🔓 Mastering CORS: How to Securely Enable Cross-Origin Requests,2025-02-15 12:00:29+00:00,2025,2,62
+olcwFuJf8AA,How Distributed File Servers Handle BILLIONS of Files,2025-02-12 13:01:20+00:00,2025,2,53
+Gsq7F9uYXZE,How PayPal Works: Payment Gateway vs. Payment Processor,2025-02-12 11:30:17+00:00,2025,2,55
+KLiYkgaUCM8,What is a Payment Gateway? API Gateway vs. Payment Gateway Explained,2025-02-10 11:30:24+00:00,2025,2,68
+Vn8xa6mUocA,How Payment Processing Works in a Distributed System,2025-02-08 11:30:17+00:00,2025,2,52
+VUxXH4uo4AY,Erasure Coding in Action: How Big Tech Saves Petabytes of Data,2025-02-07 14:00:38+00:00,2025,2,62
+fFHl7psnvz0,Supercharge Your REST API with These Essential HTTP Headers,2025-02-05 11:00:51+00:00,2025,2,59
+TV-xsNjbx_g,REST API Caching Strategies Every Developer Must Know,2025-01-31 10:00:28+00:00,2025,1,53
+FqriDe2nxlw,Inside India’s Aadhar: The World’s Largest Biometric System Explained,2025-01-26 01:00:21+00:00,2025,1,69
+OJNh4byblYI,Domain-Driven Design: Unlocking the Power of Ubiquitous Language,2025-01-24 10:00:33+00:00,2025,1,64
+Ge7M_03JNqw,What is Event-Driven Architecture?,2025-01-23 11:30:11+00:00,2025,1,34
+eDpXY6KJiY8,Domain-Driven Design: Exploring Business Domains and Subdomains,2025-01-22 11:00:51+00:00,2025,1,63
+q07BGZBDo7g,What is CQRS? Command Query Responsibility Segregation Explained,2025-01-21 11:30:39+00:00,2025,1,64
+KuH55P6UgVc,What is IP and URL Hashing in Load Balancing?,2025-01-20 11:30:26+00:00,2025,1,45
+sVi4aDNIPWo,How Domain-Driven Design Makes You a Better Developer,2025-01-20 11:01:10+00:00,2025,1,53
+06VI0JVZC04,What is Least Connection Load Balancing?,2025-01-19 11:30:00+00:00,2025,1,40
+PLi-dO1RiFw,What is Clean Architecture?,2025-01-18 11:30:13+00:00,2025,1,27
+pJ83mmqcvoQ,9 Must-Know REST API Design Principles for Developers,2025-01-18 09:00:55+00:00,2025,1,53
+OsM1dhOiNFs,Sticky Round Robin Explained,2025-01-17 11:30:25+00:00,2025,1,28
+WS_u-_gnoVI,Service-Oriented Architecture (SOA) Simplified,2025-01-16 11:30:19+00:00,2025,1,46
+-rBOAGxsf54,Round Robin vs Weighted Round Robin Explained,2025-01-15 11:30:00+00:00,2025,1,45
+KF-3jtGH6Yk,Mastering HTTP Methods: A REST API Deep Dive,2025-01-14 15:01:25+00:00,2025,1,44
+EBTmNyqyacU,Random Load Balancing Strategy,2025-01-13 11:30:16+00:00,2025,1,30
+hTpEDdJDoI0,Modular Architecture Explained,2025-01-12 11:30:31+00:00,2025,1,30
+HV5u-HjEFvY,Master REST APIs: The Backbone of Modern Web Applications,2025-01-12 11:00:25+00:00,2025,1,57
+4SWwWIpi3E4,How Load Balancers Use Health Checks in Distributed Systems,2025-01-11 11:30:03+00:00,2025,1,59
+uvlXQ4w-l94,What is Hexagonal Architecture? Explained with Examples,2025-01-10 11:30:38+00:00,2025,1,55
+sKITdF9ZEqQ,Load Balancing Algorithms Explained: Static vs. Dynamic,2025-01-09 11:30:41+00:00,2025,1,55
+ASm8uKLYXa8,What Is Onion Architecture? Simplified!,2025-01-08 11:30:08+00:00,2025,1,39
+dUO4ayAAnqQ,How Load Balancers Keep Your Web App Running Smoothly,2025-01-07 11:30:24+00:00,2025,1,53
+04xGE47faUY,MVC Architecture Explained: Build Robust and Clean Software Systems,2025-01-06 15:00:00+00:00,2025,1,68
+fGmIjstlFMU,3 layer architecture explained for beginners,2025-01-06 11:30:27+00:00,2025,1,44
+scDqfwhXtx8,difference between forward and reverse proxy explained,2025-01-02 11:30:29+00:00,2025,1,54
+XSdfBQBeLgA,The Journey of an Email: From Send to Inbox Explained,2025-01-02 10:00:26+00:00,2025,1,53
+B5Il4OCjnn4,how netflix ensures seamless global traffic routing,2025-01-01 11:30:05+00:00,2025,1,51
+62PxQP_jAxg,how netflix handles traffic with edge services,2024-12-31 11:30:06+00:00,2024,12,46
+2C-kLSYBfS4,reverse proxies and load balancers explained,2024-12-30 11:30:01+00:00,2024,12,44
+unhCmG4NrUA,choosing the right deployment strategy for your app,2024-12-29 11:30:37+00:00,2024,12,51
+SXeW5kyk5-U,how waf and nginx strengthen backend security,2024-12-28 11:30:23+00:00,2024,12,45
+WrUi-JjJHD8,how a/b testing drives better decisions in web systems,2024-12-27 11:30:20+00:00,2024,12,54
+ZOoMX7uinKw,how a request-response cycle works in web systems,2024-12-26 11:30:18+00:00,2024,12,49
+vLcrN75Kj8A,how feature flags enable seamless feature rollouts,2024-12-25 11:30:37+00:00,2024,12,50
+jp_ONdr6_sQ,how api gateways manage traffic in microservices,2024-12-24 11:30:32+00:00,2024,12,48
+H48JzcLQs1c,canary deployment explained,2024-12-23 11:30:08+00:00,2024,12,27
+z29JlsK6nKc,application load balancer explained,2024-12-22 11:30:38+00:00,2024,12,35
+_ErhwTPSpws,API Gateway vs Load Balancer: What Every Developer Should Know!,2024-12-22 06:10:39+00:00,2024,12,63
+AZoIWCZo3_c,blue green deployment explained,2024-12-21 11:30:06+00:00,2024,12,31
+uG7_0Zi5oVk,aws load balancers explained,2024-12-20 12:45:36+00:00,2024,12,28
+mWCId6kSpj0,rolling deployment explained,2024-12-19 06:30:23+00:00,2024,12,28
+V-pwzjL6NLw,how amazon cloudfront speeds up your web app,2024-12-18 11:30:26+00:00,2024,12,44
+1B1Hr-lM7jg,Mastering Reverse Proxies: Real-World Examples,2024-12-17 15:00:01+00:00,2024,12,46
+RClK9QqShUM,aws waf and shield protecting your app from attacks,2024-12-17 06:30:07+00:00,2024,12,51
+AvcTpQri-5M,how elastic load balancers and auto scaling keep your app running smoothly,2024-12-16 06:30:04+00:00,2024,12,74
+42eT62CON6o,understanding aws vpc and subnets explained,2024-12-15 06:30:02+00:00,2024,12,43
+U8y1Gw2vMm4,how amazon rds and s3 simplify data storage,2024-12-14 11:30:17+00:00,2024,12,43
+LN-FyvIgwKs,How Amazon Route 53 powers fast and reliable DNS,2024-12-13 06:30:05+00:00,2024,12,48
+A1sq1MeKRpA,aws scalable web app architecture explained,2024-12-12 11:30:06+00:00,2024,12,43
+vAT8YJTxhuU,oauth 2.0 explained for api authentication,2024-12-11 06:30:19+00:00,2024,12,42
+4o9dUAp7xxk,Ultimate Guide to Clean Architecture (Java / Spring Boot Examples),2024-12-10 12:30:04+00:00,2024,12,66
+Q8qW8Dygmbs,amazon efs vs elasticache explained,2024-12-10 11:30:17+00:00,2024,12,35
+0rcMDFU5P8w,what is jwt authentication?,2024-12-08 23:30:00+00:00,2024,12,27
+ywNjcATFmYU,availability zones ensure app uptime,2024-12-08 06:30:30+00:00,2024,12,36
+K6bkjs1q4cM,http basic auth vs api key authentication explained,2024-12-07 11:30:19+00:00,2024,12,51
+RThb3koc5DM,"Software Deployment Strategies Used by Netflix, Amazon, Facebook",2024-12-07 11:32:08+00:00,2024,12,64
+Ws79_YV7nhg,why timeouts are crucial,2024-12-06 06:30:19+00:00,2024,12,24
+Kf9qqv1kC0s,stateless systems explained,2024-12-05 00:30:12+00:00,2024,12,27
+saaJ4mYVhn4,netflix’s chaos engineering,2024-12-03 18:30:42+00:00,2024,12,27
+UnFG2izFm2k,bulkhead pattern in microservices,2024-12-03 06:30:15+00:00,2024,12,33
+gh0mpS5PG1A,stateful vs stateless authentication,2024-12-02 12:30:38+00:00,2024,12,36
+_6yM3B4F4xE,mastering retry and fallback patterns,2024-12-01 06:30:23+00:00,2024,12,37
+UnOpAr5jJbI,how kubernetes ensures service readiness,2024-11-30 14:30:11+00:00,2024,11,40
+pjWhtRtaJiA,How Clusters Work in Distributed Systems: A Deep Dive,2024-11-30 09:00:50+00:00,2024,11,53
+jX33SSUwzAU,why stateless architecture powers modern apps,2024-11-29 06:30:28+00:00,2024,11,45
+9zfAqoTm4-Q,Webhooks explained again,2024-11-28 15:00:12+00:00,2024,11,24
+IkZFuVGOy2c,Health check in microservices,2024-11-28 14:30:12+00:00,2024,11,29
+fLwlslWLBsk,Stateful vs Stateless Architecture Explained,2024-11-26 11:30:31+00:00,2024,11,44
+aria5gmElSc,"Mastering Email System Design: SMTP, IMAP, POP3, and Beyond",2024-11-26 09:00:05+00:00,2024,11,59
+tGdwX-TFAA8,Health Checks in Service Architecture,2024-11-25 06:30:16+00:00,2024,11,37
+B6DiINe3QT0,Real-World Terraform Script Explained,2024-11-24 06:30:03+00:00,2024,11,37
+3VbtQDFm8bM,TLS Handshake Secures Connections,2024-11-23 06:30:00+00:00,2024,11,33
+SYHqSAWQ4NY,"Autonomous AI Agents, Large Action Model and Microsoft Copilot",2024-11-22 18:02:34+00:00,2024,11,63
+A0iVkruYVcg,Strangler Pattern: Phasing Out Monoliths,2024-11-22 14:30:08+00:00,2024,11,40
+VQ97sacUT3g,Strangler Pattern Simplified for Migrations,2024-11-21 06:30:20+00:00,2024,11,43
+2WYjtfRyHzQ,Uber System Design | Websockets and Event Driven Architecture,2024-11-20 17:30:00+00:00,2024,11,61
+s_r8GlYpcT4,SSL to TLS: Securing the Web,2024-11-20 14:30:20+00:00,2024,11,28
+1In5A_nkGFw,Terraform’s Core Components,2024-11-19 06:30:00+00:00,2024,11,27
+2G02p2izBEY,Netflix Migrated to Microservices,2024-11-18 11:30:02+00:00,2024,11,33
+Qld0l0ClsaI,Challenges of the Strangler Pattern in System Migrations,2024-11-17 14:30:11+00:00,2024,11,56
+wpzeqAm9Fyo,Understanding mTLS: How It Enhances Security,2024-11-16 06:30:23+00:00,2024,11,44
+8wSluwEJTFo,Why Terraform for Multi-Cloud Infrastructure?,2024-11-15 14:30:03+00:00,2024,11,45
+AsiHK3KnYcU,How Zelle Works: Real-Time Bank Transfers in the U.S,2024-11-15 14:00:10+00:00,2024,11,52
+kphfRALgT7k,Service Decomposition Patterns Explained,2024-11-14 06:30:24+00:00,2024,11,40
+p5KoYRll_Bg,Why Amazon is the Perfect Strangler Pattern Example,2024-11-13 14:30:31+00:00,2024,11,51
+FruCVzHTzXE,"Behind Every Click: React, Angular, Vue, and Frontend Architecture",2024-11-12 13:00:15+00:00,2024,11,66
+9AhzLGmp9V4,What is mTLS and Why is it Secure than TLS,2024-11-12 06:30:04+00:00,2024,11,42
+_JAN0cHiNHw,How Netflix Recommendation works,2024-11-11 14:30:15+00:00,2024,11,32
+JYN6O5Gbxlc,"Large Action Models Explained: AI That Acts, Not Just Talks!",2024-11-10 15:11:58+00:00,2024,11,60
+QxfYZpE9ch8,Network Topology Explained in Seconds!,2024-11-10 06:30:10+00:00,2024,11,38
+mhJaoyx-afs,How Terraform Works?,2024-11-09 05:00:35+00:00,2024,11,20
+7MXV7RfNtv0,System Design Global Payment Processing | Paypal,2024-11-08 08:00:09+00:00,2024,11,48
+Ko1_bJ44958,Service Decomposition Patterns and Netflix Microservices,2024-11-08 05:00:14+00:00,2024,11,56
+o8J0Xfjwwe0,Service Decomposition by Usecase Microservices Pattern,2024-11-06 13:22:37+00:00,2024,11,55
+F318zw_HKDw,Inside AWS Architecture: Journey of a Web Request,2024-11-05 17:30:34+00:00,2024,11,49
+0YCpmGZtTPs,Kubernetes Use Cases: When to Choose Kubernetes,2024-11-05 05:00:00+00:00,2024,11,47
+LsHa1o9JN-k,Types of Service Decomposition Explained,2024-11-04 05:00:23+00:00,2024,11,40
+fGjCWRSEXSQ,"Kubernetes Alternatives: Docker Swarm, AWS Fargate &amp; ECS Explained",2024-11-03 04:38:46+00:00,2024,11,70
+2b2jcfLMkfc,Kubernetes Explained: Pods &amp; Control Plane,2024-11-02 04:00:02+00:00,2024,11,46
+xJA8tP74KD0,"API Authentication: JWT, OAuth2, and More",2024-11-01 15:01:12+00:00,2024,11,41
+aei5tsd3L0s,How Spotify Uses Service Decomposition for Scalability,2024-11-01 04:00:03+00:00,2024,11,54
+Et-dfMyW3qc,"Docker, Clusters &amp; Kubernetes: What&#39;s the Difference?",2024-10-31 04:00:18+00:00,2024,10,61
+9-n5oJG4XMY,Service Decomposition: Simplifying Monolith to Microservices Transition,2024-10-30 04:03:06+00:00,2024,10,71
+j-VASLQbDik,Ring Network Topology,2024-10-26 04:00:36+00:00,2024,10,21
+QDiPjMWeVC0,Stateful vs Stateless Architecture Explained with Real-World Examples,2024-10-24 18:01:02+00:00,2024,10,69
+vRtZ2wSj91w,Idempotency Key in Payments Systems like Paypal,2024-10-23 04:08:15+00:00,2024,10,47
+xv0Be4QfkH0,Web Application Architecture: Full Request-Response Lifecycle,2024-10-22 16:00:59+00:00,2024,10,61
+9QpAjiJ0kPk,Set Up OpenAI API Key and Build LLM Models with VS Code,2024-10-22 04:00:08+00:00,2024,10,55
+q81-wDiJRN0,Database Per Service Pattern,2024-10-21 04:00:41+00:00,2024,10,28
+w8ZdjK3nbO8,Service Discovery Benefits,2024-10-20 04:00:45+00:00,2024,10,26
+JMXh_6N9PAk,Netflix Eureka Service Discovery,2024-10-19 04:00:13+00:00,2024,10,32
+uwKLX9UJ2Xw,Service Discovery: Server Side Discovery,2024-10-18 04:00:44+00:00,2024,10,40
+2I3-lbnMXec,Bulkhead Pattern Explained: Resilience in Microservices Architecture,2024-10-17 14:15:51+00:00,2024,10,68
+Up3nZJtzfdc,Service Discovery Registration Patterns,2024-10-17 04:00:17+00:00,2024,10,39
+RfPNuaj5Ax0,Top 5 Microservices Resilience Patterns,2024-10-16 12:00:37+00:00,2024,10,39
+XH5QBurZ9OU,Service Discovery using Netflix Eureka,2024-10-16 04:00:34+00:00,2024,10,38
+me_FwTx3ZEw,Health Monitoring in Microservice explained with Spring Boot,2024-10-14 17:33:52+00:00,2024,10,60
+9yAFa60v7tE,Service Discovery Explained with code example,2024-10-14 05:20:37+00:00,2024,10,45
+126ALse1rWA,Top 9 Software Architecture Patterns Every Developer Must Know!,2024-10-11 17:00:01+00:00,2024,10,63
+YrCjrJLON6g,Database Per Service Explained | Credit Card App example,2024-10-10 04:14:16+00:00,2024,10,56
+_iqNjvaUVsM,Service Mesh Explained with example: Why You Need It for Microservice,2024-10-09 04:00:33+00:00,2024,10,69
+Ewf1A8UwXW0,Netflix’s Service Mesh: Managing Millions of Microservices,2024-10-08 04:00:11+00:00,2024,10,58
+gbf-DIpFFoI,Serverless Computing with AWS Lambda Explained,2024-10-07 12:00:54+00:00,2024,10,46
+EZctFC4daPw,What is a Service Mesh? Simplifying Microservices Communication,2024-10-07 04:00:12+00:00,2024,10,63
+t-tTh94NI78,BFF Pattern: Optimizing Microservices for Mobile vs Desktop,2024-10-06 04:00:47+00:00,2024,10,59
+uWmZZyaHFEY,What is mTLS? Secure Your Microservices from MITM Attacks,2024-10-05 16:30:13+00:00,2024,10,57
+zMY_A9G1vyE,Event-Driven System Design,2024-10-04 04:00:49+00:00,2024,10,26
+3Lzubtz9SUY,CPU Core and Concurrency Explained for Beginners | Multithreading,2024-10-03 04:00:04+00:00,2024,10,65
+E4JEEcGbjIk,Concurrency vs Parallelism in Multicore CPU,2024-10-02 04:00:08+00:00,2024,10,43
+Dwufy7QtZR0,From Zero to Kubernetes Hero | Docker and Container,2024-10-01 13:00:24+00:00,2024,10,51
+letG8Q1w3xQ,Concurrency Node JS vs Java vs SQL,2024-10-01 04:00:38+00:00,2024,10,34
+kxKqp1HEN_8,Scalability and Event-Driven Architecture,2024-09-30 04:00:37+00:00,2024,9,41
+6DQzFUDkQB8,Netflix &amp; Spotify’s Secrets to Scaling: Master Service Decomposition,2024-09-29 12:00:06+00:00,2024,9,72
+Ix4CLPCziQk,Netflix Event-Driven Architecture and Service Mesh,2024-09-29 04:00:17+00:00,2024,9,50
+-yX-2LChou0,Uber Event-Driven Architecture,2024-09-28 04:00:00+00:00,2024,9,30
+W8YLcfXNnZo,Netflix Event-Driven Architecture,2024-09-27 04:00:33+00:00,2024,9,33
+DpuQ3-7e-rY,Master Microservices Strangler Pattern by Top AWS Experts,2024-09-26 13:00:23+00:00,2024,9,57
+TRb9L-5bWgM,Event-Driven Architecture,2024-09-26 04:00:30+00:00,2024,9,25
+hkXijFYZ4jA,Concurrency and CPU Core Explained for Beginners | Multithreading,2024-09-25 04:58:51+00:00,2024,9,65
+wIDh8MlkSoA,Netlflix Microservices BFF Pattern,2024-09-24 04:00:46+00:00,2024,9,34
+DKQLhy9bgdk,Ultimate Guide to Database Per Service pattern in Microservices,2024-09-23 12:00:23+00:00,2024,9,63
+N8tV6j0iy_g,Types of BFF Patterns in Microservices,2024-09-23 04:00:13+00:00,2024,9,39
+zalmfGCr6vQ,Concurrency Explained in Java,2024-09-22 04:00:45+00:00,2024,9,29
+ecuEkmFs5Vk,Master Service Discovery in Microservices | Eureka and Java Spring Boot,2024-09-21 16:06:18+00:00,2024,9,71
+iDJvRLQAL0I,Sidecar Proxy example in Service Mesh Architecture,2024-09-21 04:00:26+00:00,2024,9,50
+X5LxprTgMQQ,Service Mesh Architecture and Sidecar,2024-09-20 04:00:23+00:00,2024,9,37
+FMxUYhYDiys,Sidecar Pattern in Service Mesh Architecture,2024-09-19 04:00:18+00:00,2024,9,44
+hrvx8Nv9eQA,Unlock the Power of Event-Driven Architecture: How Netflix &amp; Uber Handle Billions of Events,2024-09-18 12:00:50+00:00,2024,9,95
+v-6g06IEV90,Sidecar Logging and Tracing in Microservices,2024-09-18 04:00:42+00:00,2024,9,44
+z9wuLNJdiqQ,Sidecar Pattern in Microservices,2024-09-17 04:00:45+00:00,2024,9,32
+xuOJF3w4vQQ,Service Mesh Explained | Sidecar Proxy &amp; Microservices Communication,2024-09-16 12:01:09+00:00,2024,9,72
+Gp5Et_nc_Kw,Unlocking Netflix&#39;s Data Mesh Strategy,2024-09-16 04:00:12+00:00,2024,9,42
+Gp_V4oEDrNo,Evolution of Data Mesh Architecture: OLAP vs OLTP,2024-09-15 04:00:09+00:00,2024,9,49
+IAbZJt7nY6E,Data Mesh: Revolutionizing Data Architecture,2024-09-14 04:00:10+00:00,2024,9,44
+Pmzrogq4W4I,Expert Guide: Backend for Frontend (BFF) in Microservices,2024-09-13 12:00:24+00:00,2024,9,57
+s7uk69rMHFQ,EventSourcing and CQRS,2024-09-13 04:00:45+00:00,2024,9,22
+mmguq4BHVCc,Mastering Laplace Smoothing in Naive Bayes: Avoiding Overfitting,2024-09-12 12:01:01+00:00,2024,9,64
+h-zpahPej4U,EventSourcing explained in Microservices,2024-09-11 04:00:27+00:00,2024,9,40
+hz1qw-WbXk8,Accuracy in Machine Learning,2024-09-10 04:00:25+00:00,2024,9,28
+67Ekk-rM5dE,Precision vs Recall in Machine Learning,2024-09-09 04:00:05+00:00,2024,9,39
+vWZIgHQn_oo,Confusion Matrix application in Machine Learning,2024-09-08 04:28:31+00:00,2024,9,48
+-cv9CKYwwfw,Confusion Matrix in Machine Learning,2024-09-07 04:00:00+00:00,2024,9,36
+Rhy6IDW4j3k,Probability Distribution in Machine Learning,2024-09-06 04:00:31+00:00,2024,9,44
+sh2nwXJLDkE,Sidecar Pattern in Microservices,2024-09-05 16:00:49+00:00,2024,9,32
+znuZRn94SQk,Basics Probability in Machine Learning,2024-09-05 04:00:42+00:00,2024,9,38
+nzs8LB8Il-s,"Precision, Recall, Confusion Matrix | Model Evaluation in ML",2024-09-04 16:00:52+00:00,2024,9,60
+2henXbwXVQw,Quadratics and Derivatives in Machine Learning,2024-09-04 04:00:04+00:00,2024,9,46
+ID-_ic1fLkY,Master Event Sourcing in Just 10 Minutes,2024-09-03 16:00:15+00:00,2024,9,40
+13vkP6cVa4U,CQRS Pattern vs CRUD in Microservices,2024-09-03 04:00:01+00:00,2024,9,37
+80_RUmj-4B0,Scattered Plots &amp; Line Graphs in Machine Learning,2024-09-01 04:00:04+00:00,2024,9,53
+5FSDB4ne45M,Polynomials equations simplified in Machine Learning,2024-08-31 16:00:04+00:00,2024,8,52
+UADHHrm436M,Supervised Learning #ai #machinelearning,2024-08-29 04:00:30+00:00,2024,8,41
+SvjdJoNPcHs,Mastering CQRS in Just 5 Minutes,2024-08-28 10:00:27+00:00,2024,8,32
+j1PbS83HRwc,Supercharging Google BERT Model with Hugging Face,2024-08-28 04:00:27+00:00,2024,8,49
+cdm_9YLCNlU,Mastering Elasticsearch: CAP Theorem Explained,2024-08-27 04:00:32+00:00,2024,8,46
+kqbPw03jw90,What is Elasticsearch? #systemdesign #elasticsearch,2024-08-26 04:00:36+00:00,2024,8,51
+pYnX5pgZ5tU,Level Up with Bytemonk! Exciting times ahead,2024-08-24 04:00:41+00:00,2024,8,44
+exP5T6IgQHs,Transformer Architecture: Encoder explained #ai #llm,2024-08-23 10:00:44+00:00,2024,8,52
+oKzXV0-0qHQ,Transformer Architecture: Multi Headed Attention explained #ai #llm,2024-08-22 10:01:00+00:00,2024,8,67
+RUuhax5r1RA,Transformer Architecture: Attention is all you need #ai #llm,2024-08-21 10:30:08+00:00,2024,8,61
+6k6-OeWZTYY,Elasticsearch in 10 minutes: The Ultimate Search &amp; Analytics Engine?,2024-08-21 10:00:05+00:00,2024,8,72
+G2WXzbeYiGk,Essential Guide to Transformer Attention,2024-08-20 10:00:13+00:00,2024,8,40
+GQXn_1HONBY,Machine Learning: Features and Labels,2024-08-19 10:00:14+00:00,2024,8,37
+F7pN7wAHpP0,Greedy Sampling in Language Models #ai #llm #sampling,2024-08-19 04:00:17+00:00,2024,8,53
+04K490hWRoQ,Traditional Search vs Semantic Search #ai #llm,2024-08-18 10:00:00+00:00,2024,8,47
+jRfIqQu_mcY,Large Language Models Explained #ai #llm,2024-08-17 10:00:43+00:00,2024,8,40
+6bGvO18yAH0,What is DNS?,2024-08-15 04:00:07+00:00,2024,8,12
+ZYuu8sWUQww,The Ultimate Guide to Multi-Tenancy in 5 minutes,2024-08-14 10:00:38+00:00,2024,8,48
+HJncmDD47kQ,The power of Nvidia GPUs for AI and LLM,2024-08-14 04:00:17+00:00,2024,8,39
+GQnEuz6hj5k,🚀 GitHub Models: The Future of AI Development | Game-Changing Update!,2024-08-12 10:00:25+00:00,2024,8,70
+0d6tBMxFCt4,Vector Database: A Must-Know Guide,2024-08-12 04:00:00+00:00,2024,8,34
+vWKmH0BvqQo,Nvidia&#39;s AI Dominance: The Tech Behind Their Surge,2024-08-08 10:01:08+00:00,2024,8,54
+UzZRN--atqY,Master Machine Learning: 5 Essential Tips for Beginners in 2024,2024-08-05 10:00:28+00:00,2024,8,63
+XwYY0lCGWW8,Transformer Architecture Explained &#39;Attention Is All You Need&#39;,2024-08-02 10:00:36+00:00,2024,8,71
+hNLhcSm0CDo,The Evolution of Gen AI with RNNs (2024),2024-07-31 10:00:47+00:00,2024,7,40
+yBY5GJtmhg0,"Network Topology Explained: Star, Tree, Mesh",2024-07-30 04:00:40+00:00,2024,7,44
+Fm42RGGwpyo,Windows Blue Screen of Death: Crowdstrike Kernel Panic explained,2024-07-27 04:00:10+00:00,2024,7,64
+TPYBYSyDRH4,Vector Database: A Must-Know Guide,2024-07-24 16:00:23+00:00,2024,7,34
+Lsd80uR9Shs,DNS: The Hidden Engine of the Internet | Computer Networks,2024-07-22 10:00:15+00:00,2024,7,58
+4znRDbg0SYA,Network Topology Explained | Computer Networks,2024-07-18 08:00:03+00:00,2024,7,46
+jQ6_XhsMwws,Essential Network Protocols | Computer Networks,2024-07-16 10:41:24+00:00,2024,7,47
+7G4g6B78zxM,Data Mesh Architecture - Netflix,2024-07-12 08:00:02+00:00,2024,7,32
+E7kXoO9Z0NA,Composable Architecture - Microservices and APIs,2024-07-08 11:00:11+00:00,2024,7,48
+zOhiZJn-5cY,Concurrency made easy | System Design,2024-07-03 11:01:02+00:00,2024,7,37
+tpgoQwMg__M,TCP/IP vs OSI: What’s the Difference?,2024-06-26 10:01:00+00:00,2024,6,37
+5999cgzA95A,SOLID principles explained | Java | System Design Interview,2024-06-12 10:00:07+00:00,2024,6,60
+d41JuPT_Wls,Optimistic Locking clearly explained | Java | SQL | System Design,2024-06-08 02:11:17+00:00,2024,6,65
+S3nq_Iq4eMI,Idempotency and Intelligent Retry | PayPal,2024-06-01 14:38:33+00:00,2024,6,42
+GT0En1dGntY,Bloom Filters | Hashtable | System Design,2024-05-26 17:15:00+00:00,2024,5,41
+A7lWqZ9_XpI,LLM Crash Course - Chapter 3 | Prompt Engineering Patterns,2024-05-24 11:00:11+00:00,2024,5,58
+OtccjevZ5uc,LLM Crash Course - Chapter 2 | Embeddings and Parameters Explained,2024-05-21 03:30:14+00:00,2024,5,66
+DZLAJ67OP9s,LLM Crash Course - Chapter 1 | Getting Started,2024-05-15 16:00:17+00:00,2024,5,46
+zg7nJrDQZ5s,Foundation Models Explained | Generative AI,2024-05-09 01:15:02+00:00,2024,5,43
+2LCyDvx7iIE,Heartbeat | HTTP Keep-Alive | System Design,2024-04-28 15:00:02+00:00,2024,4,43
+ExJxPANMreM,Apache Kafka Crash Course - Part 1,2024-04-21 16:00:14+00:00,2024,4,34
+G0_e02DdH7I,How Web Sockets work | Deep Dive,2024-04-13 09:00:11+00:00,2024,4,32
+iQ9arr3TTMA,How GPUs Work for Video Editing and Deep learning,2024-04-07 01:00:17+00:00,2024,4,49
+KOwxqhFUgts,Docker Explained Step by Step | System Design,2024-03-25 15:31:46+00:00,2024,3,45
+KBxkdPhKOHc,Zero Trust Security (ZTS) Explained: A Beginner&#39;s Guide for 2024,2024-03-09 15:17:59+00:00,2024,3,68
+hWQCiO04CXk,"Payment Gateway, Payment Processor and Payment Security Explained",2024-02-25 13:00:37+00:00,2024,2,65
+_acvJC3Smx4,Batch Processing System Design Architecture,2024-02-18 02:00:11+00:00,2024,2,43
+mG3xQb_-rV4,Stream Processing System Design Architecture,2024-02-14 14:00:38+00:00,2024,2,44
+KmOOoE3XO_o,AWS Glue | ETL vs ELT | Ft Snowflake,2024-01-06 03:30:12+00:00,2024,1,36
+fkgQtEAZw4M,Micro-Frontends Explained in 10 Minutes | System Design,2023-11-26 13:00:05+00:00,2023,11,55
+M87WMpG4G78,How Credit Card work example #fintech,2023-10-25 16:30:28+00:00,2023,10,38
+L2cYptW2ouw,How Credit Card Payments work #visa #fintech,2023-10-24 11:00:16+00:00,2023,10,44
+xmxJ4cS-niU,Data Scientist vs Data Engineer #systemdesign #datascience,2023-10-23 14:21:14+00:00,2023,10,58
+EXPnuj8BDgE,Asymmetric Encryption #systemdesign,2023-10-21 01:31:44+00:00,2023,10,35
+-L1mAFdASIs,Symmetric Encryption #systemdesign,2023-10-21 01:28:01+00:00,2023,10,34
+pOcHamIz7Ko,TLS Handshake Explained #systemdesign #ssl,2023-10-19 20:00:21+00:00,2023,10,42
+IiQS7zeUTU8,What is Encryption? #systemdesign,2023-10-18 00:00:07+00:00,2023,10,33
+YO9LnWD0Rck,Heartbeat of Security: HTTPS and MITM in #SystemDesign&quot;,2023-10-17 16:00:23+00:00,2023,10,60
+UpZWf1tH6K0,How CDN works| System Design,2023-10-16 20:00:09+00:00,2023,10,28
+Lhk9BJ7XY9k,Rate Limit : Leaky Bucket Algorithm #distributedsystems,2023-09-27 04:15:00+00:00,2023,9,55
+0-BBs7q0HzI,Distributed Systems - Java,2023-09-24 04:00:00+00:00,2023,9,26
+4ULlJEupV-I,What is SAML? A Comprehensive Guide with Examples,2023-09-22 14:00:02+00:00,2023,9,49
+tHk5nbwha64,Observability (Distributed Tracing) in #microservices #systemdesign,2023-08-28 03:59:52+00:00,2023,8,69
+iB__rLXGsas,JSON Web Tokens (JWTs) explained with examples | System Design,2023-08-25 13:45:01+00:00,2023,8,62
+wwKCURWnjto,Presigned URL | Youtube System Design,2023-08-07 11:00:46+00:00,2023,8,37
+tBXK49CB-BU,"Distributed Messaging Queue | Pub Sub, P2P in System Design",2023-07-31 14:00:39+00:00,2023,7,59
+YoS5cp0cirM,Instagram System Design | Meta | Facebook,2023-06-18 12:00:32+00:00,2023,6,41
+XYvQHjWJJTE,Distributed Tracing in Microservices | System Design,2023-06-04 00:00:12+00:00,2023,6,52
+4w8pEyJMpvo,gRPC: The Future of Microservices Communication?,2023-05-27 12:00:08+00:00,2023,5,48
+C-CcuV1oMQI,"Serverless Architecture, Microservices and AWS Prime Monolith",2023-05-17 01:00:07+00:00,2023,5,61
+WlMTxHcm4Qs,Master Youtube System Design,2023-05-08 15:00:31+00:00,2023,5,28
+zEiStSS6_ow,See How Amazon Is Transforming AI!,2023-04-19 00:00:24+00:00,2023,4,34
+C1rKHJApZ_E,Github Copilot X and Chat GPT 4 Plugins,2023-03-28 22:30:02+00:00,2023,3,39
+bJ9NnLLMQ78,How CDN Works | System Design,2023-02-26 17:38:23+00:00,2023,2,29
+q1RUnL4xTds,Scale Cube and Microservices | System Design,2023-02-20 10:00:34+00:00,2023,2,44
+BQwKZ6zfyk0,HTTPS Security | SSL | TLS | Network Protocols | System Design,2023-01-21 10:00:12+00:00,2023,1,62

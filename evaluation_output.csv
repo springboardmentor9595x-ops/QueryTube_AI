@@ -1,0 +1,721 @@
+Query,Expected Video,Retrieved Rank
+What is diagram visually?,67Ekk-rM5dE,5
+Explain performance dns,xv0Be4QfkH0,3
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,2
+What is structured apps?,t-tTh94NI78,8
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,2
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,1
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,2
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,1
+Explain urea clients,JMXh_6N9PAk,2
+How does data elastic work?,cdm_9YLCNlU,1
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,10
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,7
+What is microservices architecture?,Vn8xa6mUocA,5
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,1
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,1
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,1
+How does open ai work?,9QpAjiJ0kPk,2
+How does retrieval llm work?,jRfIqQu_mcY,4
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,1
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,2
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,9
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,1
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,2
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,1
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,5
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,2
+Explain database app,0d6tBMxFCt4,2
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,1
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,2
+Explain mobile apps,t-tTh94NI78,1
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,5
+Explain performance dns,xv0Be4QfkH0,3
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,2
+What is structured apps?,t-tTh94NI78,8
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,2
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,1
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,2
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,1
+Explain urea clients,JMXh_6N9PAk,2
+How does data elastic work?,cdm_9YLCNlU,1
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,10
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,7
+What is microservices architecture?,Vn8xa6mUocA,5
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,1
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,1
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,1
+How does open ai work?,9QpAjiJ0kPk,2
+How does retrieval llm work?,jRfIqQu_mcY,4
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,1
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,2
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,9
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,1
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,2
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,1
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,5
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,2
+Explain database app,0d6tBMxFCt4,2
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,1
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,2
+Explain mobile apps,t-tTh94NI78,1
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,7
+Explain performance dns,xv0Be4QfkH0,3
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,3
+What is structured apps?,t-tTh94NI78,6
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,2
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,1
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,2
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,1
+Explain urea clients,JMXh_6N9PAk,1
+How does data elastic work?,cdm_9YLCNlU,5
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,10
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,11
+What is microservices architecture?,Vn8xa6mUocA,4
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,1
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,1
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,1
+How does open ai work?,9QpAjiJ0kPk,2
+How does retrieval llm work?,jRfIqQu_mcY,4
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,2
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,8
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,1
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,2
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,1
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,5
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,2
+Explain database app,0d6tBMxFCt4,2
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,1
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,2
+Explain mobile apps,t-tTh94NI78,1
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,28
+Explain performance dns,xv0Be4QfkH0,5
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,2
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,4
+What is structured apps?,t-tTh94NI78,42
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,2
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,7
+Explain urea clients,JMXh_6N9PAk,1
+How does data elastic work?,cdm_9YLCNlU,3
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,8
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,13
+What is microservices architecture?,Vn8xa6mUocA,46
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,3
+How does design patterns work?,7qUVUFE4_Sc,2
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,3
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,2
+How does open ai work?,9QpAjiJ0kPk,10
+How does retrieval llm work?,jRfIqQu_mcY,7
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,1
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,7
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,4
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,3
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,2
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,3
+Explain payments world,OYn5Be1skCs,4
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,2
+Explain tls certificate,3VbtQDFm8bM,3
+Explain database app,0d6tBMxFCt4,19
+Explain reverse proxy,scDqfwhXtx8,2
+What is https api?,K6bkjs1q4cM,6
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,6
+Explain mobile apps,t-tTh94NI78,4
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,28
+Explain performance dns,xv0Be4QfkH0,5
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,2
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,4
+What is structured apps?,t-tTh94NI78,42
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,2
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,7
+Explain urea clients,JMXh_6N9PAk,1
+How does data elastic work?,cdm_9YLCNlU,3
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,8
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,13
+What is microservices architecture?,Vn8xa6mUocA,46
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,3
+How does design patterns work?,7qUVUFE4_Sc,2
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,3
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,2
+How does open ai work?,9QpAjiJ0kPk,10
+How does retrieval llm work?,jRfIqQu_mcY,7
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,1
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,7
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,4
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,3
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,2
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,3
+Explain payments world,OYn5Be1skCs,4
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,2
+Explain tls certificate,3VbtQDFm8bM,3
+Explain database app,0d6tBMxFCt4,19
+Explain reverse proxy,scDqfwhXtx8,2
+What is https api?,K6bkjs1q4cM,6
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,6
+Explain mobile apps,t-tTh94NI78,4
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,16
+Explain performance dns,xv0Be4QfkH0,5
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,2
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,5
+What is structured apps?,t-tTh94NI78,44
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,4
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,7
+Explain urea clients,JMXh_6N9PAk,1
+How does data elastic work?,cdm_9YLCNlU,3
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,9
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,29
+What is microservices architecture?,Vn8xa6mUocA,46
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,3
+How does design patterns work?,7qUVUFE4_Sc,2
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,4
+What is deployment strategy?,RThb3koc5DM,1
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,3
+How does git commit work?,E-CH3-VyVck,2
+How does open ai work?,9QpAjiJ0kPk,16
+How does retrieval llm work?,jRfIqQu_mcY,7
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,1
+How does database service work?,q81-wDiJRN0,1
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,7
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,5
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,3
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,2
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,3
+Explain payments world,OYn5Be1skCs,3
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,2
+Explain tls certificate,3VbtQDFm8bM,3
+Explain database app,0d6tBMxFCt4,22
+Explain reverse proxy,scDqfwhXtx8,2
+What is https api?,K6bkjs1q4cM,6
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,6
+Explain mobile apps,t-tTh94NI78,4
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,3
+Explain performance dns,xv0Be4QfkH0,5
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,8
+What is structured apps?,t-tTh94NI78,28
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,3
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,1
+Explain urea clients,JMXh_6N9PAk,2
+How does data elastic work?,cdm_9YLCNlU,7
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,3
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,23
+What is microservices architecture?,Vn8xa6mUocA,25
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,3
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,4
+What is deployment strategy?,RThb3koc5DM,3
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,1
+How does git commit work?,E-CH3-VyVck,3
+How does open ai work?,9QpAjiJ0kPk,4
+How does retrieval llm work?,jRfIqQu_mcY,9
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,4
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,6
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,2
+Explain understanding gpus,iQ9arr3TTMA,2
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,2
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,1
+Explain database app,0d6tBMxFCt4,1
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,2
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,1
+Explain mobile apps,t-tTh94NI78,6
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,3
+Explain performance dns,xv0Be4QfkH0,5
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,8
+What is structured apps?,t-tTh94NI78,28
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,3
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,1
+Explain urea clients,JMXh_6N9PAk,2
+How does data elastic work?,cdm_9YLCNlU,7
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,3
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,23
+What is microservices architecture?,Vn8xa6mUocA,25
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,3
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,4
+What is deployment strategy?,RThb3koc5DM,3
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,1
+How does git commit work?,E-CH3-VyVck,3
+How does open ai work?,9QpAjiJ0kPk,4
+How does retrieval llm work?,jRfIqQu_mcY,9
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,4
+What is domain driven?,sVi4aDNIPWo,1
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,6
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,2
+Explain understanding gpus,iQ9arr3TTMA,2
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,2
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,1
+Explain database app,0d6tBMxFCt4,1
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,2
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,1
+Explain mobile apps,t-tTh94NI78,6
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
+What is diagram visually?,67Ekk-rM5dE,3
+Explain performance dns,xv0Be4QfkH0,7
+Explain benchmarks dragonfly,j1PkkSddZcE,1
+How does processing stream work?,mG3xQb_-rV4,1
+How does sql injection work?,WUBWIVCJLHI,2
+What is architecture sidecar?,FMxUYhYDiys,1
+What is apis harder?,qnXTTmPPiz0,1
+How does advantages fusionaut work?,t3HvCLYnrRY,1
+Explain legacy microservices,DpuQ3-7e-rY,7
+What is structured apps?,t-tTh94NI78,21
+Explain monolithic architectures,E7kXoO9Z0NA,1
+How does binary search work?,HWRcoT4Lr5E,1
+Explain apis mcp,PS9kw4W52Gs,1
+How does file jar work?,0-BBs7q0HzI,1
+How does authentication api work?,xJA8tP74KD0,1
+Explain sql injection,WUBWIVCJLHI,2
+Explain machine docker,KOwxqhFUgts,1
+Explain amazon developer,XVfQD3lkn3g,2
+Explain jar file,0-BBs7q0HzI,1
+Explain text learn,jRfIqQu_mcY,1
+How does content management work?,MPFeE4_veXE,5
+What is elastic search?,6k6-OeWZTYY,2
+How does agents write work?,GQ6piqfwr5c,2
+Explain urea clients,JMXh_6N9PAk,4
+How does data elastic work?,cdm_9YLCNlU,8
+How does http headers work?,fFHl7psnvz0,1
+Explain heartbeats design,2LCyDvx7iIE,1
+Explain load balancer,KuH55P6UgVc,3
+What is design patterns?,7qUVUFE4_Sc,1
+What is data centers?,6HjrkSoeN2I,1
+What is stateless card?,Kf9qqv1kC0s,1
+What is streaming service?,ExJxPANMreM,24
+What is microservices architecture?,Vn8xa6mUocA,23
+What is data business?,7G4g6B78zxM,2
+What is testing agent?,p5hA8rpCRXw,1
+How does design patterns work?,7qUVUFE4_Sc,1
+What is etl tools?,KmOOoE3XO_o,1
+What is netflixx architecture?,2G02p2izBEY,4
+What is deployment strategy?,RThb3koc5DM,2
+What is cqrs command?,q07BGZBDo7g,1
+What is domain youtube?,6bGvO18yAH0,1
+What is mcp ai?,PS9kw4W52Gs,2
+How does git commit work?,E-CH3-VyVck,4
+How does open ai work?,9QpAjiJ0kPk,3
+How does retrieval llm work?,jRfIqQu_mcY,9
+What is password hashing?,TuNvdQUVkto,1
+How does encoder work?,exP5T6IgQHs,2
+How does database service work?,q81-wDiJRN0,2
+Explain retry mechanism,_6yM3B4F4xE,1
+Explain sql joints,cY4pVLpjL3g,1
+How does services architectural work?,WS_u-_gnoVI,1
+How does feature flags work?,vLcrN75Kj8A,1
+How does load balancer work?,KuH55P6UgVc,3
+What is domain driven?,sVi4aDNIPWo,2
+What is monolithic microservices?,E7kXoO9Z0NA,1
+Explain clusters use,pjWhtRtaJiA,1
+Explain understanding jwts,iB__rLXGsas,2
+What is serverless compute?,gbf-DIpFFoI,1
+What is new microservice?,ecuEkmFs5Vk,4
+How does dom document work?,7NyEmb13Ej0,1
+How does tls transport work?,uWmZZyaHFEY,2
+Explain understanding gpus,iQ9arr3TTMA,1
+How does physical topology work?,QxfYZpE9ch8,1
+Explain browser dns,6bGvO18yAH0,1
+Explain probabilities,znuZRn94SQk,1
+What is workflows ai?,9UNPwGRNo_k,2
+Explain payments world,OYn5Be1skCs,1
+What is kubernetes api?,2b2jcfLMkfc,1
+How does secure headers work?,4bQeGUzHpOE,1
+Explain tls certificate,3VbtQDFm8bM,2
+Explain database app,0d6tBMxFCt4,1
+Explain reverse proxy,scDqfwhXtx8,1
+What is https api?,K6bkjs1q4cM,2
+How does spring boot work?,xYv3tBvJavM,1
+How does traditional database work?,0d6tBMxFCt4,1
+Explain mobile apps,t-tTh94NI78,11
+What is mcp clients?,8PnVhLQTDoQ,1
+How does recommendation service work?,_JAN0cHiNHw,1
+What is ai agent?,Jj1-zb38Yfw,1
+What is quantum computer?,LM3rwbVPyNc,1
