@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import pickle
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.spatial.distance import cdist
@@ -8,9 +9,9 @@ from scipy.spatial.distance import cdist
 # Step 1: Load datasets
 # ================================
 
-VIDEO_FILE = "../module4/cleaned_transcripts.csv"
-QUERY_FILE = "../module4/search_queries.csv"
-MAPPING_FILE = "../module4/query_video_mapping.csv"
+VIDEO_FILE = "../module4 - mapping videos/cleaned_transcripts.csv"
+QUERY_FILE = "../module4 - mapping videos/search_queries.csv"
+MAPPING_FILE = "../module4 - mapping videos/query_video_mapping.csv"
 
 print("Loading datasets...\n")
 
@@ -18,7 +19,6 @@ videos = pd.read_csv(VIDEO_FILE)
 queries = pd.read_csv(QUERY_FILE)
 mapping = pd.read_csv(MAPPING_FILE)
 
-# Merge queries with ground truth
 queries = queries.merge(mapping, on="query")
 
 print(f"Videos: {len(videos)}, Queries: {len(queries)}")
@@ -63,15 +63,12 @@ videos["combined"] = videos["title"].fillna('') + " " + videos["transcript"].fil
 # ================================
 
 results_summary = []
-top_k_results = []
-query_eval_results = []
 
 TOP_K = 5
 
 for model_name, model in models.items():
     print(f"\nRunning Model: {model_name}")
 
-    # Encode once per model
     video_embeddings = model.encode(videos["combined"].tolist(), show_progress_bar=True)
     query_embeddings = model.encode(queries["query"].tolist())
 
@@ -85,10 +82,8 @@ for model_name, model in models.items():
         ranks = []
 
         for i, query_emb in enumerate(query_embeddings):
-            query_text = queries.iloc[i]["query"]
             true_vid = queries.iloc[i]["relevant_video_id"]
 
-            # Compute scores
             if metric in similarity_metrics:
                 scores = compute_similarity(query_emb, video_embeddings, metric)
                 ranked_idx = np.argsort(scores)[::-1]
@@ -97,38 +92,11 @@ for model_name, model in models.items():
                 ranked_idx = np.argsort(scores)
 
             ranked_ids = videos.iloc[ranked_idx]["video_id"].tolist()
-            ranked_scores = scores[ranked_idx]
 
-            # ================================
-            # Step 7: Store Top-K results
-            # ================================
-            for rank_pos in range(TOP_K):
-                top_k_results.append({
-                    "Model": model_name,
-                    "Metric": metric,
-                    "Query": query_text,
-                    "Rank": rank_pos + 1,
-                    "Video": ranked_ids[rank_pos],
-                    "Score": round(float(ranked_scores[rank_pos]), 4)
-                })
-
-            # ================================
-            # Step 8: Query evaluation
-            # ================================
             rank = get_rank(ranked_ids, true_vid)
 
-            query_eval_results.append({
-                "Model": model_name,
-                "Metric": metric,
-                "Query": query_text,
-                "Expected Video": true_vid,
-                "Retrieved Rank": rank
-            })
-
-            # Metrics calculation
             if rank is not None:
                 ranks.append(rank)
-
                 if rank == 1:
                     top1 += 1
                 if rank <= 3:
@@ -148,34 +116,69 @@ for model_name, model in models.items():
         })
 
 # ================================
-# Step 9: Save results
+# Step 10: Save evaluation results
 # ================================
 
 results_df = pd.DataFrame(results_summary)
-top_k_df = pd.DataFrame(top_k_results)
-query_eval_df = pd.DataFrame(query_eval_results)
 
 print("\n📊 FINAL RESULTS:\n")
 print(results_df.sort_values(by="Top-3 Recall", ascending=False))
 
-# Save all outputs
 results_df.to_csv("evaluation_results.csv", index=False)
-top_k_df.to_csv("top_k_results.csv", index=False)
-query_eval_df.to_csv("query_evaluation.csv", index=False)
-
-print("\n✅ Files saved:")
-print("evaluation_results.csv")
-print("top_k_results.csv")
-print("query_evaluation.csv")
 
 # ================================
-# Step 10: Best model
+# Step 11: Get BEST model
 # ================================
 
 best = results_df.sort_values(by="Top-3 Recall", ascending=False).iloc[0]
 
+best_model_name = best["Model"]
+best_metric = best["Metric"]
+
 print("\n🏆 BEST CONFIGURATION:")
-print(f"Model: {best['Model']}")
-print(f"Metric: {best['Metric']}")
-print(f"Top-3 Recall: {best['Top-3 Recall']}")
-print(f"Avg Rank: {best['Avg Rank']}")
+print(f"Model: {best_model_name}")
+print(f"Metric: {best_metric}")
+
+# ================================
+# Step 12: Generate FINAL embeddings
+# ================================
+
+best_model = models[best_model_name]
+
+print("\n🚀 Generating embeddings using BEST model...")
+
+final_embeddings = best_model.encode(
+    videos["combined"].tolist(),
+    show_progress_bar=True,
+    convert_to_numpy=True
+)
+
+# ================================
+# Step 13: Prepare metadata
+# ================================
+
+metadata = []
+
+for _, row in videos.iterrows():
+    metadata.append({
+        "title": row.get("title", ""),
+        "video_id": row.get("video_id", ""),
+        "description": str(row.get("transcript", ""))[:200]
+    })
+
+# ================================
+# Step 14: Save embeddings.pkl
+# ================================
+
+data = {
+    "embeddings": final_embeddings,
+    "metadata": metadata,
+    "model": best_model_name,
+    "metric": best_metric
+}
+
+with open("embeddings.pkl", "wb") as f:
+    pickle.dump(data, f)
+
+print("\n✅ embeddings.pkl created successfully!")
+print("📁 Ready for deployment 🚀")
