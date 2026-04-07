@@ -19,7 +19,7 @@ def clean_text(text):
     return re.sub(r"[^\w\s]", "", text.lower())
 
 
-def search(query, top_k=10):
+def search(query, top_k=10, sort_by="Relevance", threshold=0.0, content_type="All"):
 
     clean_query = clean_text(query)
 
@@ -69,21 +69,36 @@ def search(query, top_k=10):
             "video_id": video_id
         })
 
-    results = sorted(results, key=lambda x: x["score"], reverse=True)
+    # 🔥 FILTER BY SCORE
+    results = [r for r in results if r["score"] >= threshold]
+
+    # 🔥 CONTENT TYPE FILTER
+    if content_type != "All":
+        results = [r for r in results if content_type.lower() in r["title"].lower()]
+
+    # 🔥 SORTING
+    if sort_by == "Score":
+        results = sorted(results, key=lambda x: x["score"], reverse=True)
+    elif sort_by == "Title":
+        results = sorted(results, key=lambda x: x["title"])
+    else:
+        results = sorted(results, key=lambda x: x["score"], reverse=True)
 
     return results[:top_k]
 
 
-def search_ui(query):
+def search_ui(query, top_k, sort_by, threshold, content_type):
 
-    results = search(query)
+    results = search(query, int(top_k), sort_by, threshold, content_type)
+
+    if len(results) == 0:
+        return "<h3>No results found. Try different query.</h3>"
 
     output = """
     <div style="
         display:grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap:20px;
-        align-items:stretch;
     ">
     """
 
@@ -124,7 +139,6 @@ def search_ui(query):
                 <h4 style="
                     margin:0 0 10px 0;
                     font-size:15px;
-                    line-height:1.3;
                     height:42px;
                     overflow:hidden;
                 ">
@@ -152,15 +166,12 @@ def search_ui(query):
     return output
 
 
-# ✅ Gradio UI
+# ✅ UI
 with gr.Blocks() as app:
 
     gr.HTML("""
     <div style="display:flex; align-items:center; gap:10px;">
-        
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"
-             width="40">
-
+        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40">
         <h1 style="
             margin:0;
             font-size:28px;
@@ -170,18 +181,27 @@ with gr.Blocks() as app:
         ">
             QueryTubeAI
         </h1>
-
     </div>
 
-    <p style="margin-top:5px; color:gray;">
-        Search videos using AI-powered semantic search
-    </p>
+    <p style="color:gray;">Search videos using AI-powered semantic search</p>
     """)
 
     query_input = gr.Textbox(label="Enter your query")
 
+    with gr.Row():
+        topk_input = gr.Slider(1, 20, value=10, step=1, label="Top K")
+        threshold_input = gr.Slider(0, 1, value=0.2, step=0.05, label="Min Score")
+
+    with gr.Row():
+        sort_input = gr.Dropdown(["Relevance", "Score", "Title"], value="Relevance", label="Sort By")
+        type_input = gr.Dropdown(["All", "Tutorial", "Course", "Beginner"], value="All", label="Content Type")
+
     output = gr.HTML()
 
-    query_input.submit(search_ui, inputs=query_input, outputs=output)
+    query_input.submit(
+        search_ui,
+        inputs=[query_input, topk_input, sort_input, threshold_input, type_input],
+        outputs=output
+    )
 
 app.launch()
