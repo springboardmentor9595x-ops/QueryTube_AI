@@ -1,0 +1,346 @@
+Query,Rank,Video,Title,Score
+what is python programming?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.6203585863113403
+what is python programming?,2,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.5056148171424866
+what is python programming?,3,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.48222842812538147
+what is python programming?,4,fxx_E0ojKrc,Time Series Forecasting in Python – Tutorial for Beginners,0.4122219383716583
+what is python programming?,5,kb_scuDUHls,"Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",0.4064640402793884
+python for beginners tutorial,1,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.7037737369537354
+python for beginners tutorial,2,kb_scuDUHls,"Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",0.6704606413841248
+python for beginners tutorial,3,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.6271865367889404
+python for beginners tutorial,4,fxx_E0ojKrc,Time Series Forecasting in Python – Tutorial for Beginners,0.6234689950942993
+python for beginners tutorial,5,jGg_1h0qzaM,LangGraph Complete Course for Beginners – Complex AI Agents with Python,0.530654788017273
+how to use lists in python?,1,TFhGTw4RXI4,How to insert list items at a specific index in Python,0.6162353754043579
+how to use lists in python?,2,9KnVcWXUL8w,How to remove a list item by its value in Python,0.5416024923324585
+how to use lists in python?,3,vZHhmzT9TL8,How to use the .append() method in Python,0.46856221556663513
+how to use lists in python?,4,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.4542112350463867
+how to use lists in python?,5,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.4414222240447998
+how do python dictionaries work?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.5171626806259155
+how do python dictionaries work?,2,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.4263903498649597
+how do python dictionaries work?,3,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.4240051507949829
+how do python dictionaries work?,4,kb_scuDUHls,"Cryptography for Beginners - Full Python Course (SHA-256, AES, RSA, Passwords)",0.3943307399749756
+how do python dictionaries work?,5,fLnkVdDPgso,How to split a string in Python,0.36774539947509766
+what are python functions?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.5121342539787292
+what are python functions?,2,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.5119927525520325
+what are python functions?,3,ikXDYsdg15c,Function declaration vs expression - what's the difference?,0.4259110391139984
+what are python functions?,4,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.4121851325035095
+what are python functions?,5,fxx_E0ojKrc,Time Series Forecasting in Python – Tutorial for Beginners,0.3907170295715332
+what are python classes and objects?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.5116275548934937
+what are python classes and objects?,2,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.46112382411956787
+what are python classes and objects?,3,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.4464569389820099
+what are python classes and objects?,4,0roB7wZMLqI,Django Crash Course – Python Web Framework,0.3838213086128235
+what are python classes and objects?,5,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.3689917027950287
+what is object oriented programming in python?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.4249081015586853
+what is object oriented programming in python?,2,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.4064826965332031
+what is object oriented programming in python?,3,UsfpzxZNsPo,Python Essentials for AI Agents – Tutorial,0.3747667074203491
+what is object oriented programming in python?,4,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.37299418449401855
+what is object oriented programming in python?,5,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.36685633659362793
+how to work with strings in python?,1,fLnkVdDPgso,How to split a string in Python,0.7153992652893066
+how to work with strings in python?,2,f9-Vf_WNvT0,How to check if a string only contains whitespace in Python,0.5479311943054199
+how to work with strings in python?,3,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.46378642320632935
+how to work with strings in python?,4,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.4532584547996521
+how to work with strings in python?,5,QCSKhLuGR5c,How to remove trailing characters from a Python string using the .rstrip() method,0.4523528516292572
+what is list comprehension in python?,1,9KnVcWXUL8w,How to remove a list item by its value in Python,0.4852559566497803
+what is list comprehension in python?,2,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.44639912247657776
+what is list comprehension in python?,3,TFhGTw4RXI4,How to insert list items at a specific index in Python,0.4432389438152313
+what is list comprehension in python?,4,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.4041176438331604
+what is list comprehension in python?,5,fLnkVdDPgso,How to split a string in Python,0.3564031422138214
+how to debug python code?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.519687831401825
+how to debug python code?,2,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.45335710048675537
+how to debug python code?,3,0roB7wZMLqI,Django Crash Course – Python Web Framework,0.43122243881225586
+how to debug python code?,4,iMLGy2wEE_g,Can you guess what this code logs?,0.41591188311576843
+how to debug python code?,5,ll1mpTJ4qBU,Why debugging vibe-coded projects is hard - and what to do instead,0.41525229811668396
+what is javascript?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.8410227298736572
+what is javascript?,2,yhTipwdwe9w,Fun fact about JavaScript,0.6921137571334839
+what is javascript?,3,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.6461010575294495
+what is javascript?,4,kFEBs8wuhiU,JavaScript coercion chaos at its finest,0.582843542098999
+what is javascript?,5,taSwtU-sldo,What happens when you spread a string in JavaScript?,0.5618657469749451
+javascript for beginners tutorial,1,tPkJLnDqAKk,JavaScript Tutorial with Three.js – 5 Projects for Beginners,0.7526870369911194
+javascript for beginners tutorial,2,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.6273233890533447
+javascript for beginners tutorial,3,xJjxQjZTryI,Problem Solving for Beginners: Build Algorithms from Scratch with First Principles and JavaScript,0.625339150428772
+javascript for beginners tutorial,4,Vs4hQsDpxww,"Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",0.6203244924545288
+javascript for beginners tutorial,5,KOutPbKc9UM,Intro to Backend Web Development – Node.js & Express Tutorial for Beginners,0.5972388982772827
+what are javascript closures?,1,U6-RekkuORI,Closures in JavaScript explained with a simple backpack analogy,0.7681578993797302
+what are javascript closures?,2,9kKNFP9srjc,So how do closures work again...?,0.6145261526107788
+what are javascript closures?,3,c6IyCwAV6BY,What is the JavaScript DOM?,0.5717196464538574
+what are javascript closures?,4,yhTipwdwe9w,Fun fact about JavaScript,0.5416568517684937
+what are javascript closures?,5,taSwtU-sldo,What happens when you spread a string in JavaScript?,0.5403604507446289
+what is the javascript event loop?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.610409140586853
+what is the javascript event loop?,2,yhTipwdwe9w,Fun fact about JavaScript,0.5740312337875366
+what is the javascript event loop?,3,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.5575042366981506
+what is the javascript event loop?,4,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.5174753069877625
+what is the javascript event loop?,5,taSwtU-sldo,What happens when you spread a string in JavaScript?,0.4940111041069031
+what are promises in javascript?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.5543968677520752
+what are promises in javascript?,2,yhTipwdwe9w,Fun fact about JavaScript,0.529373049736023
+what are promises in javascript?,3,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.5214939117431641
+what are promises in javascript?,4,QgZoz4xFfLE,Array vs object gotcha in JavaScript,0.48029327392578125
+what are promises in javascript?,5,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.4509652853012085
+what is async await in javascript?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.4839102029800415
+what is async await in javascript?,2,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.3911597728729248
+what is async await in javascript?,3,yhTipwdwe9w,Fun fact about JavaScript,0.3747783303260803
+what is async await in javascript?,4,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.37383779883384705
+what is async await in javascript?,5,QgZoz4xFfLE,Array vs object gotcha in JavaScript,0.36591005325317383
+what are javascript arrays?,1,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.8351210355758667
+what are javascript arrays?,2,c6IyCwAV6BY,What is the JavaScript DOM?,0.691973090171814
+what are javascript arrays?,3,QgZoz4xFfLE,Array vs object gotcha in JavaScript,0.6876065731048584
+what are javascript arrays?,4,yhTipwdwe9w,Fun fact about JavaScript,0.5641735792160034
+what are javascript arrays?,5,URJBQ3b9n6Y,"Classic JavaScript gotcha: why does this print 3, 3, 3 instead of 0, 1, 2?",0.5541461110115051
+what are arrow functions in javascript?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.6337985992431641
+what are arrow functions in javascript?,2,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.5873462557792664
+what are arrow functions in javascript?,3,yhTipwdwe9w,Fun fact about JavaScript,0.5439145565032959
+what are arrow functions in javascript?,4,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.5419235229492188
+what are arrow functions in javascript?,5,QgZoz4xFfLE,Array vs object gotcha in JavaScript,0.4802822470664978
+what is dom manipulation in javascript?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.8297908306121826
+what is dom manipulation in javascript?,2,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.5369392037391663
+what is dom manipulation in javascript?,3,yhTipwdwe9w,Fun fact about JavaScript,0.5215862393379211
+what is dom manipulation in javascript?,4,taSwtU-sldo,What happens when you spread a string in JavaScript?,0.5143778920173645
+what is dom manipulation in javascript?,5,kFEBs8wuhiU,JavaScript coercion chaos at its finest,0.48756152391433716
+how does javascript handle callbacks?,1,ry_mcAPVTOc,What's the difference between call vs apply in JavaScript?,0.5274369120597839
+how does javascript handle callbacks?,2,yhTipwdwe9w,Fun fact about JavaScript,0.5075294971466064
+how does javascript handle callbacks?,3,U6-RekkuORI,Closures in JavaScript explained with a simple backpack analogy,0.48110538721084595
+how does javascript handle callbacks?,4,c6IyCwAV6BY,What is the JavaScript DOM?,0.45251530408859253
+how does javascript handle callbacks?,5,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.413630872964859
+what is html?,1,et7u_tnlS0Q,The inventor of HTML gave away the web for free...,0.6905536651611328
+what is html?,2,c6IyCwAV6BY,What is the JavaScript DOM?,0.5885399580001831
+what is html?,3,w_BIYb6WbtU,Did you know that HTML doesn't care about mistakes?,0.5051147937774658
+what is html?,4,8Si7eCfEpB0,Browsers fight over who renders HTML the best. Which one do you think usually wins?,0.4746145009994507
+what is html?,5,YXmDMqw7dYU,The HTML blink tag was SO annoying it got binned. The more you know...,0.44662851095199585
+html full course for beginners,1,vT5pcc30Ffw,Technical Writing Course for Beginners,0.6074743270874023
+html full course for beginners,2,G9JxuWk7BDA,Discrete Mathematics Course for Beginners,0.5906277894973755
+html full course for beginners,3,KOutPbKc9UM,Intro to Backend Web Development – Node.js & Express Tutorial for Beginners,0.5589375495910645
+html full course for beginners,4,bB5eA7vU9W8,Learn Notion – Full Course for Beginners,0.5540692806243896
+html full course for beginners,5,LzMnsfqjzkA,Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial,0.5510139465332031
+what are html semantic tags?,1,et7u_tnlS0Q,The inventor of HTML gave away the web for free...,0.4407205581665039
+what are html semantic tags?,2,YXmDMqw7dYU,The HTML blink tag was SO annoying it got binned. The more you know...,0.3908658027648926
+what are html semantic tags?,3,c6IyCwAV6BY,What is the JavaScript DOM?,0.3778478801250458
+what are html semantic tags?,4,w_BIYb6WbtU,Did you know that HTML doesn't care about mistakes?,0.3491772413253784
+what are html semantic tags?,5,8Si7eCfEpB0,Browsers fight over who renders HTML the best. Which one do you think usually wins?,0.34376317262649536
+how to create forms in html?,1,siMP-22x5Ck,How to brand your form controls,0.5624865293502808
+how to create forms in html?,2,EzyJpHz2awM,How to make heart shapes in HTML,0.4671592116355896
+how to create forms in html?,3,Vs4hQsDpxww,"Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",0.3935384750366211
+how to create forms in html?,4,et7u_tnlS0Q,The inventor of HTML gave away the web for free...,0.3610795736312866
+how to create forms in html?,5,w_BIYb6WbtU,Did you know that HTML doesn't care about mistakes?,0.2965014576911926
+what are html attributes?,1,et7u_tnlS0Q,The inventor of HTML gave away the web for free...,0.4938509464263916
+what are html attributes?,2,c6IyCwAV6BY,What is the JavaScript DOM?,0.4788731634616852
+what are html attributes?,3,w_BIYb6WbtU,Did you know that HTML doesn't care about mistakes?,0.41551947593688965
+what are html attributes?,4,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.39584124088287354
+what are html attributes?,5,8Si7eCfEpB0,Browsers fight over who renders HTML the best. Which one do you think usually wins?,0.37365397810935974
+what is css?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.4288623332977295
+what is css?,2,-KRTTe__qy8,How to style your input cursor in CSS,0.4017104506492615
+what is css?,3,VplSjvnwG_Y,Boost your app's performance with CSS containment,0.3978325128555298
+what is css?,4,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.3906180262565613
+what is css?,5,nbsz6muQRT4,Learn CSS Flexbox in 2 Hours – Tutorial for Beginners,0.3629469871520996
+css flexbox explained,1,Hfo5uvbmDaY,Flexbox spacing made easy,0.7234162092208862
+css flexbox explained,2,nbsz6muQRT4,Learn CSS Flexbox in 2 Hours – Tutorial for Beginners,0.710036039352417
+css flexbox explained,3,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.36270904541015625
+css flexbox explained,4,VplSjvnwG_Y,Boost your app's performance with CSS containment,0.3458722233772278
+css flexbox explained,5,baYjd4pFjlw,Learn how to make any div resizable,0.3078402280807495
+what is css grid?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.3652777671813965
+what is css grid?,2,tPeyD3ELDHw,Did you know - Harvard's CS50 isn't just a coding course. There are many variants...,0.33048033714294434
+what is css grid?,3,nbsz6muQRT4,Learn CSS Flexbox in 2 Hours – Tutorial for Beginners,0.3179934620857239
+what is css grid?,4,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.3017190992832184
+what is css grid?,5,fQbBPa0ADvs,Computer Networking Fundamentals Course,0.29950767755508423
+how to center elements using css?,1,-KRTTe__qy8,How to style your input cursor in CSS,0.4550902545452118
+how to center elements using css?,2,baYjd4pFjlw,Learn how to make any div resizable,0.3511289060115814
+how to center elements using css?,3,Vs4hQsDpxww,"Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",0.30795764923095703
+how to center elements using css?,4,VplSjvnwG_Y,Boost your app's performance with CSS containment,0.2597338855266571
+how to center elements using css?,5,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.24364379048347473
+responsive web design tutorial,1,nbsz6muQRT4,Learn CSS Flexbox in 2 Hours – Tutorial for Beginners,0.47387075424194336
+responsive web design tutorial,2,Vs4hQsDpxww,"Code Your Own Code Editor – JavaScript, HTML, CSS Tutorial",0.44763386249542236
+responsive web design tutorial,3,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.4452287554740906
+responsive web design tutorial,4,baYjd4pFjlw,Learn how to make any div resizable,0.4350293278694153
+responsive web design tutorial,5,Hfo5uvbmDaY,Flexbox spacing made easy,0.37923264503479004
+what is react js?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.5544551610946655
+what is react js?,2,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.5184749364852905
+what is react js?,3,keTcXT145CI,React Performance Optimization Patterns Course,0.4274209141731262
+what is react js?,4,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.40287625789642334
+what is react js?,5,qYk_BqGHXEg,Next.js Caching & Rendering Tutorial – Full Course for Beginners,0.4019342362880707
+react tutorial for beginners,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.6546747088432312
+react tutorial for beginners,2,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.6288856267929077
+react tutorial for beginners,3,KOutPbKc9UM,Intro to Backend Web Development – Node.js & Express Tutorial for Beginners,0.5752915740013123
+react tutorial for beginners,4,Kt2E8nblvXU,Learn Vue.js – Tutorial for Beginners,0.5336102247238159
+react tutorial for beginners,5,keTcXT145CI,React Performance Optimization Patterns Course,0.5243312120437622
+what are react components?,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.49048152565956116
+what are react components?,2,keTcXT145CI,React Performance Optimization Patterns Course,0.3785773515701294
+what are react components?,3,c6IyCwAV6BY,What is the JavaScript DOM?,0.36639201641082764
+what are react components?,4,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.35737696290016174
+what are react components?,5,cCuvlQvU1eg,"Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",0.2943435311317444
+what are react hooks?,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.5329920053482056
+what are react hooks?,2,keTcXT145CI,React Performance Optimization Patterns Course,0.3651271462440491
+what are react hooks?,3,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.3368169963359833
+what are react hooks?,4,cCuvlQvU1eg,"Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",0.3075577914714813
+what are react hooks?,5,YXmDMqw7dYU,The HTML blink tag was SO annoying it got binned. The more you know...,0.26774832606315613
+what is usestate in react?,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.4155036211013794
+what is usestate in react?,2,keTcXT145CI,React Performance Optimization Patterns Course,0.3887298107147217
+what is usestate in react?,3,ry_mcAPVTOc,What's the difference between call vs apply in JavaScript?,0.30705076456069946
+what is usestate in react?,4,c6IyCwAV6BY,What is the JavaScript DOM?,0.26819419860839844
+what is usestate in react?,5,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.2523190975189209
+what is useeffect in react?,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.4263331890106201
+what is useeffect in react?,2,keTcXT145CI,React Performance Optimization Patterns Course,0.34925875067710876
+what is useeffect in react?,3,ry_mcAPVTOc,What's the difference between call vs apply in JavaScript?,0.23293499648571014
+what is useeffect in react?,4,c6IyCwAV6BY,What is the JavaScript DOM?,0.22148257493972778
+what is useeffect in react?,5,626BcUO84og,JavaScript Clean Code Course – Fix Code Smells & Refactor,0.21837273240089417
+how does react handle state?,1,W4M-g9wsEC4,React 19 Project Tutorial – AI Code Explainer,0.48858392238616943
+how does react handle state?,2,keTcXT145CI,React Performance Optimization Patterns Course,0.46661484241485596
+how does react handle state?,3,IJ85kCdqWao,React Course for Beginners w/ Tailwind CSS [2025],0.28212231397628784
+how does react handle state?,4,cCuvlQvU1eg,"Build a Calendly Clone – Full Stack Next.js, Typescript, React, Tailwind",0.24188554286956787
+how does react handle state?,5,qYk_BqGHXEg,Next.js Caching & Rendering Tutorial – Full Course for Beginners,0.21273821592330933
+what is next.js?,1,qYk_BqGHXEg,Next.js Caching & Rendering Tutorial – Full Course for Beginners,0.5839124917984009
+what is next.js?,2,IcOiX-jynfI,Learn Next.js by Coding Your Own Dropbox Clone – Full Tutorial,0.5682755708694458
+what is next.js?,3,c6IyCwAV6BY,What is the JavaScript DOM?,0.526996910572052
+what is next.js?,4,tPkJLnDqAKk,JavaScript Tutorial with Three.js – 5 Projects for Beginners,0.5128344297409058
+what is next.js?,5,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.4640848636627197
+what is node.js?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.5679519176483154
+what is node.js?,2,KOutPbKc9UM,Intro to Backend Web Development – Node.js & Express Tutorial for Beginners,0.5568246841430664
+what is node.js?,3,KCQsP91Wor0,Lynx Tutorial – JS Framework for Cross Platform Development,0.4515341520309448
+what is node.js?,4,I2LoiJWCKxc,Vue.js grew organically thanks in large part to the community - which Evan You discusses here.,0.4143102169036865
+what is node.js?,5,21_I-12f5JE,NestJS Course for Beginners - Build Server-Side Applications,0.41059187054634094
+what is express.js?,1,c6IyCwAV6BY,What is the JavaScript DOM?,0.5392906665802002
+what is express.js?,2,KOutPbKc9UM,Intro to Backend Web Development – Node.js & Express Tutorial for Beginners,0.524552583694458
+what is express.js?,3,HEGrkgpe7-Y,JavaScript was famously designed in 10 days - so how'd it evolve to handle complex apps?,0.3881644606590271
+what is express.js?,4,gl0cpq4RJhU,Everything You Need to Know About JavaScript Arrays – Full Course,0.3759159445762634
+what is express.js?,5,yhTipwdwe9w,Fun fact about JavaScript,0.3629588186740875
+what is machine learning?,1,PcbuKRNtCUc,Essential Machine Learning and AI Concepts Animated,0.4442357122898102
+what is machine learning?,2,vc5T3VmCar0,Playing chess is a lot like software development,0.36195582151412964
+what is machine learning?,3,aokdrllzkFQ,"To understand what AI can do, we have to first understand what it CAN'T do.",0.36163806915283203
+what is machine learning?,4,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.3508636951446533
+what is machine learning?,5,LsY7U2Muau8,Do you know who the first computer programmer was?,0.3464713990688324
+machine learning for beginners,1,bB5eA7vU9W8,Learn Notion – Full Course for Beginners,0.5540775060653687
+machine learning for beginners,2,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.528506875038147
+machine learning for beginners,3,8pn9KEuXG28,Vue.js Course for Beginners,0.5103759765625
+machine learning for beginners,4,G9JxuWk7BDA,Discrete Mathematics Course for Beginners,0.4941404461860657
+machine learning for beginners,5,vT5pcc30Ffw,Technical Writing Course for Beginners,0.4872500002384186
+what is supervised learning?,1,oRZouQxC5Gw,"When you're learning a new skill, you've gotta be consistent for long enough to make a difference",0.34049320220947266
+what is supervised learning?,2,VgBQ0yBSjfM,How to build your own learning path using Open Source with Kunal Kushwaha [Podcast 200],0.3256121873855591
+what is supervised learning?,3,q4Ovbh3tpU0,Do something toward learning programming every day - even if it's just 10 minutes,0.29642120003700256
+what is supervised learning?,4,suuDVhYXe5Y,How Ania built a course that teaches devs to code their own AI agents,0.287639856338501
+what is supervised learning?,5,9Ge0sMm65jo,Train Your Own LLM – Tutorial,0.2841399908065796
+what is unsupervised learning?,1,VgBQ0yBSjfM,How to build your own learning path using Open Source with Kunal Kushwaha [Podcast 200],0.3511921167373657
+what is unsupervised learning?,2,bB5eA7vU9W8,Learn Notion – Full Course for Beginners,0.3304104804992676
+what is unsupervised learning?,3,oRZouQxC5Gw,"When you're learning a new skill, you've gotta be consistent for long enough to make a difference",0.3299463987350464
+what is unsupervised learning?,4,RI8ELvtbUmU,"When you're learning or doing something new, get comfortable being uncomfortable",0.30027180910110474
+what is unsupervised learning?,5,q4Ovbh3tpU0,Do something toward learning programming every day - even if it's just 10 minutes,0.2825429141521454
+what is deep learning?,1,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.4828675389289856
+what is deep learning?,2,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.4426378905773163
+what is deep learning?,3,rhCiuu4AW_w,VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course),0.43467825651168823
+what is deep learning?,4,bB5eA7vU9W8,Learn Notion – Full Course for Beginners,0.3840175271034241
+what is deep learning?,5,wu8npoU37cI,"Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers",0.362047404050827
+what are neural networks?,1,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.40127772092819214
+what are neural networks?,2,kRv2ElPNAdY,From RNNs to Transformers: The Complete Neural Machine Translation Journey,0.39292049407958984
+what are neural networks?,3,wu8npoU37cI,"Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers",0.3875255882740021
+what are neural networks?,4,fQbBPa0ADvs,Computer Networking Fundamentals Course,0.3742174506187439
+what are neural networks?,5,aokdrllzkFQ,"To understand what AI can do, we have to first understand what it CAN'T do.",0.3090220093727112
+what is gradient descent?,1,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.24764767289161682
+what is gradient descent?,2,rhCiuu4AW_w,VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course),0.23825907707214355
+what is gradient descent?,3,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.2272355854511261
+what is gradient descent?,4,LzMnsfqjzkA,Become a Fullstack Developer from Scratch – Full Beginner’s Tutorial,0.20314359664916992
+what is gradient descent?,5,Kt2E8nblvXU,Learn Vue.js – Tutorial for Beginners,0.18777057528495789
+what is overfitting in machine learning?,1,oRZouQxC5Gw,"When you're learning a new skill, you've gotta be consistent for long enough to make a difference",0.42868539690971375
+what is overfitting in machine learning?,2,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.32175594568252563
+what is overfitting in machine learning?,3,ojkbIKjRLIM,The challenges of turning a powerful braille learning prototype into real hardware,0.31263452768325806
+what is overfitting in machine learning?,4,U6-RekkuORI,Closures in JavaScript explained with a simple backpack analogy,0.3086450695991516
+what is overfitting in machine learning?,5,9kKNFP9srjc,So how do closures work again...?,0.3018616735935211
+what is underfitting in machine learning?,1,oRZouQxC5Gw,"When you're learning a new skill, you've gotta be consistent for long enough to make a difference",0.37900710105895996
+what is underfitting in machine learning?,2,ealPKU_orJg,How to control underline spacing,0.3639976680278778
+what is underfitting in machine learning?,3,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.3340301811695099
+what is underfitting in machine learning?,4,ojkbIKjRLIM,The challenges of turning a powerful braille learning prototype into real hardware,0.31384602189064026
+what is underfitting in machine learning?,5,0aKV-JGtDMA,It's easy to get sucked into working too much - but the costs become pretty clear pretty quickly.,0.29148948192596436
+what is model training?,1,suuDVhYXe5Y,How Ania built a course that teaches devs to code their own AI agents,0.35978999733924866
+what is model training?,2,9Ge0sMm65jo,Train Your Own LLM – Tutorial,0.3492359220981598
+what is model training?,3,Jaj_SQsF-BI,LLM from Scratch Tutorial – Code & Train Qwen 3,0.3234419822692871
+what is model training?,4,mvleESOUTRw,Production-Grade AI Project Tutorial – Build & Deploy,0.32317885756492615
+what is model training?,5,H-oCV5brtU4,Intro to Fine-Tuning Large Language Models,0.3201880156993866
+what is artificial intelligence?,1,aokdrllzkFQ,"To understand what AI can do, we have to first understand what it CAN'T do.",0.5764377117156982
+what is artificial intelligence?,2,PcbuKRNtCUc,Essential Machine Learning and AI Concepts Animated,0.5471395254135132
+what is artificial intelligence?,3,zkJt9y7ixiY,AI tools can be super helpful - but they're not the answer to everything,0.5241886377334595
+what is artificial intelligence?,4,MdEexYakkHw,"How can you, as a dev, get the most out of AI tools?",0.4665052890777588
+what is artificial intelligence?,5,0xah5jMflcI,Building ‍Security into AI – Tutorial,0.45801612734794617
+what are ai agents?,1,UsfpzxZNsPo,Python Essentials for AI Agents – Tutorial,0.731011152267456
+what are ai agents?,2,B0TJC4lmzEM,"How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)",0.6600396633148193
+what are ai agents?,3,suuDVhYXe5Y,How Ania built a course that teaches devs to code their own AI agents,0.6575850248336792
+what are ai agents?,4,zkJt9y7ixiY,AI tools can be super helpful - but they're not the answer to everything,0.6054326295852661
+what are ai agents?,5,tr5Fapv80Cw,Building Agentic AI Workloads – Crash Course,0.6016570925712585
+what is natural language processing?,1,H-oCV5brtU4,Intro to Fine-Tuning Large Language Models,0.4479285478591919
+what is natural language processing?,2,912L9KmzSLE,The advantages of being bilingual in tech,0.35647034645080566
+what is natural language processing?,3,56Hv0LDjtWM,Why humans are still necessary in the technical writing and research process,0.3197034001350403
+what is natural language processing?,4,DosHnyq78xY,Intro to MCP Servers – Model Context Protocol with Python Course,0.25479069352149963
+what is natural language processing?,5,HihwnUepmdg,Need some coding experience? Contribute to Open Source.,0.25415629148483276
+what are embeddings in ai?,1,HaUe2AN210g,"Enterprise AI Tutorial – Embeddings, RAG, and Multimodal Agents Using Amazon Nova and Bedrock",0.5066938400268555
+what are embeddings in ai?,2,PcbuKRNtCUc,Essential Machine Learning and AI Concepts Animated,0.48082607984542847
+what are embeddings in ai?,3,zkJt9y7ixiY,AI tools can be super helpful - but they're not the answer to everything,0.47391006350517273
+what are embeddings in ai?,4,aokdrllzkFQ,"To understand what AI can do, we have to first understand what it CAN'T do.",0.4552958607673645
+what are embeddings in ai?,5,suuDVhYXe5Y,How Ania built a course that teaches devs to code their own AI agents,0.42789942026138306
+what is semantic search?,1,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.23765915632247925
+what is semantic search?,2,NdeeSEknp58,"Relational DBMS Course – Database Concepts, Design & Querying Tutorial",0.2373678833246231
+what is semantic search?,3,RwDvIaoJeAs,Why you should always negotiate - in the job search and in life,0.20132681727409363
+what is semantic search?,4,H-oCV5brtU4,Intro to Fine-Tuning Large Language Models,0.1918494999408722
+what is semantic search?,5,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.18699690699577332
+what is cosine similarity?,1,9UxVhurASxU,"The ""this"" keyword can be tricky. Ania helps you sort out one of its quirks here.",0.19957315921783447
+what is cosine similarity?,2,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.19483770430088043
+what is cosine similarity?,3,pdleuy5lljY,Knitting and coding may not seem related - but they are,0.18692302703857422
+what is cosine similarity?,4,Tbqmz0ZP8q8,"Coding and chess are similar - they're both require deep thinking, patience, and creativity",0.1768176257610321
+what is cosine similarity?,5,davl7UFG-Ls,Can you guess the output here?,0.17270760238170624
+what are transformer models?,1,8WBS0dT0h2I,Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course,0.6798087358474731
+what are transformer models?,2,7o1jpvapaT0,Building a Vision Transformer Model from Scratch with PyTorch,0.4830484390258789
+what are transformer models?,3,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.4739229381084442
+what are transformer models?,4,kRv2ElPNAdY,From RNNs to Transformers: The Complete Neural Machine Translation Journey,0.4722285866737366
+what are transformer models?,5,p3sij8QzONQ,LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF,0.3348469138145447
+what are sentence transformers?,1,kRv2ElPNAdY,From RNNs to Transformers: The Complete Neural Machine Translation Journey,0.4727718234062195
+what are sentence transformers?,2,8WBS0dT0h2I,Evolution of the Transformer Architecture Used in LLMs (2017–2025) – Full Course,0.42264389991760254
+what are sentence transformers?,3,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.3123113512992859
+what are sentence transformers?,4,taSwtU-sldo,What happens when you spread a string in JavaScript?,0.287384957075119
+what are sentence transformers?,5,UtV8MfnuIEg,"The ""this"" keyword can be confusing in JavaScript. Do you understand how this works?",0.2864840030670166
+what is huggingface?,1,EzyJpHz2awM,How to make heart shapes in HTML,0.28904300928115845
+what is huggingface?,2,c6IyCwAV6BY,What is the JavaScript DOM?,0.23904447257518768
+what is huggingface?,3,pdleuy5lljY,Knitting and coding may not seem related - but they are,0.23050571978092194
+what is huggingface?,4,YXmDMqw7dYU,The HTML blink tag was SO annoying it got binned. The more you know...,0.22048193216323853
+what is huggingface?,5,wP8SiwiExBk,"What is Homebrew? It's not coffee, it's not beer, it's...a package manager!",0.1863514482975006
+what is data science?,1,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.5868793725967407
+what is data science?,2,T23Bs75F7ZQ,Data Engineering with Python and AI/LLMs – Data Loading Tutorial,0.4285009503364563
+what is data science?,3,0Hd5vYqin7w,Databricks Data Engineer Associate Certification Course – Pass the Exam!,0.3904714584350586
+what is data science?,4,cMOz7Tyq7aE,From freeCodeCamp to NASA with Data Engineer Joe Hill [Podcast 178],0.37209200859069824
+what is data science?,5,Z_c4byLrNBU,Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial,0.33513277769088745
+what is pandas in python?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.4961085915565491
+what is pandas in python?,2,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.4231913089752197
+what is pandas in python?,3,VDFRpjQVaME,College Calculus – Full Course with Python Code,0.356095552444458
+what is pandas in python?,4,9KnVcWXUL8w,How to remove a list item by its value in Python,0.33783259987831116
+what is pandas in python?,5,TFhGTw4RXI4,How to insert list items at a specific index in Python,0.33161380887031555
+what is numpy used for?,1,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.23838165402412415
+what is numpy used for?,2,DosHnyq78xY,Intro to MCP Servers – Model Context Protocol with Python Course,0.2128174751996994
+what is numpy used for?,3,7o1jpvapaT0,Building a Vision Transformer Model from Scratch with PyTorch,0.19745586812496185
+what is numpy used for?,4,9q24hqwm4QM,From laser-etching microchips to rediscovering a love of coding,0.1972903609275818
+what is numpy used for?,5,rhCiuu4AW_w,VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course),0.19188013672828674
+what is scikit-learn?,1,rhCiuu4AW_w,VGG From Scratch – Deep Learning Theory & PyTorch Implementation (Full Course),0.4197104573249817
+what is scikit-learn?,2,voPcxCFMbbM,How to teach yourself programming with GitHub's Andrea Griffiths [Podcast 199],0.3967984914779663
+what is scikit-learn?,3,bB5eA7vU9W8,Learn Notion – Full Course for Beginners,0.3856450319290161
+what is scikit-learn?,4,LrPhWAGYhlI,From fast food worker to cybersecurity engineer with Tae'lur Alexis [Podcast 169],0.3653436601161957
+what is scikit-learn?,5,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.3600977659225464
+what is data preprocessing?,1,BrBMM2gIQN8,Prepping for interviews? Here are some practical tips to help you out.,0.3771827816963196
+what is data preprocessing?,2,T23Bs75F7ZQ,Data Engineering with Python and AI/LLMs – Data Loading Tutorial,0.3630210757255554
+what is data preprocessing?,3,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.3502795696258545
+what is data preprocessing?,4,Z_c4byLrNBU,Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial,0.3131777048110962
+what is data preprocessing?,5,56Hv0LDjtWM,Why humans are still necessary in the technical writing and research process,0.2725120782852173
+what is exploratory data analysis?,1,Z_c4byLrNBU,Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial,0.4044801592826843
+what is exploratory data analysis?,2,ku6HZ_k9qgY,Why Algorithms Work – Algorithm Analysis Deep Dive Course,0.3385826349258423
+what is exploratory data analysis?,3,26ls5lNiijk,Relational Database Design – Full Course,0.319100022315979
+what is exploratory data analysis?,4,NdeeSEknp58,"Relational DBMS Course – Database Concepts, Design & Querying Tutorial",0.3104671239852905
+what is exploratory data analysis?,5,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.28167039155960083
+what is data visualization in python?,1,XSJD5ay1D_8,Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization,0.49366649985313416
+what is data visualization in python?,2,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.48498669266700745
+what is data visualization in python?,3,T23Bs75F7ZQ,Data Engineering with Python and AI/LLMs – Data Loading Tutorial,0.41851916909217834
+what is data visualization in python?,4,tfpGS_doPvY,Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers,0.37295156717300415
+what is data visualization in python?,5,KUbbb0T1YZ8,Have you ever wondered where Python got its name?,0.356536865234375
+what is a dataset?,1,CMEWVn1uZpQ,Learn Python for Data Science – Full Course for Beginners,0.37098750472068787
+what is a dataset?,2,T23Bs75F7ZQ,Data Engineering with Python and AI/LLMs – Data Loading Tutorial,0.3558242917060852
+what is a dataset?,3,XSJD5ay1D_8,Data Viz w/ Svelte and D3 Tutorial – Custom and Interactive Data Visualization,0.2864731550216675
+what is a dataset?,4,Z_c4byLrNBU,Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial,0.28089451789855957
+what is a dataset?,5,0Hd5vYqin7w,Databricks Data Engineer Associate Certification Course – Pass the Exam!,0.2686139941215515
+what is feature engineering?,1,zfUP1tIC64o,"Some upcoming features for freeCodeCamp - Tom talks about daily coding challenges, streaks, & more.",0.3077686131000519
+what is feature engineering?,2,p3sij8QzONQ,LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF,0.3000012934207916
+what is feature engineering?,3,ojkbIKjRLIM,The challenges of turning a powerful braille learning prototype into real hardware,0.2897583544254303
+what is feature engineering?,4,MdEexYakkHw,"How can you, as a dev, get the most out of AI tools?",0.27859336137771606
+what is feature engineering?,5,C7UI_4jIGSQ,Senior Playstation Engineer's tips for learning new tools and getting things done [Podcast 184],0.27435994148254395
+what is model evaluation?,1,FAKgFhWX8pQ,"This looks simple, but can you predict the output?",0.3048281669616699
+what is model evaluation?,2,H-oCV5brtU4,Intro to Fine-Tuning Large Language Models,0.281247615814209
+what is model evaluation?,3,7G9q_5q82hY,How to Benchmark Embedding Models On Your Own Data,0.26821544766426086
+what is model evaluation?,4,fQ51cM44o7I,What does a double !! do in code?,0.2639855146408081
+what is model evaluation?,5,Sk72ZCDAEsk,How a colleague helped Santosh realize he was performing at a higher level at work than his title,0.23034560680389404
