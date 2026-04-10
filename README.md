@@ -21,6 +21,8 @@ This project is an AI-powered YouTube Semantic Search System that retrieves vide
 7. Video Index Creation
 8. Search Optimization
 9. UI Deployment (Gradio)
+    
+## 📂 Project Structure
 
 QueryTube_AI/
 │
