@@ -1,4 +1,4 @@
-# 🎥QueryTube_AI
+[# 🎥QueryTube_AI
 
 ## 📌 Project Overview
 This project is an AI-powered YouTube Semantic Search System that retrieves videos based on meaning (semantic search) rather than exact keyword matching.
@@ -54,3 +54,4 @@ Python, Pandas, NumPy, SentenceTransformers, Gradio, YouTube API
 
 ## 👨‍💻 Author
 AI/NLP Project
+](https://github.com/springboardmentor9595x-ops/QueryTube_AI/tree/Lokesh)
