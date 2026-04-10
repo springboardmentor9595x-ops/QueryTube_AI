@@ -22,16 +22,38 @@ This project is an AI-powered YouTube Semantic Search System that retrieves vide
 8. Search Optimization
 9. UI Deployment (Gradio)
 
-## 📂 Project Structure
-youtube-semantic-search/
+QueryTube_AI/
 │
-├── data/
-├── scripts/
-├── app.py
-├── search.py
-├── requirements.txt
-├── README.md
-
+├── data/                         # 📊 Datasets
+│   ├── raw_metadata.csv
+│   ├── cleaned_metadata.csv
+│   ├── video_with_transcripts.csv
+│   ├── cleaned_transcripts.csv
+│   ├── video_index.csv
+│   └── transcript_failures.csv
+│
+├── notebooks/                    # 📒 Jupyter notebooks (optional)
+│   └── eda_analysis.ipynb
+│
+├── scripts/                      # ⚙️ Data processing pipeline
+│   ├── data_collection.py        # Fetch videos using YouTube API
+│   ├── preprocessing.py          # Clean metadata & transcripts
+│   ├── transcript_extraction.py  # Extract transcripts
+│   ├── embedding.py              # Generate embeddings
+│   ├── evaluation.py             # Compare models & metrics
+│   ├── indexing.py               # Create final video index
+│
+├── src/                          # 🧠 Core logic
+│   ├── search.py                 # Semantic search function
+│   ├── utils.py                  # Helper functions
+│
+├── app.py                        # 🚀 Main Gradio app (RUN THIS)
+├── config.py                     # 🔧 Settings (model, threshold, top_k)
+├── requirements.txt              # 📦 Dependencies
+├── .env                          # 🔐 API keys (hidden)
+├── .gitignore                    # 🚫 Ignore unnecessary files
+├── README.md                     # 📘 Documentation
+└── LICENSE                       # (Optional)
 ## ⚙️ Installation
 git clone <repo-url>
 cd youtube-semantic-search
