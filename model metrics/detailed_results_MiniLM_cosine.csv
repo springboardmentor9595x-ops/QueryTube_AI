@@ -1,0 +1,376 @@
+query,rank,video_id,score
+How to get started with coding for beginners,1,xJjxQjZTryI,0.5890628
+How to get started with coding for beginners,2,voPcxCFMbbM,0.5804789
+How to get started with coding for beginners,3,lw1vTtFyfgg,0.5716113
+How to get started with coding for beginners,4,H6gHXV6OgFU,0.56971586
+How to get started with coding for beginners,5,HihwnUepmdg,0.53133476
+Best way to learn programming in 2025,1,Fi8vnYgMiHA,0.6881673
+Best way to learn programming in 2025,2,gmuTjeQUbTM,0.6526843
+Best way to learn programming in 2025,3,q4Ovbh3tpU0,0.5946276
+Best way to learn programming in 2025,4,ZK6XWSCCgPQ,0.57264626
+Best way to learn programming in 2025,5,g_3IKHG-rfA,0.56708574
+What is the future of web development,1,uWRdzJTpcpI,0.537797
+What is the future of web development,2,BiA08jfr4RU,0.52935237
+What is the future of web development,3,HEGrkgpe7-Y,0.4908793
+What is the future of web development,4,y5aKEyPfLKs,0.48416176
+What is the future of web development,5,Fd4XR_EkDHc,0.42655653
+How to use Three.js for creative coding,1,v7Butot2fHY,0.76213175
+How to use Three.js for creative coding,2,PiflojewvfU,0.6771002
+How to use Three.js for creative coding,3,tdsQwuyS6DQ,0.6548566
+How to use Three.js for creative coding,4,ehkDsePv3W8,0.6481638
+How to use Three.js for creative coding,5,yhtdkuw9mbM,0.6470371
+Beginner guide to JavaScript frameworks,1,KOutPbKc9UM,0.60413826
+Beginner guide to JavaScript frameworks,2,c6IyCwAV6BY,0.58732194
+Beginner guide to JavaScript frameworks,3,21_I-12f5JE,0.567211
+Beginner guide to JavaScript frameworks,4,BiA08jfr4RU,0.5667983
+Beginner guide to JavaScript frameworks,5,xJjxQjZTryI,0.55464983
+How to build projects with React step by step,1,cw02dMpWStI,0.52670974
+How to build projects with React step by step,2,xJjxQjZTryI,0.3949722
+How to build projects with React step by step,3,7lEWtEG3vd0,0.38862354
+How to build projects with React step by step,4,v7Butot2fHY,0.3868933
+How to build projects with React step by step,5,keTcXT145CI,0.37488163
+What skills do software developers need today,1,ekXUXu7Eejs,0.59749275
+What skills do software developers need today,2,uWRdzJTpcpI,0.56420964
+What skills do software developers need today,3,gpm1hRv6WL8,0.53494585
+What skills do software developers need today,4,MdEexYakkHw,0.51388234
+What skills do software developers need today,5,vc5T3VmCar0,0.50896907
+How to learn full stack development efficiently,1,voPcxCFMbbM,0.47564706
+How to learn full stack development efficiently,2,cfOI7PBhkWk,0.46038353
+How to learn full stack development efficiently,3,q4Ovbh3tpU0,0.45645416
+How to learn full stack development efficiently,4,66hDgWottdA,0.44853425
+How to learn full stack development efficiently,5,cjam-BWAaL8,0.4466328
+Tips for mastering Python programming,1,UsfpzxZNsPo,0.61471134
+Tips for mastering Python programming,2,cjam-BWAaL8,0.49683592
+Tips for mastering Python programming,3,GAZkxw6DJJE,0.4929034
+Tips for mastering Python programming,4,kb_scuDUHls,0.46892804
+Tips for mastering Python programming,5,66hDgWottdA,0.46600765
+What is the best programming language to learn first,1,xtGThMTO9rI,0.49921215
+What is the best programming language to learn first,2,g_3IKHG-rfA,0.46883366
+What is the best programming language to learn first,3,LsY7U2Muau8,0.46691823
+What is the best programming language to learn first,4,MZVyASCY8sQ,0.45372397
+What is the best programming language to learn first,5,ZK6XWSCCgPQ,0.44648898
+How to improve problem solving in coding,1,OGRyln02De4,0.5693004
+How to improve problem solving in coding,2,xJjxQjZTryI,0.5320798
+How to improve problem solving in coding,3,o54etZM-DrY,0.46762055
+How to improve problem solving in coding,4,MZVyASCY8sQ,0.45380664
+How to improve problem solving in coding,5,66hDgWottdA,0.4533058
+Real world applications of machine learning,1,tchN4xa4pfg,0.38324425
+Real world applications of machine learning,2,aokdrllzkFQ,0.37985507
+Real world applications of machine learning,3,zkJt9y7ixiY,0.35153472
+Real world applications of machine learning,4,R8h_gpSpEVU,0.34963787
+Real world applications of machine learning,5,MdEexYakkHw,0.34759188
+How AI is changing software development,1,MdEexYakkHw,0.7068098
+How AI is changing software development,2,aokdrllzkFQ,0.6289735
+How AI is changing software development,3,lIghF_OewYg,0.5558679
+How AI is changing software development,4,suuDVhYXe5Y,0.52489686
+How AI is changing software development,5,2yF62QE59G8,0.51841813
+Beginner guide to APIs and how they work,1,UsfpzxZNsPo,0.52756864
+Beginner guide to APIs and how they work,2,KOutPbKc9UM,0.52196515
+Beginner guide to APIs and how they work,3,WSsOXo07LeE,0.4910031
+Beginner guide to APIs and how they work,4,xJjxQjZTryI,0.43175864
+Beginner guide to APIs and how they work,5,n1sfrc-RjyM,0.41883156
+How to use REST APIs in projects,1,KOutPbKc9UM,0.3387529
+How to use REST APIs in projects,2,cw02dMpWStI,0.31727332
+How to use REST APIs in projects,3,ll1mpTJ4qBU,0.31374386
+How to use REST APIs in projects,4,7lEWtEG3vd0,0.286896
+How to use REST APIs in projects,5,v7Butot2fHY,0.2821177
+Best practices for writing clean code,1,626BcUO84og,0.51815057
+Best practices for writing clean code,2,OGRyln02De4,0.43361717
+Best practices for writing clean code,3,ldkfMvE36FI,0.3514549
+Best practices for writing clean code,4,H3i9DGnMxWQ,0.3134089
+Best practices for writing clean code,5,ll1mpTJ4qBU,0.28070992
+How to debug code effectively,1,OGRyln02De4,0.59348285
+How to debug code effectively,2,ll1mpTJ4qBU,0.50066364
+How to debug code effectively,3,DIRnYM2dOs0,0.48581168
+How to debug code effectively,4,ldkfMvE36FI,0.4165418
+How to debug code effectively,5,iMLGy2wEE_g,0.38429257
+Tips for learning data structures and algorithms,1,mrRfPVm9nAY,0.6921925
+Tips for learning data structures and algorithms,2,xwI5OBEnsZU,0.47702858
+Tips for learning data structures and algorithms,3,MZVyASCY8sQ,0.431216
+Tips for learning data structures and algorithms,4,26ls5lNiijk,0.38612032
+Tips for learning data structures and algorithms,5,xJjxQjZTryI,0.36908394
+How to prepare for coding interviews,1,BrBMM2gIQN8,0.6791618
+How to prepare for coding interviews,2,ekXUXu7Eejs,0.55264324
+How to prepare for coding interviews,3,xwI5OBEnsZU,0.50230545
+How to prepare for coding interviews,4,voPcxCFMbbM,0.465374
+How to prepare for coding interviews,5,GAZkxw6DJJE,0.46474624
+What is cloud computing and how to learn it,1,xHUwGx-ZlTM,0.42240217
+What is cloud computing and how to learn it,2,gmuTjeQUbTM,0.3993555
+What is cloud computing and how to learn it,3,tVskbekONlw,0.39685488
+What is cloud computing and how to learn it,4,ZK6XWSCCgPQ,0.38978583
+What is cloud computing and how to learn it,5,tPeyD3ELDHw,0.3897104
+Introduction to DevOps for beginners,1,tVskbekONlw,0.5263542
+Introduction to DevOps for beginners,2,hP931079TMw,0.51153684
+Introduction to DevOps for beginners,3,4T3YlTSWa5s,0.4654174
+Introduction to DevOps for beginners,4,cfOI7PBhkWk,0.46424016
+Introduction to DevOps for beginners,5,voPcxCFMbbM,0.46321544
+How to deploy a web application,1,KOutPbKc9UM,0.35917354
+How to deploy a web application,2,lEcULR30-GM,0.3502913
+How to deploy a web application,3,BiA08jfr4RU,0.2870658
+How to deploy a web application,4,v7Butot2fHY,0.28600103
+How to deploy a web application,5,HEGrkgpe7-Y,0.2795312
+What is Docker and how to use it,1,lEcULR30-GM,0.4775985
+What is Docker and how to use it,2,wP8SiwiExBk,0.33041817
+What is Docker and how to use it,3,odP153inZUo,0.2670796
+What is Docker and how to use it,4,Fr9GqFwl6NM,0.26077104
+What is Docker and how to use it,5,l57xKN6OBhY,0.24402161
+How to build scalable applications,1,HEGrkgpe7-Y,0.40138024
+How to build scalable applications,2,xHUwGx-ZlTM,0.38394272
+How to build scalable applications,3,D5F8kp_azzw,0.38192093
+How to build scalable applications,4,7lEWtEG3vd0,0.33764386
+How to build scalable applications,5,VplSjvnwG_Y,0.33380562
+Best resources to learn programming for free,1,voPcxCFMbbM,0.60681367
+Best resources to learn programming for free,2,lw1vTtFyfgg,0.574518
+Best resources to learn programming for free,3,66hDgWottdA,0.5454992
+Best resources to learn programming for free,4,ZK6XWSCCgPQ,0.5252489
+Best resources to learn programming for free,5,g_3IKHG-rfA,0.4883708
+How to stay motivated while learning to code,1,q4Ovbh3tpU0,0.61183065
+How to stay motivated while learning to code,2,o54etZM-DrY,0.5501579
+How to stay motivated while learning to code,3,oRZouQxC5Gw,0.5067882
+How to stay motivated while learning to code,4,OGRyln02De4,0.49169147
+How to stay motivated while learning to code,5,H6gHXV6OgFU,0.49028945
+What are the latest trends in tech careers,1,56Hv0LDjtWM,0.44480312
+What are the latest trends in tech careers,2,9tyZL5KIiGU,0.41473788
+What are the latest trends in tech careers,3,MdEexYakkHw,0.39347
+What are the latest trends in tech careers,4,tPeyD3ELDHw,0.39199725
+What are the latest trends in tech careers,5,9q24hqwm4QM,0.39133483
+How to transition into a tech career,1,9tyZL5KIiGU,0.51948035
+How to transition into a tech career,2,tVf_5pvz5ck,0.48352808
+How to transition into a tech career,3,H6gHXV6OgFU,0.46810794
+How to transition into a tech career,4,9q24hqwm4QM,0.4318262
+How to transition into a tech career,5,ekXUXu7Eejs,0.42349598
+Beginner guide to cybersecurity,1,9HOpanT0GRs,0.7139883
+Beginner guide to cybersecurity,2,ug8W0sFiVJo,0.6256435
+Beginner guide to cybersecurity,3,wck2LmaMaB4,0.5977588
+Beginner guide to cybersecurity,4,fQbBPa0ADvs,0.4744973
+Beginner guide to cybersecurity,5,kb_scuDUHls,0.45686606
+What is blockchain and how does it work,1,c6IyCwAV6BY,0.27157232
+What is blockchain and how does it work,2,UtV8MfnuIEg,0.23802571
+What is blockchain and how does it work,3,slfaeQLn1cY,0.21924894
+What is blockchain and how does it work,4,U6-RekkuORI,0.21716243
+What is blockchain and how does it work,5,26ls5lNiijk,0.20968378
+How to build mobile apps with JavaScript,1,HEGrkgpe7-Y,0.5281998
+How to build mobile apps with JavaScript,2,v7Butot2fHY,0.50434566
+How to build mobile apps with JavaScript,3,Fd4XR_EkDHc,0.47763038
+How to build mobile apps with JavaScript,4,y5aKEyPfLKs,0.438451
+How to build mobile apps with JavaScript,5,xJjxQjZTryI,0.42279968
+What is TypeScript and why use it,1,ja4OAzPLuM8,0.47435874
+What is TypeScript and why use it,2,E2oyLZVBcQw,0.47101748
+What is TypeScript and why use it,3,HEGrkgpe7-Y,0.4642781
+What is TypeScript and why use it,4,Fd4XR_EkDHc,0.4594605
+What is TypeScript and why use it,5,y5aKEyPfLKs,0.40225726
+How to optimize website performance,1,VplSjvnwG_Y,0.48313352
+How to optimize website performance,2,keTcXT145CI,0.3731913
+How to optimize website performance,3,b_6KoSdgHiA,0.36018407
+How to optimize website performance,4,8Si7eCfEpB0,0.30373684
+How to optimize website performance,5,tdsQwuyS6DQ,0.24978074
+What is responsive web design,1,8Si7eCfEpB0,0.40091848
+What is responsive web design,2,nbsz6muQRT4,0.3994676
+What is responsive web design,3,BiA08jfr4RU,0.38565648
+What is responsive web design,4,baYjd4pFjlw,0.3533224
+What is responsive web design,5,c6IyCwAV6BY,0.32667044
+How to create interactive web experiences,1,yhtdkuw9mbM,0.5654862
+How to create interactive web experiences,2,tdsQwuyS6DQ,0.52237374
+How to create interactive web experiences,3,KOutPbKc9UM,0.480716
+How to create interactive web experiences,4,BiA08jfr4RU,0.4729975
+How to create interactive web experiences,5,c6IyCwAV6BY,0.46753484
+How to work with animations in web development,1,yhtdkuw9mbM,0.52945226
+How to work with animations in web development,2,tdsQwuyS6DQ,0.47761187
+How to work with animations in web development,3,66hDgWottdA,0.45956713
+How to work with animations in web development,4,BiA08jfr4RU,0.43703276
+How to work with animations in web development,5,uWRdzJTpcpI,0.4313715
+Tips for UI/UX design for developers,1,OGRyln02De4,0.49033096
+Tips for UI/UX design for developers,2,BiA08jfr4RU,0.47516823
+Tips for UI/UX design for developers,3,HihwnUepmdg,0.41620684
+Tips for UI/UX design for developers,4,xJjxQjZTryI,0.40987697
+Tips for UI/UX design for developers,5,KOutPbKc9UM,0.4016516
+How to use Git and GitHub effectively,1,mAFoROnOfHs,0.73400843
+How to use Git and GitHub effectively,2,ZldNCx4AvEM,0.67156893
+How to use Git and GitHub effectively,3,cw02dMpWStI,0.43427533
+How to use Git and GitHub effectively,4,CcQwCGUdRmw,0.37665418
+How to use Git and GitHub effectively,5,voPcxCFMbbM,0.37155443
+What is open source and how to contribute,1,FHBBaSUQk1Y,0.81743383
+What is open source and how to contribute,2,4RGkpzTJjfg,0.74826247
+What is open source and how to contribute,3,c1Op7YSTwhg,0.7342595
+What is open source and how to contribute,4,HihwnUepmdg,0.6760555
+What is open source and how to contribute,5,7lEWtEG3vd0,0.65574926
+How to collaborate on coding projects,1,cw02dMpWStI,0.50732327
+How to collaborate on coding projects,2,HihwnUepmdg,0.48933992
+How to collaborate on coding projects,3,OGRyln02De4,0.4713985
+How to collaborate on coding projects,4,7lEWtEG3vd0,0.46282667
+How to collaborate on coding projects,5,ll1mpTJ4qBU,0.45228896
+What is test-driven development,1,jydYq7oAtD8,0.47649634
+What is test-driven development,2,Yygu7TBWdPs,0.39821678
+What is test-driven development,3,tZef2ZzbyuQ,0.3664693
+What is test-driven development,4,7yruIW4NvEQ,0.3635282
+What is test-driven development,5,s950xhRvqYQ,0.34349793
+How to write unit tests for your code,1,Yygu7TBWdPs,0.46111465
+How to write unit tests for your code,2,jydYq7oAtD8,0.39172035
+How to write unit tests for your code,3,OGRyln02De4,0.3067969
+How to write unit tests for your code,4,626BcUO84og,0.29715824
+How to write unit tests for your code,5,tZef2ZzbyuQ,0.2854606
+Best practices for backend development,1,KOutPbKc9UM,0.5930171
+Best practices for backend development,2,ldkfMvE36FI,0.38717675
+Best practices for backend development,3,HihwnUepmdg,0.3813459
+Best practices for backend development,4,ll1mpTJ4qBU,0.38051224
+Best practices for backend development,5,OGRyln02De4,0.37735733
+How databases work in web applications,1,26ls5lNiijk,0.56895727
+How databases work in web applications,2,u1T8yyEEKWY,0.47261152
+How databases work in web applications,3,KOutPbKc9UM,0.403673
+How databases work in web applications,4,Q7P20fHJlm4,0.33788368
+How databases work in web applications,5,mrRfPVm9nAY,0.3358068
+SQL vs NoSQL: which one to choose,1,26ls5lNiijk,0.4471997
+SQL vs NoSQL: which one to choose,2,u1T8yyEEKWY,0.40493423
+SQL vs NoSQL: which one to choose,3,Q7P20fHJlm4,0.27629197
+SQL vs NoSQL: which one to choose,4,KOutPbKc9UM,0.23988128
+SQL vs NoSQL: which one to choose,5,9tyZL5KIiGU,0.23755977
+How to manage state in frontend applications,1,keTcXT145CI,0.35104203
+How to manage state in frontend applications,2,HEGrkgpe7-Y,0.23149914
+How to manage state in frontend applications,3,KOutPbKc9UM,0.22989428
+How to manage state in frontend applications,4,21_I-12f5JE,0.20904681
+How to manage state in frontend applications,5,VplSjvnwG_Y,0.20600113
+What is serverless architecture,1,xHUwGx-ZlTM,0.56995535
+What is serverless architecture,2,BMt-qvrEcFY,0.48402095
+What is serverless architecture,3,21_I-12f5JE,0.29801676
+What is serverless architecture,4,uWRdzJTpcpI,0.25829533
+What is serverless architecture,5,Ai00MsNabaE,0.24940264
+How to build APIs from scratch,1,xJjxQjZTryI,0.41970864
+How to build APIs from scratch,2,ll1mpTJ4qBU,0.40724877
+How to build APIs from scratch,3,UsfpzxZNsPo,0.38587993
+How to build APIs from scratch,4,suuDVhYXe5Y,0.38314712
+How to build APIs from scratch,5,D5F8kp_azzw,0.3781456
+What is microservices architecture,1,xHUwGx-ZlTM,0.49307004
+What is microservices architecture,2,tr5Fapv80Cw,0.32860342
+What is microservices architecture,3,BMt-qvrEcFY,0.3131073
+What is microservices architecture,4,odP153inZUo,0.2595153
+What is microservices architecture,5,GIZzRGYpCbM,0.25524515
+How to structure large codebases,1,ldkfMvE36FI,0.46172088
+How to structure large codebases,2,mrRfPVm9nAY,0.4403481
+How to structure large codebases,3,cjam-BWAaL8,0.4035776
+How to structure large codebases,4,OGRyln02De4,0.38607967
+How to structure large codebases,5,HihwnUepmdg,0.34148508
+Tips for learning programming faster,1,q4Ovbh3tpU0,0.6446178
+Tips for learning programming faster,2,MZVyASCY8sQ,0.58866405
+Tips for learning programming faster,3,ZK6XWSCCgPQ,0.5751701
+Tips for learning programming faster,4,66hDgWottdA,0.5654683
+Tips for learning programming faster,5,voPcxCFMbbM,0.5109887
+Common mistakes beginners make in coding,1,OGRyln02De4,0.53932846
+Common mistakes beginners make in coding,2,pdleuy5lljY,0.50018346
+Common mistakes beginners make in coding,3,7ysrM5BMe6Q,0.48847032
+Common mistakes beginners make in coding,4,w_BIYb6WbtU,0.4518081
+Common mistakes beginners make in coding,5,xJjxQjZTryI,0.44614297
+How to build a portfolio as a developer,1,yhtdkuw9mbM,0.5179744
+How to build a portfolio as a developer,2,tdsQwuyS6DQ,0.47253245
+How to build a portfolio as a developer,3,BiA08jfr4RU,0.42974788
+How to build a portfolio as a developer,4,GAZkxw6DJJE,0.39578402
+How to build a portfolio as a developer,5,IRcL5as-RaE,0.3908619
+What projects should beginners build,1,xJjxQjZTryI,0.54207766
+What projects should beginners build,2,cw02dMpWStI,0.51602507
+What projects should beginners build,3,BiA08jfr4RU,0.47600317
+What projects should beginners build,4,voPcxCFMbbM,0.46583784
+What projects should beginners build,5,7lEWtEG3vd0,0.45569643
+How to learn coding without a degree,1,H6gHXV6OgFU,0.60546696
+How to learn coding without a degree,2,ekXUXu7Eejs,0.5688193
+How to learn coding without a degree,3,lw1vTtFyfgg,0.544201
+How to learn coding without a degree,4,voPcxCFMbbM,0.538462
+How to learn coding without a degree,5,q4Ovbh3tpU0,0.4955405
+Day in the life of a software developer,1,gpm1hRv6WL8,0.7501104
+Day in the life of a software developer,2,q4Ovbh3tpU0,0.5473149
+Day in the life of a software developer,3,DzVm161M4Kk,0.5078652
+Day in the life of a software developer,4,7ysrM5BMe6Q,0.507061
+Day in the life of a software developer,5,lIghF_OewYg,0.4917983
+What tools do developers use daily,1,MdEexYakkHw,0.54082406
+What tools do developers use daily,2,gpm1hRv6WL8,0.5016368
+What tools do developers use daily,3,zfUP1tIC64o,0.46341538
+What tools do developers use daily,4,7lEWtEG3vd0,0.4393164
+What tools do developers use daily,5,7yruIW4NvEQ,0.43817067
+How to automate tasks with code,1,UsfpzxZNsPo,0.44613022
+How to automate tasks with code,2,suuDVhYXe5Y,0.44532746
+How to automate tasks with code,3,xJjxQjZTryI,0.4010722
+How to automate tasks with code,4,jydYq7oAtD8,0.35239857
+How to automate tasks with code,5,66hDgWottdA,0.34985298
+What is data science and how to start,1,mrRfPVm9nAY,0.47712865
+What is data science and how to start,2,26ls5lNiijk,0.44362733
+What is data science and how to start,3,g_3IKHG-rfA,0.40433222
+What is data science and how to start,4,MZVyASCY8sQ,0.39933902
+What is data science and how to start,5,xMrOFhk6Rng,0.38396496
+How to visualize data using JavaScript,1,c6IyCwAV6BY,0.47877735
+How to visualize data using JavaScript,2,ehkDsePv3W8,0.47306275
+How to visualize data using JavaScript,3,tdsQwuyS6DQ,0.3942984
+How to visualize data using JavaScript,4,Fd4XR_EkDHc,0.37392822
+How to visualize data using JavaScript,5,kFEBs8wuhiU,0.3676475
+Introduction to neural networks,1,wu8npoU37cI,0.43218446
+Introduction to neural networks,2,tchN4xa4pfg,0.3813228
+Introduction to neural networks,3,kRv2ElPNAdY,0.377223
+Introduction to neural networks,4,fQbBPa0ADvs,0.3655238
+Introduction to neural networks,5,MZVyASCY8sQ,0.36466154
+How to train machine learning models,1,MZVyASCY8sQ,0.4610191
+How to train machine learning models,2,tVskbekONlw,0.44428104
+How to train machine learning models,3,R8h_gpSpEVU,0.42769945
+How to train machine learning models,4,7G9q_5q82hY,0.42200142
+How to train machine learning models,5,tchN4xa4pfg,0.40483573
+What is deep learning in simple terms,1,kRv2ElPNAdY,0.38238484
+What is deep learning in simple terms,2,aokdrllzkFQ,0.3585539
+What is deep learning in simple terms,3,wu8npoU37cI,0.34617513
+What is deep learning in simple terms,4,VWcCVKaN2vA,0.31366235
+What is deep learning in simple terms,5,tchN4xa4pfg,0.30535206
+How to use AI tools for coding,1,MdEexYakkHw,0.70898306
+How to use AI tools for coding,2,suuDVhYXe5Y,0.6894884
+How to use AI tools for coding,3,MZVyASCY8sQ,0.6459434
+How to use AI tools for coding,4,UsfpzxZNsPo,0.6216836
+How to use AI tools for coding,5,zkJt9y7ixiY,0.61671156
+Future of artificial intelligence explained,1,aokdrllzkFQ,0.6082581
+Future of artificial intelligence explained,2,Fi8vnYgMiHA,0.5602263
+Future of artificial intelligence explained,3,gmuTjeQUbTM,0.54348433
+Future of artificial intelligence explained,4,tchN4xa4pfg,0.5429228
+Future of artificial intelligence explained,5,tr5Fapv80Cw,0.53484184
+How to learn new technologies quickly,1,xJjxQjZTryI,0.49452093
+How to learn new technologies quickly,2,MZVyASCY8sQ,0.49437398
+How to learn new technologies quickly,3,q4Ovbh3tpU0,0.4801609
+How to learn new technologies quickly,4,oRZouQxC5Gw,0.47345865
+How to learn new technologies quickly,5,ZK6XWSCCgPQ,0.44847557
+Tips for working remotely as a developer,1,IRcL5as-RaE,0.42976457
+Tips for working remotely as a developer,2,HihwnUepmdg,0.42236263
+Tips for working remotely as a developer,3,ekXUXu7Eejs,0.42087287
+Tips for working remotely as a developer,4,QpGTmAoEINA,0.39101267
+Tips for working remotely as a developer,5,voPcxCFMbbM,0.3901172
+How to improve coding productivity,1,o54etZM-DrY,0.5169904
+How to improve coding productivity,2,OGRyln02De4,0.5103986
+How to improve coding productivity,3,H3i9DGnMxWQ,0.5072595
+How to improve coding productivity,4,7ysrM5BMe6Q,0.50477505
+How to improve coding productivity,5,ekXUXu7Eejs,0.50099486
+What is pair programming,1,LsY7U2Muau8,0.44369036
+What is pair programming,2,fQ51cM44o7I,0.39921972
+What is pair programming,3,pdleuy5lljY,0.36816868
+What is pair programming,4,Fi8vnYgMiHA,0.33435142
+What is pair programming,5,g_3IKHG-rfA,0.33006442
+How to review code effectively,1,H3i9DGnMxWQ,0.55968666
+How to review code effectively,2,OGRyln02De4,0.49935937
+How to review code effectively,3,626BcUO84og,0.43626723
+How to review code effectively,4,ZldNCx4AvEM,0.33052063
+How to review code effectively,5,ll1mpTJ4qBU,0.32548767
+Best coding practices for teams,1,OGRyln02De4,0.4617214
+Best coding practices for teams,2,H3i9DGnMxWQ,0.39171058
+Best coding practices for teams,3,ekXUXu7Eejs,0.37334248
+Best coding practices for teams,4,cfOI7PBhkWk,0.3555294
+Best coding practices for teams,5,s950xhRvqYQ,0.34557372
+How to handle large datasets in applications,1,mrRfPVm9nAY,0.3665444
+How to handle large datasets in applications,2,7G9q_5q82hY,0.3153935
+How to handle large datasets in applications,3,xwI5OBEnsZU,0.30221513
+How to handle large datasets in applications,4,26ls5lNiijk,0.28959405
+How to handle large datasets in applications,5,tVskbekONlw,0.23397735
+What is edge computing,1,GIZzRGYpCbM,0.29302222
+What is edge computing,2,MdEexYakkHw,0.2918086
+What is edge computing,3,fQbBPa0ADvs,0.28035828
+What is edge computing,4,tVskbekONlw,0.27805364
+What is edge computing,5,xHUwGx-ZlTM,0.27525675
+How to build real-time applications,1,HEGrkgpe7-Y,0.36275393
+How to build real-time applications,2,GIZzRGYpCbM,0.34205043
+How to build real-time applications,3,suuDVhYXe5Y,0.33687901
+How to build real-time applications,4,xJjxQjZTryI,0.31656057
+How to build real-time applications,5,BMt-qvrEcFY,0.31388566
+What are the challenges in modern software development,1,zfUP1tIC64o,0.5121115
+What are the challenges in modern software development,2,tZef2ZzbyuQ,0.44884586
+What are the challenges in modern software development,3,oeWLnnjFmf8,0.4398745
+What are the challenges in modern software development,4,MdEexYakkHw,0.4372052
+What are the challenges in modern software development,5,s950xhRvqYQ,0.42588115
