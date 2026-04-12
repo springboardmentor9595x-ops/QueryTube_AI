@@ -1,0 +1,451 @@
+Model,Metric,Query,Expected Video,Retrieved Rank
+MiniLM,cosine,What are NumPy data types,fPopFeqw5sk,1
+MiniLM,cosine,What are important NumPy functions,81i_uSX9Vic,2
+MiniLM,cosine,What are Python iterators,k0D3MQwLn7A,1
+MiniLM,cosine,What are Python generators,ZBlxaXMN_hU,1
+MiniLM,cosine,What is Matplotlib in Python,c9vhHUGdav0,1
+MiniLM,cosine,How to customize Matplotlib plots,hunq_UOdmoo,1
+MiniLM,cosine,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MiniLM,cosine,What is NumPy slicing,6WaBryk4fkE,1
+MiniLM,cosine,How to convert decimal to hexadecimal,mjiHc965UME,2
+MiniLM,cosine,What is the binary number system,aMME_rYkoOU,4
+MiniLM,cosine,What are arrays in C programming,tg5Wv9Ba1lI,55
+MiniLM,cosine,What is dynamic memory allocation in C,J6qXny_UAK4,69
+MiniLM,cosine,How to read files in C,ZwSyuqbeN0c,23
+MiniLM,cosine,What are for loops in C,rUXjvybSPWc,13
+MiniLM,cosine,What are function prototypes in C,eIlcl-mt3tg,6
+MiniLM,cosine,What is a switch statement in C,Jx12Vf0VxmY,9
+MiniLM,cosine,What is Java multithreading,y4siEcxgOpM,70
+MiniLM,cosine,What are Java anonymous classes,6Hk2aE_SRzY,77
+MiniLM,cosine,How to write files in Java,Z5smVeUVNFU,72
+MiniLM,cosine,What is Java ArrayList,zdAggA1q0eo,57
+MiniLM,cosine,What are Java getters and setters,NEj2H7SoTzQ,122
+MiniLM,cosine,What is method overriding in Java,NtlSzRWhaOc,103
+MiniLM,cosine,What are constructors in Java,wt194lO5kKE,68
+MiniLM,cosine,What is object oriented programming in Java,taI7G6U29L8,20
+MiniLM,cosine,What are 2D arrays in Java,P_iOnmdww8E,45
+MiniLM,cosine,What is Python programming,Pg0aoSbrqOE,126
+MiniLM,cosine,What are Python projects for beginners,wsTSREgCE5E,103
+MiniLM,cosine,How to build a weather app in Python,hx_DRanBRRM,211
+MiniLM,cosine,What is React JS,ZD7CB6wKg8A,143
+MiniLM,cosine,What is async await in JavaScript,LN45TyPWAAg,111
+MiniLM,dot,What are NumPy data types,fPopFeqw5sk,1
+MiniLM,dot,What are important NumPy functions,81i_uSX9Vic,2
+MiniLM,dot,What are Python iterators,k0D3MQwLn7A,1
+MiniLM,dot,What are Python generators,ZBlxaXMN_hU,1
+MiniLM,dot,What is Matplotlib in Python,c9vhHUGdav0,1
+MiniLM,dot,How to customize Matplotlib plots,hunq_UOdmoo,1
+MiniLM,dot,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MiniLM,dot,What is NumPy slicing,6WaBryk4fkE,1
+MiniLM,dot,How to convert decimal to hexadecimal,mjiHc965UME,2
+MiniLM,dot,What is the binary number system,aMME_rYkoOU,4
+MiniLM,dot,What are arrays in C programming,tg5Wv9Ba1lI,55
+MiniLM,dot,What is dynamic memory allocation in C,J6qXny_UAK4,69
+MiniLM,dot,How to read files in C,ZwSyuqbeN0c,23
+MiniLM,dot,What are for loops in C,rUXjvybSPWc,13
+MiniLM,dot,What are function prototypes in C,eIlcl-mt3tg,6
+MiniLM,dot,What is a switch statement in C,Jx12Vf0VxmY,9
+MiniLM,dot,What is Java multithreading,y4siEcxgOpM,70
+MiniLM,dot,What are Java anonymous classes,6Hk2aE_SRzY,77
+MiniLM,dot,How to write files in Java,Z5smVeUVNFU,72
+MiniLM,dot,What is Java ArrayList,zdAggA1q0eo,57
+MiniLM,dot,What are Java getters and setters,NEj2H7SoTzQ,122
+MiniLM,dot,What is method overriding in Java,NtlSzRWhaOc,103
+MiniLM,dot,What are constructors in Java,wt194lO5kKE,68
+MiniLM,dot,What is object oriented programming in Java,taI7G6U29L8,20
+MiniLM,dot,What are 2D arrays in Java,P_iOnmdww8E,45
+MiniLM,dot,What is Python programming,Pg0aoSbrqOE,126
+MiniLM,dot,What are Python projects for beginners,wsTSREgCE5E,103
+MiniLM,dot,How to build a weather app in Python,hx_DRanBRRM,211
+MiniLM,dot,What is React JS,ZD7CB6wKg8A,143
+MiniLM,dot,What is async await in JavaScript,LN45TyPWAAg,111
+MiniLM,euclidean,What are NumPy data types,fPopFeqw5sk,1
+MiniLM,euclidean,What are important NumPy functions,81i_uSX9Vic,2
+MiniLM,euclidean,What are Python iterators,k0D3MQwLn7A,1
+MiniLM,euclidean,What are Python generators,ZBlxaXMN_hU,1
+MiniLM,euclidean,What is Matplotlib in Python,c9vhHUGdav0,1
+MiniLM,euclidean,How to customize Matplotlib plots,hunq_UOdmoo,1
+MiniLM,euclidean,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MiniLM,euclidean,What is NumPy slicing,6WaBryk4fkE,1
+MiniLM,euclidean,How to convert decimal to hexadecimal,mjiHc965UME,2
+MiniLM,euclidean,What is the binary number system,aMME_rYkoOU,4
+MiniLM,euclidean,What are arrays in C programming,tg5Wv9Ba1lI,55
+MiniLM,euclidean,What is dynamic memory allocation in C,J6qXny_UAK4,69
+MiniLM,euclidean,How to read files in C,ZwSyuqbeN0c,23
+MiniLM,euclidean,What are for loops in C,rUXjvybSPWc,13
+MiniLM,euclidean,What are function prototypes in C,eIlcl-mt3tg,6
+MiniLM,euclidean,What is a switch statement in C,Jx12Vf0VxmY,9
+MiniLM,euclidean,What is Java multithreading,y4siEcxgOpM,70
+MiniLM,euclidean,What are Java anonymous classes,6Hk2aE_SRzY,77
+MiniLM,euclidean,How to write files in Java,Z5smVeUVNFU,72
+MiniLM,euclidean,What is Java ArrayList,zdAggA1q0eo,57
+MiniLM,euclidean,What are Java getters and setters,NEj2H7SoTzQ,122
+MiniLM,euclidean,What is method overriding in Java,NtlSzRWhaOc,103
+MiniLM,euclidean,What are constructors in Java,wt194lO5kKE,68
+MiniLM,euclidean,What is object oriented programming in Java,taI7G6U29L8,20
+MiniLM,euclidean,What are 2D arrays in Java,P_iOnmdww8E,45
+MiniLM,euclidean,What is Python programming,Pg0aoSbrqOE,126
+MiniLM,euclidean,What are Python projects for beginners,wsTSREgCE5E,103
+MiniLM,euclidean,How to build a weather app in Python,hx_DRanBRRM,211
+MiniLM,euclidean,What is React JS,ZD7CB6wKg8A,143
+MiniLM,euclidean,What is async await in JavaScript,LN45TyPWAAg,111
+MiniLM,cityblock,What are NumPy data types,fPopFeqw5sk,1
+MiniLM,cityblock,What are important NumPy functions,81i_uSX9Vic,2
+MiniLM,cityblock,What are Python iterators,k0D3MQwLn7A,1
+MiniLM,cityblock,What are Python generators,ZBlxaXMN_hU,1
+MiniLM,cityblock,What is Matplotlib in Python,c9vhHUGdav0,2
+MiniLM,cityblock,How to customize Matplotlib plots,hunq_UOdmoo,1
+MiniLM,cityblock,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MiniLM,cityblock,What is NumPy slicing,6WaBryk4fkE,1
+MiniLM,cityblock,How to convert decimal to hexadecimal,mjiHc965UME,2
+MiniLM,cityblock,What is the binary number system,aMME_rYkoOU,4
+MiniLM,cityblock,What are arrays in C programming,tg5Wv9Ba1lI,60
+MiniLM,cityblock,What is dynamic memory allocation in C,J6qXny_UAK4,56
+MiniLM,cityblock,How to read files in C,ZwSyuqbeN0c,22
+MiniLM,cityblock,What are for loops in C,rUXjvybSPWc,16
+MiniLM,cityblock,What are function prototypes in C,eIlcl-mt3tg,7
+MiniLM,cityblock,What is a switch statement in C,Jx12Vf0VxmY,11
+MiniLM,cityblock,What is Java multithreading,y4siEcxgOpM,92
+MiniLM,cityblock,What are Java anonymous classes,6Hk2aE_SRzY,89
+MiniLM,cityblock,How to write files in Java,Z5smVeUVNFU,61
+MiniLM,cityblock,What is Java ArrayList,zdAggA1q0eo,54
+MiniLM,cityblock,What are Java getters and setters,NEj2H7SoTzQ,149
+MiniLM,cityblock,What is method overriding in Java,NtlSzRWhaOc,121
+MiniLM,cityblock,What are constructors in Java,wt194lO5kKE,58
+MiniLM,cityblock,What is object oriented programming in Java,taI7G6U29L8,17
+MiniLM,cityblock,What are 2D arrays in Java,P_iOnmdww8E,36
+MiniLM,cityblock,What is Python programming,Pg0aoSbrqOE,132
+MiniLM,cityblock,What are Python projects for beginners,wsTSREgCE5E,94
+MiniLM,cityblock,How to build a weather app in Python,hx_DRanBRRM,205
+MiniLM,cityblock,What is React JS,ZD7CB6wKg8A,142
+MiniLM,cityblock,What is async await in JavaScript,LN45TyPWAAg,106
+MiniLM,chebyshev,What are NumPy data types,fPopFeqw5sk,1
+MiniLM,chebyshev,What are important NumPy functions,81i_uSX9Vic,1
+MiniLM,chebyshev,What are Python iterators,k0D3MQwLn7A,1
+MiniLM,chebyshev,What are Python generators,ZBlxaXMN_hU,2
+MiniLM,chebyshev,What is Matplotlib in Python,c9vhHUGdav0,1
+MiniLM,chebyshev,How to customize Matplotlib plots,hunq_UOdmoo,1
+MiniLM,chebyshev,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MiniLM,chebyshev,What is NumPy slicing,6WaBryk4fkE,1
+MiniLM,chebyshev,How to convert decimal to hexadecimal,mjiHc965UME,1
+MiniLM,chebyshev,What is the binary number system,aMME_rYkoOU,132
+MiniLM,chebyshev,What are arrays in C programming,tg5Wv9Ba1lI,74
+MiniLM,chebyshev,What is dynamic memory allocation in C,J6qXny_UAK4,191
+MiniLM,chebyshev,How to read files in C,ZwSyuqbeN0c,48
+MiniLM,chebyshev,What are for loops in C,rUXjvybSPWc,4
+MiniLM,chebyshev,What are function prototypes in C,eIlcl-mt3tg,18
+MiniLM,chebyshev,What is a switch statement in C,Jx12Vf0VxmY,14
+MiniLM,chebyshev,What is Java multithreading,y4siEcxgOpM,41
+MiniLM,chebyshev,What are Java anonymous classes,6Hk2aE_SRzY,206
+MiniLM,chebyshev,How to write files in Java,Z5smVeUVNFU,22
+MiniLM,chebyshev,What is Java ArrayList,zdAggA1q0eo,47
+MiniLM,chebyshev,What are Java getters and setters,NEj2H7SoTzQ,161
+MiniLM,chebyshev,What is method overriding in Java,NtlSzRWhaOc,50
+MiniLM,chebyshev,What are constructors in Java,wt194lO5kKE,168
+MiniLM,chebyshev,What is object oriented programming in Java,taI7G6U29L8,27
+MiniLM,chebyshev,What are 2D arrays in Java,P_iOnmdww8E,214
+MiniLM,chebyshev,What is Python programming,Pg0aoSbrqOE,144
+MiniLM,chebyshev,What are Python projects for beginners,wsTSREgCE5E,162
+MiniLM,chebyshev,How to build a weather app in Python,hx_DRanBRRM,175
+MiniLM,chebyshev,What is React JS,ZD7CB6wKg8A,49
+MiniLM,chebyshev,What is async await in JavaScript,LN45TyPWAAg,28
+MPNet,cosine,What are NumPy data types,fPopFeqw5sk,1
+MPNet,cosine,What are important NumPy functions,81i_uSX9Vic,1
+MPNet,cosine,What are Python iterators,k0D3MQwLn7A,1
+MPNet,cosine,What are Python generators,ZBlxaXMN_hU,1
+MPNet,cosine,What is Matplotlib in Python,c9vhHUGdav0,1
+MPNet,cosine,How to customize Matplotlib plots,hunq_UOdmoo,1
+MPNet,cosine,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MPNet,cosine,What is NumPy slicing,6WaBryk4fkE,1
+MPNet,cosine,How to convert decimal to hexadecimal,mjiHc965UME,1
+MPNet,cosine,What is the binary number system,aMME_rYkoOU,5
+MPNet,cosine,What are arrays in C programming,tg5Wv9Ba1lI,100
+MPNet,cosine,What is dynamic memory allocation in C,J6qXny_UAK4,121
+MPNet,cosine,How to read files in C,ZwSyuqbeN0c,17
+MPNet,cosine,What are for loops in C,rUXjvybSPWc,25
+MPNet,cosine,What are function prototypes in C,eIlcl-mt3tg,13
+MPNet,cosine,What is a switch statement in C,Jx12Vf0VxmY,10
+MPNet,cosine,What is Java multithreading,y4siEcxgOpM,160
+MPNet,cosine,What are Java anonymous classes,6Hk2aE_SRzY,115
+MPNet,cosine,How to write files in Java,Z5smVeUVNFU,53
+MPNet,cosine,What is Java ArrayList,zdAggA1q0eo,137
+MPNet,cosine,What are Java getters and setters,NEj2H7SoTzQ,137
+MPNet,cosine,What is method overriding in Java,NtlSzRWhaOc,116
+MPNet,cosine,What are constructors in Java,wt194lO5kKE,91
+MPNet,cosine,What is object oriented programming in Java,taI7G6U29L8,33
+MPNet,cosine,What are 2D arrays in Java,P_iOnmdww8E,64
+MPNet,cosine,What is Python programming,Pg0aoSbrqOE,104
+MPNet,cosine,What are Python projects for beginners,wsTSREgCE5E,89
+MPNet,cosine,How to build a weather app in Python,hx_DRanBRRM,194
+MPNet,cosine,What is React JS,ZD7CB6wKg8A,194
+MPNet,cosine,What is async await in JavaScript,LN45TyPWAAg,143
+MPNet,dot,What are NumPy data types,fPopFeqw5sk,1
+MPNet,dot,What are important NumPy functions,81i_uSX9Vic,1
+MPNet,dot,What are Python iterators,k0D3MQwLn7A,1
+MPNet,dot,What are Python generators,ZBlxaXMN_hU,1
+MPNet,dot,What is Matplotlib in Python,c9vhHUGdav0,1
+MPNet,dot,How to customize Matplotlib plots,hunq_UOdmoo,1
+MPNet,dot,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MPNet,dot,What is NumPy slicing,6WaBryk4fkE,1
+MPNet,dot,How to convert decimal to hexadecimal,mjiHc965UME,1
+MPNet,dot,What is the binary number system,aMME_rYkoOU,5
+MPNet,dot,What are arrays in C programming,tg5Wv9Ba1lI,100
+MPNet,dot,What is dynamic memory allocation in C,J6qXny_UAK4,121
+MPNet,dot,How to read files in C,ZwSyuqbeN0c,17
+MPNet,dot,What are for loops in C,rUXjvybSPWc,25
+MPNet,dot,What are function prototypes in C,eIlcl-mt3tg,13
+MPNet,dot,What is a switch statement in C,Jx12Vf0VxmY,10
+MPNet,dot,What is Java multithreading,y4siEcxgOpM,160
+MPNet,dot,What are Java anonymous classes,6Hk2aE_SRzY,115
+MPNet,dot,How to write files in Java,Z5smVeUVNFU,53
+MPNet,dot,What is Java ArrayList,zdAggA1q0eo,137
+MPNet,dot,What are Java getters and setters,NEj2H7SoTzQ,137
+MPNet,dot,What is method overriding in Java,NtlSzRWhaOc,116
+MPNet,dot,What are constructors in Java,wt194lO5kKE,91
+MPNet,dot,What is object oriented programming in Java,taI7G6U29L8,33
+MPNet,dot,What are 2D arrays in Java,P_iOnmdww8E,64
+MPNet,dot,What is Python programming,Pg0aoSbrqOE,104
+MPNet,dot,What are Python projects for beginners,wsTSREgCE5E,89
+MPNet,dot,How to build a weather app in Python,hx_DRanBRRM,194
+MPNet,dot,What is React JS,ZD7CB6wKg8A,194
+MPNet,dot,What is async await in JavaScript,LN45TyPWAAg,143
+MPNet,euclidean,What are NumPy data types,fPopFeqw5sk,1
+MPNet,euclidean,What are important NumPy functions,81i_uSX9Vic,1
+MPNet,euclidean,What are Python iterators,k0D3MQwLn7A,1
+MPNet,euclidean,What are Python generators,ZBlxaXMN_hU,1
+MPNet,euclidean,What is Matplotlib in Python,c9vhHUGdav0,1
+MPNet,euclidean,How to customize Matplotlib plots,hunq_UOdmoo,1
+MPNet,euclidean,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MPNet,euclidean,What is NumPy slicing,6WaBryk4fkE,1
+MPNet,euclidean,How to convert decimal to hexadecimal,mjiHc965UME,1
+MPNet,euclidean,What is the binary number system,aMME_rYkoOU,5
+MPNet,euclidean,What are arrays in C programming,tg5Wv9Ba1lI,100
+MPNet,euclidean,What is dynamic memory allocation in C,J6qXny_UAK4,121
+MPNet,euclidean,How to read files in C,ZwSyuqbeN0c,17
+MPNet,euclidean,What are for loops in C,rUXjvybSPWc,25
+MPNet,euclidean,What are function prototypes in C,eIlcl-mt3tg,13
+MPNet,euclidean,What is a switch statement in C,Jx12Vf0VxmY,10
+MPNet,euclidean,What is Java multithreading,y4siEcxgOpM,160
+MPNet,euclidean,What are Java anonymous classes,6Hk2aE_SRzY,115
+MPNet,euclidean,How to write files in Java,Z5smVeUVNFU,53
+MPNet,euclidean,What is Java ArrayList,zdAggA1q0eo,137
+MPNet,euclidean,What are Java getters and setters,NEj2H7SoTzQ,137
+MPNet,euclidean,What is method overriding in Java,NtlSzRWhaOc,116
+MPNet,euclidean,What are constructors in Java,wt194lO5kKE,91
+MPNet,euclidean,What is object oriented programming in Java,taI7G6U29L8,33
+MPNet,euclidean,What are 2D arrays in Java,P_iOnmdww8E,64
+MPNet,euclidean,What is Python programming,Pg0aoSbrqOE,104
+MPNet,euclidean,What are Python projects for beginners,wsTSREgCE5E,89
+MPNet,euclidean,How to build a weather app in Python,hx_DRanBRRM,194
+MPNet,euclidean,What is React JS,ZD7CB6wKg8A,194
+MPNet,euclidean,What is async await in JavaScript,LN45TyPWAAg,143
+MPNet,cityblock,What are NumPy data types,fPopFeqw5sk,1
+MPNet,cityblock,What are important NumPy functions,81i_uSX9Vic,1
+MPNet,cityblock,What are Python iterators,k0D3MQwLn7A,1
+MPNet,cityblock,What are Python generators,ZBlxaXMN_hU,1
+MPNet,cityblock,What is Matplotlib in Python,c9vhHUGdav0,1
+MPNet,cityblock,How to customize Matplotlib plots,hunq_UOdmoo,1
+MPNet,cityblock,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MPNet,cityblock,What is NumPy slicing,6WaBryk4fkE,1
+MPNet,cityblock,How to convert decimal to hexadecimal,mjiHc965UME,1
+MPNet,cityblock,What is the binary number system,aMME_rYkoOU,6
+MPNet,cityblock,What are arrays in C programming,tg5Wv9Ba1lI,95
+MPNet,cityblock,What is dynamic memory allocation in C,J6qXny_UAK4,101
+MPNet,cityblock,How to read files in C,ZwSyuqbeN0c,13
+MPNet,cityblock,What are for loops in C,rUXjvybSPWc,24
+MPNet,cityblock,What are function prototypes in C,eIlcl-mt3tg,14
+MPNet,cityblock,What is a switch statement in C,Jx12Vf0VxmY,12
+MPNet,cityblock,What is Java multithreading,y4siEcxgOpM,135
+MPNet,cityblock,What are Java anonymous classes,6Hk2aE_SRzY,126
+MPNet,cityblock,How to write files in Java,Z5smVeUVNFU,56
+MPNet,cityblock,What is Java ArrayList,zdAggA1q0eo,136
+MPNet,cityblock,What are Java getters and setters,NEj2H7SoTzQ,139
+MPNet,cityblock,What is method overriding in Java,NtlSzRWhaOc,128
+MPNet,cityblock,What are constructors in Java,wt194lO5kKE,115
+MPNet,cityblock,What is object oriented programming in Java,taI7G6U29L8,37
+MPNet,cityblock,What are 2D arrays in Java,P_iOnmdww8E,55
+MPNet,cityblock,What is Python programming,Pg0aoSbrqOE,119
+MPNet,cityblock,What are Python projects for beginners,wsTSREgCE5E,79
+MPNet,cityblock,How to build a weather app in Python,hx_DRanBRRM,186
+MPNet,cityblock,What is React JS,ZD7CB6wKg8A,164
+MPNet,cityblock,What is async await in JavaScript,LN45TyPWAAg,129
+MPNet,chebyshev,What are NumPy data types,fPopFeqw5sk,1
+MPNet,chebyshev,What are important NumPy functions,81i_uSX9Vic,1
+MPNet,chebyshev,What are Python iterators,k0D3MQwLn7A,1
+MPNet,chebyshev,What are Python generators,ZBlxaXMN_hU,1
+MPNet,chebyshev,What is Matplotlib in Python,c9vhHUGdav0,1
+MPNet,chebyshev,How to customize Matplotlib plots,hunq_UOdmoo,1
+MPNet,chebyshev,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MPNet,chebyshev,What is NumPy slicing,6WaBryk4fkE,1
+MPNet,chebyshev,How to convert decimal to hexadecimal,mjiHc965UME,2
+MPNet,chebyshev,What is the binary number system,aMME_rYkoOU,15
+MPNet,chebyshev,What are arrays in C programming,tg5Wv9Ba1lI,92
+MPNet,chebyshev,What is dynamic memory allocation in C,J6qXny_UAK4,156
+MPNet,chebyshev,How to read files in C,ZwSyuqbeN0c,13
+MPNet,chebyshev,What are for loops in C,rUXjvybSPWc,93
+MPNet,chebyshev,What are function prototypes in C,eIlcl-mt3tg,16
+MPNet,chebyshev,What is a switch statement in C,Jx12Vf0VxmY,17
+MPNet,chebyshev,What is Java multithreading,y4siEcxgOpM,84
+MPNet,chebyshev,What are Java anonymous classes,6Hk2aE_SRzY,131
+MPNet,chebyshev,How to write files in Java,Z5smVeUVNFU,108
+MPNet,chebyshev,What is Java ArrayList,zdAggA1q0eo,128
+MPNet,chebyshev,What are Java getters and setters,NEj2H7SoTzQ,46
+MPNet,chebyshev,What is method overriding in Java,NtlSzRWhaOc,142
+MPNet,chebyshev,What are constructors in Java,wt194lO5kKE,86
+MPNet,chebyshev,What is object oriented programming in Java,taI7G6U29L8,140
+MPNet,chebyshev,What are 2D arrays in Java,P_iOnmdww8E,202
+MPNet,chebyshev,What is Python programming,Pg0aoSbrqOE,155
+MPNet,chebyshev,What are Python projects for beginners,wsTSREgCE5E,106
+MPNet,chebyshev,How to build a weather app in Python,hx_DRanBRRM,158
+MPNet,chebyshev,What is React JS,ZD7CB6wKg8A,87
+MPNet,chebyshev,What is async await in JavaScript,LN45TyPWAAg,189
+MultiQA,cosine,What are NumPy data types,fPopFeqw5sk,1
+MultiQA,cosine,What are important NumPy functions,81i_uSX9Vic,1
+MultiQA,cosine,What are Python iterators,k0D3MQwLn7A,1
+MultiQA,cosine,What are Python generators,ZBlxaXMN_hU,1
+MultiQA,cosine,What is Matplotlib in Python,c9vhHUGdav0,1
+MultiQA,cosine,How to customize Matplotlib plots,hunq_UOdmoo,2
+MultiQA,cosine,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MultiQA,cosine,What is NumPy slicing,6WaBryk4fkE,1
+MultiQA,cosine,How to convert decimal to hexadecimal,mjiHc965UME,1
+MultiQA,cosine,What is the binary number system,aMME_rYkoOU,11
+MultiQA,cosine,What are arrays in C programming,tg5Wv9Ba1lI,68
+MultiQA,cosine,What is dynamic memory allocation in C,J6qXny_UAK4,176
+MultiQA,cosine,How to read files in C,ZwSyuqbeN0c,34
+MultiQA,cosine,What are for loops in C,rUXjvybSPWc,25
+MultiQA,cosine,What are function prototypes in C,eIlcl-mt3tg,12
+MultiQA,cosine,What is a switch statement in C,Jx12Vf0VxmY,7
+MultiQA,cosine,What is Java multithreading,y4siEcxgOpM,80
+MultiQA,cosine,What are Java anonymous classes,6Hk2aE_SRzY,54
+MultiQA,cosine,How to write files in Java,Z5smVeUVNFU,97
+MultiQA,cosine,What is Java ArrayList,zdAggA1q0eo,62
+MultiQA,cosine,What are Java getters and setters,NEj2H7SoTzQ,90
+MultiQA,cosine,What is method overriding in Java,NtlSzRWhaOc,107
+MultiQA,cosine,What are constructors in Java,wt194lO5kKE,68
+MultiQA,cosine,What is object oriented programming in Java,taI7G6U29L8,9
+MultiQA,cosine,What are 2D arrays in Java,P_iOnmdww8E,29
+MultiQA,cosine,What is Python programming,Pg0aoSbrqOE,133
+MultiQA,cosine,What are Python projects for beginners,wsTSREgCE5E,113
+MultiQA,cosine,How to build a weather app in Python,hx_DRanBRRM,215
+MultiQA,cosine,What is React JS,ZD7CB6wKg8A,48
+MultiQA,cosine,What is async await in JavaScript,LN45TyPWAAg,115
+MultiQA,dot,What are NumPy data types,fPopFeqw5sk,1
+MultiQA,dot,What are important NumPy functions,81i_uSX9Vic,1
+MultiQA,dot,What are Python iterators,k0D3MQwLn7A,1
+MultiQA,dot,What are Python generators,ZBlxaXMN_hU,1
+MultiQA,dot,What is Matplotlib in Python,c9vhHUGdav0,1
+MultiQA,dot,How to customize Matplotlib plots,hunq_UOdmoo,2
+MultiQA,dot,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MultiQA,dot,What is NumPy slicing,6WaBryk4fkE,1
+MultiQA,dot,How to convert decimal to hexadecimal,mjiHc965UME,1
+MultiQA,dot,What is the binary number system,aMME_rYkoOU,11
+MultiQA,dot,What are arrays in C programming,tg5Wv9Ba1lI,68
+MultiQA,dot,What is dynamic memory allocation in C,J6qXny_UAK4,176
+MultiQA,dot,How to read files in C,ZwSyuqbeN0c,34
+MultiQA,dot,What are for loops in C,rUXjvybSPWc,25
+MultiQA,dot,What are function prototypes in C,eIlcl-mt3tg,12
+MultiQA,dot,What is a switch statement in C,Jx12Vf0VxmY,7
+MultiQA,dot,What is Java multithreading,y4siEcxgOpM,80
+MultiQA,dot,What are Java anonymous classes,6Hk2aE_SRzY,54
+MultiQA,dot,How to write files in Java,Z5smVeUVNFU,97
+MultiQA,dot,What is Java ArrayList,zdAggA1q0eo,62
+MultiQA,dot,What are Java getters and setters,NEj2H7SoTzQ,90
+MultiQA,dot,What is method overriding in Java,NtlSzRWhaOc,107
+MultiQA,dot,What are constructors in Java,wt194lO5kKE,68
+MultiQA,dot,What is object oriented programming in Java,taI7G6U29L8,9
+MultiQA,dot,What are 2D arrays in Java,P_iOnmdww8E,29
+MultiQA,dot,What is Python programming,Pg0aoSbrqOE,133
+MultiQA,dot,What are Python projects for beginners,wsTSREgCE5E,113
+MultiQA,dot,How to build a weather app in Python,hx_DRanBRRM,215
+MultiQA,dot,What is React JS,ZD7CB6wKg8A,48
+MultiQA,dot,What is async await in JavaScript,LN45TyPWAAg,115
+MultiQA,euclidean,What are NumPy data types,fPopFeqw5sk,1
+MultiQA,euclidean,What are important NumPy functions,81i_uSX9Vic,1
+MultiQA,euclidean,What are Python iterators,k0D3MQwLn7A,1
+MultiQA,euclidean,What are Python generators,ZBlxaXMN_hU,1
+MultiQA,euclidean,What is Matplotlib in Python,c9vhHUGdav0,1
+MultiQA,euclidean,How to customize Matplotlib plots,hunq_UOdmoo,2
+MultiQA,euclidean,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MultiQA,euclidean,What is NumPy slicing,6WaBryk4fkE,1
+MultiQA,euclidean,How to convert decimal to hexadecimal,mjiHc965UME,1
+MultiQA,euclidean,What is the binary number system,aMME_rYkoOU,11
+MultiQA,euclidean,What are arrays in C programming,tg5Wv9Ba1lI,68
+MultiQA,euclidean,What is dynamic memory allocation in C,J6qXny_UAK4,176
+MultiQA,euclidean,How to read files in C,ZwSyuqbeN0c,34
+MultiQA,euclidean,What are for loops in C,rUXjvybSPWc,25
+MultiQA,euclidean,What are function prototypes in C,eIlcl-mt3tg,12
+MultiQA,euclidean,What is a switch statement in C,Jx12Vf0VxmY,7
+MultiQA,euclidean,What is Java multithreading,y4siEcxgOpM,80
+MultiQA,euclidean,What are Java anonymous classes,6Hk2aE_SRzY,54
+MultiQA,euclidean,How to write files in Java,Z5smVeUVNFU,97
+MultiQA,euclidean,What is Java ArrayList,zdAggA1q0eo,62
+MultiQA,euclidean,What are Java getters and setters,NEj2H7SoTzQ,90
+MultiQA,euclidean,What is method overriding in Java,NtlSzRWhaOc,107
+MultiQA,euclidean,What are constructors in Java,wt194lO5kKE,68
+MultiQA,euclidean,What is object oriented programming in Java,taI7G6U29L8,9
+MultiQA,euclidean,What are 2D arrays in Java,P_iOnmdww8E,29
+MultiQA,euclidean,What is Python programming,Pg0aoSbrqOE,133
+MultiQA,euclidean,What are Python projects for beginners,wsTSREgCE5E,113
+MultiQA,euclidean,How to build a weather app in Python,hx_DRanBRRM,215
+MultiQA,euclidean,What is React JS,ZD7CB6wKg8A,48
+MultiQA,euclidean,What is async await in JavaScript,LN45TyPWAAg,115
+MultiQA,cityblock,What are NumPy data types,fPopFeqw5sk,1
+MultiQA,cityblock,What are important NumPy functions,81i_uSX9Vic,1
+MultiQA,cityblock,What are Python iterators,k0D3MQwLn7A,1
+MultiQA,cityblock,What are Python generators,ZBlxaXMN_hU,1
+MultiQA,cityblock,What is Matplotlib in Python,c9vhHUGdav0,1
+MultiQA,cityblock,How to customize Matplotlib plots,hunq_UOdmoo,2
+MultiQA,cityblock,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MultiQA,cityblock,What is NumPy slicing,6WaBryk4fkE,1
+MultiQA,cityblock,How to convert decimal to hexadecimal,mjiHc965UME,1
+MultiQA,cityblock,What is the binary number system,aMME_rYkoOU,10
+MultiQA,cityblock,What are arrays in C programming,tg5Wv9Ba1lI,80
+MultiQA,cityblock,What is dynamic memory allocation in C,J6qXny_UAK4,154
+MultiQA,cityblock,How to read files in C,ZwSyuqbeN0c,26
+MultiQA,cityblock,What are for loops in C,rUXjvybSPWc,29
+MultiQA,cityblock,What are function prototypes in C,eIlcl-mt3tg,12
+MultiQA,cityblock,What is a switch statement in C,Jx12Vf0VxmY,7
+MultiQA,cityblock,What is Java multithreading,y4siEcxgOpM,93
+MultiQA,cityblock,What are Java anonymous classes,6Hk2aE_SRzY,59
+MultiQA,cityblock,How to write files in Java,Z5smVeUVNFU,98
+MultiQA,cityblock,What is Java ArrayList,zdAggA1q0eo,56
+MultiQA,cityblock,What are Java getters and setters,NEj2H7SoTzQ,107
+MultiQA,cityblock,What is method overriding in Java,NtlSzRWhaOc,102
+MultiQA,cityblock,What are constructors in Java,wt194lO5kKE,63
+MultiQA,cityblock,What is object oriented programming in Java,taI7G6U29L8,10
+MultiQA,cityblock,What are 2D arrays in Java,P_iOnmdww8E,35
+MultiQA,cityblock,What is Python programming,Pg0aoSbrqOE,146
+MultiQA,cityblock,What are Python projects for beginners,wsTSREgCE5E,110
+MultiQA,cityblock,How to build a weather app in Python,hx_DRanBRRM,211
+MultiQA,cityblock,What is React JS,ZD7CB6wKg8A,55
+MultiQA,cityblock,What is async await in JavaScript,LN45TyPWAAg,124
+MultiQA,chebyshev,What are NumPy data types,fPopFeqw5sk,1
+MultiQA,chebyshev,What are important NumPy functions,81i_uSX9Vic,1
+MultiQA,chebyshev,What are Python iterators,k0D3MQwLn7A,3
+MultiQA,chebyshev,What are Python generators,ZBlxaXMN_hU,1
+MultiQA,chebyshev,What is Matplotlib in Python,c9vhHUGdav0,1
+MultiQA,chebyshev,How to customize Matplotlib plots,hunq_UOdmoo,2
+MultiQA,chebyshev,What is a Pandas DataFrame,OUnnuKHbmbU,1
+MultiQA,chebyshev,What is NumPy slicing,6WaBryk4fkE,1
+MultiQA,chebyshev,How to convert decimal to hexadecimal,mjiHc965UME,1
+MultiQA,chebyshev,What is the binary number system,aMME_rYkoOU,56
+MultiQA,chebyshev,What are arrays in C programming,tg5Wv9Ba1lI,61
+MultiQA,chebyshev,What is dynamic memory allocation in C,J6qXny_UAK4,150
+MultiQA,chebyshev,How to read files in C,ZwSyuqbeN0c,97
+MultiQA,chebyshev,What are for loops in C,rUXjvybSPWc,31
+MultiQA,chebyshev,What are function prototypes in C,eIlcl-mt3tg,8
+MultiQA,chebyshev,What is a switch statement in C,Jx12Vf0VxmY,23
+MultiQA,chebyshev,What is Java multithreading,y4siEcxgOpM,62
+MultiQA,chebyshev,What are Java anonymous classes,6Hk2aE_SRzY,46
+MultiQA,chebyshev,How to write files in Java,Z5smVeUVNFU,147
+MultiQA,chebyshev,What is Java ArrayList,zdAggA1q0eo,66
+MultiQA,chebyshev,What are Java getters and setters,NEj2H7SoTzQ,207
+MultiQA,chebyshev,What is method overriding in Java,NtlSzRWhaOc,74
+MultiQA,chebyshev,What are constructors in Java,wt194lO5kKE,70
+MultiQA,chebyshev,What is object oriented programming in Java,taI7G6U29L8,6
+MultiQA,chebyshev,What are 2D arrays in Java,P_iOnmdww8E,25
+MultiQA,chebyshev,What is Python programming,Pg0aoSbrqOE,100
+MultiQA,chebyshev,What are Python projects for beginners,wsTSREgCE5E,99
+MultiQA,chebyshev,How to build a weather app in Python,hx_DRanBRRM,124
+MultiQA,chebyshev,What is React JS,ZD7CB6wKg8A,33
+MultiQA,chebyshev,What is async await in JavaScript,LN45TyPWAAg,169

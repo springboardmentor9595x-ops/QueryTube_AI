@@ -1,0 +1,2251 @@
+Model,Metric,Query,Rank,Video,Score
+MiniLM,cosine,What are NumPy data types,1,fPopFeqw5sk,0.7236317992210388
+MiniLM,cosine,What are NumPy data types,2,81i_uSX9Vic,0.5148764848709106
+MiniLM,cosine,What are NumPy data types,3,6WaBryk4fkE,0.4966842234134674
+MiniLM,cosine,What are NumPy data types,4,Vh4krbTnTAA,0.29281383752822876
+MiniLM,cosine,What are NumPy data types,5,w6hL_dszMxk,0.2814258337020874
+MiniLM,cosine,What are important NumPy functions,1,fPopFeqw5sk,0.606309175491333
+MiniLM,cosine,What are important NumPy functions,2,81i_uSX9Vic,0.5974096059799194
+MiniLM,cosine,What are important NumPy functions,3,6WaBryk4fkE,0.46811777353286743
+MiniLM,cosine,What are important NumPy functions,4,IljPHDyBRog,0.3805887997150421
+MiniLM,cosine,What are important NumPy functions,5,4wGuB3oAKc4,0.37526559829711914
+MiniLM,cosine,What are Python iterators,1,k0D3MQwLn7A,0.5994930863380432
+MiniLM,cosine,What are Python iterators,2,ZBlxaXMN_hU,0.4685949385166168
+MiniLM,cosine,What are Python iterators,3,KWgYha0clzw,0.44629934430122375
+MiniLM,cosine,What are Python iterators,4,gOMW_n2-2Mw,0.40584295988082886
+MiniLM,cosine,What are Python iterators,5,t35B5HjPm9Q,0.395406037569046
+MiniLM,cosine,What are Python generators,1,ZBlxaXMN_hU,0.6285499334335327
+MiniLM,cosine,What are Python generators,2,piJc18hcH0Y,0.5043778419494629
+MiniLM,cosine,What are Python generators,3,x-Ag2_bJ40Y,0.4249933063983917
+MiniLM,cosine,What are Python generators,4,XKHEtdqhLK8,0.4151463806629181
+MiniLM,cosine,What are Python generators,5,8KCuHHeC_M0,0.41360628604888916
+MiniLM,cosine,What is Matplotlib in Python,1,c9vhHUGdav0,0.565110981464386
+MiniLM,cosine,What is Matplotlib in Python,2,hunq_UOdmoo,0.5623854994773865
+MiniLM,cosine,What is Matplotlib in Python,3,fPopFeqw5sk,0.3576712906360626
+MiniLM,cosine,What is Matplotlib in Python,4,8A0E1dSyjFM,0.329619824886322
+MiniLM,cosine,What is Matplotlib in Python,5,6WaBryk4fkE,0.32745081186294556
+MiniLM,cosine,How to customize Matplotlib plots,1,hunq_UOdmoo,0.6471297740936279
+MiniLM,cosine,How to customize Matplotlib plots,2,c9vhHUGdav0,0.5817598700523376
+MiniLM,cosine,How to customize Matplotlib plots,3,l7IMBy4_nhA,0.2750604748725891
+MiniLM,cosine,How to customize Matplotlib plots,4,LI8KQ3pjQug,0.24831140041351318
+MiniLM,cosine,How to customize Matplotlib plots,5,fPopFeqw5sk,0.24245977401733398
+MiniLM,cosine,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.4470711350440979
+MiniLM,cosine,What is a Pandas DataFrame,2,c9vhHUGdav0,0.3012537956237793
+MiniLM,cosine,What is a Pandas DataFrame,3,fPopFeqw5sk,0.27485063672065735
+MiniLM,cosine,What is a Pandas DataFrame,4,6WaBryk4fkE,0.2661190629005432
+MiniLM,cosine,What is a Pandas DataFrame,5,81i_uSX9Vic,0.24404998123645782
+MiniLM,cosine,What is NumPy slicing,1,6WaBryk4fkE,0.6094229817390442
+MiniLM,cosine,What is NumPy slicing,2,81i_uSX9Vic,0.5144146680831909
+MiniLM,cosine,What is NumPy slicing,3,fPopFeqw5sk,0.4919646978378296
+MiniLM,cosine,What is NumPy slicing,4,wGlnsJFnGAI,0.44746872782707214
+MiniLM,cosine,What is NumPy slicing,5,ZBlxaXMN_hU,0.36447182297706604
+MiniLM,cosine,How to convert decimal to hexadecimal,1,aMME_rYkoOU,0.6387221217155457
+MiniLM,cosine,How to convert decimal to hexadecimal,2,mjiHc965UME,0.6263927221298218
+MiniLM,cosine,How to convert decimal to hexadecimal,3,HOMu48bTzz8,0.3962424099445343
+MiniLM,cosine,How to convert decimal to hexadecimal,4,J6qXny_UAK4,0.36054444313049316
+MiniLM,cosine,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3488810956478119
+MiniLM,cosine,What is the binary number system,1,tg5Wv9Ba1lI,0.6319122910499573
+MiniLM,cosine,What is the binary number system,2,J6qXny_UAK4,0.5972195863723755
+MiniLM,cosine,What is the binary number system,3,Gt2yBZAhsGM,0.4343128502368927
+MiniLM,cosine,What is the binary number system,4,aMME_rYkoOU,0.38596469163894653
+MiniLM,cosine,What is the binary number system,5,9E3I1URu6fc,0.3527930974960327
+MiniLM,cosine,What are arrays in C programming,1,6Hk2aE_SRzY,0.7576727867126465
+MiniLM,cosine,What are arrays in C programming,2,y4siEcxgOpM,0.6456971168518066
+MiniLM,cosine,What are arrays in C programming,3,Vh4krbTnTAA,0.6090165972709656
+MiniLM,cosine,What are arrays in C programming,4,shLeCvDQYp4,0.5685443878173828
+MiniLM,cosine,What are arrays in C programming,5,qLVrwCvVPGo,0.5653608441352844
+MiniLM,cosine,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.6040878295898438
+MiniLM,cosine,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.5881041288375854
+MiniLM,cosine,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.5250781774520874
+MiniLM,cosine,What is dynamic memory allocation in C,4,DplxIq0mc_Y,0.4798445701599121
+MiniLM,cosine,What is dynamic memory allocation in C,5,qLVrwCvVPGo,0.41205665469169617
+MiniLM,cosine,How to read files in C,1,eIlcl-mt3tg,0.7409985065460205
+MiniLM,cosine,How to read files in C,2,Hzg3kCHJcxI,0.5943508744239807
+MiniLM,cosine,How to read files in C,3,6Hk2aE_SRzY,0.4426015615463257
+MiniLM,cosine,How to read files in C,4,DplxIq0mc_Y,0.4075978398323059
+MiniLM,cosine,How to read files in C,5,rUXjvybSPWc,0.3949757218360901
+MiniLM,cosine,What are for loops in C,1,zdAggA1q0eo,0.7013123631477356
+MiniLM,cosine,What are for loops in C,2,b4DPj0XAfSg,0.5904314517974854
+MiniLM,cosine,What are for loops in C,3,6Hk2aE_SRzY,0.5854296088218689
+MiniLM,cosine,What are for loops in C,4,shLeCvDQYp4,0.5670894980430603
+MiniLM,cosine,What are for loops in C,5,Rn16ugyorX0,0.5518918037414551
+MiniLM,cosine,What are function prototypes in C,1,NEj2H7SoTzQ,0.6222971677780151
+MiniLM,cosine,What are function prototypes in C,2,Z5smVeUVNFU,0.5508697628974915
+MiniLM,cosine,What are function prototypes in C,3,6Hk2aE_SRzY,0.4054713547229767
+MiniLM,cosine,What are function prototypes in C,4,vg7Hwd9TANY,0.3900158703327179
+MiniLM,cosine,What are function prototypes in C,5,rUXjvybSPWc,0.3821607530117035
+MiniLM,cosine,What is a switch statement in C,1,NtlSzRWhaOc,0.6414303779602051
+MiniLM,cosine,What is a switch statement in C,2,Bx9b12FCF5o,0.47170889377593994
+MiniLM,cosine,What is a switch statement in C,3,N1twTeNMdOE,0.44920116662979126
+MiniLM,cosine,What is a switch statement in C,4,z2fcWdoph4U,0.42332687973976135
+MiniLM,cosine,What is a switch statement in C,5,Z5smVeUVNFU,0.40013444423675537
+MiniLM,cosine,What is Java multithreading,1,taI7G6U29L8,0.6306089758872986
+MiniLM,cosine,What is Java multithreading,2,QEF62Fm81h4,0.48409411311149597
+MiniLM,cosine,What is Java multithreading,3,YOhrIov7PZA,0.43843361735343933
+MiniLM,cosine,What is Java multithreading,4,nhnAx79gxCM,0.4200134873390198
+MiniLM,cosine,What is Java multithreading,5,OjrR_C_UPjc,0.41222143173217773
+MiniLM,cosine,What are Java anonymous classes,1,P_iOnmdww8E,0.6931012868881226
+MiniLM,cosine,What are Java anonymous classes,2,DYbi93vuSaU,0.4694230258464813
+MiniLM,cosine,What are Java anonymous classes,3,OjrR_C_UPjc,0.41212642192840576
+MiniLM,cosine,What are Java anonymous classes,4,Kmgo00avvEw,0.4029729962348938
+MiniLM,cosine,What are Java anonymous classes,5,taI7G6U29L8,0.4005037546157837
+MiniLM,cosine,How to write files in Java,1,Pg0aoSbrqOE,0.7724135518074036
+MiniLM,cosine,How to write files in Java,2,A6sA9KItwpY,0.4842831492424011
+MiniLM,cosine,How to write files in Java,3,bI6e6qjJ8JQ,0.43085330724716187
+MiniLM,cosine,How to write files in Java,4,Hzg3kCHJcxI,0.409072607755661
+MiniLM,cosine,How to write files in Java,5,v5p_SUfi710,0.4071958363056183
+MiniLM,cosine,What is Java ArrayList,1,wsTSREgCE5E,0.6655762791633606
+MiniLM,cosine,What is Java ArrayList,2,30MKAcoffIo,0.5767585039138794
+MiniLM,cosine,What is Java ArrayList,3,Qf3Nczxm2AY,0.4840112030506134
+MiniLM,cosine,What is Java ArrayList,4,nhIB2S6NiFA,0.4753045439720154
+MiniLM,cosine,What is Java ArrayList,5,9dr2mHYYoug,0.46895718574523926
+MiniLM,cosine,What are Java getters and setters,1,OjrR_C_UPjc,0.7156754732131958
+MiniLM,cosine,What are Java getters and setters,2,8FmE_-QXg3Y,0.4714714288711548
+MiniLM,cosine,What are Java getters and setters,3,GvbdMwfjB98,0.4461016058921814
+MiniLM,cosine,What are Java getters and setters,4,EAxV_eoYrIg,0.4235134422779083
+MiniLM,cosine,What are Java getters and setters,5,P_iOnmdww8E,0.4209654927253723
+MiniLM,cosine,What is method overriding in Java,1,hx_DRanBRRM,0.5824883580207825
+MiniLM,cosine,What is method overriding in Java,2,nhnAx79gxCM,0.5465921759605408
+MiniLM,cosine,What is method overriding in Java,3,v5p_SUfi710,0.5131127238273621
+MiniLM,cosine,What is method overriding in Java,4,P_iOnmdww8E,0.4323849678039551
+MiniLM,cosine,What is method overriding in Java,5,LN45TyPWAAg,0.4220174551010132
+MiniLM,cosine,What are constructors in Java,1,ZD7CB6wKg8A,0.6309690475463867
+MiniLM,cosine,What are constructors in Java,2,LN45TyPWAAg,0.5892148017883301
+MiniLM,cosine,What are constructors in Java,3,DYbi93vuSaU,0.5343601107597351
+MiniLM,cosine,What are constructors in Java,4,nRJWltqX4UY,0.48429685831069946
+MiniLM,cosine,What are constructors in Java,5,OjrR_C_UPjc,0.4829390347003937
+MiniLM,cosine,What is object oriented programming in Java,1,DYbi93vuSaU,0.6380860209465027
+MiniLM,cosine,What is object oriented programming in Java,2,P_iOnmdww8E,0.4685159921646118
+MiniLM,cosine,What is object oriented programming in Java,3,q2SGW2VgwAM,0.45446041226387024
+MiniLM,cosine,What is object oriented programming in Java,4,Kmgo00avvEw,0.43864986300468445
+MiniLM,cosine,What is object oriented programming in Java,5,v5p_SUfi710,0.42596253752708435
+MiniLM,cosine,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7391847968101501
+MiniLM,cosine,What are 2D arrays in Java,2,Vh4krbTnTAA,0.5963812470436096
+MiniLM,cosine,What are 2D arrays in Java,3,wsTSREgCE5E,0.5811396241188049
+MiniLM,cosine,What are 2D arrays in Java,4,nhIB2S6NiFA,0.5559521913528442
+MiniLM,cosine,What are 2D arrays in Java,5,9dr2mHYYoug,0.4931691586971283
+MiniLM,cosine,What is Python programming,1,XKHEtdqhLK8,0.6360258460044861
+MiniLM,cosine,What is Python programming,2,8KCuHHeC_M0,0.6124517917633057
+MiniLM,cosine,What is Python programming,3,vg7Hwd9TANY,0.5225747227668762
+MiniLM,cosine,What is Python programming,4,8A0E1dSyjFM,0.5059399008750916
+MiniLM,cosine,What is Python programming,5,q2SGW2VgwAM,0.4598454236984253
+MiniLM,cosine,What are Python projects for beginners,1,XKHEtdqhLK8,0.6340824365615845
+MiniLM,cosine,What are Python projects for beginners,2,8KCuHHeC_M0,0.6163672804832458
+MiniLM,cosine,What are Python projects for beginners,3,q2SGW2VgwAM,0.44769442081451416
+MiniLM,cosine,What are Python projects for beginners,4,Uvqmv3PGiXM,0.4380326569080353
+MiniLM,cosine,What are Python projects for beginners,5,1XE-_s4ZBT8,0.43165677785873413
+MiniLM,cosine,How to build a weather app in Python,1,Q4377DH5Jso,0.6894555687904358
+MiniLM,cosine,How to build a weather app in Python,2,VaDUGPMjzOM,0.5312438607215881
+MiniLM,cosine,How to build a weather app in Python,3,8KCuHHeC_M0,0.4289175570011139
+MiniLM,cosine,How to build a weather app in Python,4,XKHEtdqhLK8,0.4256160259246826
+MiniLM,cosine,How to build a weather app in Python,5,Uvqmv3PGiXM,0.390377402305603
+MiniLM,cosine,What is React JS,1,CgkZ7MvWUAA,0.7302543520927429
+MiniLM,cosine,What is React JS,2,9wiWzu_tRB0,0.5138120651245117
+MiniLM,cosine,What is React JS,3,AiQ-V_0qvRI,0.46761655807495117
+MiniLM,cosine,What is React JS,4,FpNfvbNYPsg,0.4510951340198517
+MiniLM,cosine,What is React JS,5,Y62mbztjmus,0.40889179706573486
+MiniLM,cosine,What is async await in JavaScript,1,9j1dZwFEJ-c,0.6781171560287476
+MiniLM,cosine,What is async await in JavaScript,2,Coyy79wRz_s,0.5953158140182495
+MiniLM,cosine,What is async await in JavaScript,3,NOzi4wBHn0o,0.5399193167686462
+MiniLM,cosine,What is async await in JavaScript,4,TDUz9QcGPoE,0.28530338406562805
+MiniLM,cosine,What is async await in JavaScript,5,NO5kUNxGIu0,0.2680017054080963
+MiniLM,dot,What are NumPy data types,1,fPopFeqw5sk,0.723631739616394
+MiniLM,dot,What are NumPy data types,2,81i_uSX9Vic,0.5148764848709106
+MiniLM,dot,What are NumPy data types,3,6WaBryk4fkE,0.4966842234134674
+MiniLM,dot,What are NumPy data types,4,Vh4krbTnTAA,0.292813777923584
+MiniLM,dot,What are NumPy data types,5,w6hL_dszMxk,0.281425803899765
+MiniLM,dot,What are important NumPy functions,1,fPopFeqw5sk,0.6063091158866882
+MiniLM,dot,What are important NumPy functions,2,81i_uSX9Vic,0.5974096059799194
+MiniLM,dot,What are important NumPy functions,3,6WaBryk4fkE,0.4681178033351898
+MiniLM,dot,What are important NumPy functions,4,IljPHDyBRog,0.3805887997150421
+MiniLM,dot,What are important NumPy functions,5,4wGuB3oAKc4,0.37526553869247437
+MiniLM,dot,What are Python iterators,1,k0D3MQwLn7A,0.5994930863380432
+MiniLM,dot,What are Python iterators,2,ZBlxaXMN_hU,0.4685949385166168
+MiniLM,dot,What are Python iterators,3,KWgYha0clzw,0.44629934430122375
+MiniLM,dot,What are Python iterators,4,gOMW_n2-2Mw,0.40584293007850647
+MiniLM,dot,What are Python iterators,5,t35B5HjPm9Q,0.39540600776672363
+MiniLM,dot,What are Python generators,1,ZBlxaXMN_hU,0.6285498738288879
+MiniLM,dot,What are Python generators,2,piJc18hcH0Y,0.5043777823448181
+MiniLM,dot,What are Python generators,3,x-Ag2_bJ40Y,0.42499327659606934
+MiniLM,dot,What are Python generators,4,XKHEtdqhLK8,0.4151463210582733
+MiniLM,dot,What are Python generators,5,8KCuHHeC_M0,0.413606196641922
+MiniLM,dot,What is Matplotlib in Python,1,c9vhHUGdav0,0.5651108622550964
+MiniLM,dot,What is Matplotlib in Python,2,hunq_UOdmoo,0.5623854398727417
+MiniLM,dot,What is Matplotlib in Python,3,fPopFeqw5sk,0.35767126083374023
+MiniLM,dot,What is Matplotlib in Python,4,8A0E1dSyjFM,0.32961979508399963
+MiniLM,dot,What is Matplotlib in Python,5,6WaBryk4fkE,0.32745081186294556
+MiniLM,dot,How to customize Matplotlib plots,1,hunq_UOdmoo,0.6471296548843384
+MiniLM,dot,How to customize Matplotlib plots,2,c9vhHUGdav0,0.5817598104476929
+MiniLM,dot,How to customize Matplotlib plots,3,l7IMBy4_nhA,0.27506041526794434
+MiniLM,dot,How to customize Matplotlib plots,4,LI8KQ3pjQug,0.2483113557100296
+MiniLM,dot,How to customize Matplotlib plots,5,fPopFeqw5sk,0.24245980381965637
+MiniLM,dot,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.4470711052417755
+MiniLM,dot,What is a Pandas DataFrame,2,c9vhHUGdav0,0.3012537956237793
+MiniLM,dot,What is a Pandas DataFrame,3,fPopFeqw5sk,0.27485063672065735
+MiniLM,dot,What is a Pandas DataFrame,4,6WaBryk4fkE,0.2661190927028656
+MiniLM,dot,What is a Pandas DataFrame,5,81i_uSX9Vic,0.24404998123645782
+MiniLM,dot,What is NumPy slicing,1,6WaBryk4fkE,0.6094231009483337
+MiniLM,dot,What is NumPy slicing,2,81i_uSX9Vic,0.5144146680831909
+MiniLM,dot,What is NumPy slicing,3,fPopFeqw5sk,0.4919646978378296
+MiniLM,dot,What is NumPy slicing,4,wGlnsJFnGAI,0.44746872782707214
+MiniLM,dot,What is NumPy slicing,5,ZBlxaXMN_hU,0.36447182297706604
+MiniLM,dot,How to convert decimal to hexadecimal,1,aMME_rYkoOU,0.6387220621109009
+MiniLM,dot,How to convert decimal to hexadecimal,2,mjiHc965UME,0.6263927221298218
+MiniLM,dot,How to convert decimal to hexadecimal,3,HOMu48bTzz8,0.3962423801422119
+MiniLM,dot,How to convert decimal to hexadecimal,4,J6qXny_UAK4,0.36054444313049316
+MiniLM,dot,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3488810062408447
+MiniLM,dot,What is the binary number system,1,tg5Wv9Ba1lI,0.631912112236023
+MiniLM,dot,What is the binary number system,2,J6qXny_UAK4,0.5972195267677307
+MiniLM,dot,What is the binary number system,3,Gt2yBZAhsGM,0.4343128502368927
+MiniLM,dot,What is the binary number system,4,aMME_rYkoOU,0.38596463203430176
+MiniLM,dot,What is the binary number system,5,9E3I1URu6fc,0.3527930676937103
+MiniLM,dot,What are arrays in C programming,1,6Hk2aE_SRzY,0.7576726675033569
+MiniLM,dot,What are arrays in C programming,2,y4siEcxgOpM,0.6456970572471619
+MiniLM,dot,What are arrays in C programming,3,Vh4krbTnTAA,0.6090165376663208
+MiniLM,dot,What are arrays in C programming,4,shLeCvDQYp4,0.568544328212738
+MiniLM,dot,What are arrays in C programming,5,qLVrwCvVPGo,0.5653607845306396
+MiniLM,dot,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.604087769985199
+MiniLM,dot,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.5881041288375854
+MiniLM,dot,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.5250781774520874
+MiniLM,dot,What is dynamic memory allocation in C,4,DplxIq0mc_Y,0.47984448075294495
+MiniLM,dot,What is dynamic memory allocation in C,5,qLVrwCvVPGo,0.41205665469169617
+MiniLM,dot,How to read files in C,1,eIlcl-mt3tg,0.740998387336731
+MiniLM,dot,How to read files in C,2,Hzg3kCHJcxI,0.5943507552146912
+MiniLM,dot,How to read files in C,3,6Hk2aE_SRzY,0.44260141253471375
+MiniLM,dot,How to read files in C,4,DplxIq0mc_Y,0.4075978696346283
+MiniLM,dot,How to read files in C,5,rUXjvybSPWc,0.3949756920337677
+MiniLM,dot,What are for loops in C,1,zdAggA1q0eo,0.7013123631477356
+MiniLM,dot,What are for loops in C,2,b4DPj0XAfSg,0.5904313921928406
+MiniLM,dot,What are for loops in C,3,6Hk2aE_SRzY,0.5854295492172241
+MiniLM,dot,What are for loops in C,4,shLeCvDQYp4,0.5670894980430603
+MiniLM,dot,What are for loops in C,5,Rn16ugyorX0,0.5518919229507446
+MiniLM,dot,What are function prototypes in C,1,NEj2H7SoTzQ,0.6222971081733704
+MiniLM,dot,What are function prototypes in C,2,Z5smVeUVNFU,0.5508697032928467
+MiniLM,dot,What are function prototypes in C,3,6Hk2aE_SRzY,0.4054712951183319
+MiniLM,dot,What are function prototypes in C,4,vg7Hwd9TANY,0.3900158405303955
+MiniLM,dot,What are function prototypes in C,5,rUXjvybSPWc,0.3821607232093811
+MiniLM,dot,What is a switch statement in C,1,NtlSzRWhaOc,0.6414303779602051
+MiniLM,dot,What is a switch statement in C,2,Bx9b12FCF5o,0.4717087745666504
+MiniLM,dot,What is a switch statement in C,3,N1twTeNMdOE,0.4492011070251465
+MiniLM,dot,What is a switch statement in C,4,z2fcWdoph4U,0.4233268201351166
+MiniLM,dot,What is a switch statement in C,5,Z5smVeUVNFU,0.4001343846321106
+MiniLM,dot,What is Java multithreading,1,taI7G6U29L8,0.6306089758872986
+MiniLM,dot,What is Java multithreading,2,QEF62Fm81h4,0.4840940535068512
+MiniLM,dot,What is Java multithreading,3,YOhrIov7PZA,0.43843361735343933
+MiniLM,dot,What is Java multithreading,4,nhnAx79gxCM,0.4200134873390198
+MiniLM,dot,What is Java multithreading,5,OjrR_C_UPjc,0.4122214913368225
+MiniLM,dot,What are Java anonymous classes,1,P_iOnmdww8E,0.6931012868881226
+MiniLM,dot,What are Java anonymous classes,2,DYbi93vuSaU,0.46942296624183655
+MiniLM,dot,What are Java anonymous classes,3,OjrR_C_UPjc,0.412126362323761
+MiniLM,dot,What are Java anonymous classes,4,Kmgo00avvEw,0.4029729664325714
+MiniLM,dot,What are Java anonymous classes,5,taI7G6U29L8,0.4005037546157837
+MiniLM,dot,How to write files in Java,1,Pg0aoSbrqOE,0.7724135518074036
+MiniLM,dot,How to write files in Java,2,A6sA9KItwpY,0.48428311944007874
+MiniLM,dot,How to write files in Java,3,bI6e6qjJ8JQ,0.43085330724716187
+MiniLM,dot,How to write files in Java,4,Hzg3kCHJcxI,0.4090726375579834
+MiniLM,dot,How to write files in Java,5,v5p_SUfi710,0.4071958065032959
+MiniLM,dot,What is Java ArrayList,1,wsTSREgCE5E,0.6655762791633606
+MiniLM,dot,What is Java ArrayList,2,30MKAcoffIo,0.5767583847045898
+MiniLM,dot,What is Java ArrayList,3,Qf3Nczxm2AY,0.48401111364364624
+MiniLM,dot,What is Java ArrayList,4,nhIB2S6NiFA,0.4753044545650482
+MiniLM,dot,What is Java ArrayList,5,9dr2mHYYoug,0.46895715594291687
+MiniLM,dot,What are Java getters and setters,1,OjrR_C_UPjc,0.715675413608551
+MiniLM,dot,What are Java getters and setters,2,8FmE_-QXg3Y,0.4714713394641876
+MiniLM,dot,What are Java getters and setters,3,GvbdMwfjB98,0.4461015462875366
+MiniLM,dot,What are Java getters and setters,4,EAxV_eoYrIg,0.42351341247558594
+MiniLM,dot,What are Java getters and setters,5,P_iOnmdww8E,0.4209654629230499
+MiniLM,dot,What is method overriding in Java,1,hx_DRanBRRM,0.5824883580207825
+MiniLM,dot,What is method overriding in Java,2,nhnAx79gxCM,0.5465922355651855
+MiniLM,dot,What is method overriding in Java,3,v5p_SUfi710,0.5131128430366516
+MiniLM,dot,What is method overriding in Java,4,P_iOnmdww8E,0.43238505721092224
+MiniLM,dot,What is method overriding in Java,5,LN45TyPWAAg,0.42201757431030273
+MiniLM,dot,What are constructors in Java,1,ZD7CB6wKg8A,0.6309689283370972
+MiniLM,dot,What are constructors in Java,2,LN45TyPWAAg,0.5892146825790405
+MiniLM,dot,What are constructors in Java,3,DYbi93vuSaU,0.5343599915504456
+MiniLM,dot,What are constructors in Java,4,nRJWltqX4UY,0.4842967987060547
+MiniLM,dot,What are constructors in Java,5,OjrR_C_UPjc,0.4829389452934265
+MiniLM,dot,What is object oriented programming in Java,1,DYbi93vuSaU,0.6380860209465027
+MiniLM,dot,What is object oriented programming in Java,2,P_iOnmdww8E,0.4685159921646118
+MiniLM,dot,What is object oriented programming in Java,3,q2SGW2VgwAM,0.45446041226387024
+MiniLM,dot,What is object oriented programming in Java,4,Kmgo00avvEw,0.43864986300468445
+MiniLM,dot,What is object oriented programming in Java,5,v5p_SUfi710,0.42596253752708435
+MiniLM,dot,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7391847968101501
+MiniLM,dot,What are 2D arrays in Java,2,Vh4krbTnTAA,0.5963812470436096
+MiniLM,dot,What are 2D arrays in Java,3,wsTSREgCE5E,0.5811396241188049
+MiniLM,dot,What are 2D arrays in Java,4,nhIB2S6NiFA,0.5559521317481995
+MiniLM,dot,What are 2D arrays in Java,5,9dr2mHYYoug,0.4931691586971283
+MiniLM,dot,What is Python programming,1,XKHEtdqhLK8,0.6360258460044861
+MiniLM,dot,What is Python programming,2,8KCuHHeC_M0,0.6124517917633057
+MiniLM,dot,What is Python programming,3,vg7Hwd9TANY,0.5225747227668762
+MiniLM,dot,What is Python programming,4,8A0E1dSyjFM,0.5059398412704468
+MiniLM,dot,What is Python programming,5,q2SGW2VgwAM,0.4598454236984253
+MiniLM,dot,What are Python projects for beginners,1,XKHEtdqhLK8,0.6340824365615845
+MiniLM,dot,What are Python projects for beginners,2,8KCuHHeC_M0,0.6163672804832458
+MiniLM,dot,What are Python projects for beginners,3,q2SGW2VgwAM,0.44769442081451416
+MiniLM,dot,What are Python projects for beginners,4,Uvqmv3PGiXM,0.4380326569080353
+MiniLM,dot,What are Python projects for beginners,5,1XE-_s4ZBT8,0.43165677785873413
+MiniLM,dot,How to build a weather app in Python,1,Q4377DH5Jso,0.6894555687904358
+MiniLM,dot,How to build a weather app in Python,2,VaDUGPMjzOM,0.5312438607215881
+MiniLM,dot,How to build a weather app in Python,3,8KCuHHeC_M0,0.4289175570011139
+MiniLM,dot,How to build a weather app in Python,4,XKHEtdqhLK8,0.4256160259246826
+MiniLM,dot,How to build a weather app in Python,5,Uvqmv3PGiXM,0.390377402305603
+MiniLM,dot,What is React JS,1,CgkZ7MvWUAA,0.7302542924880981
+MiniLM,dot,What is React JS,2,9wiWzu_tRB0,0.5138120651245117
+MiniLM,dot,What is React JS,3,AiQ-V_0qvRI,0.46761655807495117
+MiniLM,dot,What is React JS,4,FpNfvbNYPsg,0.4510951340198517
+MiniLM,dot,What is React JS,5,Y62mbztjmus,0.4088917374610901
+MiniLM,dot,What is async await in JavaScript,1,9j1dZwFEJ-c,0.678117036819458
+MiniLM,dot,What is async await in JavaScript,2,Coyy79wRz_s,0.5953157544136047
+MiniLM,dot,What is async await in JavaScript,3,NOzi4wBHn0o,0.5399193167686462
+MiniLM,dot,What is async await in JavaScript,4,TDUz9QcGPoE,0.28530338406562805
+MiniLM,dot,What is async await in JavaScript,5,NO5kUNxGIu0,0.268001526594162
+MiniLM,euclidean,What are NumPy data types,1,fPopFeqw5sk,0.7434629425019896
+MiniLM,euclidean,What are NumPy data types,2,81i_uSX9Vic,0.98501141804154
+MiniLM,euclidean,What are NumPy data types,3,6WaBryk4fkE,1.0033103227134723
+MiniLM,euclidean,What are NumPy data types,4,Vh4krbTnTAA,1.1892739640368808
+MiniLM,euclidean,What are NumPy data types,5,w6hL_dszMxk,1.1988112310213523
+MiniLM,euclidean,What are important NumPy functions,1,fPopFeqw5sk,0.8873453504838026
+MiniLM,euclidean,What are important NumPy functions,2,81i_uSX9Vic,0.8973190045133836
+MiniLM,euclidean,What are important NumPy functions,3,6WaBryk4fkE,1.0313892749968898
+MiniLM,euclidean,What are important NumPy functions,4,IljPHDyBRog,1.113023856623355
+MiniLM,euclidean,What are important NumPy functions,5,4wGuB3oAKc4,1.1177963565548164
+MiniLM,euclidean,What are Python iterators,1,k0D3MQwLn7A,0.8949935341294541
+MiniLM,euclidean,What are Python iterators,2,ZBlxaXMN_hU,1.0309268986662221
+MiniLM,euclidean,What are Python iterators,3,KWgYha0clzw,1.0523314124319874
+MiniLM,euclidean,What are Python iterators,4,gOMW_n2-2Mw,1.090098098486351
+MiniLM,euclidean,What are Python iterators,5,t35B5HjPm9Q,1.0996307666694545
+MiniLM,euclidean,What are Python generators,1,ZBlxaXMN_hU,0.8619169085493694
+MiniLM,euclidean,What are Python generators,2,piJc18hcH0Y,0.9956125301435496
+MiniLM,euclidean,What are Python generators,3,x-Ag2_bJ40Y,1.0723868260130127
+MiniLM,euclidean,What are Python generators,4,XKHEtdqhLK8,1.081529975137251
+MiniLM,euclidean,What are Python generators,5,8KCuHHeC_M0,1.0829532290709545
+MiniLM,euclidean,What is Matplotlib in Python,1,c9vhHUGdav0,0.9326187925961122
+MiniLM,euclidean,What is Matplotlib in Python,2,hunq_UOdmoo,0.9355367060104738
+MiniLM,euclidean,What is Matplotlib in Python,3,fPopFeqw5sk,1.1334272103783058
+MiniLM,euclidean,What is Matplotlib in Python,4,8A0E1dSyjFM,1.1579120387347144
+MiniLM,euclidean,What is Matplotlib in Python,5,6WaBryk4fkE,1.159783788053843
+MiniLM,euclidean,How to customize Matplotlib plots,1,hunq_UOdmoo,0.8400832775239105
+MiniLM,euclidean,How to customize Matplotlib plots,2,c9vhHUGdav0,0.9145930843052301
+MiniLM,euclidean,How to customize Matplotlib plots,3,l7IMBy4_nhA,1.2041092462538432
+MiniLM,euclidean,How to customize Matplotlib plots,4,LI8KQ3pjQug,1.2261228042387746
+MiniLM,euclidean,How to customize Matplotlib plots,5,fPopFeqw5sk,1.230886142512596
+MiniLM,euclidean,What is a Pandas DataFrame,1,OUnnuKHbmbU,1.0515977630984168
+MiniLM,euclidean,What is a Pandas DataFrame,2,c9vhHUGdav0,1.1821558333506827
+MiniLM,euclidean,What is a Pandas DataFrame,3,fPopFeqw5sk,1.2042835057436225
+MiniLM,euclidean,What is a Pandas DataFrame,4,6WaBryk4fkE,1.2115121846612762
+MiniLM,euclidean,What is a Pandas DataFrame,5,81i_uSX9Vic,1.2295934918018778
+MiniLM,euclidean,What is NumPy slicing,1,6WaBryk4fkE,0.8838289635967497
+MiniLM,euclidean,What is NumPy slicing,2,81i_uSX9Vic,0.9854800758032481
+MiniLM,euclidean,What is NumPy slicing,3,fPopFeqw5sk,1.0080031859481282
+MiniLM,euclidean,What is NumPy slicing,4,wGlnsJFnGAI,1.0512195234548773
+MiniLM,euclidean,What is NumPy slicing,5,ZBlxaXMN_hU,1.1274113581786964
+MiniLM,euclidean,How to convert decimal to hexadecimal,1,aMME_rYkoOU,0.850032769822513
+MiniLM,euclidean,How to convert decimal to hexadecimal,2,mjiHc965UME,0.8644157071728229
+MiniLM,euclidean,How to convert decimal to hexadecimal,3,HOMu48bTzz8,1.0988697992063043
+MiniLM,euclidean,How to convert decimal to hexadecimal,4,J6qXny_UAK4,1.1308895891888855
+MiniLM,euclidean,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,1.141156361667179
+MiniLM,euclidean,What is the binary number system,1,tg5Wv9Ba1lI,0.8580072316201968
+MiniLM,euclidean,What is the binary number system,2,J6qXny_UAK4,0.8975305127877679
+MiniLM,euclidean,What is the binary number system,3,Gt2yBZAhsGM,1.0636608121725797
+MiniLM,euclidean,What is the binary number system,4,aMME_rYkoOU,1.1081837180132603
+MiniLM,euclidean,What is the binary number system,5,9E3I1URu6fc,1.1377232846567487
+MiniLM,euclidean,What are arrays in C programming,1,6Hk2aE_SRzY,0.6961710016353032
+MiniLM,euclidean,What are arrays in C programming,2,y4siEcxgOpM,0.8417871199539264
+MiniLM,euclidean,What are arrays in C programming,3,Vh4krbTnTAA,0.8842887023104563
+MiniLM,euclidean,What are arrays in C programming,4,shLeCvDQYp4,0.9289300636209232
+MiniLM,euclidean,What are arrays in C programming,5,qLVrwCvVPGo,0.9323508755441516
+MiniLM,euclidean,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.889845037090144
+MiniLM,euclidean,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.9076297856394967
+MiniLM,euclidean,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.9745993981251414
+MiniLM,euclidean,What is dynamic memory allocation in C,4,DplxIq0mc_Y,1.0199564117906017
+MiniLM,euclidean,What is dynamic memory allocation in C,5,qLVrwCvVPGo,1.0843833417336213
+MiniLM,euclidean,How to read files in C,1,eIlcl-mt3tg,0.7197244276654801
+MiniLM,euclidean,How to read files in C,2,Hzg3kCHJcxI,0.9007209930507903
+MiniLM,euclidean,How to read files in C,3,6Hk2aE_SRzY,1.055839523135571
+MiniLM,euclidean,How to read files in C,4,DplxIq0mc_Y,1.0884871825161448
+MiniLM,euclidean,How to read files in C,5,rUXjvybSPWc,1.100022165883945
+MiniLM,euclidean,What are for loops in C,1,zdAggA1q0eo,0.7729003897006659
+MiniLM,euclidean,What are for loops in C,2,b4DPj0XAfSg,0.905061997179815
+MiniLM,euclidean,What are for loops in C,3,6Hk2aE_SRzY,0.910572119583103
+MiniLM,euclidean,What are for loops in C,4,shLeCvDQYp4,0.9304950674824423
+MiniLM,euclidean,What are for loops in C,5,Rn16ugyorX0,0.9466870464849678
+MiniLM,euclidean,What are function prototypes in C,1,NEj2H7SoTzQ,0.8691402739699411
+MiniLM,euclidean,What are function prototypes in C,2,Z5smVeUVNFU,0.9477662306885292
+MiniLM,euclidean,What are function prototypes in C,3,6Hk2aE_SRzY,1.0904389388782119
+MiniLM,euclidean,What are function prototypes in C,4,vg7Hwd9TANY,1.1045217944307508
+MiniLM,euclidean,What are function prototypes in C,5,rUXjvybSPWc,1.111610904816434
+MiniLM,euclidean,What is a switch statement in C,1,NtlSzRWhaOc,0.8468411521134762
+MiniLM,euclidean,What is a switch statement in C,2,Bx9b12FCF5o,1.027902016053279
+MiniLM,euclidean,What is a switch statement in C,3,N1twTeNMdOE,1.0495704530962802
+MiniLM,euclidean,What is a switch statement in C,4,z2fcWdoph4U,1.0739396296505463
+MiniLM,euclidean,What is a switch statement in C,5,Z5smVeUVNFU,1.0953224456422073
+MiniLM,euclidean,What is Java multithreading,1,taI7G6U29L8,0.8595244668581806
+MiniLM,euclidean,What is Java multithreading,2,QEF62Fm81h4,1.0157815451310235
+MiniLM,euclidean,What is Java multithreading,3,YOhrIov7PZA,1.0597796833260038
+MiniLM,euclidean,What is Java multithreading,4,nhnAx79gxCM,1.0770204237298173
+MiniLM,euclidean,What is Java multithreading,5,OjrR_C_UPjc,1.084230875175637
+MiniLM,euclidean,What are Java anonymous classes,1,P_iOnmdww8E,0.7834517887175378
+MiniLM,euclidean,What are Java anonymous classes,2,DYbi93vuSaU,1.0301234524420375
+MiniLM,euclidean,What are Java anonymous classes,3,OjrR_C_UPjc,1.0843187875013127
+MiniLM,euclidean,What are Java anonymous classes,4,Kmgo00avvEw,1.0927277607001595
+MiniLM,euclidean,What are Java anonymous classes,5,taI7G6U29L8,1.0949852281556611
+MiniLM,euclidean,How to write files in Java,1,Pg0aoSbrqOE,0.6746645113795214
+MiniLM,euclidean,How to write files in Java,2,A6sA9KItwpY,1.0155952157606747
+MiniLM,euclidean,How to write files in Java,3,bI6e6qjJ8JQ,1.0669083109125277
+MiniLM,euclidean,How to write files in Java,4,Hzg3kCHJcxI,1.0871315397388392
+MiniLM,euclidean,How to write files in Java,5,v5p_SUfi710,1.0888562816485314
+MiniLM,euclidean,What is Java ArrayList,1,wsTSREgCE5E,0.817830848863447
+MiniLM,euclidean,What is Java ArrayList,2,30MKAcoffIo,0.9200452931055957
+MiniLM,euclidean,What is Java ArrayList,3,Qf3Nczxm2AY,1.015863168047426
+MiniLM,euclidean,What is Java ArrayList,4,nhIB2S6NiFA,1.024398024424185
+MiniLM,euclidean,What is Java ArrayList,5,9dr2mHYYoug,1.030575454692823
+MiniLM,euclidean,What are Java getters and setters,1,OjrR_C_UPjc,0.7540881713160162
+MiniLM,euclidean,What are Java getters and setters,2,8FmE_-QXg3Y,1.0281330732422111
+MiniLM,euclidean,What are Java getters and setters,3,GvbdMwfjB98,1.0525192633009626
+MiniLM,euclidean,What are Java getters and setters,4,EAxV_eoYrIg,1.0737658469863995
+MiniLM,euclidean,What are Java getters and setters,5,P_iOnmdww8E,1.0761362095766593
+MiniLM,euclidean,What is method overriding in Java,1,hx_DRanBRRM,0.9137960304667214
+MiniLM,euclidean,What is method overriding in Java,2,nhnAx79gxCM,0.9522683045158894
+MiniLM,euclidean,What is method overriding in Java,3,v5p_SUfi710,0.9868001074467939
+MiniLM,euclidean,What is method overriding in Java,4,P_iOnmdww8E,1.0654717450568216
+MiniLM,euclidean,What is method overriding in Java,5,LN45TyPWAAg,1.075158038174954
+MiniLM,euclidean,What are constructors in Java,1,ZD7CB6wKg8A,0.8591054650517619
+MiniLM,euclidean,What are constructors in Java,2,LN45TyPWAAg,0.9064051694763134
+MiniLM,euclidean,What are constructors in Java,3,DYbi93vuSaU,0.9650287882586492
+MiniLM,euclidean,What are constructors in Java,4,nRJWltqX4UY,1.0155818600686919
+MiniLM,euclidean,What are constructors in Java,5,OjrR_C_UPjc,1.0169178185353944
+MiniLM,euclidean,What is object oriented programming in Java,1,DYbi93vuSaU,0.8507806407441574
+MiniLM,euclidean,What is object oriented programming in Java,2,P_iOnmdww8E,1.031003429062774
+MiniLM,euclidean,What is object oriented programming in Java,3,q2SGW2VgwAM,1.0445474528047312
+MiniLM,euclidean,What is object oriented programming in Java,4,Kmgo00avvEw,1.059575620992376
+MiniLM,euclidean,What is object oriented programming in Java,5,v5p_SUfi710,1.07148255331124
+MiniLM,euclidean,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7222396711580908
+MiniLM,euclidean,What are 2D arrays in Java,2,Vh4krbTnTAA,0.8984638732491166
+MiniLM,euclidean,What are 2D arrays in Java,3,wsTSREgCE5E,0.9152711130497982
+MiniLM,euclidean,What are 2D arrays in Java,4,nhIB2S6NiFA,0.9423882599557726
+MiniLM,euclidean,What are 2D arrays in Java,5,9dr2mHYYoug,1.0068077776563804
+MiniLM,euclidean,What is Python programming,1,XKHEtdqhLK8,0.8531985067201884
+MiniLM,euclidean,What is Python programming,2,8KCuHHeC_M0,0.880395495353063
+MiniLM,euclidean,What is Python programming,3,vg7Hwd9TANY,0.9771645863290858
+MiniLM,euclidean,What is Python programming,4,8A0E1dSyjFM,0.9940421506509712
+MiniLM,euclidean,What is Python programming,5,q2SGW2VgwAM,1.0393792947655385
+MiniLM,euclidean,What are Python projects for beginners,1,XKHEtdqhLK8,0.8554734164788963
+MiniLM,euclidean,What are Python projects for beginners,2,8KCuHHeC_M0,0.8759368585439361
+MiniLM,euclidean,What are Python projects for beginners,3,q2SGW2VgwAM,1.0510049699188508
+MiniLM,euclidean,What are Python projects for beginners,4,Uvqmv3PGiXM,1.0601582701117334
+MiniLM,euclidean,What are Python projects for beginners,5,1XE-_s4ZBT8,1.0661550537585867
+MiniLM,euclidean,How to build a weather app in Python,1,Q4377DH5Jso,0.7880920778653677
+MiniLM,euclidean,How to build a weather app in Python,2,VaDUGPMjzOM,0.9682521024339741
+MiniLM,euclidean,How to build a weather app in Python,3,8KCuHHeC_M0,1.068721125988743
+MiniLM,euclidean,How to build a weather app in Python,4,XKHEtdqhLK8,1.0718057852833953
+MiniLM,euclidean,How to build a weather app in Python,5,Uvqmv3PGiXM,1.104194380472876
+MiniLM,euclidean,What is React JS,1,CgkZ7MvWUAA,0.7345005742686511
+MiniLM,euclidean,What is React JS,2,9wiWzu_tRB0,0.9860910860474792
+MiniLM,euclidean,What is React JS,3,AiQ-V_0qvRI,1.031875358556899
+MiniLM,euclidean,What is React JS,4,FpNfvbNYPsg,1.047764026275543
+MiniLM,euclidean,What is React JS,5,Y62mbztjmus,1.0872977326430318
+MiniLM,euclidean,What is async await in JavaScript,1,9j1dZwFEJ-c,0.8023504503678385
+MiniLM,euclidean,What is async await in JavaScript,2,Coyy79wRz_s,0.8996488254175505
+MiniLM,euclidean,What is async await in JavaScript,3,NOzi4wBHn0o,0.9592504797199185
+MiniLM,euclidean,What is async await in JavaScript,4,TDUz9QcGPoE,1.195572379054389
+MiniLM,euclidean,What is async await in JavaScript,5,NO5kUNxGIu0,1.2099573705973459
+MiniLM,cityblock,What are NumPy data types,1,fPopFeqw5sk,11.454707698558892
+MiniLM,cityblock,What are NumPy data types,2,81i_uSX9Vic,15.205143938137383
+MiniLM,cityblock,What are NumPy data types,3,6WaBryk4fkE,15.363676311601733
+MiniLM,cityblock,What are NumPy data types,4,Vh4krbTnTAA,18.397109400230715
+MiniLM,cityblock,What are NumPy data types,5,w6hL_dszMxk,18.658727772977826
+MiniLM,cityblock,What are important NumPy functions,1,fPopFeqw5sk,13.526402438441206
+MiniLM,cityblock,What are important NumPy functions,2,81i_uSX9Vic,13.826338165727787
+MiniLM,cityblock,What are important NumPy functions,3,6WaBryk4fkE,15.888875470671131
+MiniLM,cityblock,What are important NumPy functions,4,IljPHDyBRog,17.05215878715047
+MiniLM,cityblock,What are important NumPy functions,5,4wGuB3oAKc4,17.26295339432777
+MiniLM,cityblock,What are Python iterators,1,k0D3MQwLn7A,14.02080304843794
+MiniLM,cityblock,What are Python iterators,2,ZBlxaXMN_hU,16.09833603643403
+MiniLM,cityblock,What are Python iterators,3,KWgYha0clzw,16.11886768726795
+MiniLM,cityblock,What are Python iterators,4,t35B5HjPm9Q,17.00481856871581
+MiniLM,cityblock,What are Python iterators,5,gOMW_n2-2Mw,17.111865433282517
+MiniLM,cityblock,What are Python generators,1,ZBlxaXMN_hU,13.464873044917134
+MiniLM,cityblock,What are Python generators,2,piJc18hcH0Y,15.458897408502004
+MiniLM,cityblock,What are Python generators,3,XKHEtdqhLK8,16.18271314824753
+MiniLM,cityblock,What are Python generators,4,8KCuHHeC_M0,16.628679341283092
+MiniLM,cityblock,What are Python generators,5,x-Ag2_bJ40Y,16.980816475520736
+MiniLM,cityblock,What is Matplotlib in Python,1,hunq_UOdmoo,14.12733734318727
+MiniLM,cityblock,What is Matplotlib in Python,2,c9vhHUGdav0,14.15336334337063
+MiniLM,cityblock,What is Matplotlib in Python,3,fPopFeqw5sk,17.67441810971856
+MiniLM,cityblock,What is Matplotlib in Python,4,6WaBryk4fkE,18.008993521433048
+MiniLM,cityblock,What is Matplotlib in Python,5,8A0E1dSyjFM,18.042782049262883
+MiniLM,cityblock,How to customize Matplotlib plots,1,hunq_UOdmoo,13.030479637943374
+MiniLM,cityblock,How to customize Matplotlib plots,2,c9vhHUGdav0,14.09904614155971
+MiniLM,cityblock,How to customize Matplotlib plots,3,fPopFeqw5sk,18.9487411375002
+MiniLM,cityblock,How to customize Matplotlib plots,4,l7IMBy4_nhA,18.96419258664219
+MiniLM,cityblock,How to customize Matplotlib plots,5,LI8KQ3pjQug,19.0284929328759
+MiniLM,cityblock,What is a Pandas DataFrame,1,OUnnuKHbmbU,16.40575266234646
+MiniLM,cityblock,What is a Pandas DataFrame,2,c9vhHUGdav0,18.20883834399624
+MiniLM,cityblock,What is a Pandas DataFrame,3,fPopFeqw5sk,18.34450343996378
+MiniLM,cityblock,What is a Pandas DataFrame,4,6WaBryk4fkE,18.968165401395737
+MiniLM,cityblock,What is a Pandas DataFrame,5,5OdVJbNCSso,19.137052343003617
+MiniLM,cityblock,What is NumPy slicing,1,6WaBryk4fkE,13.860345874128257
+MiniLM,cityblock,What is NumPy slicing,2,fPopFeqw5sk,15.291277531073408
+MiniLM,cityblock,What is NumPy slicing,3,81i_uSX9Vic,15.338286414289673
+MiniLM,cityblock,What is NumPy slicing,4,wGlnsJFnGAI,16.317603773482965
+MiniLM,cityblock,What is NumPy slicing,5,ZBlxaXMN_hU,17.65303546435594
+MiniLM,cityblock,How to convert decimal to hexadecimal,1,aMME_rYkoOU,13.185638307662906
+MiniLM,cityblock,How to convert decimal to hexadecimal,2,mjiHc965UME,13.374944180784649
+MiniLM,cityblock,How to convert decimal to hexadecimal,3,HOMu48bTzz8,17.31299255075664
+MiniLM,cityblock,How to convert decimal to hexadecimal,4,J6qXny_UAK4,17.498424582699297
+MiniLM,cityblock,How to convert decimal to hexadecimal,5,tg5Wv9Ba1lI,17.75531676862208
+MiniLM,cityblock,What is the binary number system,1,tg5Wv9Ba1lI,13.503750538932437
+MiniLM,cityblock,What is the binary number system,2,J6qXny_UAK4,14.076782733212664
+MiniLM,cityblock,What is the binary number system,3,Gt2yBZAhsGM,16.38720151975283
+MiniLM,cityblock,What is the binary number system,4,aMME_rYkoOU,17.200191065247502
+MiniLM,cityblock,What is the binary number system,5,mjiHc965UME,17.794615755090614
+MiniLM,cityblock,What are arrays in C programming,1,6Hk2aE_SRzY,10.917867563773457
+MiniLM,cityblock,What are arrays in C programming,2,y4siEcxgOpM,12.89996905902136
+MiniLM,cityblock,What are arrays in C programming,3,Vh4krbTnTAA,13.706946626897027
+MiniLM,cityblock,What are arrays in C programming,4,shLeCvDQYp4,14.392503337704765
+MiniLM,cityblock,What are arrays in C programming,5,qLVrwCvVPGo,14.553596376026972
+MiniLM,cityblock,What is dynamic memory allocation in C,1,fc19HhHKtrA,13.826067198536403
+MiniLM,cityblock,What is dynamic memory allocation in C,2,rUXjvybSPWc,14.336543896862409
+MiniLM,cityblock,What is dynamic memory allocation in C,3,aIQk1O08zpg,15.584756645784442
+MiniLM,cityblock,What is dynamic memory allocation in C,4,DplxIq0mc_Y,15.921140456448978
+MiniLM,cityblock,What is dynamic memory allocation in C,5,6Hk2aE_SRzY,16.840043471478523
+MiniLM,cityblock,How to read files in C,1,eIlcl-mt3tg,11.047638995691955
+MiniLM,cityblock,How to read files in C,2,Hzg3kCHJcxI,14.069472330420506
+MiniLM,cityblock,How to read files in C,3,6Hk2aE_SRzY,16.462650377316816
+MiniLM,cityblock,How to read files in C,4,87SH2Cn0s9A,17.328263388643492
+MiniLM,cityblock,How to read files in C,5,rUXjvybSPWc,17.376973550548524
+MiniLM,cityblock,What are for loops in C,1,zdAggA1q0eo,11.612418935128272
+MiniLM,cityblock,What are for loops in C,2,b4DPj0XAfSg,13.863638854738443
+MiniLM,cityblock,What are for loops in C,3,6Hk2aE_SRzY,13.90738159630741
+MiniLM,cityblock,What are for loops in C,4,shLeCvDQYp4,14.416950595199413
+MiniLM,cityblock,What are for loops in C,5,Rn16ugyorX0,14.508800204973689
+MiniLM,cityblock,What are function prototypes in C,1,NEj2H7SoTzQ,13.23916917318774
+MiniLM,cityblock,What are function prototypes in C,2,Z5smVeUVNFU,14.426066331600634
+MiniLM,cityblock,What are function prototypes in C,3,6Hk2aE_SRzY,16.63405913413475
+MiniLM,cityblock,What are function prototypes in C,4,rUXjvybSPWc,16.94256440309987
+MiniLM,cityblock,What are function prototypes in C,5,vg7Hwd9TANY,17.251113802688945
+MiniLM,cityblock,What is a switch statement in C,1,NtlSzRWhaOc,13.070908111254877
+MiniLM,cityblock,What is a switch statement in C,2,Bx9b12FCF5o,16.108303959977604
+MiniLM,cityblock,What is a switch statement in C,3,N1twTeNMdOE,16.268232833001825
+MiniLM,cityblock,What is a switch statement in C,4,z2fcWdoph4U,16.785657886064584
+MiniLM,cityblock,What is a switch statement in C,5,aIQk1O08zpg,16.890943030538946
+MiniLM,cityblock,What is Java multithreading,1,taI7G6U29L8,13.559349332685407
+MiniLM,cityblock,What is Java multithreading,2,QEF62Fm81h4,15.751461707925248
+MiniLM,cityblock,What is Java multithreading,3,YOhrIov7PZA,16.559870600863704
+MiniLM,cityblock,What is Java multithreading,4,nhnAx79gxCM,16.692744395764716
+MiniLM,cityblock,What is Java multithreading,5,Kmgo00avvEw,16.99279069504126
+MiniLM,cityblock,What are Java anonymous classes,1,P_iOnmdww8E,12.32718657833957
+MiniLM,cityblock,What are Java anonymous classes,2,DYbi93vuSaU,15.86572127399309
+MiniLM,cityblock,What are Java anonymous classes,3,OjrR_C_UPjc,16.566751502215126
+MiniLM,cityblock,What are Java anonymous classes,4,ZD7CB6wKg8A,16.80575100923798
+MiniLM,cityblock,What are Java anonymous classes,5,nhnAx79gxCM,17.04439543262641
+MiniLM,cityblock,How to write files in Java,1,Pg0aoSbrqOE,10.532620978889689
+MiniLM,cityblock,How to write files in Java,2,A6sA9KItwpY,15.692419387529782
+MiniLM,cityblock,How to write files in Java,3,bI6e6qjJ8JQ,16.460637030374013
+MiniLM,cityblock,How to write files in Java,4,Hzg3kCHJcxI,16.498632412896292
+MiniLM,cityblock,How to write files in Java,5,Kmgo00avvEw,16.568909080331494
+MiniLM,cityblock,What is Java ArrayList,1,wsTSREgCE5E,12.621612610121097
+MiniLM,cityblock,What is Java ArrayList,2,30MKAcoffIo,14.087240980507683
+MiniLM,cityblock,What is Java ArrayList,3,nhIB2S6NiFA,15.767857421609872
+MiniLM,cityblock,What is Java ArrayList,4,Qf3Nczxm2AY,15.771475211891666
+MiniLM,cityblock,What is Java ArrayList,5,9dr2mHYYoug,15.991822245865162
+MiniLM,cityblock,What are Java getters and setters,1,OjrR_C_UPjc,11.451417338897425
+MiniLM,cityblock,What are Java getters and setters,2,8FmE_-QXg3Y,15.797028795900445
+MiniLM,cityblock,What are Java getters and setters,3,EAxV_eoYrIg,16.145102938501473
+MiniLM,cityblock,What are Java getters and setters,4,GvbdMwfjB98,16.250283208382665
+MiniLM,cityblock,What are Java getters and setters,5,oKZnHNM9Ew4,16.619920920478503
+MiniLM,cityblock,What is method overriding in Java,1,hx_DRanBRRM,14.199191816341607
+MiniLM,cityblock,What is method overriding in Java,2,nhnAx79gxCM,14.786535427831627
+MiniLM,cityblock,What is method overriding in Java,3,v5p_SUfi710,15.463335878823031
+MiniLM,cityblock,What is method overriding in Java,4,P_iOnmdww8E,16.545164341258317
+MiniLM,cityblock,What is method overriding in Java,5,taI7G6U29L8,16.77475131531449
+MiniLM,cityblock,What are constructors in Java,1,ZD7CB6wKg8A,13.091057756245629
+MiniLM,cityblock,What are constructors in Java,2,LN45TyPWAAg,13.879324124704102
+MiniLM,cityblock,What are constructors in Java,3,DYbi93vuSaU,14.97120238549024
+MiniLM,cityblock,What are constructors in Java,4,OjrR_C_UPjc,15.434816440810117
+MiniLM,cityblock,What are constructors in Java,5,nRJWltqX4UY,15.774105574858691
+MiniLM,cityblock,What is object oriented programming in Java,1,DYbi93vuSaU,13.09026438504516
+MiniLM,cityblock,What is object oriented programming in Java,2,P_iOnmdww8E,16.138091745105474
+MiniLM,cityblock,What is object oriented programming in Java,3,Kmgo00avvEw,16.51332887085484
+MiniLM,cityblock,What is object oriented programming in Java,4,q2SGW2VgwAM,16.52455198438927
+MiniLM,cityblock,What is object oriented programming in Java,5,hx_DRanBRRM,16.57755340376607
+MiniLM,cityblock,What are 2D arrays in Java,1,Qf3Nczxm2AY,11.044442873597996
+MiniLM,cityblock,What are 2D arrays in Java,2,wsTSREgCE5E,14.070656619999928
+MiniLM,cityblock,What are 2D arrays in Java,3,Vh4krbTnTAA,14.438989319462307
+MiniLM,cityblock,What are 2D arrays in Java,4,nhIB2S6NiFA,14.44070932366875
+MiniLM,cityblock,What are 2D arrays in Java,5,9dr2mHYYoug,15.615278880508948
+MiniLM,cityblock,What is Python programming,1,XKHEtdqhLK8,12.76804505614319
+MiniLM,cityblock,What is Python programming,2,8KCuHHeC_M0,13.376875460936304
+MiniLM,cityblock,What is Python programming,3,vg7Hwd9TANY,15.245808282637118
+MiniLM,cityblock,What is Python programming,4,8A0E1dSyjFM,15.366162110796374
+MiniLM,cityblock,What is Python programming,5,KWgYha0clzw,16.412125956044243
+MiniLM,cityblock,What are Python projects for beginners,1,XKHEtdqhLK8,13.08258288387306
+MiniLM,cityblock,What are Python projects for beginners,2,8KCuHHeC_M0,13.365872939422209
+MiniLM,cityblock,What are Python projects for beginners,3,q2SGW2VgwAM,16.322791333313667
+MiniLM,cityblock,What are Python projects for beginners,4,Q4377DH5Jso,16.645821072932343
+MiniLM,cityblock,What are Python projects for beginners,5,Uvqmv3PGiXM,16.76884164548015
+MiniLM,cityblock,How to build a weather app in Python,1,Q4377DH5Jso,12.316407774880883
+MiniLM,cityblock,How to build a weather app in Python,2,VaDUGPMjzOM,15.110665482599885
+MiniLM,cityblock,How to build a weather app in Python,3,8KCuHHeC_M0,16.959990230679686
+MiniLM,cityblock,How to build a weather app in Python,4,XKHEtdqhLK8,17.035508927039775
+MiniLM,cityblock,How to build a weather app in Python,5,Uvqmv3PGiXM,17.29199939065096
+MiniLM,cityblock,What is React JS,1,CgkZ7MvWUAA,11.224414801230228
+MiniLM,cityblock,What is React JS,2,9wiWzu_tRB0,15.51479821291004
+MiniLM,cityblock,What is React JS,3,AiQ-V_0qvRI,15.514808161330631
+MiniLM,cityblock,What is React JS,4,FpNfvbNYPsg,16.36606534220054
+MiniLM,cityblock,What is React JS,5,Y62mbztjmus,16.844933677735867
+MiniLM,cityblock,What is async await in JavaScript,1,9j1dZwFEJ-c,12.394819563816888
+MiniLM,cityblock,What is async await in JavaScript,2,Coyy79wRz_s,13.731488139279815
+MiniLM,cityblock,What is async await in JavaScript,3,NOzi4wBHn0o,14.758831892225441
+MiniLM,cityblock,What is async await in JavaScript,4,TDUz9QcGPoE,18.45924146453231
+MiniLM,cityblock,What is async await in JavaScript,5,NO5kUNxGIu0,18.482397156899903
+MiniLM,chebyshev,What are NumPy data types,1,fPopFeqw5sk,0.1306610070168972
+MiniLM,chebyshev,What are NumPy data types,2,81i_uSX9Vic,0.15160488709807396
+MiniLM,chebyshev,What are NumPy data types,3,Vh4krbTnTAA,0.15815294906497002
+MiniLM,chebyshev,What are NumPy data types,4,IxBMVztdlr4,0.16599231213331223
+MiniLM,chebyshev,What are NumPy data types,5,6WaBryk4fkE,0.16806510370224714
+MiniLM,chebyshev,What are important NumPy functions,1,81i_uSX9Vic,0.15748872980475426
+MiniLM,chebyshev,What are important NumPy functions,2,HzyhmZqiaE8,0.1643487587571144
+MiniLM,chebyshev,What are important NumPy functions,3,4wGuB3oAKc4,0.16596142202615738
+MiniLM,chebyshev,What are important NumPy functions,4,vg7Hwd9TANY,0.1662556673400104
+MiniLM,chebyshev,What are important NumPy functions,5,rUXjvybSPWc,0.16638898476958275
+MiniLM,chebyshev,What are Python iterators,1,k0D3MQwLn7A,0.12476791813969612
+MiniLM,chebyshev,What are Python iterators,2,1XE-_s4ZBT8,0.16050200909376144
+MiniLM,chebyshev,What are Python iterators,3,HkbQ_NaH0Lc,0.16146650910377502
+MiniLM,chebyshev,What are Python iterators,4,shLeCvDQYp4,0.1704728603363037
+MiniLM,chebyshev,What are Python iterators,5,44iQGNUcik0,0.17252375185489655
+MiniLM,chebyshev,What are Python generators,1,k0D3MQwLn7A,0.14492701552808285
+MiniLM,chebyshev,What are Python generators,2,ZBlxaXMN_hU,0.150190781801939
+MiniLM,chebyshev,What are Python generators,3,TYyKQBC4bwE,0.15786850824952126
+MiniLM,chebyshev,What are Python generators,4,1XE-_s4ZBT8,0.16312098037451506
+MiniLM,chebyshev,What are Python generators,5,9pl55MxZlG4,0.16594193130731583
+MiniLM,chebyshev,What is Matplotlib in Python,1,c9vhHUGdav0,0.16049251705408096
+MiniLM,chebyshev,What is Matplotlib in Python,2,JVQNywo4AbU,0.16128450632095337
+MiniLM,chebyshev,What is Matplotlib in Python,3,fPopFeqw5sk,0.1644788607954979
+MiniLM,chebyshev,What is Matplotlib in Python,4,q2SGW2VgwAM,0.16619374603033066
+MiniLM,chebyshev,What is Matplotlib in Python,5,8A0E1dSyjFM,0.1664828062057495
+MiniLM,chebyshev,How to customize Matplotlib plots,1,hunq_UOdmoo,0.13966133072972298
+MiniLM,chebyshev,How to customize Matplotlib plots,2,c9vhHUGdav0,0.1457698531448841
+MiniLM,chebyshev,How to customize Matplotlib plots,3,l7IMBy4_nhA,0.1641535498201847
+MiniLM,chebyshev,How to customize Matplotlib plots,4,VgnUB_vzR9I,0.17842663824558258
+MiniLM,chebyshev,How to customize Matplotlib plots,5,wGlnsJFnGAI,0.18206994235515594
+MiniLM,chebyshev,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.15651576593518257
+MiniLM,chebyshev,What is a Pandas DataFrame,2,wGlnsJFnGAI,0.1869755983352661
+MiniLM,chebyshev,What is a Pandas DataFrame,3,6AzAYU8AOhQ,0.1875809021294117
+MiniLM,chebyshev,What is a Pandas DataFrame,4,6WaBryk4fkE,0.1877453327178955
+MiniLM,chebyshev,What is a Pandas DataFrame,5,Qj3GlL5ckQA,0.18887609243392944
+MiniLM,chebyshev,What is NumPy slicing,1,6WaBryk4fkE,0.11796469241380692
+MiniLM,chebyshev,What is NumPy slicing,2,wGlnsJFnGAI,0.15615908056497574
+MiniLM,chebyshev,What is NumPy slicing,3,ZBlxaXMN_hU,0.17509032040834427
+MiniLM,chebyshev,What is NumPy slicing,4,N1twTeNMdOE,0.17681626230478287
+MiniLM,chebyshev,What is NumPy slicing,5,eIlcl-mt3tg,0.17726168408989906
+MiniLM,chebyshev,How to convert decimal to hexadecimal,1,mjiHc965UME,0.13432685658335686
+MiniLM,chebyshev,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.13840243965387344
+MiniLM,chebyshev,How to convert decimal to hexadecimal,3,HOMu48bTzz8,0.1608317792415619
+MiniLM,chebyshev,How to convert decimal to hexadecimal,4,fy5QsDJmctQ,0.16368895024061203
+MiniLM,chebyshev,How to convert decimal to hexadecimal,5,9E3I1URu6fc,0.16697262972593307
+MiniLM,chebyshev,What is the binary number system,1,tg5Wv9Ba1lI,0.11748579330742359
+MiniLM,chebyshev,What is the binary number system,2,J6qXny_UAK4,0.14730043895542622
+MiniLM,chebyshev,What is the binary number system,3,DFhpzaEOoxs,0.16082405298948288
+MiniLM,chebyshev,What is the binary number system,4,4wGuB3oAKc4,0.16959957033395767
+MiniLM,chebyshev,What is the binary number system,5,Lk-b45vrT8U,0.17105648666620255
+MiniLM,chebyshev,What are arrays in C programming,1,6Hk2aE_SRzY,0.11510641779750586
+MiniLM,chebyshev,What are arrays in C programming,2,NtlSzRWhaOc,0.14599793404340744
+MiniLM,chebyshev,What are arrays in C programming,3,DplxIq0mc_Y,0.15121430438011885
+MiniLM,chebyshev,What are arrays in C programming,4,y4siEcxgOpM,0.15305797010660172
+MiniLM,chebyshev,What are arrays in C programming,5,qLVrwCvVPGo,0.1547662690281868
+MiniLM,chebyshev,What is dynamic memory allocation in C,1,rUXjvybSPWc,0.13820561580359936
+MiniLM,chebyshev,What is dynamic memory allocation in C,2,aIQk1O08zpg,0.14585285261273384
+MiniLM,chebyshev,What is dynamic memory allocation in C,3,DplxIq0mc_Y,0.15437762439250946
+MiniLM,chebyshev,What is dynamic memory allocation in C,4,fWnXVwULqrE,0.16947386786341667
+MiniLM,chebyshev,What is dynamic memory allocation in C,5,shLeCvDQYp4,0.1714644432067871
+MiniLM,chebyshev,How to read files in C,1,Hzg3kCHJcxI,0.1313939280807972
+MiniLM,chebyshev,How to read files in C,2,eIlcl-mt3tg,0.1330701857805252
+MiniLM,chebyshev,How to read files in C,3,Z5smVeUVNFU,0.15551014244556427
+MiniLM,chebyshev,How to read files in C,4,WFzLcZk137s,0.16576766222715378
+MiniLM,chebyshev,How to read files in C,5,JLIF5XHBL3E,0.16632027924060822
+MiniLM,chebyshev,What are for loops in C,1,b4DPj0XAfSg,0.14274051040410995
+MiniLM,chebyshev,What are for loops in C,2,N1twTeNMdOE,0.14609476178884506
+MiniLM,chebyshev,What are for loops in C,3,zdAggA1q0eo,0.14635727927088737
+MiniLM,chebyshev,What are for loops in C,4,rUXjvybSPWc,0.14735227450728416
+MiniLM,chebyshev,What are for loops in C,5,NtlSzRWhaOc,0.14805465564131737
+MiniLM,chebyshev,What are function prototypes in C,1,NEj2H7SoTzQ,0.145747278816998
+MiniLM,chebyshev,What are function prototypes in C,2,vg7Hwd9TANY,0.14956643263576552
+MiniLM,chebyshev,What are function prototypes in C,3,Hzg3kCHJcxI,0.16053134202957153
+MiniLM,chebyshev,What are function prototypes in C,4,rUXjvybSPWc,0.17022693157196045
+MiniLM,chebyshev,What are function prototypes in C,5,WPmAu26LZKo,0.17046631127595901
+MiniLM,chebyshev,What is a switch statement in C,1,dWsjatPhWHQ,0.16218508034944534
+MiniLM,chebyshev,What is a switch statement in C,2,Bx9b12FCF5o,0.16352930665016174
+MiniLM,chebyshev,What is a switch statement in C,3,6Hk2aE_SRzY,0.16505398973822594
+MiniLM,chebyshev,What is a switch statement in C,4,Z5smVeUVNFU,0.17042692750692368
+MiniLM,chebyshev,What is a switch statement in C,5,N1twTeNMdOE,0.17148443311452866
+MiniLM,chebyshev,What is Java multithreading,1,QEF62Fm81h4,0.1411191150546074
+MiniLM,chebyshev,What is Java multithreading,2,taI7G6U29L8,0.14301689714193344
+MiniLM,chebyshev,What is Java multithreading,3,IgdIfGW-cVU,0.1501891203224659
+MiniLM,chebyshev,What is Java multithreading,4,Pg0aoSbrqOE,0.1524000372737646
+MiniLM,chebyshev,What is Java multithreading,5,v5p_SUfi710,0.1573578417301178
+MiniLM,chebyshev,What are Java anonymous classes,1,P_iOnmdww8E,0.12672342918813229
+MiniLM,chebyshev,What are Java anonymous classes,2,QEF62Fm81h4,0.15530675649642944
+MiniLM,chebyshev,What are Java anonymous classes,3,Pg0aoSbrqOE,0.16470807790756226
+MiniLM,chebyshev,What are Java anonymous classes,4,v5p_SUfi710,0.1699995920062065
+MiniLM,chebyshev,What are Java anonymous classes,5,N3LZM4WFHBY,0.17269840836524963
+MiniLM,chebyshev,How to write files in Java,1,Pg0aoSbrqOE,0.09620608761906624
+MiniLM,chebyshev,How to write files in Java,2,bI6e6qjJ8JQ,0.157055351883173
+MiniLM,chebyshev,How to write files in Java,3,nhnAx79gxCM,0.1665055714547634
+MiniLM,chebyshev,How to write files in Java,4,9V5B3dNoVIA,0.16966016590595245
+MiniLM,chebyshev,How to write files in Java,5,wsTSREgCE5E,0.17611631378531456
+MiniLM,chebyshev,What is Java ArrayList,1,wsTSREgCE5E,0.13958822935819626
+MiniLM,chebyshev,What is Java ArrayList,2,Qf3Nczxm2AY,0.15450792759656906
+MiniLM,chebyshev,What is Java ArrayList,3,taI7G6U29L8,0.15880237147212029
+MiniLM,chebyshev,What is Java ArrayList,4,Kmgo00avvEw,0.15924076735973358
+MiniLM,chebyshev,What is Java ArrayList,5,Rn16ugyorX0,0.15955108404159546
+MiniLM,chebyshev,What are Java getters and setters,1,Kmgo00avvEw,0.14576498279348016
+MiniLM,chebyshev,What are Java getters and setters,2,8FmE_-QXg3Y,0.16098790615797043
+MiniLM,chebyshev,What are Java getters and setters,3,OjrR_C_UPjc,0.16231154650449753
+MiniLM,chebyshev,What are Java getters and setters,4,DFhpzaEOoxs,0.16475962102413177
+MiniLM,chebyshev,What are Java getters and setters,5,GwxvLzQoMYM,0.16768868267536163
+MiniLM,chebyshev,What is method overriding in Java,1,hx_DRanBRRM,0.1327773481607437
+MiniLM,chebyshev,What is method overriding in Java,2,LN45TyPWAAg,0.15013012290000916
+MiniLM,chebyshev,What is method overriding in Java,3,44iQGNUcik0,0.15681739151477814
+MiniLM,chebyshev,What is method overriding in Java,4,v5p_SUfi710,0.16169628500938416
+MiniLM,chebyshev,What is method overriding in Java,5,06BrbJm7Sho,0.16341467201709747
+MiniLM,chebyshev,What are constructors in Java,1,WPmAu26LZKo,0.13940532505512238
+MiniLM,chebyshev,What are constructors in Java,2,wsTSREgCE5E,0.1442931666970253
+MiniLM,chebyshev,What are constructors in Java,3,LN45TyPWAAg,0.1457892209291458
+MiniLM,chebyshev,What are constructors in Java,4,ZD7CB6wKg8A,0.1546141803264618
+MiniLM,chebyshev,What are constructors in Java,5,DYbi93vuSaU,0.15594101324677467
+MiniLM,chebyshev,What is object oriented programming in Java,1,Kmgo00avvEw,0.1445626299828291
+MiniLM,chebyshev,What is object oriented programming in Java,2,DYbi93vuSaU,0.15254487097263336
+MiniLM,chebyshev,What is object oriented programming in Java,3,Rn16ugyorX0,0.15475434809923172
+MiniLM,chebyshev,What is object oriented programming in Java,4,KcEvHq8Pqs0,0.15500355884432793
+MiniLM,chebyshev,What is object oriented programming in Java,5,P_iOnmdww8E,0.1603894606232643
+MiniLM,chebyshev,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.11773486994206905
+MiniLM,chebyshev,What are 2D arrays in Java,2,Vh4krbTnTAA,0.12014680728316307
+MiniLM,chebyshev,What are 2D arrays in Java,3,ah5bAnGpmKY,0.14747817069292068
+MiniLM,chebyshev,What are 2D arrays in Java,4,wsTSREgCE5E,0.1579638235270977
+MiniLM,chebyshev,What are 2D arrays in Java,5,nhIB2S6NiFA,0.1603544056415558
+MiniLM,chebyshev,What is Python programming,1,2KzyvzeWFbQ,0.15031015872955322
+MiniLM,chebyshev,What is Python programming,2,x-Ag2_bJ40Y,0.15310334786772728
+MiniLM,chebyshev,What is Python programming,3,q2SGW2VgwAM,0.15624825656414032
+MiniLM,chebyshev,What is Python programming,4,L7tT0NZF-Ag,0.15996351465582848
+MiniLM,chebyshev,What is Python programming,5,Uvqmv3PGiXM,0.16349743492901325
+MiniLM,chebyshev,What are Python projects for beginners,1,XKHEtdqhLK8,0.14684352651238441
+MiniLM,chebyshev,What are Python projects for beginners,2,1XE-_s4ZBT8,0.1521511699538678
+MiniLM,chebyshev,What are Python projects for beginners,3,4wGuB3oAKc4,0.15661754459142685
+MiniLM,chebyshev,What are Python projects for beginners,4,8KCuHHeC_M0,0.1571579873561859
+MiniLM,chebyshev,What are Python projects for beginners,5,OUnnuKHbmbU,0.16097388043999672
+MiniLM,chebyshev,How to build a weather app in Python,1,Q4377DH5Jso,0.13375160843133926
+MiniLM,chebyshev,How to build a weather app in Python,2,VaDUGPMjzOM,0.1439717561006546
+MiniLM,chebyshev,How to build a weather app in Python,3,XKHEtdqhLK8,0.15043213963508606
+MiniLM,chebyshev,How to build a weather app in Python,4,TeDlx2Klij0,0.15542346611618996
+MiniLM,chebyshev,How to build a weather app in Python,5,4bMU1xAolSg,0.1585960816591978
+MiniLM,chebyshev,What is React JS,1,CgkZ7MvWUAA,0.13271789718419313
+MiniLM,chebyshev,What is React JS,2,L-1sP3Ljhsg,0.16417904011905193
+MiniLM,chebyshev,What is React JS,3,9wiWzu_tRB0,0.16451027989387512
+MiniLM,chebyshev,What is React JS,4,nbAaUpNDhRY,0.16583793237805367
+MiniLM,chebyshev,What is React JS,5,FpNfvbNYPsg,0.17104584723711014
+MiniLM,chebyshev,What is async await in JavaScript,1,NOzi4wBHn0o,0.12638676725327969
+MiniLM,chebyshev,What is async await in JavaScript,2,Coyy79wRz_s,0.14244183897972107
+MiniLM,chebyshev,What is async await in JavaScript,3,9j1dZwFEJ-c,0.14341608062386513
+MiniLM,chebyshev,What is async await in JavaScript,4,q32skvBgxo4,0.16550423949956894
+MiniLM,chebyshev,What is async await in JavaScript,5,b4DPj0XAfSg,0.17383193597197533
+MPNet,cosine,What are NumPy data types,1,fPopFeqw5sk,0.7471938133239746
+MPNet,cosine,What are NumPy data types,2,81i_uSX9Vic,0.5459072589874268
+MPNet,cosine,What are NumPy data types,3,6WaBryk4fkE,0.37468576431274414
+MPNet,cosine,What are NumPy data types,4,OUnnuKHbmbU,0.33003729581832886
+MPNet,cosine,What are NumPy data types,5,gOMW_n2-2Mw,0.3289046883583069
+MPNet,cosine,What are important NumPy functions,1,81i_uSX9Vic,0.6222713589668274
+MPNet,cosine,What are important NumPy functions,2,fPopFeqw5sk,0.5399806499481201
+MPNet,cosine,What are important NumPy functions,3,89cGQjB5R4M,0.38769716024398804
+MPNet,cosine,What are important NumPy functions,4,IljPHDyBRog,0.3874204158782959
+MPNet,cosine,What are important NumPy functions,5,6WaBryk4fkE,0.38284945487976074
+MPNet,cosine,What are Python iterators,1,k0D3MQwLn7A,0.610672116279602
+MPNet,cosine,What are Python iterators,2,ZBlxaXMN_hU,0.46309566497802734
+MPNet,cosine,What are Python iterators,3,gOMW_n2-2Mw,0.4520273804664612
+MPNet,cosine,What are Python iterators,4,IljPHDyBRog,0.4131285548210144
+MPNet,cosine,What are Python iterators,5,89cGQjB5R4M,0.3985013961791992
+MPNet,cosine,What are Python generators,1,ZBlxaXMN_hU,0.5396664142608643
+MPNet,cosine,What are Python generators,2,8KCuHHeC_M0,0.41458529233932495
+MPNet,cosine,What are Python generators,3,piJc18hcH0Y,0.4071013927459717
+MPNet,cosine,What are Python generators,4,q2SGW2VgwAM,0.4041134715080261
+MPNet,cosine,What are Python generators,5,TPUdUkFHD5I,0.3993591070175171
+MPNet,cosine,What is Matplotlib in Python,1,c9vhHUGdav0,0.5354844331741333
+MPNet,cosine,What is Matplotlib in Python,2,hunq_UOdmoo,0.5089637041091919
+MPNet,cosine,What is Matplotlib in Python,3,8KCuHHeC_M0,0.3912522792816162
+MPNet,cosine,What is Matplotlib in Python,4,fPopFeqw5sk,0.3491528034210205
+MPNet,cosine,What is Matplotlib in Python,5,XKHEtdqhLK8,0.3262075185775757
+MPNet,cosine,How to customize Matplotlib plots,1,hunq_UOdmoo,0.6532221436500549
+MPNet,cosine,How to customize Matplotlib plots,2,c9vhHUGdav0,0.5131160616874695
+MPNet,cosine,How to customize Matplotlib plots,3,uGmMsGOcBB0,0.28245627880096436
+MPNet,cosine,How to customize Matplotlib plots,4,LI8KQ3pjQug,0.27925580739974976
+MPNet,cosine,How to customize Matplotlib plots,5,Uvqmv3PGiXM,0.2770437002182007
+MPNet,cosine,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.6052038669586182
+MPNet,cosine,What is a Pandas DataFrame,2,fPopFeqw5sk,0.34569796919822693
+MPNet,cosine,What is a Pandas DataFrame,3,gOMW_n2-2Mw,0.2882871627807617
+MPNet,cosine,What is a Pandas DataFrame,4,89cGQjB5R4M,0.262758731842041
+MPNet,cosine,What is a Pandas DataFrame,5,vg7Hwd9TANY,0.25088900327682495
+MPNet,cosine,What is NumPy slicing,1,6WaBryk4fkE,0.7630003094673157
+MPNet,cosine,What is NumPy slicing,2,81i_uSX9Vic,0.5598196983337402
+MPNet,cosine,What is NumPy slicing,3,wGlnsJFnGAI,0.5390000343322754
+MPNet,cosine,What is NumPy slicing,4,fPopFeqw5sk,0.5217449069023132
+MPNet,cosine,What is NumPy slicing,5,IljPHDyBRog,0.3132350742816925
+MPNet,cosine,How to convert decimal to hexadecimal,1,mjiHc965UME,0.7323080897331238
+MPNet,cosine,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7163054943084717
+MPNet,cosine,How to convert decimal to hexadecimal,3,tg5Wv9Ba1lI,0.41255250573158264
+MPNet,cosine,How to convert decimal to hexadecimal,4,J6qXny_UAK4,0.38044649362564087
+MPNet,cosine,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3572275638580322
+MPNet,cosine,What is the binary number system,1,tg5Wv9Ba1lI,0.6357592344284058
+MPNet,cosine,What is the binary number system,2,J6qXny_UAK4,0.552453339099884
+MPNet,cosine,What is the binary number system,3,Gt2yBZAhsGM,0.4519338607788086
+MPNet,cosine,What is the binary number system,4,mjiHc965UME,0.3922049403190613
+MPNet,cosine,What is the binary number system,5,aMME_rYkoOU,0.3779944181442261
+MPNet,cosine,What are arrays in C programming,1,6Hk2aE_SRzY,0.7787836790084839
+MPNet,cosine,What are arrays in C programming,2,y4siEcxgOpM,0.7139030694961548
+MPNet,cosine,What are arrays in C programming,3,Vh4krbTnTAA,0.6858079433441162
+MPNet,cosine,What are arrays in C programming,4,87SH2Cn0s9A,0.6114673614501953
+MPNet,cosine,What are arrays in C programming,5,aIQk1O08zpg,0.5808321237564087
+MPNet,cosine,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.6372051239013672
+MPNet,cosine,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.6155902743339539
+MPNet,cosine,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.4883230924606323
+MPNet,cosine,What is dynamic memory allocation in C,4,DplxIq0mc_Y,0.4826686978340149
+MPNet,cosine,What is dynamic memory allocation in C,5,6Hk2aE_SRzY,0.47860896587371826
+MPNet,cosine,How to read files in C,1,eIlcl-mt3tg,0.7374298572540283
+MPNet,cosine,How to read files in C,2,Hzg3kCHJcxI,0.6964603066444397
+MPNet,cosine,How to read files in C,3,87SH2Cn0s9A,0.43656253814697266
+MPNet,cosine,How to read files in C,4,6Hk2aE_SRzY,0.43195003271102905
+MPNet,cosine,How to read files in C,5,y4siEcxgOpM,0.40314364433288574
+MPNet,cosine,What are for loops in C,1,zdAggA1q0eo,0.7153339385986328
+MPNet,cosine,What are for loops in C,2,b4DPj0XAfSg,0.638316810131073
+MPNet,cosine,What are for loops in C,3,6Hk2aE_SRzY,0.5896083116531372
+MPNet,cosine,What are for loops in C,4,y4siEcxgOpM,0.5836488008499146
+MPNet,cosine,What are for loops in C,5,N1twTeNMdOE,0.5579952597618103
+MPNet,cosine,What are function prototypes in C,1,NEj2H7SoTzQ,0.6979714035987854
+MPNet,cosine,What are function prototypes in C,2,6Hk2aE_SRzY,0.4240882098674774
+MPNet,cosine,What are function prototypes in C,3,aIQk1O08zpg,0.41240718960762024
+MPNet,cosine,What are function prototypes in C,4,87SH2Cn0s9A,0.4121761918067932
+MPNet,cosine,What are function prototypes in C,5,Z5smVeUVNFU,0.4069356322288513
+MPNet,cosine,What is a switch statement in C,1,NtlSzRWhaOc,0.7991469502449036
+MPNet,cosine,What is a switch statement in C,2,Bx9b12FCF5o,0.5974596738815308
+MPNet,cosine,What is a switch statement in C,3,N1twTeNMdOE,0.5876834392547607
+MPNet,cosine,What is a switch statement in C,4,aIQk1O08zpg,0.5858982801437378
+MPNet,cosine,What is a switch statement in C,5,6Hk2aE_SRzY,0.5252416133880615
+MPNet,cosine,What is Java multithreading,1,taI7G6U29L8,0.5925047397613525
+MPNet,cosine,What is Java multithreading,2,QEF62Fm81h4,0.4411187469959259
+MPNet,cosine,What is Java multithreading,3,nhnAx79gxCM,0.38509470224380493
+MPNet,cosine,What is Java multithreading,4,Coyy79wRz_s,0.38179028034210205
+MPNet,cosine,What is Java multithreading,5,YOhrIov7PZA,0.36357563734054565
+MPNet,cosine,What are Java anonymous classes,1,P_iOnmdww8E,0.717444896697998
+MPNet,cosine,What are Java anonymous classes,2,ZD7CB6wKg8A,0.42057162523269653
+MPNet,cosine,What are Java anonymous classes,3,oKZnHNM9Ew4,0.4044475555419922
+MPNet,cosine,What are Java anonymous classes,4,LN45TyPWAAg,0.3935273587703705
+MPNet,cosine,What are Java anonymous classes,5,v5p_SUfi710,0.3848903179168701
+MPNet,cosine,How to write files in Java,1,Pg0aoSbrqOE,0.7979253530502319
+MPNet,cosine,How to write files in Java,2,A6sA9KItwpY,0.451343834400177
+MPNet,cosine,How to write files in Java,3,Hzg3kCHJcxI,0.4398055672645569
+MPNet,cosine,How to write files in Java,4,eIlcl-mt3tg,0.4271780550479889
+MPNet,cosine,How to write files in Java,5,DYbi93vuSaU,0.36976349353790283
+MPNet,cosine,What is Java ArrayList,1,wsTSREgCE5E,0.6333924531936646
+MPNet,cosine,What is Java ArrayList,2,9dr2mHYYoug,0.5713287591934204
+MPNet,cosine,What is Java ArrayList,3,30MKAcoffIo,0.5298788547515869
+MPNet,cosine,What is Java ArrayList,4,Qf3Nczxm2AY,0.5012682676315308
+MPNet,cosine,What is Java ArrayList,5,nhIB2S6NiFA,0.4762018024921417
+MPNet,cosine,What are Java getters and setters,1,OjrR_C_UPjc,0.7125400304794312
+MPNet,cosine,What are Java getters and setters,2,KQVCAnh6Afk,0.6259300708770752
+MPNet,cosine,What are Java getters and setters,3,8FmE_-QXg3Y,0.6237432956695557
+MPNet,cosine,What are Java getters and setters,4,DYbi93vuSaU,0.5377747416496277
+MPNet,cosine,What are Java getters and setters,5,Z70AwnYYJOc,0.509429395198822
+MPNet,cosine,What is method overriding in Java,1,hx_DRanBRRM,0.6837190389633179
+MPNet,cosine,What is method overriding in Java,2,nhnAx79gxCM,0.638399600982666
+MPNet,cosine,What is method overriding in Java,3,LN45TyPWAAg,0.5269966721534729
+MPNet,cosine,What is method overriding in Java,4,v5p_SUfi710,0.51142817735672
+MPNet,cosine,What is method overriding in Java,5,P_iOnmdww8E,0.4780772924423218
+MPNet,cosine,What are constructors in Java,1,ZD7CB6wKg8A,0.6187394857406616
+MPNet,cosine,What are constructors in Java,2,LN45TyPWAAg,0.5179506540298462
+MPNet,cosine,What are constructors in Java,3,oKZnHNM9Ew4,0.5062118172645569
+MPNet,cosine,What are constructors in Java,4,DYbi93vuSaU,0.4951179623603821
+MPNet,cosine,What are constructors in Java,5,nRJWltqX4UY,0.46661168336868286
+MPNet,cosine,What is object oriented programming in Java,1,DYbi93vuSaU,0.6793103218078613
+MPNet,cosine,What is object oriented programming in Java,2,LN45TyPWAAg,0.521804690361023
+MPNet,cosine,What is object oriented programming in Java,3,1XE-_s4ZBT8,0.5071351528167725
+MPNet,cosine,What is object oriented programming in Java,4,q2SGW2VgwAM,0.4963468909263611
+MPNet,cosine,What is object oriented programming in Java,5,ZD7CB6wKg8A,0.49480485916137695
+MPNet,cosine,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.742061972618103
+MPNet,cosine,What are 2D arrays in Java,2,Vh4krbTnTAA,0.6130726933479309
+MPNet,cosine,What are 2D arrays in Java,3,9dr2mHYYoug,0.5855448246002197
+MPNet,cosine,What are 2D arrays in Java,4,wsTSREgCE5E,0.5139797925949097
+MPNet,cosine,What are 2D arrays in Java,5,nhIB2S6NiFA,0.49719488620758057
+MPNet,cosine,What is Python programming,1,8KCuHHeC_M0,0.6717220544815063
+MPNet,cosine,What is Python programming,2,XKHEtdqhLK8,0.6264643669128418
+MPNet,cosine,What is Python programming,3,1XE-_s4ZBT8,0.5304073095321655
+MPNet,cosine,What is Python programming,4,q2SGW2VgwAM,0.5241087675094604
+MPNet,cosine,What is Python programming,5,vg7Hwd9TANY,0.5199529528617859
+MPNet,cosine,What are Python projects for beginners,1,XKHEtdqhLK8,0.6315534114837646
+MPNet,cosine,What are Python projects for beginners,2,8KCuHHeC_M0,0.5925963521003723
+MPNet,cosine,What are Python projects for beginners,3,1XE-_s4ZBT8,0.44598275423049927
+MPNet,cosine,What are Python projects for beginners,4,JVQNywo4AbU,0.4384695291519165
+MPNet,cosine,What are Python projects for beginners,5,q2SGW2VgwAM,0.43380627036094666
+MPNet,cosine,How to build a weather app in Python,1,Q4377DH5Jso,0.8236221671104431
+MPNet,cosine,How to build a weather app in Python,2,VaDUGPMjzOM,0.5545294284820557
+MPNet,cosine,How to build a weather app in Python,3,8KCuHHeC_M0,0.48732659220695496
+MPNet,cosine,How to build a weather app in Python,4,l7IMBy4_nhA,0.43942564725875854
+MPNet,cosine,How to build a weather app in Python,5,Uvqmv3PGiXM,0.43753618001937866
+MPNet,cosine,What is React JS,1,CgkZ7MvWUAA,0.6892480850219727
+MPNet,cosine,What is React JS,2,L-1sP3Ljhsg,0.48500722646713257
+MPNet,cosine,What is React JS,3,Y62mbztjmus,0.47346383333206177
+MPNet,cosine,What is React JS,4,nbAaUpNDhRY,0.46112677454948425
+MPNet,cosine,What is React JS,5,9wiWzu_tRB0,0.4599522352218628
+MPNet,cosine,What is async await in JavaScript,1,Coyy79wRz_s,0.6948107481002808
+MPNet,cosine,What is async await in JavaScript,2,9j1dZwFEJ-c,0.6180459260940552
+MPNet,cosine,What is async await in JavaScript,3,NOzi4wBHn0o,0.5970657467842102
+MPNet,cosine,What is async await in JavaScript,4,HFaxylC7bUc,0.3772021532058716
+MPNet,cosine,What is async await in JavaScript,5,nbAaUpNDhRY,0.2884654402732849
+MPNet,dot,What are NumPy data types,1,fPopFeqw5sk,0.7471938133239746
+MPNet,dot,What are NumPy data types,2,81i_uSX9Vic,0.5459072589874268
+MPNet,dot,What are NumPy data types,3,6WaBryk4fkE,0.37468576431274414
+MPNet,dot,What are NumPy data types,4,OUnnuKHbmbU,0.33003729581832886
+MPNet,dot,What are NumPy data types,5,gOMW_n2-2Mw,0.32890474796295166
+MPNet,dot,What are important NumPy functions,1,81i_uSX9Vic,0.6222712993621826
+MPNet,dot,What are important NumPy functions,2,fPopFeqw5sk,0.5399806499481201
+MPNet,dot,What are important NumPy functions,3,89cGQjB5R4M,0.38769716024398804
+MPNet,dot,What are important NumPy functions,4,IljPHDyBRog,0.3874204158782959
+MPNet,dot,What are important NumPy functions,5,6WaBryk4fkE,0.38284939527511597
+MPNet,dot,What are Python iterators,1,k0D3MQwLn7A,0.610672116279602
+MPNet,dot,What are Python iterators,2,ZBlxaXMN_hU,0.46309560537338257
+MPNet,dot,What are Python iterators,3,gOMW_n2-2Mw,0.45202741026878357
+MPNet,dot,What are Python iterators,4,IljPHDyBRog,0.4131285548210144
+MPNet,dot,What are Python iterators,5,89cGQjB5R4M,0.39850136637687683
+MPNet,dot,What are Python generators,1,ZBlxaXMN_hU,0.5396664142608643
+MPNet,dot,What are Python generators,2,8KCuHHeC_M0,0.41458529233932495
+MPNet,dot,What are Python generators,3,piJc18hcH0Y,0.40710142254829407
+MPNet,dot,What are Python generators,4,q2SGW2VgwAM,0.4041134715080261
+MPNet,dot,What are Python generators,5,TPUdUkFHD5I,0.3993591070175171
+MPNet,dot,What is Matplotlib in Python,1,c9vhHUGdav0,0.5354843139648438
+MPNet,dot,What is Matplotlib in Python,2,hunq_UOdmoo,0.5089637041091919
+MPNet,dot,What is Matplotlib in Python,3,8KCuHHeC_M0,0.39125218987464905
+MPNet,dot,What is Matplotlib in Python,4,fPopFeqw5sk,0.3491528332233429
+MPNet,dot,What is Matplotlib in Python,5,XKHEtdqhLK8,0.32620739936828613
+MPNet,dot,How to customize Matplotlib plots,1,hunq_UOdmoo,0.6532223224639893
+MPNet,dot,How to customize Matplotlib plots,2,c9vhHUGdav0,0.5131160616874695
+MPNet,dot,How to customize Matplotlib plots,3,uGmMsGOcBB0,0.28245627880096436
+MPNet,dot,How to customize Matplotlib plots,4,LI8KQ3pjQug,0.27925586700439453
+MPNet,dot,How to customize Matplotlib plots,5,Uvqmv3PGiXM,0.27704375982284546
+MPNet,dot,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.6052037477493286
+MPNet,dot,What is a Pandas DataFrame,2,fPopFeqw5sk,0.34569793939590454
+MPNet,dot,What is a Pandas DataFrame,3,gOMW_n2-2Mw,0.2882871627807617
+MPNet,dot,What is a Pandas DataFrame,4,89cGQjB5R4M,0.26275870203971863
+MPNet,dot,What is a Pandas DataFrame,5,vg7Hwd9TANY,0.2508889436721802
+MPNet,dot,What is NumPy slicing,1,6WaBryk4fkE,0.7630003094673157
+MPNet,dot,What is NumPy slicing,2,81i_uSX9Vic,0.5598196387290955
+MPNet,dot,What is NumPy slicing,3,wGlnsJFnGAI,0.5390000343322754
+MPNet,dot,What is NumPy slicing,4,fPopFeqw5sk,0.5217449069023132
+MPNet,dot,What is NumPy slicing,5,IljPHDyBRog,0.3132350742816925
+MPNet,dot,How to convert decimal to hexadecimal,1,mjiHc965UME,0.7323080897331238
+MPNet,dot,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7163053750991821
+MPNet,dot,How to convert decimal to hexadecimal,3,tg5Wv9Ba1lI,0.41255247592926025
+MPNet,dot,How to convert decimal to hexadecimal,4,J6qXny_UAK4,0.38044649362564087
+MPNet,dot,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3572275638580322
+MPNet,dot,What is the binary number system,1,tg5Wv9Ba1lI,0.6357592344284058
+MPNet,dot,What is the binary number system,2,J6qXny_UAK4,0.552453339099884
+MPNet,dot,What is the binary number system,3,Gt2yBZAhsGM,0.4519338607788086
+MPNet,dot,What is the binary number system,4,mjiHc965UME,0.3922049403190613
+MPNet,dot,What is the binary number system,5,aMME_rYkoOU,0.3779944181442261
+MPNet,dot,What are arrays in C programming,1,6Hk2aE_SRzY,0.7787835597991943
+MPNet,dot,What are arrays in C programming,2,y4siEcxgOpM,0.7139029502868652
+MPNet,dot,What are arrays in C programming,3,Vh4krbTnTAA,0.6858077049255371
+MPNet,dot,What are arrays in C programming,4,87SH2Cn0s9A,0.6114673614501953
+MPNet,dot,What are arrays in C programming,5,aIQk1O08zpg,0.5808320641517639
+MPNet,dot,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.6372052431106567
+MPNet,dot,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.6155902743339539
+MPNet,dot,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.4883231520652771
+MPNet,dot,What is dynamic memory allocation in C,4,DplxIq0mc_Y,0.4826686978340149
+MPNet,dot,What is dynamic memory allocation in C,5,6Hk2aE_SRzY,0.4786090552806854
+MPNet,dot,How to read files in C,1,eIlcl-mt3tg,0.7374297380447388
+MPNet,dot,How to read files in C,2,Hzg3kCHJcxI,0.6964600682258606
+MPNet,dot,How to read files in C,3,87SH2Cn0s9A,0.43656259775161743
+MPNet,dot,How to read files in C,4,6Hk2aE_SRzY,0.4319499731063843
+MPNet,dot,How to read files in C,5,y4siEcxgOpM,0.4031435549259186
+MPNet,dot,What are for loops in C,1,zdAggA1q0eo,0.7153339385986328
+MPNet,dot,What are for loops in C,2,b4DPj0XAfSg,0.6383167505264282
+MPNet,dot,What are for loops in C,3,6Hk2aE_SRzY,0.5896083116531372
+MPNet,dot,What are for loops in C,4,y4siEcxgOpM,0.5836487412452698
+MPNet,dot,What are for loops in C,5,N1twTeNMdOE,0.5579951405525208
+MPNet,dot,What are function prototypes in C,1,NEj2H7SoTzQ,0.6979713439941406
+MPNet,dot,What are function prototypes in C,2,6Hk2aE_SRzY,0.4240882098674774
+MPNet,dot,What are function prototypes in C,3,aIQk1O08zpg,0.41240718960762024
+MPNet,dot,What are function prototypes in C,4,87SH2Cn0s9A,0.412176251411438
+MPNet,dot,What are function prototypes in C,5,Z5smVeUVNFU,0.40693557262420654
+MPNet,dot,What is a switch statement in C,1,NtlSzRWhaOc,0.7991468906402588
+MPNet,dot,What is a switch statement in C,2,Bx9b12FCF5o,0.5974596738815308
+MPNet,dot,What is a switch statement in C,3,N1twTeNMdOE,0.5876833200454712
+MPNet,dot,What is a switch statement in C,4,aIQk1O08zpg,0.5858982801437378
+MPNet,dot,What is a switch statement in C,5,6Hk2aE_SRzY,0.5252415537834167
+MPNet,dot,What is Java multithreading,1,taI7G6U29L8,0.5925046801567078
+MPNet,dot,What is Java multithreading,2,QEF62Fm81h4,0.44111868739128113
+MPNet,dot,What is Java multithreading,3,nhnAx79gxCM,0.38509467244148254
+MPNet,dot,What is Java multithreading,4,Coyy79wRz_s,0.3817902207374573
+MPNet,dot,What is Java multithreading,5,YOhrIov7PZA,0.36357563734054565
+MPNet,dot,What are Java anonymous classes,1,P_iOnmdww8E,0.717444896697998
+MPNet,dot,What are Java anonymous classes,2,ZD7CB6wKg8A,0.42057156562805176
+MPNet,dot,What are Java anonymous classes,3,oKZnHNM9Ew4,0.4044475555419922
+MPNet,dot,What are Java anonymous classes,4,LN45TyPWAAg,0.3935273587703705
+MPNet,dot,What are Java anonymous classes,5,v5p_SUfi710,0.3848903179168701
+MPNet,dot,How to write files in Java,1,Pg0aoSbrqOE,0.7979253530502319
+MPNet,dot,How to write files in Java,2,A6sA9KItwpY,0.451343834400177
+MPNet,dot,How to write files in Java,3,Hzg3kCHJcxI,0.4398055374622345
+MPNet,dot,How to write files in Java,4,eIlcl-mt3tg,0.4271780550479889
+MPNet,dot,How to write files in Java,5,DYbi93vuSaU,0.3697635531425476
+MPNet,dot,What is Java ArrayList,1,wsTSREgCE5E,0.633392333984375
+MPNet,dot,What is Java ArrayList,2,9dr2mHYYoug,0.5713286399841309
+MPNet,dot,What is Java ArrayList,3,30MKAcoffIo,0.5298786163330078
+MPNet,dot,What is Java ArrayList,4,Qf3Nczxm2AY,0.5012682676315308
+MPNet,dot,What is Java ArrayList,5,nhIB2S6NiFA,0.47620177268981934
+MPNet,dot,What are Java getters and setters,1,OjrR_C_UPjc,0.7125400304794312
+MPNet,dot,What are Java getters and setters,2,KQVCAnh6Afk,0.6259300708770752
+MPNet,dot,What are Java getters and setters,3,8FmE_-QXg3Y,0.6237432956695557
+MPNet,dot,What are Java getters and setters,4,DYbi93vuSaU,0.5377747416496277
+MPNet,dot,What are Java getters and setters,5,Z70AwnYYJOc,0.5094294548034668
+MPNet,dot,What is method overriding in Java,1,hx_DRanBRRM,0.6837190389633179
+MPNet,dot,What is method overriding in Java,2,nhnAx79gxCM,0.638399600982666
+MPNet,dot,What is method overriding in Java,3,LN45TyPWAAg,0.5269966125488281
+MPNet,dot,What is method overriding in Java,4,v5p_SUfi710,0.5114281177520752
+MPNet,dot,What is method overriding in Java,5,P_iOnmdww8E,0.478077232837677
+MPNet,dot,What are constructors in Java,1,ZD7CB6wKg8A,0.6187393665313721
+MPNet,dot,What are constructors in Java,2,LN45TyPWAAg,0.5179505348205566
+MPNet,dot,What are constructors in Java,3,oKZnHNM9Ew4,0.5062117576599121
+MPNet,dot,What are constructors in Java,4,DYbi93vuSaU,0.4951179325580597
+MPNet,dot,What are constructors in Java,5,nRJWltqX4UY,0.4666116535663605
+MPNet,dot,What is object oriented programming in Java,1,DYbi93vuSaU,0.6793103218078613
+MPNet,dot,What is object oriented programming in Java,2,LN45TyPWAAg,0.5218046307563782
+MPNet,dot,What is object oriented programming in Java,3,1XE-_s4ZBT8,0.5071351528167725
+MPNet,dot,What is object oriented programming in Java,4,q2SGW2VgwAM,0.4963468313217163
+MPNet,dot,What is object oriented programming in Java,5,ZD7CB6wKg8A,0.4948047995567322
+MPNet,dot,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7420620918273926
+MPNet,dot,What are 2D arrays in Java,2,Vh4krbTnTAA,0.6130726337432861
+MPNet,dot,What are 2D arrays in Java,3,9dr2mHYYoug,0.5855448842048645
+MPNet,dot,What are 2D arrays in Java,4,wsTSREgCE5E,0.5139797925949097
+MPNet,dot,What are 2D arrays in Java,5,nhIB2S6NiFA,0.49719491600990295
+MPNet,dot,What is Python programming,1,8KCuHHeC_M0,0.6717220544815063
+MPNet,dot,What is Python programming,2,XKHEtdqhLK8,0.6264642477035522
+MPNet,dot,What is Python programming,3,1XE-_s4ZBT8,0.5304073095321655
+MPNet,dot,What is Python programming,4,q2SGW2VgwAM,0.5241087079048157
+MPNet,dot,What is Python programming,5,vg7Hwd9TANY,0.5199528336524963
+MPNet,dot,What are Python projects for beginners,1,XKHEtdqhLK8,0.6315533518791199
+MPNet,dot,What are Python projects for beginners,2,8KCuHHeC_M0,0.5925962328910828
+MPNet,dot,What are Python projects for beginners,3,1XE-_s4ZBT8,0.44598275423049927
+MPNet,dot,What are Python projects for beginners,4,JVQNywo4AbU,0.4384695291519165
+MPNet,dot,What are Python projects for beginners,5,q2SGW2VgwAM,0.4338061809539795
+MPNet,dot,How to build a weather app in Python,1,Q4377DH5Jso,0.8236221075057983
+MPNet,dot,How to build a weather app in Python,2,VaDUGPMjzOM,0.5545294284820557
+MPNet,dot,How to build a weather app in Python,3,8KCuHHeC_M0,0.48732656240463257
+MPNet,dot,How to build a weather app in Python,4,l7IMBy4_nhA,0.43942564725875854
+MPNet,dot,How to build a weather app in Python,5,Uvqmv3PGiXM,0.43753618001937866
+MPNet,dot,What is React JS,1,CgkZ7MvWUAA,0.6892480850219727
+MPNet,dot,What is React JS,2,L-1sP3Ljhsg,0.48500722646713257
+MPNet,dot,What is React JS,3,Y62mbztjmus,0.47346383333206177
+MPNet,dot,What is React JS,4,nbAaUpNDhRY,0.46112677454948425
+MPNet,dot,What is React JS,5,9wiWzu_tRB0,0.4599522352218628
+MPNet,dot,What is async await in JavaScript,1,Coyy79wRz_s,0.6948105692863464
+MPNet,dot,What is async await in JavaScript,2,9j1dZwFEJ-c,0.6180458068847656
+MPNet,dot,What is async await in JavaScript,3,NOzi4wBHn0o,0.5970656871795654
+MPNet,dot,What is async await in JavaScript,4,HFaxylC7bUc,0.3772020936012268
+MPNet,dot,What is async await in JavaScript,5,nbAaUpNDhRY,0.28846538066864014
+MPNet,euclidean,What are NumPy data types,1,fPopFeqw5sk,0.7110649300429619
+MPNet,euclidean,What are NumPy data types,2,81i_uSX9Vic,0.9529876832977342
+MPNet,euclidean,What are NumPy data types,3,6WaBryk4fkE,1.1183150214105357
+MPNet,euclidean,What are NumPy data types,4,OUnnuKHbmbU,1.1575514529036683
+MPNet,euclidean,What are NumPy data types,5,gOMW_n2-2Mw,1.1585295319210462
+MPNet,euclidean,What are important NumPy functions,1,81i_uSX9Vic,0.8691707185464121
+MPNet,euclidean,What are important NumPy functions,2,fPopFeqw5sk,0.959186418368312
+MPNet,euclidean,What are important NumPy functions,3,89cGQjB5R4M,1.1066190146372141
+MPNet,euclidean,What are important NumPy functions,4,IljPHDyBRog,1.1068690826138392
+MPNet,euclidean,What are important NumPy functions,5,6WaBryk4fkE,1.1109910280327124
+MPNet,euclidean,What are Python iterators,1,k0D3MQwLn7A,0.8824149994314585
+MPNet,euclidean,What are Python iterators,2,ZBlxaXMN_hU,1.036247434661166
+MPNet,euclidean,What are Python iterators,3,gOMW_n2-2Mw,1.0468741034463893
+MPNet,euclidean,What are Python iterators,4,IljPHDyBRog,1.083394202659217
+MPNet,euclidean,What are Python iterators,5,89cGQjB5R4M,1.0968124814053382
+MPNet,euclidean,What are Python generators,1,ZBlxaXMN_hU,0.9595142436476071
+MPNet,euclidean,What are Python generators,2,8KCuHHeC_M0,1.0820486980996933
+MPNet,euclidean,What are Python generators,3,piJc18hcH0Y,1.088943220818457
+MPNet,euclidean,What are Python generators,4,q2SGW2VgwAM,1.091683472237805
+MPNet,euclidean,What are Python generators,5,TPUdUkFHD5I,1.0960300316374891
+MPNet,euclidean,What is Matplotlib in Python,1,c9vhHUGdav0,0.9638625807780274
+MPNet,euclidean,What is Matplotlib in Python,2,hunq_UOdmoo,0.9909955790259414
+MPNet,euclidean,What is Matplotlib in Python,3,8KCuHHeC_M0,1.1034016327670955
+MPNet,euclidean,What is Matplotlib in Python,4,fPopFeqw5sk,1.1409182409791379
+MPNet,euclidean,What is Matplotlib in Python,5,XKHEtdqhLK8,1.160855174208503
+MPNet,euclidean,How to customize Matplotlib plots,1,hunq_UOdmoo,0.8328000426384393
+MPNet,euclidean,How to customize Matplotlib plots,2,c9vhHUGdav0,0.986796715554404
+MPNet,euclidean,How to customize Matplotlib plots,3,uGmMsGOcBB0,1.197951399336931
+MPNet,euclidean,How to customize Matplotlib plots,4,LI8KQ3pjQug,1.2006201102790368
+MPNet,euclidean,How to customize Matplotlib plots,5,Uvqmv3PGiXM,1.2024611393174107
+MPNet,euclidean,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.8885900722796879
+MPNet,euclidean,What is a Pandas DataFrame,2,fPopFeqw5sk,1.1439423543885874
+MPNet,euclidean,What is a Pandas DataFrame,3,gOMW_n2-2Mw,1.1930739902260825
+MPNet,euclidean,What is a Pandas DataFrame,4,89cGQjB5R4M,1.2142827100098508
+MPNet,euclidean,What is a Pandas DataFrame,5,vg7Hwd9TANY,1.224018791541938
+MPNet,euclidean,What is NumPy slicing,1,6WaBryk4fkE,0.6884760660184319
+MPNet,euclidean,What is NumPy slicing,2,81i_uSX9Vic,0.9382753836567315
+MPNet,euclidean,What is NumPy slicing,3,wGlnsJFnGAI,0.9602081167480391
+MPNet,euclidean,What is NumPy slicing,4,fPopFeqw5sk,0.9780134796019937
+MPNet,euclidean,What is NumPy slicing,5,IljPHDyBRog,1.1719769683866266
+MPNet,euclidean,How to convert decimal to hexadecimal,1,mjiHc965UME,0.7316994951760252
+MPNet,euclidean,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7532525371187905
+MPNet,euclidean,How to convert decimal to hexadecimal,3,tg5Wv9Ba1lI,1.0839258289697986
+MPNet,euclidean,How to convert decimal to hexadecimal,4,J6qXny_UAK4,1.113151876940228
+MPNet,euclidean,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,1.1338187630865568
+MPNet,euclidean,What is the binary number system,1,tg5Wv9Ba1lI,0.8535112280349165
+MPNet,euclidean,What is the binary number system,2,J6qXny_UAK4,0.9460937672951906
+MPNet,euclidean,What is the binary number system,3,Gt2yBZAhsGM,1.046963209508009
+MPNet,euclidean,What is the binary number system,4,mjiHc965UME,1.1025380579862825
+MPNet,euclidean,What is the binary number system,5,aMME_rYkoOU,1.1153524523502834
+MPNet,euclidean,What are arrays in C programming,1,6Hk2aE_SRzY,0.6651566743155662
+MPNet,euclidean,What are arrays in C programming,2,y4siEcxgOpM,0.756434834400061
+MPNet,euclidean,What are arrays in C programming,3,Vh4krbTnTAA,0.7927073338400588
+MPNet,euclidean,What are arrays in C programming,4,87SH2Cn0s9A,0.8815129649520393
+MPNet,euclidean,What are arrays in C programming,5,aIQk1O08zpg,0.915606483867508
+MPNet,euclidean,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.8518157167805642
+MPNet,euclidean,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.8768236642862063
+MPNet,euclidean,What is dynamic memory allocation in C,3,aIQk1O08zpg,1.011609458660822
+MPNet,euclidean,What is dynamic memory allocation in C,4,DplxIq0mc_Y,1.0171836590148289
+MPNet,euclidean,What is dynamic memory allocation in C,5,6Hk2aE_SRzY,1.0211670754955446
+MPNet,euclidean,How to read files in C,1,eIlcl-mt3tg,0.7246651926482747
+MPNet,euclidean,How to read files in C,2,Hzg3kCHJcxI,0.7791527018147908
+MPNet,euclidean,How to read files in C,3,87SH2Cn0s9A,1.0615437407978292
+MPNet,euclidean,How to read files in C,4,6Hk2aE_SRzY,1.065879992205515
+MPNet,euclidean,How to read files in C,5,y4siEcxgOpM,1.0925716109088652
+MPNet,euclidean,What are for loops in C,1,zdAggA1q0eo,0.7545407807497606
+MPNet,euclidean,What are for loops in C,2,b4DPj0XAfSg,0.8505094629721156
+MPNet,euclidean,What are for loops in C,3,6Hk2aE_SRzY,0.9059711628988275
+MPNet,euclidean,What are for loops in C,4,y4siEcxgOpM,0.9125252411971444
+MPNet,euclidean,What are for loops in C,5,N1twTeNMdOE,0.9402179022677718
+MPNet,euclidean,What are function prototypes in C,1,NEj2H7SoTzQ,0.777211130174182
+MPNet,euclidean,What are function prototypes in C,2,6Hk2aE_SRzY,1.0732305355814502
+MPNet,euclidean,What are function prototypes in C,3,aIQk1O08zpg,1.0840598456442652
+MPNet,euclidean,What are function prototypes in C,4,87SH2Cn0s9A,1.08427276239724
+MPNet,euclidean,What are function prototypes in C,5,Z5smVeUVNFU,1.0890953747523135
+MPNet,euclidean,What is a switch statement in C,1,NtlSzRWhaOc,0.6338031572586234
+MPNet,euclidean,What is a switch statement in C,2,Bx9b12FCF5o,0.897262765859419
+MPNet,euclidean,What is a switch statement in C,3,N1twTeNMdOE,0.9080935326701429
+MPNet,euclidean,What is a switch statement in C,4,aIQk1O08zpg,0.9100570260740719
+MPNet,euclidean,What is a switch statement in C,5,6Hk2aE_SRzY,0.9744317778548549
+MPNet,euclidean,What is Java multithreading,1,taI7G6U29L8,0.9027683130374394
+MPNet,euclidean,What is Java multithreading,2,QEF62Fm81h4,1.0572429654053657
+MPNet,euclidean,What is Java multithreading,3,nhnAx79gxCM,1.1089683880683856
+MPNet,euclidean,What is Java multithreading,4,Coyy79wRz_s,1.1119441014154927
+MPNet,euclidean,What is Java multithreading,5,YOhrIov7PZA,1.1282060243919407
+MPNet,euclidean,What are Java anonymous classes,1,P_iOnmdww8E,0.7517381633430595
+MPNet,euclidean,What are Java anonymous classes,2,ZD7CB6wKg8A,1.0765023367367204
+MPNet,euclidean,What are Java anonymous classes,3,oKZnHNM9Ew4,1.0913774263516165
+MPNet,euclidean,What are Java anonymous classes,4,LN45TyPWAAg,1.101337848144392
+MPNet,euclidean,What are Java anonymous classes,5,v5p_SUfi710,1.1091524235413013
+MPNet,euclidean,How to write files in Java,1,Pg0aoSbrqOE,0.6357272771745561
+MPNet,euclidean,How to write files in Java,2,A6sA9KItwpY,1.047526861255332
+MPNet,euclidean,How to write files in Java,3,Hzg3kCHJcxI,1.0584841845480508
+MPNet,euclidean,How to write files in Java,4,eIlcl-mt3tg,1.0703475898217805
+MPNet,euclidean,How to write files in Java,5,DYbi93vuSaU,1.1227077717630858
+MPNet,euclidean,What is Java ArrayList,1,wsTSREgCE5E,0.8562799626553906
+MPNet,euclidean,What is Java ArrayList,2,9dr2mHYYoug,0.9259278669966272
+MPNet,euclidean,What is Java ArrayList,3,30MKAcoffIo,0.9696609461335219
+MPNet,euclidean,What is Java ArrayList,4,Qf3Nczxm2AY,0.9987309953935722
+MPNet,euclidean,What is Java ArrayList,5,nhIB2S6NiFA,1.0235216364778614
+MPNet,euclidean,What are Java getters and setters,1,OjrR_C_UPjc,0.758234691576965
+MPNet,euclidean,What are Java getters and setters,2,KQVCAnh6Afk,0.8649508521102477
+MPNet,euclidean,What are Java getters and setters,3,8FmE_-QXg3Y,0.8674755211565022
+MPNet,euclidean,What are Java getters and setters,4,DYbi93vuSaU,0.9614835493100246
+MPNet,euclidean,What are Java getters and setters,5,Z70AwnYYJOc,0.9905256772460334
+MPNet,euclidean,What is method overriding in Java,1,hx_DRanBRRM,0.7953376350111928
+MPNet,euclidean,What is method overriding in Java,2,nhnAx79gxCM,0.8504120091897465
+MPNet,euclidean,What is method overriding in Java,3,LN45TyPWAAg,0.9726287955769599
+MPNet,euclidean,What is method overriding in Java,4,v5p_SUfi710,0.988505872649758
+MPNet,euclidean,What is method overriding in Java,5,P_iOnmdww8E,1.0216876439919034
+MPNet,euclidean,What are constructors in Java,1,ZD7CB6wKg8A,0.8732247893454391
+MPNet,euclidean,What are constructors in Java,2,LN45TyPWAAg,0.9818854100279748
+MPNet,euclidean,What are constructors in Java,3,oKZnHNM9Ew4,0.9937687621825839
+MPNet,euclidean,What are constructors in Java,4,DYbi93vuSaU,1.0048701594950982
+MPNet,euclidean,What are constructors in Java,5,nRJWltqX4UY,1.0328488664149242
+MPNet,euclidean,What is object oriented programming in Java,1,DYbi93vuSaU,0.8008618985095921
+MPNet,euclidean,What is object oriented programming in Java,2,LN45TyPWAAg,0.9779522678970992
+MPNet,euclidean,What is object oriented programming in Java,3,1XE-_s4ZBT8,0.992839222793798
+MPNet,euclidean,What is object oriented programming in Java,4,q2SGW2VgwAM,1.0036464562414098
+MPNet,euclidean,What is object oriented programming in Java,5,ZD7CB6wKg8A,1.0051819913255722
+MPNet,euclidean,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7182449090227867
+MPNet,euclidean,What are 2D arrays in Java,2,Vh4krbTnTAA,0.8796904133774422
+MPNet,euclidean,What are 2D arrays in Java,3,9dr2mHYYoug,0.910445076990034
+MPNet,euclidean,What are 2D arrays in Java,4,wsTSREgCE5E,0.9859211070024382
+MPNet,euclidean,What are 2D arrays in Java,5,nhIB2S6NiFA,1.0028012735668803
+MPNet,euclidean,What is Python programming,1,8KCuHHeC_M0,0.8102815862513154
+MPNet,euclidean,What is Python programming,2,XKHEtdqhLK8,0.8643328919807527
+MPNet,euclidean,What is Python programming,3,1XE-_s4ZBT8,0.9691158146704167
+MPNet,euclidean,What is Python programming,4,q2SGW2VgwAM,0.9755935995522724
+MPNet,euclidean,What is Python programming,5,vg7Hwd9TANY,0.9798440003269169
+MPNet,euclidean,What are Python projects for beginners,1,XKHEtdqhLK8,0.8584248276408912
+MPNet,euclidean,What are Python projects for beginners,2,8KCuHHeC_M0,0.9026669372569891
+MPNet,euclidean,What are Python projects for beginners,3,1XE-_s4ZBT8,1.0526323032168732
+MPNet,euclidean,What are Python projects for beginners,4,JVQNywo4AbU,1.0597457845937939
+MPNet,euclidean,What are Python projects for beginners,5,q2SGW2VgwAM,1.064137072894826
+MPNet,euclidean,How to build a weather app in Python,1,Q4377DH5Jso,0.5939323905637774
+MPNet,euclidean,How to build a weather app in Python,2,VaDUGPMjzOM,0.943897030668772
+MPNet,euclidean,How to build a weather app in Python,3,8KCuHHeC_M0,1.012594168712241
+MPNet,euclidean,How to build a weather app in Python,4,l7IMBy4_nhA,1.0588431988964182
+MPNet,euclidean,How to build a weather app in Python,5,Uvqmv3PGiXM,1.0606262582861505
+MPNet,euclidean,What is React JS,1,CgkZ7MvWUAA,0.7883554328892962
+MPNet,euclidean,What is React JS,2,L-1sP3Ljhsg,1.0148821571192286
+MPNet,euclidean,What is React JS,3,Y62mbztjmus,1.0261932805863316
+MPNet,euclidean,What is React JS,4,nbAaUpNDhRY,1.038145669036536
+MPNet,euclidean,What is React JS,5,9wiWzu_tRB0,1.0392764615553567
+MPNet,euclidean,What is async await in JavaScript,1,Coyy79wRz_s,0.7812671773346749
+MPNet,euclidean,What is async await in JavaScript,2,9j1dZwFEJ-c,0.8740187798069365
+MPNet,euclidean,What is async await in JavaScript,3,NOzi4wBHn0o,0.8977017046811342
+MPNet,euclidean,What is async await in JavaScript,4,HFaxylC7bUc,1.116062608106928
+MPNet,euclidean,What is async await in JavaScript,5,nbAaUpNDhRY,1.1929246460379508
+MPNet,cityblock,What are NumPy data types,1,fPopFeqw5sk,15.726477401541743
+MPNet,cityblock,What are NumPy data types,2,81i_uSX9Vic,21.127558947980347
+MPNet,cityblock,What are NumPy data types,3,6WaBryk4fkE,24.436523165590998
+MPNet,cityblock,What are NumPy data types,4,gOMW_n2-2Mw,25.48182415068146
+MPNet,cityblock,What are NumPy data types,5,OUnnuKHbmbU,25.535826735210023
+MPNet,cityblock,What are important NumPy functions,1,81i_uSX9Vic,18.81106820444232
+MPNet,cityblock,What are important NumPy functions,2,fPopFeqw5sk,20.89862217989331
+MPNet,cityblock,What are important NumPy functions,3,IljPHDyBRog,24.0047283487079
+MPNet,cityblock,What are important NumPy functions,4,89cGQjB5R4M,24.248641645177727
+MPNet,cityblock,What are important NumPy functions,5,6WaBryk4fkE,24.39248578261264
+MPNet,cityblock,What are Python iterators,1,k0D3MQwLn7A,19.2431327608939
+MPNet,cityblock,What are Python iterators,2,ZBlxaXMN_hU,22.681001760359834
+MPNet,cityblock,What are Python iterators,3,gOMW_n2-2Mw,23.05064721986473
+MPNet,cityblock,What are Python iterators,4,IljPHDyBRog,23.87001451282802
+MPNet,cityblock,What are Python iterators,5,89cGQjB5R4M,23.97956369062925
+MPNet,cityblock,What are Python generators,1,ZBlxaXMN_hU,20.82903307829055
+MPNet,cityblock,What are Python generators,2,8KCuHHeC_M0,23.21737545683841
+MPNet,cityblock,What are Python generators,3,q2SGW2VgwAM,23.43115395307423
+MPNet,cityblock,What are Python generators,4,TPUdUkFHD5I,23.65769449806517
+MPNet,cityblock,What are Python generators,5,piJc18hcH0Y,23.82500475494676
+MPNet,cityblock,What is Matplotlib in Python,1,c9vhHUGdav0,20.753863888659126
+MPNet,cityblock,What is Matplotlib in Python,2,hunq_UOdmoo,21.21522008601484
+MPNet,cityblock,What is Matplotlib in Python,3,8KCuHHeC_M0,23.644703430162522
+MPNet,cityblock,What is Matplotlib in Python,4,XKHEtdqhLK8,24.93835193785337
+MPNet,cityblock,What is Matplotlib in Python,5,fPopFeqw5sk,24.999479051704398
+MPNet,cityblock,How to customize Matplotlib plots,1,hunq_UOdmoo,18.11708640531762
+MPNet,cityblock,How to customize Matplotlib plots,2,c9vhHUGdav0,21.367082410060988
+MPNet,cityblock,How to customize Matplotlib plots,3,LI8KQ3pjQug,26.272456865809744
+MPNet,cityblock,How to customize Matplotlib plots,4,Uvqmv3PGiXM,26.388533280672135
+MPNet,cityblock,How to customize Matplotlib plots,5,uGmMsGOcBB0,26.489418652244836
+MPNet,cityblock,What is a Pandas DataFrame,1,OUnnuKHbmbU,19.40460567208055
+MPNet,cityblock,What is a Pandas DataFrame,2,fPopFeqw5sk,25.484780585000095
+MPNet,cityblock,What is a Pandas DataFrame,3,gOMW_n2-2Mw,26.062655355713176
+MPNet,cityblock,What is a Pandas DataFrame,4,vg7Hwd9TANY,26.407487324538266
+MPNet,cityblock,What is a Pandas DataFrame,5,89cGQjB5R4M,26.725059193902155
+MPNet,cityblock,What is NumPy slicing,1,6WaBryk4fkE,14.939246077166885
+MPNet,cityblock,What is NumPy slicing,2,81i_uSX9Vic,20.18222064468715
+MPNet,cityblock,What is NumPy slicing,3,wGlnsJFnGAI,21.077783245308467
+MPNet,cityblock,What is NumPy slicing,4,fPopFeqw5sk,21.345119373979045
+MPNet,cityblock,What is NumPy slicing,5,IljPHDyBRog,25.829907095828403
+MPNet,cityblock,How to convert decimal to hexadecimal,1,mjiHc965UME,16.035102707825587
+MPNet,cityblock,How to convert decimal to hexadecimal,2,aMME_rYkoOU,16.752306630951864
+MPNet,cityblock,How to convert decimal to hexadecimal,3,tg5Wv9Ba1lI,23.663258734794226
+MPNet,cityblock,How to convert decimal to hexadecimal,4,J6qXny_UAK4,24.47454835777458
+MPNet,cityblock,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,25.072270218914014
+MPNet,cityblock,What is the binary number system,1,tg5Wv9Ba1lI,18.300364057233537
+MPNet,cityblock,What is the binary number system,2,J6qXny_UAK4,20.464840202631564
+MPNet,cityblock,What is the binary number system,3,Gt2yBZAhsGM,22.860414893017776
+MPNet,cityblock,What is the binary number system,4,mjiHc965UME,23.672384116188056
+MPNet,cityblock,What is the binary number system,5,fPopFeqw5sk,24.01502081180817
+MPNet,cityblock,What are arrays in C programming,1,6Hk2aE_SRzY,14.748115041044088
+MPNet,cityblock,What are arrays in C programming,2,y4siEcxgOpM,16.68602736980131
+MPNet,cityblock,What are arrays in C programming,3,Vh4krbTnTAA,17.40856675394417
+MPNet,cityblock,What are arrays in C programming,4,87SH2Cn0s9A,18.99663721997817
+MPNet,cityblock,What are arrays in C programming,5,aIQk1O08zpg,19.639511256036997
+MPNet,cityblock,What is dynamic memory allocation in C,1,fc19HhHKtrA,18.523172738496143
+MPNet,cityblock,What is dynamic memory allocation in C,2,rUXjvybSPWc,19.419647889525535
+MPNet,cityblock,What is dynamic memory allocation in C,3,6Hk2aE_SRzY,21.912652339261328
+MPNet,cityblock,What is dynamic memory allocation in C,4,DplxIq0mc_Y,22.199197964119335
+MPNet,cityblock,What is dynamic memory allocation in C,5,aIQk1O08zpg,22.20543640791267
+MPNet,cityblock,How to read files in C,1,eIlcl-mt3tg,16.087307877120864
+MPNet,cityblock,How to read files in C,2,Hzg3kCHJcxI,17.205569310559994
+MPNet,cityblock,How to read files in C,3,87SH2Cn0s9A,23.01987843477552
+MPNet,cityblock,How to read files in C,4,6Hk2aE_SRzY,23.789487938593467
+MPNet,cityblock,How to read files in C,5,y4siEcxgOpM,23.7982788995932
+MPNet,cityblock,What are for loops in C,1,zdAggA1q0eo,16.285228584223077
+MPNet,cityblock,What are for loops in C,2,b4DPj0XAfSg,18.431965426632686
+MPNet,cityblock,What are for loops in C,3,y4siEcxgOpM,19.94934995082089
+MPNet,cityblock,What are for loops in C,4,6Hk2aE_SRzY,20.068921251438596
+MPNet,cityblock,What are for loops in C,5,N1twTeNMdOE,20.449614110061688
+MPNet,cityblock,What are function prototypes in C,1,NEj2H7SoTzQ,16.729359470552794
+MPNet,cityblock,What are function prototypes in C,2,6Hk2aE_SRzY,23.353765487199695
+MPNet,cityblock,What are function prototypes in C,3,87SH2Cn0s9A,23.510417554312113
+MPNet,cityblock,What are function prototypes in C,4,Z5smVeUVNFU,23.643729204078113
+MPNet,cityblock,What are function prototypes in C,5,aIQk1O08zpg,23.786547293304125
+MPNet,cityblock,What is a switch statement in C,1,NtlSzRWhaOc,13.903975339858235
+MPNet,cityblock,What is a switch statement in C,2,Bx9b12FCF5o,19.409845659688912
+MPNet,cityblock,What is a switch statement in C,3,N1twTeNMdOE,19.609656518366492
+MPNet,cityblock,What is a switch statement in C,4,aIQk1O08zpg,19.931285260306808
+MPNet,cityblock,What is a switch statement in C,5,6Hk2aE_SRzY,21.269627269268327
+MPNet,cityblock,What is Java multithreading,1,taI7G6U29L8,19.82347628192929
+MPNet,cityblock,What is Java multithreading,2,QEF62Fm81h4,22.966334646449553
+MPNet,cityblock,What is Java multithreading,3,YOhrIov7PZA,24.247339415471657
+MPNet,cityblock,What is Java multithreading,4,Coyy79wRz_s,24.30364204225063
+MPNet,cityblock,What is Java multithreading,5,nhnAx79gxCM,24.305779304656426
+MPNet,cityblock,What are Java anonymous classes,1,P_iOnmdww8E,16.215687007416037
+MPNet,cityblock,What are Java anonymous classes,2,oKZnHNM9Ew4,23.08171930744139
+MPNet,cityblock,What are Java anonymous classes,3,LN45TyPWAAg,23.242629159124746
+MPNet,cityblock,What are Java anonymous classes,4,ZD7CB6wKg8A,23.537259264965243
+MPNet,cityblock,What are Java anonymous classes,5,v5p_SUfi710,23.69574402110628
+MPNet,cityblock,How to write files in Java,1,Pg0aoSbrqOE,13.86751990462598
+MPNet,cityblock,How to write files in Java,2,A6sA9KItwpY,23.248778153353953
+MPNet,cityblock,How to write files in Java,3,Hzg3kCHJcxI,23.369420859265915
+MPNet,cityblock,How to write files in Java,4,eIlcl-mt3tg,23.617981159232016
+MPNet,cityblock,How to write files in Java,5,DYbi93vuSaU,24.549945898440342
+MPNet,cityblock,What is Java ArrayList,1,wsTSREgCE5E,18.796209157266546
+MPNet,cityblock,What is Java ArrayList,2,9dr2mHYYoug,20.161415552978056
+MPNet,cityblock,What is Java ArrayList,3,30MKAcoffIo,21.108256415304922
+MPNet,cityblock,What is Java ArrayList,4,Qf3Nczxm2AY,21.372978160886646
+MPNet,cityblock,What is Java ArrayList,5,nhIB2S6NiFA,22.562235172314615
+MPNet,cityblock,What are Java getters and setters,1,OjrR_C_UPjc,16.453421040445434
+MPNet,cityblock,What are Java getters and setters,2,KQVCAnh6Afk,18.49144537747911
+MPNet,cityblock,What are Java getters and setters,3,8FmE_-QXg3Y,19.040722745297856
+MPNet,cityblock,What are Java getters and setters,4,DYbi93vuSaU,21.04769311703599
+MPNet,cityblock,What are Java getters and setters,5,oKZnHNM9Ew4,21.65716808908134
+MPNet,cityblock,What is method overriding in Java,1,hx_DRanBRRM,17.32754942619603
+MPNet,cityblock,What is method overriding in Java,2,nhnAx79gxCM,18.62615744875835
+MPNet,cityblock,What is method overriding in Java,3,LN45TyPWAAg,21.19728256667311
+MPNet,cityblock,What is method overriding in Java,4,v5p_SUfi710,21.701662380591543
+MPNet,cityblock,What is method overriding in Java,5,P_iOnmdww8E,22.118544353667446
+MPNet,cityblock,What are constructors in Java,1,ZD7CB6wKg8A,18.89160313626961
+MPNet,cityblock,What are constructors in Java,2,LN45TyPWAAg,21.36790431541293
+MPNet,cityblock,What are constructors in Java,3,oKZnHNM9Ew4,21.676016884663042
+MPNet,cityblock,What are constructors in Java,4,DYbi93vuSaU,22.04616698079336
+MPNet,cityblock,What are constructors in Java,5,OjrR_C_UPjc,22.692892859569568
+MPNet,cityblock,What is object oriented programming in Java,1,DYbi93vuSaU,17.731493748985145
+MPNet,cityblock,What is object oriented programming in Java,2,LN45TyPWAAg,21.221601203431874
+MPNet,cityblock,What is object oriented programming in Java,3,ZD7CB6wKg8A,21.914675105071183
+MPNet,cityblock,What is object oriented programming in Java,4,1XE-_s4ZBT8,21.920225753336723
+MPNet,cityblock,What is object oriented programming in Java,5,hx_DRanBRRM,22.191815376810894
+MPNet,cityblock,What are 2D arrays in Java,1,Qf3Nczxm2AY,15.753657665800887
+MPNet,cityblock,What are 2D arrays in Java,2,Vh4krbTnTAA,19.10659698105873
+MPNet,cityblock,What are 2D arrays in Java,3,9dr2mHYYoug,19.744287044021334
+MPNet,cityblock,What are 2D arrays in Java,4,wsTSREgCE5E,21.508939846602303
+MPNet,cityblock,What are 2D arrays in Java,5,nhIB2S6NiFA,22.0881761292965
+MPNet,cityblock,What is Python programming,1,8KCuHHeC_M0,17.44362515371745
+MPNet,cityblock,What is Python programming,2,XKHEtdqhLK8,18.61246619067188
+MPNet,cityblock,What is Python programming,3,q2SGW2VgwAM,20.83229465068871
+MPNet,cityblock,What is Python programming,4,1XE-_s4ZBT8,21.118234418144738
+MPNet,cityblock,What is Python programming,5,vg7Hwd9TANY,21.305223537049187
+MPNet,cityblock,What are Python projects for beginners,1,XKHEtdqhLK8,19.083460613401655
+MPNet,cityblock,What are Python projects for beginners,2,8KCuHHeC_M0,19.952895873502058
+MPNet,cityblock,What are Python projects for beginners,3,1XE-_s4ZBT8,23.014484342066226
+MPNet,cityblock,What are Python projects for beginners,4,q2SGW2VgwAM,23.07791699687462
+MPNet,cityblock,What are Python projects for beginners,5,JVQNywo4AbU,23.119225301939196
+MPNet,cityblock,How to build a weather app in Python,1,Q4377DH5Jso,12.965663728174661
+MPNet,cityblock,How to build a weather app in Python,2,VaDUGPMjzOM,20.640340585959223
+MPNet,cityblock,How to build a weather app in Python,3,8KCuHHeC_M0,22.358547378003692
+MPNet,cityblock,How to build a weather app in Python,4,l7IMBy4_nhA,22.974612371059607
+MPNet,cityblock,How to build a weather app in Python,5,Uvqmv3PGiXM,23.108054798762993
+MPNet,cityblock,What is React JS,1,CgkZ7MvWUAA,17.349221466656175
+MPNet,cityblock,What is React JS,2,L-1sP3Ljhsg,21.87603714255333
+MPNet,cityblock,What is React JS,3,Y62mbztjmus,22.353772348421913
+MPNet,cityblock,What is React JS,4,nbAaUpNDhRY,22.636208640918838
+MPNet,cityblock,What is React JS,5,9wiWzu_tRB0,22.831552330586405
+MPNet,cityblock,What is async await in JavaScript,1,Coyy79wRz_s,17.136440016537108
+MPNet,cityblock,What is async await in JavaScript,2,9j1dZwFEJ-c,18.751395850890646
+MPNet,cityblock,What is async await in JavaScript,3,NOzi4wBHn0o,19.570115483981112
+MPNet,cityblock,What is async await in JavaScript,4,HFaxylC7bUc,23.933570423637434
+MPNet,cityblock,What is async await in JavaScript,5,NO5kUNxGIu0,26.00592795286579
+MPNet,chebyshev,What are NumPy data types,1,fPopFeqw5sk,0.10336200334131718
+MPNet,chebyshev,What are NumPy data types,2,6WaBryk4fkE,0.11405761167407036
+MPNet,chebyshev,What are NumPy data types,3,81i_uSX9Vic,0.11430502310395241
+MPNet,chebyshev,What are NumPy data types,4,JVQNywo4AbU,0.13605403155088425
+MPNet,chebyshev,What are NumPy data types,5,gOMW_n2-2Mw,0.1383792832493782
+MPNet,chebyshev,What are important NumPy functions,1,81i_uSX9Vic,0.09954738989472389
+MPNet,chebyshev,What are important NumPy functions,2,IljPHDyBRog,0.11885953694581985
+MPNet,chebyshev,What are important NumPy functions,3,fPopFeqw5sk,0.11892378330230713
+MPNet,chebyshev,What are important NumPy functions,4,6WaBryk4fkE,0.12667926028370857
+MPNet,chebyshev,What are important NumPy functions,5,fy5QsDJmctQ,0.13069593533873558
+MPNet,chebyshev,What are Python iterators,1,k0D3MQwLn7A,0.1095374021679163
+MPNet,chebyshev,What are Python iterators,2,89cGQjB5R4M,0.12275215610861778
+MPNet,chebyshev,What are Python iterators,3,vg7Hwd9TANY,0.12345452606678009
+MPNet,chebyshev,What are Python iterators,4,ZBlxaXMN_hU,0.12678009271621704
+MPNet,chebyshev,What are Python iterators,5,q2SGW2VgwAM,0.1295631155371666
+MPNet,chebyshev,What are Python generators,1,ZBlxaXMN_hU,0.11637553200125694
+MPNet,chebyshev,What are Python generators,2,TPUdUkFHD5I,0.12326033785939217
+MPNet,chebyshev,What are Python generators,3,gOMW_n2-2Mw,0.13163787126541138
+MPNet,chebyshev,What are Python generators,4,2KzyvzeWFbQ,0.1352125070989132
+MPNet,chebyshev,What are Python generators,5,LN45TyPWAAg,0.13577508926391602
+MPNet,chebyshev,What is Matplotlib in Python,1,c9vhHUGdav0,0.11297119781374931
+MPNet,chebyshev,What is Matplotlib in Python,2,hunq_UOdmoo,0.12136491015553474
+MPNet,chebyshev,What is Matplotlib in Python,3,hyydAO2qSXQ,0.1334471977315843
+MPNet,chebyshev,What is Matplotlib in Python,4,LI8KQ3pjQug,0.1399231106042862
+MPNet,chebyshev,What is Matplotlib in Python,5,8KCuHHeC_M0,0.14251069724559784
+MPNet,chebyshev,How to customize Matplotlib plots,1,hunq_UOdmoo,0.09530389308929443
+MPNet,chebyshev,How to customize Matplotlib plots,2,c9vhHUGdav0,0.11413805559277534
+MPNet,chebyshev,How to customize Matplotlib plots,3,REtiFfgj8SU,0.13862362131476402
+MPNet,chebyshev,How to customize Matplotlib plots,4,89cGQjB5R4M,0.1392919421195984
+MPNet,chebyshev,How to customize Matplotlib plots,5,8mJ-OhcfpYg,0.1397150754928589
+MPNet,chebyshev,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.10345818102359772
+MPNet,chebyshev,What is a Pandas DataFrame,2,fPopFeqw5sk,0.13238811120390892
+MPNet,chebyshev,What is a Pandas DataFrame,3,gOMW_n2-2Mw,0.13381782919168472
+MPNet,chebyshev,What is a Pandas DataFrame,4,89cGQjB5R4M,0.13691502809524536
+MPNet,chebyshev,What is a Pandas DataFrame,5,87SH2Cn0s9A,0.13943108264356852
+MPNet,chebyshev,What is NumPy slicing,1,6WaBryk4fkE,0.08786591328680515
+MPNet,chebyshev,What is NumPy slicing,2,wGlnsJFnGAI,0.101490069180727
+MPNet,chebyshev,What is NumPy slicing,3,fPopFeqw5sk,0.10667970217764378
+MPNet,chebyshev,What is NumPy slicing,4,c9vhHUGdav0,0.13228090479969978
+MPNet,chebyshev,What is NumPy slicing,5,6Hk2aE_SRzY,0.13320612907409668
+MPNet,chebyshev,How to convert decimal to hexadecimal,1,aMME_rYkoOU,0.09466421604156494
+MPNet,chebyshev,How to convert decimal to hexadecimal,2,mjiHc965UME,0.09986283630132675
+MPNet,chebyshev,How to convert decimal to hexadecimal,3,fy5QsDJmctQ,0.1255267821252346
+MPNet,chebyshev,How to convert decimal to hexadecimal,4,tg5Wv9Ba1lI,0.13085636496543884
+MPNet,chebyshev,How to convert decimal to hexadecimal,5,b4DPj0XAfSg,0.1325760781764984
+MPNet,chebyshev,What is the binary number system,1,tg5Wv9Ba1lI,0.10941898450255394
+MPNet,chebyshev,What is the binary number system,2,J6qXny_UAK4,0.12080451380461454
+MPNet,chebyshev,What is the binary number system,3,wsTSREgCE5E,0.12112769670784473
+MPNet,chebyshev,What is the binary number system,4,Gt2yBZAhsGM,0.1297149322926998
+MPNet,chebyshev,What is the binary number system,5,IgdIfGW-cVU,0.13025172799825668
+MPNet,chebyshev,What are arrays in C programming,1,y4siEcxgOpM,0.08963019354268909
+MPNet,chebyshev,What are arrays in C programming,2,Vh4krbTnTAA,0.09403039515018463
+MPNet,chebyshev,What are arrays in C programming,3,6Hk2aE_SRzY,0.09494908899068832
+MPNet,chebyshev,What are arrays in C programming,4,ZwSyuqbeN0c,0.11001358740031719
+MPNet,chebyshev,What are arrays in C programming,5,DplxIq0mc_Y,0.11129460856318474
+MPNet,chebyshev,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.11363557912409306
+MPNet,chebyshev,What is dynamic memory allocation in C,2,aIQk1O08zpg,0.11438627913594246
+MPNet,chebyshev,What is dynamic memory allocation in C,3,rUXjvybSPWc,0.11911466578021646
+MPNet,chebyshev,What is dynamic memory allocation in C,4,qLVrwCvVPGo,0.1252548210322857
+MPNet,chebyshev,What is dynamic memory allocation in C,5,iLZOL-hmr7M,0.1305915154516697
+MPNet,chebyshev,How to read files in C,1,Hzg3kCHJcxI,0.09261876996606588
+MPNet,chebyshev,How to read files in C,2,eIlcl-mt3tg,0.09691778384149075
+MPNet,chebyshev,How to read files in C,3,6Hk2aE_SRzY,0.11545785749331117
+MPNet,chebyshev,How to read files in C,4,Lk-b45vrT8U,0.12057066708803177
+MPNet,chebyshev,How to read files in C,5,y4siEcxgOpM,0.12499724701046944
+MPNet,chebyshev,What are for loops in C,1,zdAggA1q0eo,0.09797182865440845
+MPNet,chebyshev,What are for loops in C,2,6Hk2aE_SRzY,0.10028611868619919
+MPNet,chebyshev,What are for loops in C,3,y4siEcxgOpM,0.10489192605018616
+MPNet,chebyshev,What are for loops in C,4,N1twTeNMdOE,0.1101246802136302
+MPNet,chebyshev,What are for loops in C,5,87SH2Cn0s9A,0.11514456197619438
+MPNet,chebyshev,What are function prototypes in C,1,NEj2H7SoTzQ,0.09983130544424057
+MPNet,chebyshev,What are function prototypes in C,2,aIQk1O08zpg,0.1338644027709961
+MPNet,chebyshev,What are function prototypes in C,3,rUXjvybSPWc,0.1372598111629486
+MPNet,chebyshev,What are function prototypes in C,4,5mqHzWIzruM,0.1372968554496765
+MPNet,chebyshev,What are function prototypes in C,5,87SH2Cn0s9A,0.13928581401705742
+MPNet,chebyshev,What is a switch statement in C,1,NtlSzRWhaOc,0.0793756153434515
+MPNet,chebyshev,What is a switch statement in C,2,5mqHzWIzruM,0.11309378780424595
+MPNet,chebyshev,What is a switch statement in C,3,IxBMVztdlr4,0.11648594588041306
+MPNet,chebyshev,What is a switch statement in C,4,ah5bAnGpmKY,0.11751805618405342
+MPNet,chebyshev,What is a switch statement in C,5,pSPQnXleaS8,0.11956135183572769
+MPNet,chebyshev,What is Java multithreading,1,taI7G6U29L8,0.11691855639219284
+MPNet,chebyshev,What is Java multithreading,2,9dr2mHYYoug,0.13067569769918919
+MPNet,chebyshev,What is Java multithreading,3,QEF62Fm81h4,0.13376189768314362
+MPNet,chebyshev,What is Java multithreading,4,Kmgo00avvEw,0.13734448328614235
+MPNet,chebyshev,What is Java multithreading,5,XhH93_woZIY,0.13789939507842064
+MPNet,chebyshev,What are Java anonymous classes,1,ZD7CB6wKg8A,0.12975271418690681
+MPNet,chebyshev,What are Java anonymous classes,2,QEF62Fm81h4,0.13400648534297943
+MPNet,chebyshev,What are Java anonymous classes,3,23VT2wh3BG4,0.13971440121531487
+MPNet,chebyshev,What are Java anonymous classes,4,06BrbJm7Sho,0.14018820598721504
+MPNet,chebyshev,What are Java anonymous classes,5,nhIB2S6NiFA,0.14100296050310135
+MPNet,chebyshev,How to write files in Java,1,Pg0aoSbrqOE,0.0898548997938633
+MPNet,chebyshev,How to write files in Java,2,A6sA9KItwpY,0.12123224139213562
+MPNet,chebyshev,How to write files in Java,3,Hzg3kCHJcxI,0.12206040322780609
+MPNet,chebyshev,How to write files in Java,4,eIlcl-mt3tg,0.12236987799406052
+MPNet,chebyshev,How to write files in Java,5,q8WDvrjPt0M,0.12921899557113647
+MPNet,chebyshev,What is Java ArrayList,1,wsTSREgCE5E,0.1075292038731277
+MPNet,chebyshev,What is Java ArrayList,2,nhIB2S6NiFA,0.11342709511518478
+MPNet,chebyshev,What is Java ArrayList,3,9dr2mHYYoug,0.11442821100354195
+MPNet,chebyshev,What is Java ArrayList,4,Qf3Nczxm2AY,0.11828707158565521
+MPNet,chebyshev,What is Java ArrayList,5,ah5bAnGpmKY,0.12434138730168343
+MPNet,chebyshev,What are Java getters and setters,1,OjrR_C_UPjc,0.09438246488571167
+MPNet,chebyshev,What are Java getters and setters,2,KQVCAnh6Afk,0.11215716414153576
+MPNet,chebyshev,What are Java getters and setters,3,DYbi93vuSaU,0.1154028195887804
+MPNet,chebyshev,What are Java getters and setters,4,Jx12Vf0VxmY,0.1183176189661026
+MPNet,chebyshev,What are Java getters and setters,5,GvbdMwfjB98,0.1192668192088604
+MPNet,chebyshev,What is method overriding in Java,1,hx_DRanBRRM,0.09221013495698571
+MPNet,chebyshev,What is method overriding in Java,2,nhnAx79gxCM,0.09816169738769531
+MPNet,chebyshev,What is method overriding in Java,3,v5p_SUfi710,0.11724476143717766
+MPNet,chebyshev,What is method overriding in Java,4,P_iOnmdww8E,0.12426550127565861
+MPNet,chebyshev,What is method overriding in Java,5,nhIB2S6NiFA,0.12813380360603333
+MPNet,chebyshev,What are constructors in Java,1,LN45TyPWAAg,0.10275725368410349
+MPNet,chebyshev,What are constructors in Java,2,nhIB2S6NiFA,0.1060657799243927
+MPNet,chebyshev,What are constructors in Java,3,oKZnHNM9Ew4,0.10791674442589283
+MPNet,chebyshev,What are constructors in Java,4,nRJWltqX4UY,0.11671553552150726
+MPNet,chebyshev,What are constructors in Java,5,GvbdMwfjB98,0.11806434206664562
+MPNet,chebyshev,What is object oriented programming in Java,1,DYbi93vuSaU,0.10237589105963707
+MPNet,chebyshev,What is object oriented programming in Java,2,q2SGW2VgwAM,0.11177645158022642
+MPNet,chebyshev,What is object oriented programming in Java,3,P_iOnmdww8E,0.11296135932207108
+MPNet,chebyshev,What is object oriented programming in Java,4,ZD7CB6wKg8A,0.11494112573564053
+MPNet,chebyshev,What is object oriented programming in Java,5,nRJWltqX4UY,0.12075230851769447
+MPNet,chebyshev,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.0836415650555864
+MPNet,chebyshev,What are 2D arrays in Java,2,Vh4krbTnTAA,0.10891623422503471
+MPNet,chebyshev,What are 2D arrays in Java,3,9dr2mHYYoug,0.11729630082845688
+MPNet,chebyshev,What are 2D arrays in Java,4,KQVCAnh6Afk,0.12436075881123543
+MPNet,chebyshev,What are 2D arrays in Java,5,Lk-b45vrT8U,0.13011441752314568
+MPNet,chebyshev,What is Python programming,1,8KCuHHeC_M0,0.1037680096924305
+MPNet,chebyshev,What is Python programming,2,IljPHDyBRog,0.11805801093578339
+MPNet,chebyshev,What is Python programming,3,t35B5HjPm9Q,0.1186639852821827
+MPNet,chebyshev,What is Python programming,4,XKHEtdqhLK8,0.11882071197032928
+MPNet,chebyshev,What is Python programming,5,8A0E1dSyjFM,0.1209508366882801
+MPNet,chebyshev,What are Python projects for beginners,1,XKHEtdqhLK8,0.10120621882379055
+MPNet,chebyshev,What are Python projects for beginners,2,8KCuHHeC_M0,0.11066530272364616
+MPNet,chebyshev,What are Python projects for beginners,3,q2SGW2VgwAM,0.12098187208175659
+MPNet,chebyshev,What are Python projects for beginners,4,JVQNywo4AbU,0.12427644804120064
+MPNet,chebyshev,What are Python projects for beginners,5,Q4377DH5Jso,0.12511898577213287
+MPNet,chebyshev,How to build a weather app in Python,1,Q4377DH5Jso,0.07455451460555196
+MPNet,chebyshev,How to build a weather app in Python,2,8KCuHHeC_M0,0.10800901986658573
+MPNet,chebyshev,How to build a weather app in Python,3,VaDUGPMjzOM,0.11867299489676952
+MPNet,chebyshev,How to build a weather app in Python,4,fy5QsDJmctQ,0.12199095450341702
+MPNet,chebyshev,How to build a weather app in Python,5,l7IMBy4_nhA,0.12271672859787941
+MPNet,chebyshev,What is React JS,1,CgkZ7MvWUAA,0.10081078112125397
+MPNet,chebyshev,What is React JS,2,L-1sP3Ljhsg,0.130257710814476
+MPNet,chebyshev,What is React JS,3,Y62mbztjmus,0.13323070853948593
+MPNet,chebyshev,What is React JS,4,U2vxAEiaVRY,0.1369494404643774
+MPNet,chebyshev,What is React JS,5,nbAaUpNDhRY,0.13784840796142817
+MPNet,chebyshev,What is async await in JavaScript,1,Coyy79wRz_s,0.0982452742755413
+MPNet,chebyshev,What is async await in JavaScript,2,9j1dZwFEJ-c,0.1213400587439537
+MPNet,chebyshev,What is async await in JavaScript,3,WPmAu26LZKo,0.13819127529859543
+MPNet,chebyshev,What is async await in JavaScript,4,62qN2RcpIAE,0.1425553560256958
+MPNet,chebyshev,What is async await in JavaScript,5,nbAaUpNDhRY,0.14528785645961761
+MultiQA,cosine,What are NumPy data types,1,fPopFeqw5sk,0.636025607585907
+MultiQA,cosine,What are NumPy data types,2,81i_uSX9Vic,0.3856987953186035
+MultiQA,cosine,What are NumPy data types,3,6WaBryk4fkE,0.30965882539749146
+MultiQA,cosine,What are NumPy data types,4,OUnnuKHbmbU,0.2653122842311859
+MultiQA,cosine,What are NumPy data types,5,aIQk1O08zpg,0.26289576292037964
+MultiQA,cosine,What are important NumPy functions,1,81i_uSX9Vic,0.5060368180274963
+MultiQA,cosine,What are important NumPy functions,2,fPopFeqw5sk,0.42691388726234436
+MultiQA,cosine,What are important NumPy functions,3,89cGQjB5R4M,0.3291487991809845
+MultiQA,cosine,What are important NumPy functions,4,vg7Hwd9TANY,0.32772526144981384
+MultiQA,cosine,What are important NumPy functions,5,YOhrIov7PZA,0.3077085018157959
+MultiQA,cosine,What are Python iterators,1,k0D3MQwLn7A,0.574713945388794
+MultiQA,cosine,What are Python iterators,2,gOMW_n2-2Mw,0.4386121332645416
+MultiQA,cosine,What are Python iterators,3,ZBlxaXMN_hU,0.4212529957294464
+MultiQA,cosine,What are Python iterators,4,KWgYha0clzw,0.3999256193637848
+MultiQA,cosine,What are Python iterators,5,wGlnsJFnGAI,0.37696120142936707
+MultiQA,cosine,What are Python generators,1,ZBlxaXMN_hU,0.5058512091636658
+MultiQA,cosine,What are Python generators,2,8KCuHHeC_M0,0.36638838052749634
+MultiQA,cosine,What are Python generators,3,YOhrIov7PZA,0.3590613603591919
+MultiQA,cosine,What are Python generators,4,wGlnsJFnGAI,0.34624722599983215
+MultiQA,cosine,What are Python generators,5,XKHEtdqhLK8,0.33776700496673584
+MultiQA,cosine,What is Matplotlib in Python,1,c9vhHUGdav0,0.6043816804885864
+MultiQA,cosine,What is Matplotlib in Python,2,hunq_UOdmoo,0.3534451425075531
+MultiQA,cosine,What is Matplotlib in Python,3,l7IMBy4_nhA,0.29553157091140747
+MultiQA,cosine,What is Matplotlib in Python,4,XKHEtdqhLK8,0.29248297214508057
+MultiQA,cosine,What is Matplotlib in Python,5,Qj3GlL5ckQA,0.2918004095554352
+MultiQA,cosine,How to customize Matplotlib plots,1,c9vhHUGdav0,0.5795722603797913
+MultiQA,cosine,How to customize Matplotlib plots,2,hunq_UOdmoo,0.5556255578994751
+MultiQA,cosine,How to customize Matplotlib plots,3,OUnnuKHbmbU,0.22622808814048767
+MultiQA,cosine,How to customize Matplotlib plots,4,fPopFeqw5sk,0.1746903657913208
+MultiQA,cosine,How to customize Matplotlib plots,5,l7IMBy4_nhA,0.1735977828502655
+MultiQA,cosine,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.6054759621620178
+MultiQA,cosine,What is a Pandas DataFrame,2,gOMW_n2-2Mw,0.28122079372406006
+MultiQA,cosine,What is a Pandas DataFrame,3,fPopFeqw5sk,0.28005677461624146
+MultiQA,cosine,What is a Pandas DataFrame,4,c9vhHUGdav0,0.24088023602962494
+MultiQA,cosine,What is a Pandas DataFrame,5,w6hL_dszMxk,0.20893198251724243
+MultiQA,cosine,What is NumPy slicing,1,6WaBryk4fkE,0.5702075362205505
+MultiQA,cosine,What is NumPy slicing,2,wGlnsJFnGAI,0.44823452830314636
+MultiQA,cosine,What is NumPy slicing,3,81i_uSX9Vic,0.43050625920295715
+MultiQA,cosine,What is NumPy slicing,4,fPopFeqw5sk,0.37391388416290283
+MultiQA,cosine,What is NumPy slicing,5,sPPGd4Lfh3s,0.27734312415122986
+MultiQA,cosine,How to convert decimal to hexadecimal,1,mjiHc965UME,0.7902575731277466
+MultiQA,cosine,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7501659393310547
+MultiQA,cosine,How to convert decimal to hexadecimal,3,J6qXny_UAK4,0.4338960647583008
+MultiQA,cosine,How to convert decimal to hexadecimal,4,tg5Wv9Ba1lI,0.4251725673675537
+MultiQA,cosine,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3561355173587799
+MultiQA,cosine,What is the binary number system,1,J6qXny_UAK4,0.605646550655365
+MultiQA,cosine,What is the binary number system,2,tg5Wv9Ba1lI,0.5998299717903137
+MultiQA,cosine,What is the binary number system,3,9E3I1URu6fc,0.3545868992805481
+MultiQA,cosine,What is the binary number system,4,fPopFeqw5sk,0.346424400806427
+MultiQA,cosine,What is the binary number system,5,Gt2yBZAhsGM,0.3332342803478241
+MultiQA,cosine,What are arrays in C programming,1,6Hk2aE_SRzY,0.7764354944229126
+MultiQA,cosine,What are arrays in C programming,2,y4siEcxgOpM,0.6087034344673157
+MultiQA,cosine,What are arrays in C programming,3,ah5bAnGpmKY,0.5929404497146606
+MultiQA,cosine,What are arrays in C programming,4,Lk-b45vrT8U,0.5877693891525269
+MultiQA,cosine,What are arrays in C programming,5,Vh4krbTnTAA,0.575075626373291
+MultiQA,cosine,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.6607526540756226
+MultiQA,cosine,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.5811663866043091
+MultiQA,cosine,What is dynamic memory allocation in C,3,y4siEcxgOpM,0.40066930651664734
+MultiQA,cosine,What is dynamic memory allocation in C,4,aIQk1O08zpg,0.3995438516139984
+MultiQA,cosine,What is dynamic memory allocation in C,5,Lk-b45vrT8U,0.38436269760131836
+MultiQA,cosine,How to read files in C,1,Hzg3kCHJcxI,0.6856873631477356
+MultiQA,cosine,How to read files in C,2,eIlcl-mt3tg,0.6666851043701172
+MultiQA,cosine,How to read files in C,3,87SH2Cn0s9A,0.48295116424560547
+MultiQA,cosine,How to read files in C,4,6Hk2aE_SRzY,0.3978919982910156
+MultiQA,cosine,How to read files in C,5,q8WDvrjPt0M,0.3943369388580322
+MultiQA,cosine,What are for loops in C,1,zdAggA1q0eo,0.715852677822113
+MultiQA,cosine,What are for loops in C,2,Rn16ugyorX0,0.6069859862327576
+MultiQA,cosine,What are for loops in C,3,KWgYha0clzw,0.584243893623352
+MultiQA,cosine,What are for loops in C,4,b4DPj0XAfSg,0.5828659534454346
+MultiQA,cosine,What are for loops in C,5,WFzLcZk137s,0.5788318514823914
+MultiQA,cosine,What are function prototypes in C,1,NEj2H7SoTzQ,0.805823802947998
+MultiQA,cosine,What are function prototypes in C,2,Z5smVeUVNFU,0.4350226819515228
+MultiQA,cosine,What are function prototypes in C,3,89cGQjB5R4M,0.39105042815208435
+MultiQA,cosine,What are function prototypes in C,4,HFaxylC7bUc,0.3777717053890228
+MultiQA,cosine,What are function prototypes in C,5,rUXjvybSPWc,0.37180566787719727
+MultiQA,cosine,What is a switch statement in C,1,NtlSzRWhaOc,0.5508562922477722
+MultiQA,cosine,What is a switch statement in C,2,N1twTeNMdOE,0.49011141061782837
+MultiQA,cosine,What is a switch statement in C,3,Bx9b12FCF5o,0.45475637912750244
+MultiQA,cosine,What is a switch statement in C,4,pSPQnXleaS8,0.434231162071228
+MultiQA,cosine,What is a switch statement in C,5,z2fcWdoph4U,0.4165889322757721
+MultiQA,cosine,What is Java multithreading,1,taI7G6U29L8,0.6623769402503967
+MultiQA,cosine,What is Java multithreading,2,nhnAx79gxCM,0.4303296208381653
+MultiQA,cosine,What is Java multithreading,3,QEF62Fm81h4,0.4219624996185303
+MultiQA,cosine,What is Java multithreading,4,YOhrIov7PZA,0.3985978066921234
+MultiQA,cosine,What is Java multithreading,5,v5p_SUfi710,0.3661940097808838
+MultiQA,cosine,What are Java anonymous classes,1,P_iOnmdww8E,0.7536160349845886
+MultiQA,cosine,What are Java anonymous classes,2,DYbi93vuSaU,0.4442797303199768
+MultiQA,cosine,What are Java anonymous classes,3,KcEvHq8Pqs0,0.3940434455871582
+MultiQA,cosine,What are Java anonymous classes,4,Kmgo00avvEw,0.38571515679359436
+MultiQA,cosine,What are Java anonymous classes,5,ZD7CB6wKg8A,0.37051981687545776
+MultiQA,cosine,How to write files in Java,1,Pg0aoSbrqOE,0.7061762809753418
+MultiQA,cosine,How to write files in Java,2,Hzg3kCHJcxI,0.40205079317092896
+MultiQA,cosine,How to write files in Java,3,A6sA9KItwpY,0.39860984683036804
+MultiQA,cosine,How to write files in Java,4,eIlcl-mt3tg,0.379573255777359
+MultiQA,cosine,How to write files in Java,5,q8WDvrjPt0M,0.3570861518383026
+MultiQA,cosine,What is Java ArrayList,1,wsTSREgCE5E,0.5996417999267578
+MultiQA,cosine,What is Java ArrayList,2,9dr2mHYYoug,0.5681428909301758
+MultiQA,cosine,What is Java ArrayList,3,30MKAcoffIo,0.5456528663635254
+MultiQA,cosine,What is Java ArrayList,4,Qf3Nczxm2AY,0.5231488943099976
+MultiQA,cosine,What is Java ArrayList,5,nhIB2S6NiFA,0.48182782530784607
+MultiQA,cosine,What are Java getters and setters,1,OjrR_C_UPjc,0.7114987969398499
+MultiQA,cosine,What are Java getters and setters,2,8FmE_-QXg3Y,0.5609283447265625
+MultiQA,cosine,What are Java getters and setters,3,KQVCAnh6Afk,0.516251266002655
+MultiQA,cosine,What are Java getters and setters,4,GvbdMwfjB98,0.4210430681705475
+MultiQA,cosine,What are Java getters and setters,5,v5p_SUfi710,0.40969640016555786
+MultiQA,cosine,What is method overriding in Java,1,hx_DRanBRRM,0.7120801210403442
+MultiQA,cosine,What is method overriding in Java,2,nhnAx79gxCM,0.7111606001853943
+MultiQA,cosine,What is method overriding in Java,3,v5p_SUfi710,0.582442045211792
+MultiQA,cosine,What is method overriding in Java,4,GvbdMwfjB98,0.5121989846229553
+MultiQA,cosine,What is method overriding in Java,5,P_iOnmdww8E,0.4623851478099823
+MultiQA,cosine,What are constructors in Java,1,ZD7CB6wKg8A,0.6701276898384094
+MultiQA,cosine,What are constructors in Java,2,WPmAu26LZKo,0.5624575018882751
+MultiQA,cosine,What are constructors in Java,3,nhIB2S6NiFA,0.5345620512962341
+MultiQA,cosine,What are constructors in Java,4,oKZnHNM9Ew4,0.5114731192588806
+MultiQA,cosine,What are constructors in Java,5,DYbi93vuSaU,0.4735351502895355
+MultiQA,cosine,What is object oriented programming in Java,1,DYbi93vuSaU,0.7087390422821045
+MultiQA,cosine,What is object oriented programming in Java,2,1XE-_s4ZBT8,0.5586560964584351
+MultiQA,cosine,What is object oriented programming in Java,3,q2SGW2VgwAM,0.4788764715194702
+MultiQA,cosine,What is object oriented programming in Java,4,GvbdMwfjB98,0.47011780738830566
+MultiQA,cosine,What is object oriented programming in Java,5,nhIB2S6NiFA,0.469075471162796
+MultiQA,cosine,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7833197116851807
+MultiQA,cosine,What are 2D arrays in Java,2,Vh4krbTnTAA,0.6294893622398376
+MultiQA,cosine,What are 2D arrays in Java,3,9dr2mHYYoug,0.5756104588508606
+MultiQA,cosine,What are 2D arrays in Java,4,6Hk2aE_SRzY,0.5137037634849548
+MultiQA,cosine,What are 2D arrays in Java,5,nhIB2S6NiFA,0.48939478397369385
+MultiQA,cosine,What is Python programming,1,XKHEtdqhLK8,0.511272132396698
+MultiQA,cosine,What is Python programming,2,8KCuHHeC_M0,0.4945458173751831
+MultiQA,cosine,What is Python programming,3,1XE-_s4ZBT8,0.4598049819469452
+MultiQA,cosine,What is Python programming,4,8A0E1dSyjFM,0.44831904768943787
+MultiQA,cosine,What is Python programming,5,YOhrIov7PZA,0.4443294405937195
+MultiQA,cosine,What are Python projects for beginners,1,8KCuHHeC_M0,0.6167198419570923
+MultiQA,cosine,What are Python projects for beginners,2,XKHEtdqhLK8,0.6035476326942444
+MultiQA,cosine,What are Python projects for beginners,3,q2SGW2VgwAM,0.3933159112930298
+MultiQA,cosine,What are Python projects for beginners,4,Uvqmv3PGiXM,0.37182846665382385
+MultiQA,cosine,What are Python projects for beginners,5,1XE-_s4ZBT8,0.3534863293170929
+MultiQA,cosine,How to build a weather app in Python,1,Q4377DH5Jso,0.5356727838516235
+MultiQA,cosine,How to build a weather app in Python,2,VaDUGPMjzOM,0.46801263093948364
+MultiQA,cosine,How to build a weather app in Python,3,XKHEtdqhLK8,0.37172985076904297
+MultiQA,cosine,How to build a weather app in Python,4,8KCuHHeC_M0,0.35039958357810974
+MultiQA,cosine,How to build a weather app in Python,5,LI8KQ3pjQug,0.30523043870925903
+MultiQA,cosine,What is React JS,1,CgkZ7MvWUAA,0.6443807482719421
+MultiQA,cosine,What is React JS,2,Y62mbztjmus,0.4763282537460327
+MultiQA,cosine,What is React JS,3,9wiWzu_tRB0,0.4677661955356598
+MultiQA,cosine,What is React JS,4,L-1sP3Ljhsg,0.40377891063690186
+MultiQA,cosine,What is React JS,5,nbAaUpNDhRY,0.38145712018013
+MultiQA,cosine,What is async await in JavaScript,1,9j1dZwFEJ-c,0.6115431785583496
+MultiQA,cosine,What is async await in JavaScript,2,Coyy79wRz_s,0.5644664168357849
+MultiQA,cosine,What is async await in JavaScript,3,NOzi4wBHn0o,0.49802154302597046
+MultiQA,cosine,What is async await in JavaScript,4,CgkZ7MvWUAA,0.3128196895122528
+MultiQA,cosine,What is async await in JavaScript,5,NO5kUNxGIu0,0.28925806283950806
+MultiQA,dot,What are NumPy data types,1,fPopFeqw5sk,0.636025607585907
+MultiQA,dot,What are NumPy data types,2,81i_uSX9Vic,0.3856987953186035
+MultiQA,dot,What are NumPy data types,3,6WaBryk4fkE,0.30965879559516907
+MultiQA,dot,What are NumPy data types,4,OUnnuKHbmbU,0.2653122842311859
+MultiQA,dot,What are NumPy data types,5,aIQk1O08zpg,0.26289576292037964
+MultiQA,dot,What are important NumPy functions,1,81i_uSX9Vic,0.5060368180274963
+MultiQA,dot,What are important NumPy functions,2,fPopFeqw5sk,0.42691388726234436
+MultiQA,dot,What are important NumPy functions,3,89cGQjB5R4M,0.3291487991809845
+MultiQA,dot,What are important NumPy functions,4,vg7Hwd9TANY,0.32772526144981384
+MultiQA,dot,What are important NumPy functions,5,YOhrIov7PZA,0.3077085018157959
+MultiQA,dot,What are Python iterators,1,k0D3MQwLn7A,0.5747138857841492
+MultiQA,dot,What are Python iterators,2,gOMW_n2-2Mw,0.4386121332645416
+MultiQA,dot,What are Python iterators,3,ZBlxaXMN_hU,0.421252965927124
+MultiQA,dot,What are Python iterators,4,KWgYha0clzw,0.3999256193637848
+MultiQA,dot,What are Python iterators,5,wGlnsJFnGAI,0.3769610524177551
+MultiQA,dot,What are Python generators,1,ZBlxaXMN_hU,0.5058512091636658
+MultiQA,dot,What are Python generators,2,8KCuHHeC_M0,0.36638832092285156
+MultiQA,dot,What are Python generators,3,YOhrIov7PZA,0.3590613603591919
+MultiQA,dot,What are Python generators,4,wGlnsJFnGAI,0.34624722599983215
+MultiQA,dot,What are Python generators,5,XKHEtdqhLK8,0.33776700496673584
+MultiQA,dot,What is Matplotlib in Python,1,c9vhHUGdav0,0.6043816208839417
+MultiQA,dot,What is Matplotlib in Python,2,hunq_UOdmoo,0.3534450829029083
+MultiQA,dot,What is Matplotlib in Python,3,l7IMBy4_nhA,0.2955315113067627
+MultiQA,dot,What is Matplotlib in Python,4,XKHEtdqhLK8,0.2924829423427582
+MultiQA,dot,What is Matplotlib in Python,5,Qj3GlL5ckQA,0.2918003797531128
+MultiQA,dot,How to customize Matplotlib plots,1,c9vhHUGdav0,0.5795722007751465
+MultiQA,dot,How to customize Matplotlib plots,2,hunq_UOdmoo,0.5556255578994751
+MultiQA,dot,How to customize Matplotlib plots,3,OUnnuKHbmbU,0.22622808814048767
+MultiQA,dot,How to customize Matplotlib plots,4,fPopFeqw5sk,0.1746903657913208
+MultiQA,dot,How to customize Matplotlib plots,5,l7IMBy4_nhA,0.17359773814678192
+MultiQA,dot,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.6054759621620178
+MultiQA,dot,What is a Pandas DataFrame,2,gOMW_n2-2Mw,0.28122079372406006
+MultiQA,dot,What is a Pandas DataFrame,3,fPopFeqw5sk,0.28005677461624146
+MultiQA,dot,What is a Pandas DataFrame,4,c9vhHUGdav0,0.24088020622730255
+MultiQA,dot,What is a Pandas DataFrame,5,w6hL_dszMxk,0.20893198251724243
+MultiQA,dot,What is NumPy slicing,1,6WaBryk4fkE,0.5702073574066162
+MultiQA,dot,What is NumPy slicing,2,wGlnsJFnGAI,0.4482343792915344
+MultiQA,dot,What is NumPy slicing,3,81i_uSX9Vic,0.43050622940063477
+MultiQA,dot,What is NumPy slicing,4,fPopFeqw5sk,0.37391382455825806
+MultiQA,dot,What is NumPy slicing,5,sPPGd4Lfh3s,0.2773430347442627
+MultiQA,dot,How to convert decimal to hexadecimal,1,mjiHc965UME,0.790257453918457
+MultiQA,dot,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7501658797264099
+MultiQA,dot,How to convert decimal to hexadecimal,3,J6qXny_UAK4,0.433896005153656
+MultiQA,dot,How to convert decimal to hexadecimal,4,tg5Wv9Ba1lI,0.42517244815826416
+MultiQA,dot,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.3561354875564575
+MultiQA,dot,What is the binary number system,1,J6qXny_UAK4,0.605646550655365
+MultiQA,dot,What is the binary number system,2,tg5Wv9Ba1lI,0.5998299717903137
+MultiQA,dot,What is the binary number system,3,9E3I1URu6fc,0.3545868992805481
+MultiQA,dot,What is the binary number system,4,fPopFeqw5sk,0.346424400806427
+MultiQA,dot,What is the binary number system,5,Gt2yBZAhsGM,0.33323436975479126
+MultiQA,dot,What are arrays in C programming,1,6Hk2aE_SRzY,0.7764354944229126
+MultiQA,dot,What are arrays in C programming,2,y4siEcxgOpM,0.6087034344673157
+MultiQA,dot,What are arrays in C programming,3,ah5bAnGpmKY,0.5929403901100159
+MultiQA,dot,What are arrays in C programming,4,Lk-b45vrT8U,0.5877693891525269
+MultiQA,dot,What are arrays in C programming,5,Vh4krbTnTAA,0.575075626373291
+MultiQA,dot,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.6607524752616882
+MultiQA,dot,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.5811663866043091
+MultiQA,dot,What is dynamic memory allocation in C,3,y4siEcxgOpM,0.40066930651664734
+MultiQA,dot,What is dynamic memory allocation in C,4,aIQk1O08zpg,0.39954376220703125
+MultiQA,dot,What is dynamic memory allocation in C,5,Lk-b45vrT8U,0.3843625783920288
+MultiQA,dot,How to read files in C,1,Hzg3kCHJcxI,0.6856873035430908
+MultiQA,dot,How to read files in C,2,eIlcl-mt3tg,0.6666851043701172
+MultiQA,dot,How to read files in C,3,87SH2Cn0s9A,0.48295116424560547
+MultiQA,dot,How to read files in C,4,6Hk2aE_SRzY,0.3978919982910156
+MultiQA,dot,How to read files in C,5,q8WDvrjPt0M,0.39433690905570984
+MultiQA,dot,What are for loops in C,1,zdAggA1q0eo,0.7158525586128235
+MultiQA,dot,What are for loops in C,2,Rn16ugyorX0,0.6069859862327576
+MultiQA,dot,What are for loops in C,3,KWgYha0clzw,0.584243893623352
+MultiQA,dot,What are for loops in C,4,b4DPj0XAfSg,0.5828659534454346
+MultiQA,dot,What are for loops in C,5,WFzLcZk137s,0.5788317918777466
+MultiQA,dot,What are function prototypes in C,1,NEj2H7SoTzQ,0.8058236837387085
+MultiQA,dot,What are function prototypes in C,2,Z5smVeUVNFU,0.43502259254455566
+MultiQA,dot,What are function prototypes in C,3,89cGQjB5R4M,0.39105042815208435
+MultiQA,dot,What are function prototypes in C,4,HFaxylC7bUc,0.3777715563774109
+MultiQA,dot,What are function prototypes in C,5,rUXjvybSPWc,0.3718056380748749
+MultiQA,dot,What is a switch statement in C,1,NtlSzRWhaOc,0.5508562326431274
+MultiQA,dot,What is a switch statement in C,2,N1twTeNMdOE,0.490111380815506
+MultiQA,dot,What is a switch statement in C,3,Bx9b12FCF5o,0.45475637912750244
+MultiQA,dot,What is a switch statement in C,4,pSPQnXleaS8,0.43423113226890564
+MultiQA,dot,What is a switch statement in C,5,z2fcWdoph4U,0.4165888726711273
+MultiQA,dot,What is Java multithreading,1,taI7G6U29L8,0.6623769402503967
+MultiQA,dot,What is Java multithreading,2,nhnAx79gxCM,0.4303296208381653
+MultiQA,dot,What is Java multithreading,3,QEF62Fm81h4,0.42196255922317505
+MultiQA,dot,What is Java multithreading,4,YOhrIov7PZA,0.3985978662967682
+MultiQA,dot,What is Java multithreading,5,v5p_SUfi710,0.3661940395832062
+MultiQA,dot,What are Java anonymous classes,1,P_iOnmdww8E,0.7536159753799438
+MultiQA,dot,What are Java anonymous classes,2,DYbi93vuSaU,0.4442797303199768
+MultiQA,dot,What are Java anonymous classes,3,KcEvHq8Pqs0,0.3940434455871582
+MultiQA,dot,What are Java anonymous classes,4,Kmgo00avvEw,0.3857150673866272
+MultiQA,dot,What are Java anonymous classes,5,ZD7CB6wKg8A,0.3705197870731354
+MultiQA,dot,How to write files in Java,1,Pg0aoSbrqOE,0.7061759829521179
+MultiQA,dot,How to write files in Java,2,Hzg3kCHJcxI,0.40205076336860657
+MultiQA,dot,How to write files in Java,3,A6sA9KItwpY,0.39860981702804565
+MultiQA,dot,How to write files in Java,4,eIlcl-mt3tg,0.3795732259750366
+MultiQA,dot,How to write files in Java,5,q8WDvrjPt0M,0.3570861518383026
+MultiQA,dot,What is Java ArrayList,1,wsTSREgCE5E,0.5996417999267578
+MultiQA,dot,What is Java ArrayList,2,9dr2mHYYoug,0.5681428909301758
+MultiQA,dot,What is Java ArrayList,3,30MKAcoffIo,0.5456528663635254
+MultiQA,dot,What is Java ArrayList,4,Qf3Nczxm2AY,0.5231488943099976
+MultiQA,dot,What is Java ArrayList,5,nhIB2S6NiFA,0.48182782530784607
+MultiQA,dot,What are Java getters and setters,1,OjrR_C_UPjc,0.7114986777305603
+MultiQA,dot,What are Java getters and setters,2,8FmE_-QXg3Y,0.5609282851219177
+MultiQA,dot,What are Java getters and setters,3,KQVCAnh6Afk,0.5162511467933655
+MultiQA,dot,What are Java getters and setters,4,GvbdMwfjB98,0.4210430383682251
+MultiQA,dot,What are Java getters and setters,5,v5p_SUfi710,0.4096963703632355
+MultiQA,dot,What is method overriding in Java,1,hx_DRanBRRM,0.7120801210403442
+MultiQA,dot,What is method overriding in Java,2,nhnAx79gxCM,0.7111605405807495
+MultiQA,dot,What is method overriding in Java,3,v5p_SUfi710,0.5824419856071472
+MultiQA,dot,What is method overriding in Java,4,GvbdMwfjB98,0.5121989846229553
+MultiQA,dot,What is method overriding in Java,5,P_iOnmdww8E,0.46238499879837036
+MultiQA,dot,What are constructors in Java,1,ZD7CB6wKg8A,0.6701275706291199
+MultiQA,dot,What are constructors in Java,2,WPmAu26LZKo,0.5624575018882751
+MultiQA,dot,What are constructors in Java,3,nhIB2S6NiFA,0.5345620512962341
+MultiQA,dot,What are constructors in Java,4,oKZnHNM9Ew4,0.5114730596542358
+MultiQA,dot,What are constructors in Java,5,DYbi93vuSaU,0.4735350012779236
+MultiQA,dot,What is object oriented programming in Java,1,DYbi93vuSaU,0.7087389230728149
+MultiQA,dot,What is object oriented programming in Java,2,1XE-_s4ZBT8,0.5586560964584351
+MultiQA,dot,What is object oriented programming in Java,3,q2SGW2VgwAM,0.47887641191482544
+MultiQA,dot,What is object oriented programming in Java,4,GvbdMwfjB98,0.47011780738830566
+MultiQA,dot,What is object oriented programming in Java,5,nhIB2S6NiFA,0.469075471162796
+MultiQA,dot,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.7833197116851807
+MultiQA,dot,What are 2D arrays in Java,2,Vh4krbTnTAA,0.6294893622398376
+MultiQA,dot,What are 2D arrays in Java,3,9dr2mHYYoug,0.5756104588508606
+MultiQA,dot,What are 2D arrays in Java,4,6Hk2aE_SRzY,0.5137037634849548
+MultiQA,dot,What are 2D arrays in Java,5,nhIB2S6NiFA,0.48939478397369385
+MultiQA,dot,What is Python programming,1,XKHEtdqhLK8,0.5112720727920532
+MultiQA,dot,What is Python programming,2,8KCuHHeC_M0,0.49454569816589355
+MultiQA,dot,What is Python programming,3,1XE-_s4ZBT8,0.4598049521446228
+MultiQA,dot,What is Python programming,4,8A0E1dSyjFM,0.44831904768943787
+MultiQA,dot,What is Python programming,5,YOhrIov7PZA,0.4443294405937195
+MultiQA,dot,What are Python projects for beginners,1,8KCuHHeC_M0,0.6167197823524475
+MultiQA,dot,What are Python projects for beginners,2,XKHEtdqhLK8,0.6035476326942444
+MultiQA,dot,What are Python projects for beginners,3,q2SGW2VgwAM,0.3933158218860626
+MultiQA,dot,What are Python projects for beginners,4,Uvqmv3PGiXM,0.37182846665382385
+MultiQA,dot,What are Python projects for beginners,5,1XE-_s4ZBT8,0.3534863293170929
+MultiQA,dot,How to build a weather app in Python,1,Q4377DH5Jso,0.5356727838516235
+MultiQA,dot,How to build a weather app in Python,2,VaDUGPMjzOM,0.46801263093948364
+MultiQA,dot,How to build a weather app in Python,3,XKHEtdqhLK8,0.37172985076904297
+MultiQA,dot,How to build a weather app in Python,4,8KCuHHeC_M0,0.35039952397346497
+MultiQA,dot,How to build a weather app in Python,5,LI8KQ3pjQug,0.30523043870925903
+MultiQA,dot,What is React JS,1,CgkZ7MvWUAA,0.6443807482719421
+MultiQA,dot,What is React JS,2,Y62mbztjmus,0.4763282537460327
+MultiQA,dot,What is React JS,3,9wiWzu_tRB0,0.4677661955356598
+MultiQA,dot,What is React JS,4,L-1sP3Ljhsg,0.40377891063690186
+MultiQA,dot,What is React JS,5,nbAaUpNDhRY,0.38145712018013
+MultiQA,dot,What is async await in JavaScript,1,9j1dZwFEJ-c,0.6115431785583496
+MultiQA,dot,What is async await in JavaScript,2,Coyy79wRz_s,0.5644664168357849
+MultiQA,dot,What is async await in JavaScript,3,NOzi4wBHn0o,0.49802154302597046
+MultiQA,dot,What is async await in JavaScript,4,CgkZ7MvWUAA,0.3128196895122528
+MultiQA,dot,What is async await in JavaScript,5,NO5kUNxGIu0,0.28925806283950806
+MultiQA,euclidean,What are NumPy data types,1,fPopFeqw5sk,0.8531991547728224
+MultiQA,euclidean,What are NumPy data types,2,81i_uSX9Vic,1.1084234623137754
+MultiQA,euclidean,What are NumPy data types,3,6WaBryk4fkE,1.175024561965746
+MultiQA,euclidean,What are NumPy data types,4,OUnnuKHbmbU,1.2121780286700146
+MultiQA,euclidean,What are NumPy data types,5,aIQk1O08zpg,1.214169817741619
+MultiQA,euclidean,What are important NumPy functions,1,81i_uSX9Vic,0.9939447027882574
+MultiQA,euclidean,What are important NumPy functions,2,fPopFeqw5sk,1.0705944893963872
+MultiQA,euclidean,What are important NumPy functions,3,89cGQjB5R4M,1.15831888961149
+MultiQA,euclidean,What are important NumPy functions,4,vg7Hwd9TANY,1.1595471486798143
+MultiQA,euclidean,What are important NumPy functions,5,YOhrIov7PZA,1.1766830682641354
+MultiQA,euclidean,What are Python iterators,1,k0D3MQwLn7A,0.9222647341855382
+MultiQA,euclidean,What are Python iterators,2,gOMW_n2-2Mw,1.0596111626491322
+MultiQA,euclidean,What are Python iterators,3,ZBlxaXMN_hU,1.0758688691595357
+MultiQA,euclidean,What are Python iterators,4,KWgYha0clzw,1.0955131403914755
+MultiQA,euclidean,What are Python iterators,5,wGlnsJFnGAI,1.1162786391811594
+MultiQA,euclidean,What are Python generators,1,ZBlxaXMN_hU,0.9941315949480144
+MultiQA,euclidean,What are Python generators,2,8KCuHHeC_M0,1.1257100371508224
+MultiQA,euclidean,What are Python generators,3,YOhrIov7PZA,1.1322001639112056
+MultiQA,euclidean,What are Python generators,4,wGlnsJFnGAI,1.143462065030054
+MultiQA,euclidean,What are Python generators,5,XKHEtdqhLK8,1.1508545535045087
+MultiQA,euclidean,What is Matplotlib in Python,1,c9vhHUGdav0,0.8895148687532031
+MultiQA,euclidean,What is Matplotlib in Python,2,hunq_UOdmoo,1.137149822601747
+MultiQA,euclidean,What is Matplotlib in Python,3,l7IMBy4_nhA,1.1869865350691817
+MultiQA,euclidean,What is Matplotlib in Python,4,XKHEtdqhLK8,1.189552076644634
+MultiQA,euclidean,What is Matplotlib in Python,5,Qj3GlL5ckQA,1.1901256364747197
+MultiQA,euclidean,How to customize Matplotlib plots,1,c9vhHUGdav0,0.9169815461959989
+MultiQA,euclidean,How to customize Matplotlib plots,2,hunq_UOdmoo,0.9427347407919203
+MultiQA,euclidean,How to customize Matplotlib plots,3,OUnnuKHbmbU,1.2440031588573262
+MultiQA,euclidean,How to customize Matplotlib plots,4,fPopFeqw5sk,1.2847642220859092
+MultiQA,euclidean,How to customize Matplotlib plots,5,l7IMBy4_nhA,1.285614400658896
+MultiQA,euclidean,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.8882837547576102
+MultiQA,euclidean,What is a Pandas DataFrame,2,gOMW_n2-2Mw,1.1989821229661282
+MultiQA,euclidean,What is a Pandas DataFrame,3,fPopFeqw5sk,1.1999525849167259
+MultiQA,euclidean,What is a Pandas DataFrame,4,c9vhHUGdav0,1.2321685976048233
+MultiQA,euclidean,What is a Pandas DataFrame,5,w6hL_dszMxk,1.2578298792348812
+MultiQA,euclidean,What is NumPy slicing,1,6WaBryk4fkE,0.9271381384401772
+MultiQA,euclidean,What is NumPy slicing,2,wGlnsJFnGAI,1.05049079801424
+MultiQA,euclidean,What is NumPy slicing,3,81i_uSX9Vic,1.0672336581685933
+MultiQA,euclidean,What is NumPy slicing,4,fPopFeqw5sk,1.1190052453992425
+MultiQA,euclidean,What is NumPy slicing,5,sPPGd4Lfh3s,1.202212073947468
+MultiQA,euclidean,How to convert decimal to hexadecimal,1,mjiHc965UME,0.6476761961515836
+MultiQA,euclidean,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.7068723091206446
+MultiQA,euclidean,How to convert decimal to hexadecimal,3,J6qXny_UAK4,1.0640526412867268
+MultiQA,euclidean,How to convert decimal to hexadecimal,4,tg5Wv9Ba1lI,1.0722194149143176
+MultiQA,euclidean,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,1.1347814437912025
+MultiQA,euclidean,What is the binary number system,1,J6qXny_UAK4,0.8880917382998744
+MultiQA,euclidean,What is the binary number system,2,tg5Wv9Ba1lI,0.8946173826408771
+MultiQA,euclidean,What is the binary number system,3,9E3I1URu6fc,1.1361456262954095
+MultiQA,euclidean,What is the binary number system,4,fPopFeqw5sk,1.1433071710316813
+MultiQA,euclidean,What is the binary number system,5,Gt2yBZAhsGM,1.1547862204339439
+MultiQA,euclidean,What are arrays in C programming,1,6Hk2aE_SRzY,0.6686767362362679
+MultiQA,euclidean,What are arrays in C programming,2,y4siEcxgOpM,0.8846429814407311
+MultiQA,euclidean,What are arrays in C programming,3,ah5bAnGpmKY,0.9022853934879795
+MultiQA,euclidean,What are arrays in C programming,4,Lk-b45vrT8U,0.9079985711801769
+MultiQA,euclidean,What are arrays in C programming,5,Vh4krbTnTAA,0.9218722771681807
+MultiQA,euclidean,What is dynamic memory allocation in C,1,fc19HhHKtrA,0.8237075539044887
+MultiQA,euclidean,What is dynamic memory allocation in C,2,rUXjvybSPWc,0.9152416309103504
+MultiQA,euclidean,What is dynamic memory allocation in C,3,y4siEcxgOpM,1.0948339994256011
+MultiQA,euclidean,What is dynamic memory allocation in C,4,aIQk1O08zpg,1.0958613170085383
+MultiQA,euclidean,What is dynamic memory allocation in C,5,Lk-b45vrT8U,1.1096280243356633
+MultiQA,euclidean,How to read files in C,1,Hzg3kCHJcxI,0.7928590805417866
+MultiQA,euclidean,How to read files in C,2,eIlcl-mt3tg,0.8164744550633429
+MultiQA,euclidean,How to read files in C,3,87SH2Cn0s9A,1.0169057816984794
+MultiQA,euclidean,How to read files in C,4,6Hk2aE_SRzY,1.0973678388572157
+MultiQA,euclidean,How to read files in C,5,q8WDvrjPt0M,1.1006023886331233
+MultiQA,euclidean,What are for loops in C,1,zdAggA1q0eo,0.753852888016114
+MultiQA,euclidean,What are for loops in C,2,Rn16ugyorX0,0.8865820855989492
+MultiQA,euclidean,What are for loops in C,3,KWgYha0clzw,0.911873181090811
+MultiQA,euclidean,What are for loops in C,4,b4DPj0XAfSg,0.9133826331998206
+MultiQA,euclidean,What are for loops in C,5,WFzLcZk137s,0.9177889498519831
+MultiQA,euclidean,What are function prototypes in C,1,NEj2H7SoTzQ,0.6231795742731668
+MultiQA,euclidean,What are function prototypes in C,2,Z5smVeUVNFU,1.0629932784818863
+MultiQA,euclidean,What are function prototypes in C,3,89cGQjB5R4M,1.1035846237056317
+MultiQA,euclidean,What are function prototypes in C,4,HFaxylC7bUc,1.1155520773762146
+MultiQA,euclidean,What are function prototypes in C,5,rUXjvybSPWc,1.1208875200075712
+MultiQA,euclidean,What is a switch statement in C,1,NtlSzRWhaOc,0.9477804298414537
+MultiQA,euclidean,What is a switch statement in C,2,N1twTeNMdOE,1.0098401511092774
+MultiQA,euclidean,What is a switch statement in C,3,Bx9b12FCF5o,1.0442641610718826
+MultiQA,euclidean,What is a switch statement in C,4,pSPQnXleaS8,1.063737741362742
+MultiQA,euclidean,What is a switch statement in C,5,z2fcWdoph4U,1.0801953977750758
+MultiQA,euclidean,What is Java multithreading,1,taI7G6U29L8,0.821734035014261
+MultiQA,euclidean,What is Java multithreading,2,nhnAx79gxCM,1.067399110711001
+MultiQA,euclidean,What is Java multithreading,3,QEF62Fm81h4,1.0752094175968128
+MultiQA,euclidean,What is Java multithreading,4,YOhrIov7PZA,1.0967246279432707
+MultiQA,euclidean,What is Java multithreading,5,v5p_SUfi710,1.1258828427010907
+MultiQA,euclidean,What are Java anonymous classes,1,P_iOnmdww8E,0.7019744294436873
+MultiQA,euclidean,What are Java anonymous classes,2,DYbi93vuSaU,1.054248878686325
+MultiQA,euclidean,What are Java anonymous classes,3,KcEvHq8Pqs0,1.1008693898001576
+MultiQA,euclidean,What are Java anonymous classes,4,Kmgo00avvEw,1.1084088927942493
+MultiQA,euclidean,What are Java anonymous classes,5,ZD7CB6wKg8A,1.1220339738104514
+MultiQA,euclidean,How to write files in Java,1,Pg0aoSbrqOE,0.7665816312053864
+MultiQA,euclidean,How to write files in Java,2,Hzg3kCHJcxI,1.093571434706737
+MultiQA,euclidean,How to write files in Java,3,A6sA9KItwpY,1.0967135946732414
+MultiQA,euclidean,How to write files in Java,4,eIlcl-mt3tg,1.1139360767964892
+MultiQA,euclidean,How to write files in Java,5,q8WDvrjPt0M,1.1339434006235398
+MultiQA,euclidean,What is Java ArrayList,1,wsTSREgCE5E,0.8948276803497209
+MultiQA,euclidean,What is Java ArrayList,2,9dr2mHYYoug,0.9293618239065179
+MultiQA,euclidean,What is Java ArrayList,3,30MKAcoffIo,0.95325465947376
+MultiQA,euclidean,What is Java ArrayList,4,Qf3Nczxm2AY,0.9765767131091379
+MultiQA,euclidean,What is Java ArrayList,5,nhIB2S6NiFA,1.018010148670325
+MultiQA,euclidean,What are Java getters and setters,1,OjrR_C_UPjc,0.7596066302051466
+MultiQA,euclidean,What are Java getters and setters,2,8FmE_-QXg3Y,0.937092950755616
+MultiQA,euclidean,What are Java getters and setters,3,KQVCAnh6Afk,0.9836144223021592
+MultiQA,euclidean,What are Java getters and setters,4,GvbdMwfjB98,1.0760642663768
+MultiQA,euclidean,What are Java getters and setters,5,v5p_SUfi710,1.086557475828698
+MultiQA,euclidean,What is method overriding in Java,1,hx_DRanBRRM,0.758841098119714
+MultiQA,euclidean,What is method overriding in Java,2,nhnAx79gxCM,0.7600522929572705
+MultiQA,euclidean,What is method overriding in Java,3,v5p_SUfi710,0.9138469683576543
+MultiQA,euclidean,What is method overriding in Java,4,GvbdMwfjB98,0.9877259526903774
+MultiQA,euclidean,What is method overriding in Java,5,P_iOnmdww8E,1.0369330369846887
+MultiQA,euclidean,What are constructors in Java,1,ZD7CB6wKg8A,0.8122468828066001
+MultiQA,euclidean,What are constructors in Java,2,WPmAu26LZKo,0.9354599447365552
+MultiQA,euclidean,What are constructors in Java,3,nhIB2S6NiFA,0.964818908568049
+MultiQA,euclidean,What are constructors in Java,4,oKZnHNM9Ew4,0.9884602541094648
+MultiQA,euclidean,What are constructors in Java,5,DYbi93vuSaU,1.0261236609619326
+MultiQA,euclidean,What is object oriented programming in Java,1,DYbi93vuSaU,0.763231586666634
+MultiQA,euclidean,What is object oriented programming in Java,2,1XE-_s4ZBT8,0.9395145322825078
+MultiQA,euclidean,What is object oriented programming in Java,3,q2SGW2VgwAM,1.0209051663850777
+MultiQA,euclidean,What is object oriented programming in Java,4,GvbdMwfjB98,1.0294484574478784
+MultiQA,euclidean,What is object oriented programming in Java,5,nhIB2S6NiFA,1.030460432166176
+MultiQA,euclidean,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.6583017694801168
+MultiQA,euclidean,What are 2D arrays in Java,2,Vh4krbTnTAA,0.8608261371606554
+MultiQA,euclidean,What are 2D arrays in Java,3,9dr2mHYYoug,0.9212920339472941
+MultiQA,euclidean,What are 2D arrays in Java,4,6Hk2aE_SRzY,0.9862011090003372
+MultiQA,euclidean,What are 2D arrays in Java,5,nhIB2S6NiFA,1.010549686597425
+MultiQA,euclidean,What is Python programming,1,XKHEtdqhLK8,0.9886636614974187
+MultiQA,euclidean,What is Python programming,2,8KCuHHeC_M0,1.0054395396552331
+MultiQA,euclidean,What is Python programming,3,1XE-_s4ZBT8,1.0394182647251695
+MultiQA,euclidean,What is Python programming,4,8A0E1dSyjFM,1.0504103470110981
+MultiQA,euclidean,What is Python programming,5,YOhrIov7PZA,1.054201692733173
+MultiQA,euclidean,What are Python projects for beginners,1,8KCuHHeC_M0,0.8755342616485828
+MultiQA,euclidean,What are Python projects for beginners,2,XKHEtdqhLK8,0.8904520784722045
+MultiQA,euclidean,What are Python projects for beginners,3,q2SGW2VgwAM,1.1015300775250085
+MultiQA,euclidean,What are Python projects for beginners,4,Uvqmv3PGiXM,1.1208671600046325
+MultiQA,euclidean,What are Python projects for beginners,5,1XE-_s4ZBT8,1.1371135462005937
+MultiQA,euclidean,How to build a weather app in Python,1,Q4377DH5Jso,0.9636673240921544
+MultiQA,euclidean,How to build a weather app in Python,2,VaDUGPMjzOM,1.0314915537547305
+MultiQA,euclidean,How to build a weather app in Python,3,XKHEtdqhLK8,1.1209552815741535
+MultiQA,euclidean,How to build a weather app in Python,4,8KCuHHeC_M0,1.1398248051688775
+MultiQA,euclidean,How to build a weather app in Python,5,LI8KQ3pjQug,1.178787222061752
+MultiQA,euclidean,What is React JS,1,CgkZ7MvWUAA,0.8433494998411106
+MultiQA,euclidean,What is React JS,2,Y62mbztjmus,1.023397850269457
+MultiQA,euclidean,What is React JS,3,9wiWzu_tRB0,1.0317305619357666
+MultiQA,euclidean,What is React JS,4,L-1sP3Ljhsg,1.0919900264410884
+MultiQA,euclidean,What is React JS,5,nbAaUpNDhRY,1.1122437075885054
+MultiQA,euclidean,What is async await in JavaScript,1,9j1dZwFEJ-c,0.8814267264510111
+MultiQA,euclidean,What is async await in JavaScript,2,Coyy79wRz_s,0.9333097922264829
+MultiQA,euclidean,What is async await in JavaScript,3,NOzi4wBHn0o,1.0019764801873394
+MultiQA,euclidean,What is async await in JavaScript,4,CgkZ7MvWUAA,1.1723313561650581
+MultiQA,euclidean,What is async await in JavaScript,5,NO5kUNxGIu0,1.1922600843737805
+MultiQA,cityblock,What are NumPy data types,1,fPopFeqw5sk,13.235753051099891
+MultiQA,cityblock,What are NumPy data types,2,81i_uSX9Vic,17.600802654436848
+MultiQA,cityblock,What are NumPy data types,3,6WaBryk4fkE,18.515158931761107
+MultiQA,cityblock,What are NumPy data types,4,aIQk1O08zpg,18.92258271052924
+MultiQA,cityblock,What are NumPy data types,5,gOMW_n2-2Mw,19.02144532211969
+MultiQA,cityblock,What are important NumPy functions,1,81i_uSX9Vic,15.56919560744791
+MultiQA,cityblock,What are important NumPy functions,2,fPopFeqw5sk,16.276061589505844
+MultiQA,cityblock,What are important NumPy functions,3,89cGQjB5R4M,17.8884817514554
+MultiQA,cityblock,What are important NumPy functions,4,IljPHDyBRog,18.09495822817189
+MultiQA,cityblock,What are important NumPy functions,5,8A0E1dSyjFM,18.45362568521159
+MultiQA,cityblock,What are Python iterators,1,k0D3MQwLn7A,14.86611275128962
+MultiQA,cityblock,What are Python iterators,2,gOMW_n2-2Mw,16.513444654279738
+MultiQA,cityblock,What are Python iterators,3,ZBlxaXMN_hU,16.563347370029078
+MultiQA,cityblock,What are Python iterators,4,KWgYha0clzw,16.9635957932187
+MultiQA,cityblock,What are Python iterators,5,YOhrIov7PZA,17.684052744400105
+MultiQA,cityblock,What are Python generators,1,ZBlxaXMN_hU,15.547520344385703
+MultiQA,cityblock,What are Python generators,2,YOhrIov7PZA,17.105541684148193
+MultiQA,cityblock,What are Python generators,3,8KCuHHeC_M0,17.447837980937038
+MultiQA,cityblock,What are Python generators,4,wGlnsJFnGAI,17.688007184995513
+MultiQA,cityblock,What are Python generators,5,piJc18hcH0Y,17.806222516570415
+MultiQA,cityblock,What is Matplotlib in Python,1,c9vhHUGdav0,13.874588975773804
+MultiQA,cityblock,What is Matplotlib in Python,2,hunq_UOdmoo,17.746982268741704
+MultiQA,cityblock,What is Matplotlib in Python,3,fPopFeqw5sk,18.395501484774286
+MultiQA,cityblock,What is Matplotlib in Python,4,Qj3GlL5ckQA,18.549934446826228
+MultiQA,cityblock,What is Matplotlib in Python,5,XKHEtdqhLK8,18.64059222072683
+MultiQA,cityblock,How to customize Matplotlib plots,1,c9vhHUGdav0,14.54487575345047
+MultiQA,cityblock,How to customize Matplotlib plots,2,hunq_UOdmoo,14.982988514617318
+MultiQA,cityblock,How to customize Matplotlib plots,3,OUnnuKHbmbU,19.20462797896471
+MultiQA,cityblock,How to customize Matplotlib plots,4,fPopFeqw5sk,19.861000959863304
+MultiQA,cityblock,How to customize Matplotlib plots,5,XKHEtdqhLK8,19.865421133297787
+MultiQA,cityblock,What is a Pandas DataFrame,1,OUnnuKHbmbU,13.50466026574395
+MultiQA,cityblock,What is a Pandas DataFrame,2,fPopFeqw5sk,18.207524260616992
+MultiQA,cityblock,What is a Pandas DataFrame,3,c9vhHUGdav0,18.666445320499406
+MultiQA,cityblock,What is a Pandas DataFrame,4,gOMW_n2-2Mw,18.846822922374486
+MultiQA,cityblock,What is a Pandas DataFrame,5,w6hL_dszMxk,19.167092887504623
+MultiQA,cityblock,What is NumPy slicing,1,6WaBryk4fkE,14.23717007234518
+MultiQA,cityblock,What is NumPy slicing,2,wGlnsJFnGAI,16.39471388637321
+MultiQA,cityblock,What is NumPy slicing,3,81i_uSX9Vic,16.665495516819647
+MultiQA,cityblock,What is NumPy slicing,4,fPopFeqw5sk,17.048214450041996
+MultiQA,cityblock,What is NumPy slicing,5,YOhrIov7PZA,18.705371972639114
+MultiQA,cityblock,How to convert decimal to hexadecimal,1,mjiHc965UME,9.94545219320571
+MultiQA,cityblock,How to convert decimal to hexadecimal,2,aMME_rYkoOU,11.088548543155412
+MultiQA,cityblock,How to convert decimal to hexadecimal,3,J6qXny_UAK4,16.538172346339707
+MultiQA,cityblock,How to convert decimal to hexadecimal,4,tg5Wv9Ba1lI,16.80415683901083
+MultiQA,cityblock,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,17.382416596781695
+MultiQA,cityblock,What is the binary number system,1,J6qXny_UAK4,13.617488946158119
+MultiQA,cityblock,What is the binary number system,2,tg5Wv9Ba1lI,13.776424180578033
+MultiQA,cityblock,What is the binary number system,3,9E3I1URu6fc,17.433154373022262
+MultiQA,cityblock,What is the binary number system,4,Gt2yBZAhsGM,17.546492413734086
+MultiQA,cityblock,What is the binary number system,5,fPopFeqw5sk,17.923668495059246
+MultiQA,cityblock,What are arrays in C programming,1,6Hk2aE_SRzY,10.373100877564866
+MultiQA,cityblock,What are arrays in C programming,2,y4siEcxgOpM,13.788349731854396
+MultiQA,cityblock,What are arrays in C programming,3,ah5bAnGpmKY,13.89964486055942
+MultiQA,cityblock,What are arrays in C programming,4,Lk-b45vrT8U,14.120535151385411
+MultiQA,cityblock,What are arrays in C programming,5,Vh4krbTnTAA,14.219610342741362
+MultiQA,cityblock,What is dynamic memory allocation in C,1,fc19HhHKtrA,12.971944412885932
+MultiQA,cityblock,What is dynamic memory allocation in C,2,rUXjvybSPWc,14.199364181462443
+MultiQA,cityblock,What is dynamic memory allocation in C,3,Lk-b45vrT8U,17.072300161285966
+MultiQA,cityblock,What is dynamic memory allocation in C,4,y4siEcxgOpM,17.160870380088454
+MultiQA,cityblock,What is dynamic memory allocation in C,5,6Hk2aE_SRzY,17.42582484090235
+MultiQA,cityblock,How to read files in C,1,Hzg3kCHJcxI,12.37121937554548
+MultiQA,cityblock,How to read files in C,2,eIlcl-mt3tg,12.771824974744959
+MultiQA,cityblock,How to read files in C,3,87SH2Cn0s9A,15.454299999499199
+MultiQA,cityblock,How to read files in C,4,6Hk2aE_SRzY,17.291142272308207
+MultiQA,cityblock,How to read files in C,5,Ws-mVAJDFAw,17.411287032056862
+MultiQA,cityblock,What are for loops in C,1,zdAggA1q0eo,11.64809657735168
+MultiQA,cityblock,What are for loops in C,2,Rn16ugyorX0,13.752694284987228
+MultiQA,cityblock,What are for loops in C,3,KWgYha0clzw,14.114801059069578
+MultiQA,cityblock,What are for loops in C,4,N1twTeNMdOE,14.178577778217004
+MultiQA,cityblock,What are for loops in C,5,b4DPj0XAfSg,14.233106121784658
+MultiQA,cityblock,What are function prototypes in C,1,NEj2H7SoTzQ,9.619331794412574
+MultiQA,cityblock,What are function prototypes in C,2,Z5smVeUVNFU,16.541342825483298
+MultiQA,cityblock,What are function prototypes in C,3,HFaxylC7bUc,17.17056888373918
+MultiQA,cityblock,What are function prototypes in C,4,89cGQjB5R4M,17.376977151103347
+MultiQA,cityblock,What are function prototypes in C,5,NOzi4wBHn0o,17.546329679596965
+MultiQA,cityblock,What is a switch statement in C,1,NtlSzRWhaOc,14.713702885928797
+MultiQA,cityblock,What is a switch statement in C,2,N1twTeNMdOE,15.894018382703507
+MultiQA,cityblock,What is a switch statement in C,3,Bx9b12FCF5o,16.149869609516827
+MultiQA,cityblock,What is a switch statement in C,4,pSPQnXleaS8,16.485206366021885
+MultiQA,cityblock,What is a switch statement in C,5,z2fcWdoph4U,16.908405238660634
+MultiQA,cityblock,What is Java multithreading,1,taI7G6U29L8,12.899137720713043
+MultiQA,cityblock,What is Java multithreading,2,nhnAx79gxCM,16.52451769335812
+MultiQA,cityblock,What is Java multithreading,3,QEF62Fm81h4,16.724014559379157
+MultiQA,cityblock,What is Java multithreading,4,YOhrIov7PZA,16.982938612258295
+MultiQA,cityblock,What is Java multithreading,5,Kmgo00avvEw,17.39605576865506
+MultiQA,cityblock,What are Java anonymous classes,1,P_iOnmdww8E,10.761457810287538
+MultiQA,cityblock,What are Java anonymous classes,2,DYbi93vuSaU,16.279631909806994
+MultiQA,cityblock,What are Java anonymous classes,3,nhnAx79gxCM,17.139376725751845
+MultiQA,cityblock,What are Java anonymous classes,4,KcEvHq8Pqs0,17.141443935797724
+MultiQA,cityblock,What are Java anonymous classes,5,Kmgo00avvEw,17.197725887333945
+MultiQA,cityblock,How to write files in Java,1,Pg0aoSbrqOE,11.862095074626268
+MultiQA,cityblock,How to write files in Java,2,A6sA9KItwpY,16.84532838303312
+MultiQA,cityblock,How to write files in Java,3,Hzg3kCHJcxI,16.87051762889314
+MultiQA,cityblock,How to write files in Java,4,eIlcl-mt3tg,17.12878301488672
+MultiQA,cityblock,How to write files in Java,5,q8WDvrjPt0M,17.587970445601968
+MultiQA,cityblock,What is Java ArrayList,1,wsTSREgCE5E,14.021877129729546
+MultiQA,cityblock,What is Java ArrayList,2,9dr2mHYYoug,14.278281033247822
+MultiQA,cityblock,What is Java ArrayList,3,30MKAcoffIo,14.438902002686518
+MultiQA,cityblock,What is Java ArrayList,4,Qf3Nczxm2AY,15.253507912959321
+MultiQA,cityblock,What is Java ArrayList,5,nhIB2S6NiFA,15.482965833158232
+MultiQA,cityblock,What are Java getters and setters,1,OjrR_C_UPjc,11.433333843287073
+MultiQA,cityblock,What are Java getters and setters,2,8FmE_-QXg3Y,14.74500798734789
+MultiQA,cityblock,What are Java getters and setters,3,KQVCAnh6Afk,14.923431279478791
+MultiQA,cityblock,What are Java getters and setters,4,GvbdMwfjB98,16.420281257563147
+MultiQA,cityblock,What are Java getters and setters,5,nhIB2S6NiFA,16.757783506992382
+MultiQA,cityblock,What is method overriding in Java,1,nhnAx79gxCM,11.404853741177703
+MultiQA,cityblock,What is method overriding in Java,2,hx_DRanBRRM,12.010259122205753
+MultiQA,cityblock,What is method overriding in Java,3,v5p_SUfi710,14.057300318454509
+MultiQA,cityblock,What is method overriding in Java,4,GvbdMwfjB98,15.453403024628642
+MultiQA,cityblock,What is method overriding in Java,5,P_iOnmdww8E,15.980442113126628
+MultiQA,cityblock,What are constructors in Java,1,ZD7CB6wKg8A,12.465749292372493
+MultiQA,cityblock,What are constructors in Java,2,WPmAu26LZKo,14.48306023349869
+MultiQA,cityblock,What are constructors in Java,3,nhIB2S6NiFA,14.93304336471192
+MultiQA,cityblock,What are constructors in Java,4,oKZnHNM9Ew4,15.29734373246174
+MultiQA,cityblock,What are constructors in Java,5,DYbi93vuSaU,15.772625240699199
+MultiQA,cityblock,What is object oriented programming in Java,1,DYbi93vuSaU,11.978715308559913
+MultiQA,cityblock,What is object oriented programming in Java,2,1XE-_s4ZBT8,14.734231052765608
+MultiQA,cityblock,What is object oriented programming in Java,3,q2SGW2VgwAM,15.702026732305058
+MultiQA,cityblock,What is object oriented programming in Java,4,nhIB2S6NiFA,15.811687948700637
+MultiQA,cityblock,What is object oriented programming in Java,5,GvbdMwfjB98,16.03753328552375
+MultiQA,cityblock,What are 2D arrays in Java,1,Qf3Nczxm2AY,10.110062892541464
+MultiQA,cityblock,What are 2D arrays in Java,2,Vh4krbTnTAA,13.140320440499636
+MultiQA,cityblock,What are 2D arrays in Java,3,9dr2mHYYoug,14.017708985266381
+MultiQA,cityblock,What are 2D arrays in Java,4,6Hk2aE_SRzY,15.126886161793664
+MultiQA,cityblock,What are 2D arrays in Java,5,nhIB2S6NiFA,15.823574590838689
+MultiQA,cityblock,What is Python programming,1,XKHEtdqhLK8,14.910725975034438
+MultiQA,cityblock,What is Python programming,2,8KCuHHeC_M0,15.301272840293677
+MultiQA,cityblock,What is Python programming,3,1XE-_s4ZBT8,15.930780642960599
+MultiQA,cityblock,What is Python programming,4,YOhrIov7PZA,16.031022608043713
+MultiQA,cityblock,What is Python programming,5,8A0E1dSyjFM,16.143755185566988
+MultiQA,cityblock,What are Python projects for beginners,1,8KCuHHeC_M0,13.66273099333921
+MultiQA,cityblock,What are Python projects for beginners,2,XKHEtdqhLK8,13.925974001198483
+MultiQA,cityblock,What are Python projects for beginners,3,q2SGW2VgwAM,16.829029461408027
+MultiQA,cityblock,What are Python projects for beginners,4,Uvqmv3PGiXM,17.49176405397884
+MultiQA,cityblock,What are Python projects for beginners,5,1XE-_s4ZBT8,17.66029030912614
+MultiQA,cityblock,How to build a weather app in Python,1,Q4377DH5Jso,15.115519069542643
+MultiQA,cityblock,How to build a weather app in Python,2,VaDUGPMjzOM,16.236964509123936
+MultiQA,cityblock,How to build a weather app in Python,3,XKHEtdqhLK8,17.479069930275728
+MultiQA,cityblock,How to build a weather app in Python,4,JVQNywo4AbU,18.073371438407776
+MultiQA,cityblock,How to build a weather app in Python,5,8KCuHHeC_M0,18.08682183313067
+MultiQA,cityblock,What is React JS,1,CgkZ7MvWUAA,12.734096883654274
+MultiQA,cityblock,What is React JS,2,9wiWzu_tRB0,15.886384156212443
+MultiQA,cityblock,What is React JS,3,Y62mbztjmus,15.892462404579419
+MultiQA,cityblock,What is React JS,4,L-1sP3Ljhsg,16.927160374221245
+MultiQA,cityblock,What is React JS,5,nbAaUpNDhRY,17.092862770499778
+MultiQA,cityblock,What is async await in JavaScript,1,9j1dZwFEJ-c,13.544806943784351
+MultiQA,cityblock,What is async await in JavaScript,2,Coyy79wRz_s,14.124129669169633
+MultiQA,cityblock,What is async await in JavaScript,3,NOzi4wBHn0o,15.21135215612594
+MultiQA,cityblock,What is async await in JavaScript,4,CgkZ7MvWUAA,17.952247125787835
+MultiQA,cityblock,What is async await in JavaScript,5,nbAaUpNDhRY,18.52211379977598
+MultiQA,chebyshev,What are NumPy data types,1,fPopFeqw5sk,0.1465245522558689
+MultiQA,chebyshev,What are NumPy data types,2,81i_uSX9Vic,0.15438926964998245
+MultiQA,chebyshev,What are NumPy data types,3,mjiHc965UME,0.16421690210700035
+MultiQA,chebyshev,What are NumPy data types,4,o-lAsVuskKI,0.1719745211303234
+MultiQA,chebyshev,What are NumPy data types,5,y4siEcxgOpM,0.17453661561012268
+MultiQA,chebyshev,What are important NumPy functions,1,81i_uSX9Vic,0.15581869706511497
+MultiQA,chebyshev,What are important NumPy functions,2,vg7Hwd9TANY,0.1699058711528778
+MultiQA,chebyshev,What are important NumPy functions,3,nbAaUpNDhRY,0.17027586698532104
+MultiQA,chebyshev,What are important NumPy functions,4,N1twTeNMdOE,0.17458423227071762
+MultiQA,chebyshev,What are important NumPy functions,5,mjiHc965UME,0.1751004010438919
+MultiQA,chebyshev,What are Python iterators,1,gOMW_n2-2Mw,0.13759001716971397
+MultiQA,chebyshev,What are Python iterators,2,w6hL_dszMxk,0.1552085243165493
+MultiQA,chebyshev,What are Python iterators,3,k0D3MQwLn7A,0.15628520771861076
+MultiQA,chebyshev,What are Python iterators,4,uGmMsGOcBB0,0.15781135112047195
+MultiQA,chebyshev,What are Python iterators,5,wGlnsJFnGAI,0.15938283503055573
+MultiQA,chebyshev,What are Python generators,1,ZBlxaXMN_hU,0.16079336404800415
+MultiQA,chebyshev,What are Python generators,2,4bMU1xAolSg,0.16854778304696083
+MultiQA,chebyshev,What are Python generators,3,q2SGW2VgwAM,0.17062228173017502
+MultiQA,chebyshev,What are Python generators,4,Qj3GlL5ckQA,0.17123590409755707
+MultiQA,chebyshev,What are Python generators,5,c9vhHUGdav0,0.17454266548156738
+MultiQA,chebyshev,What is Matplotlib in Python,1,c9vhHUGdav0,0.13689548894762993
+MultiQA,chebyshev,What is Matplotlib in Python,2,Qj3GlL5ckQA,0.16004296392202377
+MultiQA,chebyshev,What is Matplotlib in Python,3,Uvqmv3PGiXM,0.169256329536438
+MultiQA,chebyshev,What is Matplotlib in Python,4,w6hL_dszMxk,0.1698469133116305
+MultiQA,chebyshev,What is Matplotlib in Python,5,87SH2Cn0s9A,0.17141800373792648
+MultiQA,chebyshev,How to customize Matplotlib plots,1,c9vhHUGdav0,0.14172521606087685
+MultiQA,chebyshev,How to customize Matplotlib plots,2,hunq_UOdmoo,0.15652503818273544
+MultiQA,chebyshev,How to customize Matplotlib plots,3,Uvqmv3PGiXM,0.16501938551664352
+MultiQA,chebyshev,How to customize Matplotlib plots,4,fPopFeqw5sk,0.1731274500489235
+MultiQA,chebyshev,How to customize Matplotlib plots,5,3mV2KMzNxLE,0.1794775128364563
+MultiQA,chebyshev,What is a Pandas DataFrame,1,OUnnuKHbmbU,0.14626706764101982
+MultiQA,chebyshev,What is a Pandas DataFrame,2,nbAaUpNDhRY,0.1752457618713379
+MultiQA,chebyshev,What is a Pandas DataFrame,3,8aW3tkIul-8,0.17987081035971642
+MultiQA,chebyshev,What is a Pandas DataFrame,4,ZwSyuqbeN0c,0.18216530233621597
+MultiQA,chebyshev,What is a Pandas DataFrame,5,mjiHc965UME,0.18232524394989014
+MultiQA,chebyshev,What is NumPy slicing,1,6WaBryk4fkE,0.16510610282421112
+MultiQA,chebyshev,What is NumPy slicing,2,wGlnsJFnGAI,0.16716033965349197
+MultiQA,chebyshev,What is NumPy slicing,3,aMME_rYkoOU,0.17607670277357101
+MultiQA,chebyshev,What is NumPy slicing,4,fn68QNcatfo,0.1798601821064949
+MultiQA,chebyshev,What is NumPy slicing,5,fPopFeqw5sk,0.18068691715598106
+MultiQA,chebyshev,How to convert decimal to hexadecimal,1,mjiHc965UME,0.10541629791259766
+MultiQA,chebyshev,How to convert decimal to hexadecimal,2,aMME_rYkoOU,0.10711148753762245
+MultiQA,chebyshev,How to convert decimal to hexadecimal,3,tg5Wv9Ba1lI,0.1622831728309393
+MultiQA,chebyshev,How to convert decimal to hexadecimal,4,iLZOL-hmr7M,0.1624726578593254
+MultiQA,chebyshev,How to convert decimal to hexadecimal,5,fy5QsDJmctQ,0.1642286591231823
+MultiQA,chebyshev,What is the binary number system,1,J6qXny_UAK4,0.138181172311306
+MultiQA,chebyshev,What is the binary number system,2,tg5Wv9Ba1lI,0.14611850678920746
+MultiQA,chebyshev,What is the binary number system,3,Vtckgz38QHs,0.1645522341132164
+MultiQA,chebyshev,What is the binary number system,4,y4siEcxgOpM,0.16546845436096191
+MultiQA,chebyshev,What is the binary number system,5,6Hk2aE_SRzY,0.17519915103912354
+MultiQA,chebyshev,What are arrays in C programming,1,6Hk2aE_SRzY,0.12199523113667965
+MultiQA,chebyshev,What are arrays in C programming,2,IHMmPVEOT64,0.14048248529434204
+MultiQA,chebyshev,What are arrays in C programming,3,y4siEcxgOpM,0.1418764665722847
+MultiQA,chebyshev,What are arrays in C programming,4,aIQk1O08zpg,0.14305711165070534
+MultiQA,chebyshev,What are arrays in C programming,5,81i_uSX9Vic,0.14969847723841667
+MultiQA,chebyshev,What is dynamic memory allocation in C,1,rUXjvybSPWc,0.14406011253595352
+MultiQA,chebyshev,What is dynamic memory allocation in C,2,fc19HhHKtrA,0.1501680496148765
+MultiQA,chebyshev,What is dynamic memory allocation in C,3,aIQk1O08zpg,0.15863317623734474
+MultiQA,chebyshev,What is dynamic memory allocation in C,4,Z5smVeUVNFU,0.16355732828378677
+MultiQA,chebyshev,What is dynamic memory allocation in C,5,shLeCvDQYp4,0.1656271032989025
+MultiQA,chebyshev,How to read files in C,1,eIlcl-mt3tg,0.11451477184891701
+MultiQA,chebyshev,How to read files in C,2,Hzg3kCHJcxI,0.11632426828145981
+MultiQA,chebyshev,How to read files in C,3,q8WDvrjPt0M,0.141973614692688
+MultiQA,chebyshev,How to read files in C,4,6Hk2aE_SRzY,0.1557583101093769
+MultiQA,chebyshev,How to read files in C,5,hyydAO2qSXQ,0.15999507158994675
+MultiQA,chebyshev,What are for loops in C,1,zdAggA1q0eo,0.124662802554667
+MultiQA,chebyshev,What are for loops in C,2,b4DPj0XAfSg,0.1425884049385786
+MultiQA,chebyshev,What are for loops in C,3,HAs7YXPduZI,0.14262574911117554
+MultiQA,chebyshev,What are for loops in C,4,WFzLcZk137s,0.14446021988987923
+MultiQA,chebyshev,What are for loops in C,5,KWgYha0clzw,0.1446610651910305
+MultiQA,chebyshev,What are function prototypes in C,1,NEj2H7SoTzQ,0.11552156135439873
+MultiQA,chebyshev,What are function prototypes in C,2,vg7Hwd9TANY,0.16199728101491928
+MultiQA,chebyshev,What are function prototypes in C,3,Z5smVeUVNFU,0.16708695143461227
+MultiQA,chebyshev,What are function prototypes in C,4,89cGQjB5R4M,0.1721019595861435
+MultiQA,chebyshev,What are function prototypes in C,5,Hzg3kCHJcxI,0.1721584741026163
+MultiQA,chebyshev,What is a switch statement in C,1,N1twTeNMdOE,0.13627704977989197
+MultiQA,chebyshev,What is a switch statement in C,2,Z5smVeUVNFU,0.14127827435731888
+MultiQA,chebyshev,What is a switch statement in C,3,NtlSzRWhaOc,0.14807523973286152
+MultiQA,chebyshev,What is a switch statement in C,4,8aW3tkIul-8,0.1520684715360403
+MultiQA,chebyshev,What is a switch statement in C,5,Bx9b12FCF5o,0.16197925060987473
+MultiQA,chebyshev,What is Java multithreading,1,taI7G6U29L8,0.12933442555367947
+MultiQA,chebyshev,What is Java multithreading,2,v5p_SUfi710,0.16143226251006126
+MultiQA,chebyshev,What is Java multithreading,3,nhnAx79gxCM,0.16145361959934235
+MultiQA,chebyshev,What is Java multithreading,4,YOhrIov7PZA,0.16285325586795807
+MultiQA,chebyshev,What is Java multithreading,5,Pg0aoSbrqOE,0.16465361788868904
+MultiQA,chebyshev,What are Java anonymous classes,1,P_iOnmdww8E,0.1573495138436556
+MultiQA,chebyshev,What are Java anonymous classes,2,KcEvHq8Pqs0,0.15924255549907684
+MultiQA,chebyshev,What are Java anonymous classes,3,Kmgo00avvEw,0.1691076010465622
+MultiQA,chebyshev,What are Java anonymous classes,4,nhIB2S6NiFA,0.1696261689066887
+MultiQA,chebyshev,What are Java anonymous classes,5,OjrR_C_UPjc,0.172417551279068
+MultiQA,chebyshev,How to write files in Java,1,Pg0aoSbrqOE,0.12156929820775986
+MultiQA,chebyshev,How to write files in Java,2,v5p_SUfi710,0.15831816662102938
+MultiQA,chebyshev,How to write files in Java,3,o-lAsVuskKI,0.15975090861320496
+MultiQA,chebyshev,How to write files in Java,4,GvbdMwfjB98,0.16058361530303955
+MultiQA,chebyshev,How to write files in Java,5,KcEvHq8Pqs0,0.16705312207341194
+MultiQA,chebyshev,What is Java ArrayList,1,wsTSREgCE5E,0.1414879858493805
+MultiQA,chebyshev,What is Java ArrayList,2,Qf3Nczxm2AY,0.14607561007142067
+MultiQA,chebyshev,What is Java ArrayList,3,30MKAcoffIo,0.14905807748436928
+MultiQA,chebyshev,What is Java ArrayList,4,QEF62Fm81h4,0.15254974365234375
+MultiQA,chebyshev,What is Java ArrayList,5,v5p_SUfi710,0.15910187736153603
+MultiQA,chebyshev,What are Java getters and setters,1,8FmE_-QXg3Y,0.1407669335603714
+MultiQA,chebyshev,What are Java getters and setters,2,Kmgo00avvEw,0.15828699991106987
+MultiQA,chebyshev,What are Java getters and setters,3,OjrR_C_UPjc,0.16144803166389465
+MultiQA,chebyshev,What are Java getters and setters,4,2hkngtWLGvE,0.17331566661596298
+MultiQA,chebyshev,What are Java getters and setters,5,EAxV_eoYrIg,0.17427131533622742
+MultiQA,chebyshev,What is method overriding in Java,1,hx_DRanBRRM,0.10739850532263517
+MultiQA,chebyshev,What is method overriding in Java,2,v5p_SUfi710,0.14209182560443878
+MultiQA,chebyshev,What is method overriding in Java,3,GvbdMwfjB98,0.14799596183001995
+MultiQA,chebyshev,What is method overriding in Java,4,P_iOnmdww8E,0.152870062738657
+MultiQA,chebyshev,What is method overriding in Java,5,bI6e6qjJ8JQ,0.1560610495507717
+MultiQA,chebyshev,What are constructors in Java,1,ZD7CB6wKg8A,0.1306031569838524
+MultiQA,chebyshev,What are constructors in Java,2,nRJWltqX4UY,0.1430586837232113
+MultiQA,chebyshev,What are constructors in Java,3,oKZnHNM9Ew4,0.14697323366999626
+MultiQA,chebyshev,What are constructors in Java,4,QEF62Fm81h4,0.1506522037088871
+MultiQA,chebyshev,What are constructors in Java,5,LN45TyPWAAg,0.15462076663970947
+MultiQA,chebyshev,What is object oriented programming in Java,1,9dr2mHYYoug,0.134841900318861
+MultiQA,chebyshev,What is object oriented programming in Java,2,1XE-_s4ZBT8,0.1473644133657217
+MultiQA,chebyshev,What is object oriented programming in Java,3,q2SGW2VgwAM,0.1493835113942623
+MultiQA,chebyshev,What is object oriented programming in Java,4,KcEvHq8Pqs0,0.1572641134262085
+MultiQA,chebyshev,What is object oriented programming in Java,5,nhIB2S6NiFA,0.16757698357105255
+MultiQA,chebyshev,What are 2D arrays in Java,1,Qf3Nczxm2AY,0.11210408061742783
+MultiQA,chebyshev,What are 2D arrays in Java,2,Vh4krbTnTAA,0.13509941473603249
+MultiQA,chebyshev,What are 2D arrays in Java,3,DYbi93vuSaU,0.15474237874150276
+MultiQA,chebyshev,What are 2D arrays in Java,4,Kmgo00avvEw,0.1597438082098961
+MultiQA,chebyshev,What are 2D arrays in Java,5,6Hk2aE_SRzY,0.16098563745617867
+MultiQA,chebyshev,What is Python programming,1,q2SGW2VgwAM,0.1543350936844945
+MultiQA,chebyshev,What is Python programming,2,YOhrIov7PZA,0.158640518784523
+MultiQA,chebyshev,What is Python programming,3,Uvqmv3PGiXM,0.15940354112535715
+MultiQA,chebyshev,What is Python programming,4,hyydAO2qSXQ,0.1598014310002327
+MultiQA,chebyshev,What is Python programming,5,q8WDvrjPt0M,0.15991586074233055
+MultiQA,chebyshev,What are Python projects for beginners,1,8KCuHHeC_M0,0.1175302006304264
+MultiQA,chebyshev,What are Python projects for beginners,2,XKHEtdqhLK8,0.13790319487452507
+MultiQA,chebyshev,What are Python projects for beginners,3,Uvqmv3PGiXM,0.16317984834313393
+MultiQA,chebyshev,What are Python projects for beginners,4,J6qXny_UAK4,0.16454772278666496
+MultiQA,chebyshev,What are Python projects for beginners,5,4bMU1xAolSg,0.16693092323839664
+MultiQA,chebyshev,How to build a weather app in Python,1,Uvqmv3PGiXM,0.16263913572765887
+MultiQA,chebyshev,How to build a weather app in Python,2,VaDUGPMjzOM,0.16327058151364326
+MultiQA,chebyshev,How to build a weather app in Python,3,5UQZNHlaUVc,0.16697406023740768
+MultiQA,chebyshev,How to build a weather app in Python,4,8KCuHHeC_M0,0.1672697588801384
+MultiQA,chebyshev,How to build a weather app in Python,5,fy5QsDJmctQ,0.16954186838120222
+MultiQA,chebyshev,What is React JS,1,Y62mbztjmus,0.15337011218070984
+MultiQA,chebyshev,What is React JS,2,9wiWzu_tRB0,0.16073488257825375
+MultiQA,chebyshev,What is React JS,3,nbAaUpNDhRY,0.16702979058027267
+MultiQA,chebyshev,What is React JS,4,AiQ-V_0qvRI,0.173709437251091
+MultiQA,chebyshev,What is React JS,5,NOzi4wBHn0o,0.17545769270509481
+MultiQA,chebyshev,What is async await in JavaScript,1,9j1dZwFEJ-c,0.1399178123101592
+MultiQA,chebyshev,What is async await in JavaScript,2,NOzi4wBHn0o,0.17569328472018242
+MultiQA,chebyshev,What is async await in JavaScript,3,97NdNoA3XUQ,0.17580078542232513
+MultiQA,chebyshev,What is async await in JavaScript,4,2KzyvzeWFbQ,0.18426701799035072
+MultiQA,chebyshev,What is async await in JavaScript,5,KWgYha0clzw,0.18478122353553772

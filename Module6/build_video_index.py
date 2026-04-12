@@ -8,14 +8,14 @@ warnings.filterwarnings("ignore")
 
 # STEP 1 — Select best model 
 
-MODEL_NAME = "all-MiniLM-L6-v2"
+MODEL_NAME = "all-mpnet-base-v2"
 
 print("Selected Model:",MODEL_NAME)
 
 
 # STEP 2 — Load cleaned dataset
 
-videos = pd.read_csv("cleaned_transcripts.csv")
+videos = pd.read_csv("../Module4/cleaned_transcripts.csv")
 
 print("Dataset shape:",videos.shape)
 
